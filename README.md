@@ -1,6 +1,6 @@
-# Gatsby Starter Glass
+# Hykros Lobby 
 
-A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI.
+Blog page for Tower of fantasy
 
 [View Live Demo](https://gatsbyglass.netlify.app)
 
