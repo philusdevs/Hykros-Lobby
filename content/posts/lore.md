@@ -1,10 +1,9 @@
 ---
 title: Histroy Log#1
-date: 2022-05-05
+date: 2712-05-05
 tags:
   - Lore
   - Aida
-  - "2023"
 social_image: /media/aida.jpg
 description: History Log#1 The World of Aida.
 ---
