@@ -1,9 +1,9 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import PostList from '../components/post-list';
-import styled from 'styled-components';
 import StyledLink from '../components/styled-link';
+import styled from 'styled-components';
 
 const HomePage = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes;
@@ -18,7 +18,7 @@ const HomePage = ({ data }) => {
         }}
       />
 
-      <PostList posts={posts} />
+  
       <StyledLink
         css={`
           display: block;
@@ -28,9 +28,9 @@ const HomePage = ({ data }) => {
           margin-right: auto;
           width: fit-content;
         `}
-        to="/blog"
+        to="/tags"
       >
-        View All posts
+        Search by Tags
       </StyledLink>
     </Layout>
   );

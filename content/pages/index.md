@@ -1,8 +1,10 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Hykros Lobby"
 ---
 
-# Hello World
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+
+# Hykros Lobby 
+
+A Guide hub for Tower of Fantasy vex and non vex members.

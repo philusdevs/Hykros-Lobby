@@ -1,31 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Hykros Lobby`,
     author: {
-      name: `Yinka Adedire`,
+      name: `Vex`,
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
-    openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
-    siteUrl: `https://gatsbyglass.netlify.app`,
-    social: {
-      twitter: `yinkakun`,
-    },
+    openGraphImage: `logo.png`,
+    description: `A Guide hub for vex and non vex members.`,
+    siteUrl: `https://t.me/vexcommunity`,
     socialLinks: [
       {
-        name: "github",
-        url: "https://github.com",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
-      },
-      {
-        name: "instagram",
-        url: "https://instagram.com",
+        name: "Telegram",
+        url: "https://t.me/vexcommunity",
       },
     ],
   },
+
   plugins: [
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
@@ -102,6 +92,7 @@ module.exports = {
                 description
                 siteUrl
                 site_url: siteUrl
+              
               }
             }
           }

@@ -7,15 +7,15 @@ import { useStaticQuery, graphql } from "gatsby";
 
 const HEADER_NAV_ITEM = [
   {
-    label: "Blog",
-    url: "/blog",
+    label: "Guides",
+    url: "/guides",
     isExternal: false,
   },
-  {
+  /*{
     label: "About",
     url: "/about",
     isExternal: false,
-  },
+  }, */
   {
     label: "Contact",
     url: "/contact",
@@ -39,9 +39,11 @@ const Header = () => {
   return (
     <StyledHeader>
       <HeaderWrapper>
-        <HeaderTitle>
-          <Link to="/">{site.siteMetadata.title}</Link>
-        </HeaderTitle>
+        <HeaderLogo>
+          <Link to="/">
+            <img src="/media/logo.png" />
+          </Link>
+        </HeaderLogo>
 
         <HeaderNavList>
           {HEADER_NAV_ITEM.map((item, index) => {
@@ -94,12 +96,15 @@ const HeaderWrapper = styled(Container)`
   justify-content: space-between;
 `;
 
-const HeaderTitle = styled.div`
+const HeaderLogo = styled.div`
   & a {
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: var(--size-400);
-    color: inherit;
+    display: flex;
+    align-items: center;
+  }
+
+  & img {
+    width: 50px;
+    height: 50px;
   }
 `;
 
@@ -141,3 +146,4 @@ const StyledNavListItem = styled.li`
     }
   }
 `;
+

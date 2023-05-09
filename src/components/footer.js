@@ -10,8 +10,8 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          Hand-crafted with love by{' '}
-          <a href="https://twitter.com/yinkakun">Yinka Adedire</a>
+          Built with love by the{' '}
+          <a href="t.me/HykrosLobby">Vex-Community</a>
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
@@ -38,4 +38,4 @@ const FooterWrapper = styled(Container)`
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-`;
+`; 

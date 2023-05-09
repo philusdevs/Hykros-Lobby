@@ -4,24 +4,13 @@ import Layout from '../components/layout';
 import PostList from '../components/post-list';
 import styled from 'styled-components';
 
-const Blog = ({ data }) => {
+const Guides = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes;
 
   return (
-    <Layout title="Blog">
+    <Layout title="Guide">
       <HeaderWrapper>
-        <h1>Blog</h1>
-
-        <Link
-          css={`
-            margin-top: var(--size-400);
-            color: inherit;
-            text-transform: uppercase;
-          `}
-          to="/tags"
-        >
-          view all tags
-        </Link>
+        
       </HeaderWrapper>
 
       <PostList posts={posts} />
@@ -29,7 +18,7 @@ const Blog = ({ data }) => {
   );
 };
 
-export default Blog;
+export default Guides;
 
 const HeaderWrapper = styled.div`
   display: flex;
