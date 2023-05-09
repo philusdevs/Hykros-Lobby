@@ -1,6 +1,6 @@
 # Hykros Lobby 
 
-Blog page for Tower of fantasy
+Blog page for Guides on Tower of Fantasy 
 
 [View Live](https://hykroslobby.netlify.app)
 
