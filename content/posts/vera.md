@@ -18,7 +18,7 @@ There have been Artificial-Grayspace Entities created from native creatures surr
 ![w_abyssant](/media/w_abyssant.png)
 #### Abyssant: Weaver
 
-More recently, there has been a creation of a Human-Grayspace hybrids who was created by Dr. Rubilia.  Dr. Rubilia created "Ruby" through Crystamax chimerism and embryonic transformation. In her quest for deeper understanding, Rubilia too transformed into a Grayspace Entity, specifically an Abyssant named Harrah, after venturing into the Confounding Abyss. The motives of the Grayspace Entities currently remain unknown. 
+More recently, there has been a creation of a Human-Grayspace hybrid who was created by Dr. Rubilia.  Dr. Rubilia created "Ruby" through Crystamax chimerism and embryonic transformation. In her quest for deeper understanding, Rubilia too transformed into a Grayspace Entity, specifically an Abyssant named Harrah, after venturing into the Confounding Abyss. The motives of the Grayspace Entities currently remain unknown. 
 
 ## Mirroria
 Mirroria, a part of Vera, was a Hykros base before it took on its current role as a refuge. The city stays floats, held aloft by anti-gravity engines, these anti-gravity engines rely on the sub-gravity field caused by the Confounding Abyss.
