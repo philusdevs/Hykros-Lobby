@@ -187,21 +187,27 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         social_image {
-          childImageSharp {
-            gatsbyImageData(width: 1200, layout: CONSTRAINED)
-          }
+          absolutePath
         }
       }
     }
+
     prev: markdownRemark(fields: { slug: { eq: $prevSlug } }) {
       frontmatter {
         title
       }
+      fields {
+        slug
+      }
     }
+
     next: markdownRemark(fields: { slug: { eq: $nextSlug } }) {
       frontmatter {
         title
       }
+      fields {
+        slug
+      }
     }
   }
-`
+`;
