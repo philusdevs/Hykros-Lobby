@@ -1,7 +1,7 @@
 ---
 title: Aida Log#495
 date: 2702-05-05
-tags: [new executor brief, lore, Aida]
+tags: [new executor brief, lore]
 social_image: '/media/logo.png'
 description: Omnium. This discovery prompted an interstellar colonization plan, with Aida as the pivotal location due to its abundance of Omnium and habitability. The Tower of Fantasy was constructed to harness Omnium's power, leading to significant advancements in technology and society, including near-immortality.
 ---
