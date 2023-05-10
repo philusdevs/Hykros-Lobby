@@ -3,7 +3,7 @@ title: Vera Log#678
 date: 2703-01-27
 tags: [new executor brief, lore]
 social_image: '/media/logo.png'
-description: Consider the Simulacrum system. It's a meticulous blueprint of personalities and behaviors, stored in our database. Used with the AI within aslo side combat and medicine, and potentially unlocking immortality, it raises deep questions about our very existence and the nature of identity.
+description: The plane of Vera was once a thriving world under the rule of Hykros. However, after the Cataclysm it was cut it off from the main plane of Aida and  Grayspace Entities were unleashed, a race of enigmatic creatures that destroyed the ecosystem. Most of the inhabitants have now fled to Mirroria, a floating city.
 ---
 
 Before the Cataclysmic event, the plane of Vera fell under the rule of Hykros, but after the catastrophe, it lost touch with the main plane. It's surround  between two regions Innars and the Confounding Abyss – and the emergence of Grayspace Entities poses a threat to its inhabitants, most of Vera's inhabitants sought refuge in  Mirroria 
