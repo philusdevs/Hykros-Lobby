@@ -1,7 +1,7 @@
 ---
-title: Histroy Log#495
-date: 2712-05-05
-tags: [lore, Aida]
+title: Aida Log#495
+date: 2702-05-05
+tags: [new executor brief, lore, Aida]
 social_image: '/media/logo.png'
 description: Omnium. This discovery prompted an interstellar colonization plan, with Aida as the pivotal location due to its abundance of Omnium and habitability. The Tower of Fantasy was constructed to harness Omnium's power, leading to significant advancements in technology and society, including near-immortality.
 ---
@@ -26,7 +26,8 @@ We discovered the link between Omnium radiation and the aberrations, we develope
 
 ![s_aida](/media/s_aida.png)
 
-Countless lives were lost, and Aida teetered on the brink of collapse. We were blamed for the disaster and a group of survivors called the Heirs of Aida united to challenge our authority.
+Countless lives were lost, and Aida teetered on the brink of collapse. We were blamed for the disaster and now remain in Aesperia a geographical plane
+home of many survivors following the Cataclysm across the region a group of survivors called the Heirs of Aida united to challenge our authority.
 
 Under the guidance of a mysterious sage, the Heirs of Aida began a war to resist us, fighting for control over a world we forever changed with Omnium.
 
