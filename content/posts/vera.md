@@ -1,6 +1,6 @@
 ---
 title: Vera Log#678
-date: 2703-01-27
+date: 2702-01-27
 tags: [new executor brief, lore]
 social_image: '/media/logo.png'
 description: The plane of Vera was once a thriving world under the rule of Hykros. However, after the Cataclysm it was cut it off from the main plane of Aida and  Grayspace Entities were unleashed, a race of enigmatic creatures that destroyed the ecosystem. Most of the inhabitants have now fled to Mirroria, a floating city.
