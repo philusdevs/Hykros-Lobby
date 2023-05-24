@@ -3,15 +3,15 @@ module.exports = {
     title: `Hykros Lobby`,
     author: {
       name: `Vex`,
-      summary: `Self-taught front-end web dev. JAMStack.`,
+      summary: `Guide Hub For Tower of Fantasy`,
     },
     openGraphImage: `logo.png`,
-    description: `A Guide hub for vex and non vex members.`,
-    siteUrl: `https://t.me/vexcommunity`,
+    description: `A Guide hub for Tower of Fantasy Vex guild `,
+    siteUrl: `http://hykroslobby.netlify.app`,
     socialLinks: [
       {
         name: "Telegram",
-        url: "https://t.me/vexcommunity",
+        url: "https://t.me/HykrosLobby",
       },
     ],
   },
