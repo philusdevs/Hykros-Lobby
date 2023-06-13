@@ -1,10 +1,10 @@
-import React from "react";
-import { Link } from "gatsby";
-import { navigate } from "gatsby-link";
-import Layout from "../components/layout";
-import { graphql } from "gatsby";
-import styled from "styled-components";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import React from 'react';
+import { Link } from 'gatsby';
+import { navigate } from 'gatsby-link';
+import Layout from '../components/layout';
+import { graphql } from 'gatsby';
+import styled from 'styled-components';
+import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
 const SimulacraTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
@@ -22,34 +22,30 @@ const SimulacraTemplate = ({ data }) => {
 
             let gradientColors;
             switch (simulacrum.gradientColor) {
-              case "Frost":
-                gradientColors = "linear-gradient(#435B7A, #9BC1D1)";
+              case 'Frost':
+                gradientColors = 'linear-gradient(#435B7A, #9BC1D1)';
                 break;
-              case "Volt":
-                gradientColors = "linear-gradient(#5F4871, #CBA3D7)";
+              case 'Volt':
+                gradientColors = 'linear-gradient(#5F4871, #CBA3D7)';
                 break;
-              case "Flame":
-                gradientColors = "linear-gradient(#7F4F48, #DDBEA8)";
+              case 'Flame':
+                gradientColors = 'linear-gradient(#7F4F48, #DDBEA8)';
                 break;
-              case "Physical":
-                gradientColors = "linear-gradient(#7A6449, #D3B88F)";
+              case 'Physical':
+                gradientColors = 'linear-gradient(#7A6449, #D3B88F)';
                 break;
-              case "Altered":
-                gradientColors = "linear-gradient(#426A6F, #94B9BB)";
+              case 'Altered':
+                gradientColors = 'linear-gradient(#426A6F, #94B9BB)';
                 break;
               default:
-                gradientColors = "none";
+                gradientColors = 'none';
             }
 
             return (
               <SimulacraTab key={simulacrum.name}>
-                <SimulacraBlock onClick={() => navigate(`/simulacrum/${simulacrum.name.toLowerCase().replace(/\s+/g, "-")}`)}>
+                <SimulacraBlock onClick={() => navigate(`/simulacrum/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`)}>
                   <SimulacraIconWrapper>
-                    <SimulacraIcon
-                      image={simulacrumImage}
-                      alt={simulacrum.name}
-                      gradientColors={gradientColors}
-                    />
+                    <SimulacraIcon image={simulacrumImage} alt={simulacrum.name} gradientColors={gradientColors} />
                     {bottomLeftOverlayImage && (
                       <BottomLeftOverlayContainer>
                         <BottomLeftOverlay image={bottomLeftOverlayImage} alt="Bottom Left Overlay" />
@@ -130,6 +126,8 @@ const SimulacraIcon = styled(GatsbyImage)`
   border-radius: 8px;
   overflow: hidden;
   background-image: ${({ gradientColors }) => gradientColors};
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 `;
 
 const BottomLeftOverlayContainer = styled.div`
@@ -191,7 +189,10 @@ const SimulacraName = styled.span`
   margin-left: 0px;
   margin-right: 0px;
   width: 150px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 `;
+
 
 const SimulacraCopy = styled.div`
   max-width: 60ch;
