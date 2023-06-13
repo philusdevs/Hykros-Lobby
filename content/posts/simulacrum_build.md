@@ -25,7 +25,15 @@ When roaming the world solo, we recommended remain on DPS to deal as much damage
 
 Within these roles you also benefit from elemental resonance when you are equipped with two of the same elemental weapon.
 
-![Element_Altered](/media/Element_Altered.png) *Altered* ![Element_Volt](/media/Element_Volt.png) *Volt* ![Element_Physical](/media/Element_Physical.png)*Physical* ![Element_Flame](/media/Element_Flame.png)*Flame* ![Element_Frost](/media/Element_Frost.png)*Frost*
+
+| Element                                  | Name     |
+|----------------------------------------|----------|
+| ![Element_Altered](/media/Element_Altered.png) | Altered  |
+| ![Element_Volt](/media/Element_Volt.png)       | Volt     |
+| ![Element_Physical](/media/Element_Physical.png) | Physical |
+| ![Element_Flame](/media/Element_Flame.png)       | Flame    |
+| ![Element_Frost](/media/Element_Frost.png)       | Frost    |
+
 These resonances can be found within the different weapon descriptions.
 
 ![el](/media/el.png)
