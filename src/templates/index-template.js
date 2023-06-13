@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { TextField, IconButton } from '@material-ui/core';
+import { Search as SearchIcon } from '@material-ui/icons';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import PostList from '../components/post-list';
@@ -6,9 +8,25 @@ import StyledLink from '../components/styled-link';
 import styled from 'styled-components';
 
 const HomePage = ({ data }) => {
+  const [searchQuery, setSearchQuery] = useState('');
+
   const posts = data.allMarkdownRemark.nodes;
   const intro = data.markdownRemark.html;
   const title = data.markdownRemark.frontmatter.title;
+
+  const handleSearchChange = (event) => {
+    setSearchQuery(event.target.value);
+  };
+
+  const filteredPosts = posts.filter((post) => {
+    const { title, tags } = post.frontmatter;
+    const lowerCaseQuery = searchQuery.toLowerCase();
+
+    return (
+      title.toLowerCase().includes(lowerCaseQuery) ||
+      tags.join(' ').toLowerCase().includes(lowerCaseQuery)
+    );
+  });
 
   return (
     <Layout title={title}>
@@ -18,20 +36,23 @@ const HomePage = ({ data }) => {
         }}
       />
 
-  
-      <StyledLink
-        css={`
-          display: block;
-          margin-top: var(--size-800);
-          margin-bottom: var(--size-800);
-          margin-left: auto;
-          margin-right: auto;
-          width: fit-content;
-        `}
-        to="/tags"
-      >
-        Search by Tags
-      </StyledLink>
+      <SearchContainer>
+        <StyledTextField
+          value={searchQuery}
+          onChange={handleSearchChange}
+          placeholder="Search"
+          variant="outlined"
+          InputProps={{
+            startAdornment: (
+              <IconButton disabled>
+                <SearchIcon />
+              </IconButton>
+            ),
+          }}
+        />
+      </SearchContainer>
+
+      {searchQuery && <PostList posts={filteredPosts} />}
     </Layout>
   );
 };
@@ -58,6 +79,19 @@ const Intro = styled.div`
     & h1 {
       font-size: var(--size-700);
     }
+  }
+`;
+
+const SearchContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  margin-top: -40px; /* Adjust the top margin */
+  margin-bottom: 0px; /* Adjust the bottom margin */
+`;
+
+const StyledTextField = styled(TextField)`
+  .MuiInputBase-root {
+    height: 32px; /* Adjust the height as per your preference */
   }
 `;
 
