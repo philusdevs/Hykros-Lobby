@@ -21,6 +21,11 @@ const HEADER_NAV_ITEM = [
     url: "/contact",
     isExternal: false,
   },*/
+  {
+    label: "Simulacrum",
+    url: "/simulacrum",
+    isExternal: false,
+  },
 ];
 
 const Header = () => {
