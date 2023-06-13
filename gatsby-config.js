@@ -6,7 +6,7 @@ module.exports = {
       summary: `Guide Hub For Tower of Fantasy`,
     },
     openGraphImage: `logo.png`,
-    description: `A Guide hub for Tower of Fantasy Vex guild `,
+    description: `A Guide hub for Tower of Fantasy`,
     siteUrl: `http://hykroslobby.netlify.app`,
     socialLinks: [
       {
