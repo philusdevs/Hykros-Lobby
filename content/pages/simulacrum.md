@@ -1,5 +1,5 @@
 ---
-title: "Rubilia"
+title: "Simulacrum"
 template: "simulacra-template"
 simulacra:
   - name: Liu Huo 
@@ -31,6 +31,35 @@ simulacra:
     gradientColor: Frost
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Frost.png
-    bottomRightOverlay2: /media/DPS.png 
-
+    bottomRightOverlay2: /media/DPS.png
+  - name: Lan 
+    icon: /media/Simulacrum_Lan.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/fortitude.png
+  - name: Fenrir 
+    icon: /media/Simulacrum_Fenrir.png
+    gradientColor: Volt
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png       
+  - name: Umi 
+    icon: /media/Simulacrum_Umi.png
+    gradientColor: Physical
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Physical.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Alyss 
+    icon: /media/Simulacrum_Alyss.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Anna 
+    icon: /media/Simulacrum_Annabella.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/DPS.png
 ---
