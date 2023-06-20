@@ -7,11 +7,11 @@ module.exports = {
     },
     openGraphImage: `logo.png`,
     description: `A Guide hub for Tower of Fantasy`,
-    siteUrl: `http://hykroslobby.netlify.app`,
+    siteUrl: `http://hykroslobby.com`,
     socialLinks: [
       {
-        name: "Telegram",
-        url: "https://t.me/HykrosLobby",
+        name: "",
+        url: "",
       },
     ],
   },

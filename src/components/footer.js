@@ -10,8 +10,7 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          Log files released by{' '}
-          <a href="t.me/HykrosLobby">Vex-Community</a>
+          Log files released by Vex-Community
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
