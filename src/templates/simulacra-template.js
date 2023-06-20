@@ -132,7 +132,6 @@ const SimulacraIcon = styled(GatsbyImage)`
 const SimulacraName = styled.span`
   position: absolute;
   bottom: 0.1px;
-  right: 0.1px;
   padding-top:0.2rem;
   padding-left:0.4rem;
   color: white;
