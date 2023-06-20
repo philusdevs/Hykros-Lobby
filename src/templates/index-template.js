@@ -9,6 +9,7 @@ import styled from 'styled-components';
 
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
+  const [isDarkMode, setIsDarkMode] = useState(false); // Add dark mode state
 
   const posts = data.allMarkdownRemark.nodes;
   const intro = data.markdownRemark.html;
@@ -49,6 +50,7 @@ const HomePage = ({ data }) => {
               </IconButton>
             ),
           }}
+          darkMode={isDarkMode} // Pass the dark mode state as a prop
         />
       </SearchContainer>
 
@@ -91,7 +93,9 @@ const SearchContainer = styled.div`
 
 const StyledTextField = styled(TextField)`
   .MuiInputBase-root {
-    height: 32px; /* Adjust the height as per your preference */
+    height: 32px;
+    background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")}; // Adjust background color based on dark mode
+    color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#37292C")}; // Adjust text color based on dark mode
   }
 `;
 
