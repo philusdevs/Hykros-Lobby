@@ -10,20 +10,21 @@ const HEADER_NAV_ITEM = [
     label: "Guides",
     url: "/guides",
     isExternal: false,
-  },
-  /*{
-    label: "About",
-    url: "/about",
+  } 
+  ,
+  {
+    label: "Simulacrum",
+    url: "/simulacrum",
     isExternal: false,
-  }, */
-  /*{
+  }/*,
+  {
     label: "Contact",
     url: "/contact",
     isExternal: false,
   },*/
   {
-    label: "Simulacrum",
-    url: "/simulacrum",
+    label: "About",
+    url: "/about",
     isExternal: false,
   },
 ];
