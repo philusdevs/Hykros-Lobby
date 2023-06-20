@@ -12,7 +12,6 @@ const AboutTemplate = ({ data }) => {
     <Layout title={frontmatter.title}>
       <AboutWrapper>
         <AboutImageWrapper image={profileImage} alt="" />
-
         <AboutCopy dangerouslySetInnerHTML={{ __html: html }} />
       </AboutWrapper>
     </Layout>
@@ -28,9 +27,7 @@ const AboutWrapper = styled.div`
   height: 100%;
 
   @media screen and (max-width: 1000px) {
-    & {
-      flex-direction: column;
-    }
+    flex-direction: column;
 
     & > * {
       margin-top: 2rem;
@@ -42,14 +39,16 @@ const AboutWrapper = styled.div`
 
 const AboutImageWrapper = styled(GatsbyImage)`
   display: block;
-  border-radius: 50%;
-  height: 300px;
-  width: 300px;
+  border-radius: 0%;
+  height: 150px;
+  width: 150px;
+  margin-right: -26rem; /* Add margin-right to move the image a bit more to the right */
 `;
 
 const AboutCopy = styled.div`
   max-width: 60ch;
-
+  text-align: justify;
+  
   & p {
     font-size: var(--size-400);
   }
@@ -63,7 +62,7 @@ export const pageQuery = graphql`
         title
         profile_image {
           childImageSharp {
-            gatsbyImageData(placeholder: BLURRED, formats: PNG, height: 400)
+            gatsbyImageData(placeholder: BLURRED, formats: PNG, height: 200)
           }
         }
       }
