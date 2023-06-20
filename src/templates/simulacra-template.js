@@ -46,6 +46,7 @@ const SimulacraTemplate = ({ data }) => {
                 <SimulacraBlock onClick={() => navigate(`/simulacrum/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`)}>
                   <SimulacraIconWrapper>
                     <SimulacraIcon image={simulacrumImage} alt={simulacrum.name} gradientColors={gradientColors} />
+                    <SimulacraName>{simulacrum.name}</SimulacraName>
                     {bottomLeftOverlayImage && (
                       <BottomLeftOverlayContainer>
                         <BottomLeftOverlay image={bottomLeftOverlayImage} alt="Bottom Left Overlay" />
@@ -62,7 +63,6 @@ const SimulacraTemplate = ({ data }) => {
                       </BottomRightOverlayContainer2>
                     )}
                   </SimulacraIconWrapper>
-                  <SimulacraName>{simulacrum.name}</SimulacraName>
                 </SimulacraBlock>
               </SimulacraTab>
             );
@@ -126,9 +126,31 @@ const SimulacraIcon = styled(GatsbyImage)`
   border-radius: 8px;
   overflow: hidden;
   background-image: ${({ gradientColors }) => gradientColors};
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
+ 
 `;
+
+const SimulacraName = styled.span`
+  position: absolute;
+  bottom: 0.1px;
+  right: 0.1px;
+ 
+  padding-top:0.2rem;
+  padding-left:0.4rem;
+  color: white;
+  background-color: rgba(20, 20, 20, 0.2);
+  text-decoration: none;
+  text-align: left;
+  border-radius: 0px;
+  text-transform: uppercase;
+  width: 150.5px;
+  height: 30px; /* Adjust the height as desired */
+  border-radius: 8px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin-bottom: 0.1px;
+`;
+
+
 
 const BottomLeftOverlayContainer = styled.div`
   position: absolute;
@@ -171,29 +193,6 @@ const BottomRightOverlay2 = styled(GatsbyImage)`
   height: 25px;
 `;
 
-const SimulacraName = styled.span`
-  padding: 0.5rem;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  color: inherit;
-  background-color: rgba(255, 255, 255, 0.4);
-  text-decoration: none;
-  text-align: center;
-  border-radius: 0px;
-  border: 1px solid rgba(255, 255, 255, 0.8);
-  text-transform: uppercase;
-  border-radius: 4px;
-  display: block;
-  margin-top: var(--size-200);
-  margin-bottom: var(--size-400);
-  margin-left: 0px;
-  margin-right: 0px;
-  width: 150px;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-`;
-
-
 const SimulacraCopy = styled.div`
   max-width: 60ch;
 
@@ -222,17 +221,17 @@ export const pageQuery = graphql`
           }
           bottomLeftOverlay {
             childImageSharp {
-              gatsbyImageData(placeholder: BLURRED, formats: PNG, height: 20)
+              gatsbyImageData(placeholder: BLURRED, formats: PNG)
             }
           }
           bottomRightOverlay {
             childImageSharp {
-              gatsbyImageData(placeholder: BLURRED, formats: PNG, height: 25)
+              gatsbyImageData(placeholder: BLURRED, formats: PNG)
             }
           }
           bottomRightOverlay2 {
             childImageSharp {
-              gatsbyImageData(placeholder: BLURRED, formats: PNG, height: 25)
+              gatsbyImageData(placeholder: BLURRED, formats: PNG)
             }
           }
           gradientColor
