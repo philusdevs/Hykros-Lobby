@@ -62,4 +62,29 @@ simulacra:
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
+  - name: Tian
+    icon: /media/Simulacrum_Tian_Lang.png
+    gradientColor: Volt
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Lyra 
+    icon: /media/Simulacrum_Lyra.png
+    gradientColor: Physical
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Physical.png
+    bottomRightOverlay2: /media/Bene.png
+  - name: Saki 
+    icon: /media/Simulacrum_Saki.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/fortitude.png
+  - name: Ruby
+    icon: /media/Simulacrum_Ruby.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/DPS.png
+    
 ---
