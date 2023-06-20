@@ -1,7 +1,7 @@
 ---
-title: About Mee
+title: About
 template: about-template
-profile_image: /media/hl.png
+profile_image: /media/logo.png
 ---
 
 ## Welcome to Hykros Lobby
