@@ -40,7 +40,6 @@ const SimulacraTemplate = ({ data }) => {
               default:
                 gradientColors = 'none';
             }
-
             return (
               <SimulacraTab key={simulacrum.name}>
                 <SimulacraBlock onClick={() => navigate(`/simulacrum/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`)}>

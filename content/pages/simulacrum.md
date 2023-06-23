@@ -86,5 +86,48 @@ simulacra:
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
+  - name: Claudia 
+    icon: /media/Simulacrum_Claudia.png
+    gradientColor: Physical
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Physical.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Cobalt-B 
+    icon: /media/Simulacrum_Cobalt-B.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/DPS.png   
+  - name: Shiro 
+    icon: /media/Simulacrum_Shiro.png
+    gradientColor: Physical
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Physical.png
+    bottomRightOverlay2: /media/DPS.png    
+  - name: Echo 
+    icon: /media/Simulacrum_Echo.png
+    gradientColor: none
+    bottomLeftOverlay: /media/SR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Ene 
+    icon: /media/Simulacrum_Ene.png
+    gradientColor: none
+    bottomLeftOverlay: /media/SR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/fortitude.png
+  - name: Hilda
+    icon: /media/Simulacrum_Hilda.png
+    gradientColor: none
+    bottomLeftOverlay: /media/SR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Pepper
+    icon: /media/Simulacrum_Pepper.png
+    gradientColor: none
+    bottomLeftOverlay: /media/SR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/Bene.png
+
     
 ---
