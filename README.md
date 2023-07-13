@@ -45,7 +45,6 @@ If you encounter any issues while using the Hykros Lobby website or have any que
 
 - Message: https://t.me/HykrosLobby.com
 
-
 ## License
 
 The content and code of the Hykros Lobby website are protected under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the codebase as long as the original license terms
