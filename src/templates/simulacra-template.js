@@ -1,8 +1,6 @@
 import React from 'react';
-import { Link } from 'gatsby';
-import { navigate } from 'gatsby-link';
+import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
-import { graphql } from 'gatsby';
 import styled from 'styled-components';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 
@@ -40,28 +38,31 @@ const SimulacraTemplate = ({ data }) => {
               default:
                 gradientColors = 'none';
             }
+
             return (
               <SimulacraTab key={simulacrum.name}>
-                <SimulacraBlock onClick={() => navigate(`/simulacrum/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`)}>
-                  <SimulacraIconWrapper>
-                    <SimulacraIcon image={simulacrumImage} alt={simulacrum.name} gradientColors={gradientColors} />
-                    <SimulacraName>{simulacrum.name}</SimulacraName>
-                    {bottomLeftOverlayImage && (
-                      <BottomLeftOverlayContainer>
-                        <BottomLeftOverlay image={bottomLeftOverlayImage} alt="Bottom Left Overlay" />
-                      </BottomLeftOverlayContainer>
-                    )}
-                    {bottomRightOverlayImage && (
-                      <BottomRightOverlayContainer>
-                        <BottomRightOverlay image={bottomRightOverlayImage} alt="Bottom Right Overlay" />
-                      </BottomRightOverlayContainer>
-                    )}
-                    {bottomRightOverlayImage2 && (
-                      <BottomRightOverlayContainer2>
-                        <BottomRightOverlay2 image={bottomRightOverlayImage2} alt="Bottom Right Overlay 2" />
-                      </BottomRightOverlayContainer2>
-                    )}
-                  </SimulacraIconWrapper>
+                <SimulacraBlock>
+                  <Link to={`/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`}>
+                    <SimulacraIconWrapper>
+                      <SimulacraIcon image={simulacrumImage} alt={simulacrum.name} gradientColors={gradientColors} />
+                      <SimulacraName>{simulacrum.name}</SimulacraName>
+                      {bottomLeftOverlayImage && (
+                        <BottomLeftOverlayContainer>
+                          <BottomLeftOverlay image={bottomLeftOverlayImage} alt="Bottom Left Overlay" />
+                        </BottomLeftOverlayContainer>
+                      )}
+                      {bottomRightOverlayImage && (
+                        <BottomRightOverlayContainer>
+                          <BottomRightOverlay image={bottomRightOverlayImage} alt="Bottom Right Overlay" />
+                        </BottomRightOverlayContainer>
+                      )}
+                      {bottomRightOverlayImage2 && (
+                        <BottomRightOverlayContainer2>
+                          <BottomRightOverlay2 image={bottomRightOverlayImage2} alt="Bottom Right Overlay 2" />
+                        </BottomRightOverlayContainer2>
+                      )}
+                    </SimulacraIconWrapper>
+                  </Link>
                 </SimulacraBlock>
               </SimulacraTab>
             );
@@ -125,15 +126,14 @@ const SimulacraIcon = styled(GatsbyImage)`
   border-radius: 8px;
   overflow: hidden;
   background-image: ${({ gradientColors }) => gradientColors};
- 
 `;
 
 const SimulacraName = styled.span`
   position: absolute;
   bottom: 0.1px;
   right: 0.1px;
-  padding-top:0.2rem;
-  padding-left:0.4rem;
+  padding-top: 0.2rem;
+  padding-left: 0.4rem;
   color: white;
   background-color: rgba(20, 20, 20, 0.2);
   text-decoration: none;
@@ -147,8 +147,6 @@ const SimulacraName = styled.span`
   border-top-right-radius: 0;
   margin-bottom: 0.1px;
 `;
-
-
 
 const BottomLeftOverlayContainer = styled.div`
   position: absolute;

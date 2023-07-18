@@ -43,6 +43,7 @@ module.exports = {
         path: `${__dirname}/content/posts`,
       },
     },
+    
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -92,7 +93,6 @@ module.exports = {
                 description
                 siteUrl
                 site_url: siteUrl
-              
               }
             }
           }

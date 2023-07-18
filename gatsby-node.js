@@ -59,6 +59,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     (node) => node.fields.contentType === `pages`
   );
 
+
   if (blogMarkdownNodes.length > 0) {
     blogMarkdownNodes.forEach((node, index) => {
       let prevSlug = null;
@@ -83,6 +84,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       });
     });
   }
+
 
   if (pageMarkdownNodes.length > 0) {
     pageMarkdownNodes.forEach((node) => {
@@ -136,6 +138,14 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
+    if (fileNode.sourceInstanceName === 'simulacrum') {
+      createNodeField({
+        name: `slug`,
+        node,
+        value: `/simulacrum${relativeFilePath}`,
+      });
+    }
+    
     if (fileNode.sourceInstanceName === 'pages') {
       createNodeField({
         name: `slug`,
