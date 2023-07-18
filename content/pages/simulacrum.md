@@ -2,132 +2,184 @@
 title: "Simulacrum"
 template: "simulacra-template"
 simulacra:
+  - name: Yu lan 
+    icon: /media/Yu_lan.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/DPS.png
   - name: Liu Huo 
-    icon: /media/Simulacrum_Liu_Huo.png
+    icon: /media/Liu_Huo.png
     gradientColor: Flame
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
   - name: Rubilia 
-    icon: /media/Simulacrum_Rubilia.png
+    icon: /media/Rubilia.png
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/DPS.png
   - name: Gnonno 
-    icon: /media/Simulacrum_Gnonno.png
+    icon: /media/Gnonno.png
     gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Physical.png
     bottomRightOverlay2: /media/DPS.png
   - name: Fiona 
-    icon: /media/Simulacrum_Fiona.png
+    icon: /media/Fiona.png
     gradientColor: Altered
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Altered.png
     bottomRightOverlay2: /media/Bene.png
   - name: Icarus 
-    icon: /media/Simulacrum_Icarus.png
+    icon: /media/Icarus.png
     gradientColor: Frost
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/DPS.png
   - name: Lan 
-    icon: /media/Simulacrum_Lan.png
+    icon: /media/Lan.png
     gradientColor: Flame
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/fortitude.png
   - name: Fenrir 
-    icon: /media/Simulacrum_Fenrir.png
+    icon: /media/Fenrir.png
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/DPS.png       
   - name: Umi 
-    icon: /media/Simulacrum_Umi.png
+    icon: /media/Umi.png
     gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Physical.png
     bottomRightOverlay2: /media/DPS.png
   - name: Alyss 
-    icon: /media/Simulacrum_Alyss.png
+    icon: /media/Alyss.png
     gradientColor: Frost
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/DPS.png
   - name: Anna 
-    icon: /media/Simulacrum_Annabella.png
+    icon: /media/Annabella.png
     gradientColor: Flame
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
   - name: Tian
-    icon: /media/Simulacrum_Tian_Lang.png
+    icon: /media/Tian_Lang.png
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/DPS.png
   - name: Lyra 
-    icon: /media/Simulacrum_Lyra.png
+    icon: /media/Lyra.png
     gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Physical.png
     bottomRightOverlay2: /media/Bene.png
+  - name: Lin 
+    icon: /media/Lin.png
+    gradientColor: Altered
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Altered.png
+    bottomRightOverlay2: /media/Bene.png    
   - name: Saki 
-    icon: /media/Simulacrum_Saki.png
+    icon: /media/Saki.png
     gradientColor: Frost
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/fortitude.png
   - name: Ruby
-    icon: /media/Simulacrum_Ruby.png
+    icon: /media/Ruby.png
     gradientColor: Flame
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
   - name: Claudia 
-    icon: /media/Simulacrum_Claudia.png
+    icon: /media/Claudia.png
     gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Physical.png
     bottomRightOverlay2: /media/DPS.png
   - name: Cobalt-B 
-    icon: /media/Simulacrum_Cobalt-B.png
+    icon: /media/Cobalt-B.png
     gradientColor: Flame
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png   
+  - name: Frigg 
+    icon: /media/Frigg.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/DPS.png 
+  - name: Nemesis 
+    icon: /media/Nemesis.png
+    gradientColor: Volt
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png
   - name: Shiro 
-    icon: /media/Simulacrum_Shiro.png
+    icon: /media/Shiro.png
     gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Physical.png
-    bottomRightOverlay2: /media/DPS.png    
+    bottomRightOverlay2: /media/DPS.png
+  - name: King
+    icon: /media/King.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Meryl 
+    icon: /media/Meryl.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/fortitude.png
+  - name: Crow
+    icon: /media/Crow.png
+    gradientColor: Volt
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png   
+  - name: Coco
+    icon: /media/Coco.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/Bene.png
+  - name: Samir
+    icon: /media/Samir.png
+    gradientColor: Volt
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png  
   - name: Echo 
-    icon: /media/Simulacrum_Echo.png
+    icon: /media/Echo.png
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/DPS.png
   - name: Ene 
-    icon: /media/Simulacrum_Ene.png
+    icon: /media/Ene.png
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/fortitude.png
   - name: Hilda
-    icon: /media/Simulacrum_Hilda.png
+    icon: /media/Hilda.png
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/DPS.png
   - name: Pepper
-    icon: /media/Simulacrum_Pepper.png
+    icon: /media/Pepper.png
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/Bene.png
-
-    
+    bottomRightOverlay2: /media/Bene.png        
 ---

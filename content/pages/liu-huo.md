@@ -2,17 +2,18 @@
 title: "Liu huo"
 template: simu-template
 date: 2702-05-05
-tags: Liu Huo
 social_image: '/media/logo.png'
-description: ''
+description: Omnium. This discovery prompted an interstellar colonization plan, with Aida as the pivotal location due to its abundance of Omnium and habitability. The Tower of Fantasy was constructed to harness Omnium's power, leading to significant advancements in technology and society, including near-immortality.
 ---
+
 
 ![liu_huo](https://telegra.ph/file/b92dcf4a1580b810fef54.png)
 
 #### Awaken
 
 > Increase final damage by 18%. When Pine Comet is in the off-hand slot, Sparrow Feather launch frequency increases to 1 per second. When Sparrow Feather hits and triggers the spreading effect, it additionally spreads Ion Scorch and Cross Burn. In team play, your damage taken from the aggroed target is reduced by 5%. When Fortitude Resonance is activated, the damage reduction increases to 8%.
-
+ <br/> 
+<br/> 
 Pine Comet
 
 ![](https://telegra.ph/file/1b86730c66f5415bba330.png)

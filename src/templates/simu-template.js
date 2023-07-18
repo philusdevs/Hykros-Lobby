@@ -99,7 +99,6 @@ const PostContent = styled.section`
     white-space: pre-wrap;
     max-width: 100%;
   }`;
-
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
