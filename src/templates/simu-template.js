@@ -2,19 +2,12 @@ import React from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
 import styled from "styled-components";
-import Tags from "../components/tags";
 
 const PostTemplate = ({ data }) => {
-  const { frontmatter, excerpt, html } = data.markdownRemark;
+  const { frontmatter, html } = data.markdownRemark;
 
   return (
-    <Layout
-      title={frontmatter.title}
-      description={frontmatter.description || excerpt}
-      socialImage={
-        frontmatter.social_image ? frontmatter.social_image.absolutePath : ""
-      }
-    >
+    <Layout title={frontmatter.title}>
       <PostWrapper>
         <article>
           <PostTitle>{frontmatter.title}</PostTitle>
@@ -22,8 +15,6 @@ const PostTemplate = ({ data }) => {
 
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />
         </article>
-
-        <Tags tags={frontmatter.tags} />
       </PostWrapper>
     </Layout>
   );
@@ -107,22 +98,15 @@ const PostContent = styled.section`
     overflow-x: auto;
     white-space: pre-wrap;
     max-width: 100%;
-  }
-`;
+  }`;
 
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         title
-        tags
         date(formatString: "MMMM DD, YYYY")
-        description
-        social_image {
-          absolutePath
-        }
       }
     }
   }
