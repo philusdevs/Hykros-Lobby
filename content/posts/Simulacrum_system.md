@@ -10,7 +10,7 @@ Imagine a picture, made up of different colors woven together with precision. No
 
 ![s_system](/media/s_system.png)
 
-In a similar way, we have a system called the Simulacrum. It's like a blueprint, a record of a person's personality and behavior, stored in our database. It's like a memory that can bring back the essence who the person was or is. Initially, the Simulacrum system was created as a way to explore the boundaries of immortality, but it has evolved to have many other uses, such as combat AI and medical advancements. The AI in the system can simulate the strategies of skilled fighters, providing instant knowledge and experience. It also has a subsystem that can mimic behavior in uncertain or conflicting situations.
+In a similar way, we have a system called the Simulacrum. It's like a blueprint, a record of a person's personality and behavior, stored in our database. Initially, the Simulacrum system was created as a way to explore the boundaries of immortality, but it has evolved to have many other uses, such as combat AI and medical advancements. The AI in the system can simulate the strategies of skilled fighters, providing instant knowledge and experience. It also has a subsystem that can mimic behavior in uncertain or conflicting situations.
 
 As we have delved deeper into the medical possibilities of the Simulacrum system, we have discovered a promising procedure. This procedure could transfer a person's consciousness, memories, and personality into a newly created, disease-free body. This breakthrough opens up the exciting possibility of finding cures for seemingly incurable diseases and getting closer to immortality.
 
