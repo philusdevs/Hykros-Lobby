@@ -1,9 +1,9 @@
 ---
 title: "Liu huo"
 template: simu-template
-date: 2702-05-05
+date: 2023-06-27
 social_image: '/media/logo.png'
-description: Omnium. This discovery prompted an interstellar colonization plan, with Aida as the pivotal location due to its abundance of Omnium and habitability. The Tower of Fantasy was constructed to harness Omnium's power, leading to significant advancements in technology and society, including near-immortality.
+description: 
 ---
 
 

@@ -32,6 +32,9 @@ const SimulacraTemplate = ({ data }) => {
               case 'Physical':
                 gradientColors = 'linear-gradient(#7A6449, #D3B88F)';
                 break;
+                case 'Physical&Flame':
+                gradientColors = 'linear-gradient(#B59C78, #AD9A6E)';
+                break;
               case 'Altered':
                 gradientColors = 'linear-gradient(#426A6F, #94B9BB)';
                 break;

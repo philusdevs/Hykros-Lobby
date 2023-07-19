@@ -2,6 +2,12 @@
 title: "Simulacrum"
 template: "simulacra-template"
 simulacra:
+  - name: Ming Jin 
+    icon: /media/ming_jin.png
+    gradientColor: Physical&Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_PhysicalFlame.png
+    bottomRightOverlay2: /media/DPS.png
   - name: Yu lan 
     icon: /media/Yu_lan.png
     gradientColor: Frost
