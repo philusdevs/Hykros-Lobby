@@ -107,7 +107,7 @@ If equipped with 1 item of electric, fire, or ice weapon, shield penetration dam
 
 |   Dodge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| `Evasion`| </br> `Move+Dodge` Evade precisely before receiving a hit to trigger "Fantasy," which reduces the speed of targets in the area. Provides immunity to stunning strikes during evasion.|
+| `Evasion`| </br> `Move+Dodge` Evade precisely before receiving a hit to trigger "Fantasia," which reduces the speed of targets in the area. Provides immunity to stunning strikes during evasion.|
 |`Cutting Sands`| </br>  `Dodge+Attack` Use a regular attack shortly after evading to trigger "Cutting Sands." Unleash an energy wave from the sword, dealing damage equal to 125% of ATK to targets in front of the Wanderer.If "Cutting Sands" hits a target while the Yuanwu Totem is active, fixed targets receive 1 Snakebite.|
 |`Cloud Gap`| </br>  `Move+Dodge+Attack` Use a regular attack within a short window for a perfect evasion (press the arrow before evading) to trigger "Cloud Gap" and deal damage equal to `60%` of ATK to nearby targets. If "Cloud Gap" hits a target while the Yuanwu Totem is active, fixed targets receive 1 Snakebite.|
 |`Patrol`| </br>  `Dodge+Hold-Attack`Press and hold the regular attack immediately after evading to trigger "Patrol" (unavailable in the Apex League].When the construction of the Yuanwu Totem summoned by Absolute Rift is completed, use "Patrol" to enter the "Altruistic Kingdom" for 25 seconds and gain 3 Stack.|
@@ -127,7 +127,7 @@ If equipped with 1 item of electric, fire, or ice weapon, shield penetration dam
 
 |   Discharge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| `Way Home`| </br> Switch to this weapon when fully charged or when Fantasy is activated. When the weapon is fully charged or when Fantasy is activated, switching to this weapon removes all debuffs from the Wanderer and summons Yuanwu, dealing area damage equal to `681.2%` of ATK to all nearby targets. During this time, you gain 1.5 seconds of damage immunity (unavailable in the Apex League).|
+| `Way Home`| </br> Switch to this weapon when fully charged or when Fantasia is activated. When the weapon is fully charged or when Fantasia is activated, switching to this weapon removes all debuffs from the Wanderer and summons Yuanwu, dealing area damage equal to `681.2%` of ATK to all nearby targets. During this time, you gain 1.5 seconds of damage immunity (unavailable in the Apex League).|
 
 
 
