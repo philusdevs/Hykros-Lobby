@@ -117,7 +117,7 @@ If equipped with 1 item of electric, fire, or ice weapon, shield penetration dam
 
 |   Skill        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| `Absolute Rift`| </br> Press the skill button to use it.The Wanderer shatters the ground in front, gaining temporary invulnerability (unavailable in the Supreme League) and pulling nearby targets, dealing damage equal to `806%` of ATK. Cooldown: 20 seconds. Increases the Wanderer's physical damage by `30%` for 30 seconds, then summons the Yuanwu Totem. When out of combat, the Yuanwu Totem disappears.|
+| `Absolute Rift`| </br> Press the skill button to use it.The Wanderer shatters the ground in front, gaining temporary invulnerability (unavailable in the Apex League) and pulling nearby targets, dealing damage equal to `806%` of ATK. Cooldown: 20 seconds. Increases the Wanderer's physical damage by `30%` for 30 seconds, then summons the Yuanwu Totem. When out of combat, the Yuanwu Totem disappears.|
 || </br>  The Yuanwu Totem summons dark souls from the four core formations every 0.6 seconds, each time dealing damage equal to `30%`of ATK to targets in their path. During the cooldown of Absolute Rift, the Wanderer gains a new skill called "Mirror Reflection," allowing a counter-attack against nearby dark souls and activating corresponding cores. Activating any core completes the creation of the Yuanwu Totem and allows entry into the Altruistic Kingdom.|
 || </br> While the Yuanwu Totem is active, use the Onyx Tortoise to obtain Hyperbody. To apply Snakebites, use the following methods: 1. When Absolute Rift hits an enemy, the target with the highest 03 value receives 1 Snakebite. 2. When the fifth attack of Brawler lands the final blow, a fixed target receives 1 Snakebite. 3. When Cloud Gap hits an enemy, a fixed target receives 1 Snakebite. 4. When Cutting Sands hits an enemy, a fixed target receives 1 Snakebite.|
 || Snakebite inflicts devouring damage equal to `100%` of ATK on the target, restores `12%` of the Wanderer's max 03, and joins the target to the Snake Chain.The Snake Chain can transfer `30%` of the actual damage dealt by the weapon in the main weapon slot to the fixed chain member and heavily wounds all chain members (including the target itself). The Snake Chain can have up to 4 members. The element type of the transferred damage corresponds to the original damage and cannot be transferred again. The total damage transferred within 30 seconds cannot exceed the Wanderer's max ATK value multiplied by 2,400 (this limitation does not apply in team play). Damage from Dark Cut is not transferred. |
@@ -136,7 +136,7 @@ If equipped with 1 item of electric, fire, or ice weapon, shield penetration dam
 
 
 
-
+s
 
 
 
