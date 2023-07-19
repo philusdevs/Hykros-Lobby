@@ -5,7 +5,7 @@ date: 2023-08-08
 social_image: '/media/logo.png'
 description: 
 ---
->Currently in Beta (Simulucra is subject to change)
+>Currently in Beta (Simulucrum is subject to change)
 
 ![](https://telegra.ph/file/eeed373102ef511b8ffab.png)
 
