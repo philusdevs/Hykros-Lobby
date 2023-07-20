@@ -46,7 +46,7 @@ const FilterButton = styled.button`
   }
 `;
 
-const Filter = ({ activeFilter, setActiveFilter }) => {
+const filter = ({ activeFilter, setActiveFilter }) => {
   const filterOptions = [
     'All',
     'Frost',
@@ -72,4 +72,4 @@ const Filter = ({ activeFilter, setActiveFilter }) => {
   );
 };
 
-export default Filter;
+export default filter;

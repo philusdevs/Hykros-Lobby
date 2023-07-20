@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
-import Filter from '../components/Filter'; // Import the Filter component
+import filter from '../components/filter'; 
 
 const SimulacraTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
