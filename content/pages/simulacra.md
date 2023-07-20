@@ -1,5 +1,5 @@
 ---
-title: "Simulacrum"
+title: "Simulacra"
 template: "simulacra-template"
 simulacra:
   - name: Ming Jin 

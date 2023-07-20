@@ -13,8 +13,8 @@ const HEADER_NAV_ITEM = [
   } 
   ,
   {
-    label: "Simulacrum",
-    url: "/simulacrum",
+    label: "Simulacra",
+    url: "/simulacra",
     isExternal: false,
   }/*,
   {
