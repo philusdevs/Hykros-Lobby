@@ -187,5 +187,5 @@ simulacra:
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/Bene.png        
+    bottomRightOverlay2: /media/Bene.png                    
 ---
