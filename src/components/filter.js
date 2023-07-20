@@ -6,7 +6,9 @@ const FilterWrapper = styled.div`
   justify-content: center;
   margin-bottom: 1rem;
   padding: 15px;
-  padding-left: 90px;
+  position: sticky; 
+  top: 0; 
+  z-index: 999; 
 `;
 
 const FilterButton = styled.button`
