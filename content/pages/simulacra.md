@@ -91,7 +91,7 @@ simulacra:
     gradientColor: Altered
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Altered.png
-    bottomRightOverlay2: /media/Bene.png    
+    bottomRightOverlay2: /media/DPS.png    
   - name: Saki 
     icon: /media/Saki.png
     gradientColor: Frost

@@ -15,7 +15,7 @@ description:
 > Each equipped frost weapon increases the damage from spending stacks of Morale (Looting Formation) by 8%. If 3 frost Weapons are equipped, final damage is increased by an additional 8%.
  <br/> 
   <br/> 
-Pian Zhen
+Unity
 
 ![](https://telegra.ph/file/4a6860839884422427118.png )
 
