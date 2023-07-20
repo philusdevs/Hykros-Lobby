@@ -1,26 +1,18 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
-import Filter from '../components/filter'; // Add this import
 
 const SimulacraTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
   const simulacraList = frontmatter.simulacra || [];
 
-  const [activeFilter, setActiveFilter] = useState('All'); // Add this line for the active filter
-
-  const filteredSimulacraList = activeFilter === 'All'
-    ? simulacraList
-    : simulacraList.filter(simulacrum => simulacrum.gradientColor === activeFilter);
-
   return (
     <Layout title={frontmatter.title}>
-      <Filter activeFilter={activeFilter} setActiveFilter={setActiveFilter} /> {/* Add the Filter component here */}
       <SimulacraWrapper>
         <SimulacraTabView>
-          {filteredSimulacraList.map((simulacrum) => {
+          {simulacraList.map((simulacrum) => {
             const simulacrumImage = getImage(simulacrum.icon);
             const bottomLeftOverlayImage = getImage(simulacrum.bottomLeftOverlay);
             const bottomRightOverlayImage = getImage(simulacrum.bottomRightOverlay);
@@ -40,7 +32,7 @@ const SimulacraTemplate = ({ data }) => {
               case 'Physical':
                 gradientColors = 'linear-gradient(#7A6449, #D3B88F)';
                 break;
-              case 'Physical&Flame':
+                case 'Physical&Flame':
                 gradientColors = 'linear-gradient(#B59C78, #AD9A6E)';
                 break;
               case 'Altered':
@@ -86,11 +78,14 @@ const SimulacraTemplate = ({ data }) => {
   );
 };
 
+export default SimulacraTemplate;
+
 const SimulacraWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-around;
   height: 100%;
+  
 
   @media screen and (max-width: 1000px) {
     flex-direction: column;
@@ -126,7 +121,7 @@ const SimulacraBlock = styled.div`
 
 const SimulacraIconWrapper = styled.div`
   position: relative;
-  width: 100%;
+  width: 100%%;
 `;
 
 const SimulacraIcon = styled(GatsbyImage)`
@@ -246,5 +241,3 @@ export const pageQuery = graphql`
     }
   }
 `;
-
-export default SimulacraTemplate;
