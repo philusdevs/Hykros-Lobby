@@ -3,7 +3,7 @@ title: "Yu Lan"
 template: simu-template
 date: 2023-07-18
 social_image: '/media/tab_yulan.png'
-description: 
+description: Yu lan Kit
 ---
 
 ![](https://telegra.ph/file/1a50c447d33d8c7fde540.png)
