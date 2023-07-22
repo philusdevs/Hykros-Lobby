@@ -2,8 +2,8 @@
 title: "Simulacra"
 template: "simulacra-template"
 simulacra:
-  - name: Ming Jin 
-    icon: /media/ming_jin.png
+  - name: Ming Jing 
+    icon: /media/ming_jing.png
     gradientColor: Physical&Flame
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_PhysicalFlame.png
@@ -151,7 +151,13 @@ simulacra:
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/DPS.png   
+    bottomRightOverlay2: /media/DPS.png
+  - name: Huma
+    icon: /media/huma.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/fortitude.png        
   - name: Coco
     icon: /media/Coco.png
     gradientColor: Frost
@@ -163,19 +169,19 @@ simulacra:
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/DPS.png  
-  - name: Echo 
-    icon: /media/Echo.png
-    gradientColor: none
-    bottomLeftOverlay: /media/SR.png
-    bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/DPS.png
+    bottomRightOverlay2: /media/DPS.png     
   - name: Ene 
     icon: /media/Ene.png
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/fortitude.png
+  - name: Echo 
+    icon: /media/Echo.png
+    gradientColor: none
+    bottomLeftOverlay: /media/SR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png    
   - name: Hilda
     icon: /media/Hilda.png
     gradientColor: none
