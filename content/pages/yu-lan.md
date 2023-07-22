@@ -2,7 +2,7 @@
 title: "Yu Lan"
 template: simu-template
 date: 2023-07-18
-social_image: '/media/logo.png'
+social_image: '/media/tab_yulan.png'
 description: 
 ---
 

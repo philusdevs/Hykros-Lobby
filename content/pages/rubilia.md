@@ -2,7 +2,7 @@
 title: "Rubilia"
 template: simu-template
 date: 2023-06-02
-social_image: '/media/logo.png'
+social_image: '/media/tab_rubilia.png'
 description: 
 ---
 

@@ -2,7 +2,7 @@
 title: "Ming Jin"
 template: simu-template
 date: 2023-08-08
-social_image: '/media/logo.png'
+social_image: '/media/tab_mingjing.png'
 description: 
 ---
 >Currently in Beta (Simulucrum is subject to change)
