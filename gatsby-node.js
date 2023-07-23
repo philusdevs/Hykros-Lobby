@@ -10,7 +10,6 @@ const toKebabCase = (str) => {
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
-
   const result = await graphql(
     `
       {
@@ -30,7 +29,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         }
         tagsGroup: allMarkdownRemark(
           limit: 2000
-          filter: { fields: { contentType: { eq: "posts" } } }
+          filter: { fields: { contentType: { in: ["posts", "simulacra"] } } }
         ) {
           group(field: frontmatter___tags) {
             fieldValue

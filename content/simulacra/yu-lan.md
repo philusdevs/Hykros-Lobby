@@ -2,17 +2,19 @@
 title: "Yu Lan"
 template: simu-template
 date: 2023-07-18
+tags: liu huo
 social_image: '/media/tab_yulan.png'
 description: Yu lan Kit
 ---
 
 ![](https://telegra.ph/file/1a50c447d33d8c7fde540.png)
 
-### Awaken
+### Awaken: Attention
 
-> Final damage is increased by 18%. In the Way of Taoist style, final damage is increased by an additional 9%, and hitting with Abyss Leap takes 9% more frost damage to the target for 20 seconds.
+> Increase final damage by 18%.
 
-> Each equipped frost weapon increases the damage from spending stacks of Morale (Looting Formation) by 8%. If 3 frost Weapons are equipped, final damage is increased by an additional 8%.
+> While in the Martial Artist form, additionally increase final damage by 7%.
+While in the Sweeping Force form, for every 1 frost weapon equipped, increase damage dealt via consuming Fighting Spirit by 9%. When 3 frost weapons are equipped, increase frost damage by 8%.
  <br/> 
   <br/> 
 Unity

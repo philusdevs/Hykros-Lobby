@@ -6,8 +6,7 @@ import Tags from "../components/tags";
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
-  const prev = data.prev;
-  const next = data.next;
+
 
   return (
     <Layout
@@ -25,26 +24,15 @@ const PostTemplate = ({ data }) => {
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />
         </article>
 
-        <PostPagination>
-          {prev && (
-            <div>
-              <span>previous</span>
-              <Link to={prev.fields.slug}> {prev.frontmatter.title}</Link>
-            </div>
-          )}
-
-          {next && (
-            <div>
-              <span>next</span>
-              <Link to={next.fields.slug}> {next.frontmatter.title}</Link>
-            </div>
-          )}
-        </PostPagination>
+      
         <Tags tags={frontmatter.tags} />
       </PostWrapper>
     </Layout>
   );
 };
+
+
+
 
 export default PostTemplate;
 
