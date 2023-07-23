@@ -43,7 +43,13 @@ module.exports = {
         path: `${__dirname}/content/posts`,
       },
     },
-    
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "simulacra",
+        path: `${__dirname}/content/simulacra`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -157,3 +163,4 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
   ],
 };
+

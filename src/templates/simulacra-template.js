@@ -45,7 +45,7 @@ const SimulacraTemplate = ({ data }) => {
             return (
               <SimulacraTab key={simulacrum.name}>
                 <SimulacraBlock>
-                  <Link to={`/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`}>
+                  <Link to={`/simulacra/${simulacrum.name.toLowerCase().replace(/\s+/g, '-')}`}>
                     <SimulacraIconWrapper>
                       <SimulacraIcon image={simulacrumImage} alt={simulacrum.name} gradientColors={gradientColors} />
                       <SimulacraName>{simulacrum.name}</SimulacraName>

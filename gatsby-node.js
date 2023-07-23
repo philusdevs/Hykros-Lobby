@@ -59,6 +59,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     (node) => node.fields.contentType === `pages`
   );
 
+  // Filter nodes for the "simulacra" content type
+  const simuMarkdownNodes = allMarkdownNodes.filter(
+    (node) => node.fields.contentType === `simulacra`
+  );
 
   if (blogMarkdownNodes.length > 0) {
     blogMarkdownNodes.forEach((node, index) => {
@@ -85,7 +89,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     });
   }
 
-
   if (pageMarkdownNodes.length > 0) {
     pageMarkdownNodes.forEach((node) => {
       if (node.frontmatter.template) {
@@ -99,6 +102,21 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           },
         });
       }
+    });
+  }
+
+  if (simuMarkdownNodes.length > 0) {
+    simuMarkdownNodes.forEach((node) => {
+      // Get the base name of the file without extension
+      const fileName = path.basename(node.fields.slug, '.md');
+
+      createPage({
+        path: `/simulacra/${fileName}/`,
+        component: path.resolve(`./src/templates/simu-template.js`),
+        context: {
+          slug: `${node.fields.slug}`,
+        },
+      });
     });
   }
 
@@ -138,14 +156,17 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
-    if (fileNode.sourceInstanceName === 'simulacrum') {
+    if (fileNode.sourceInstanceName === 'simulacra') {
+      // Get the base name of the file without extension
+      const fileName = path.basename(relativeFilePath, path.extname(relativeFilePath));
+      
       createNodeField({
         name: `slug`,
         node,
-        value: `/simulacrum${relativeFilePath}`,
+        value: `/simulacra/${fileName}/`,
       });
     }
-    
+
     if (fileNode.sourceInstanceName === 'pages') {
       createNodeField({
         name: `slug`,
