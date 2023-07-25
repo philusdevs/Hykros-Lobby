@@ -2,7 +2,6 @@
 title: "Yu Lan"
 template: simu-template
 date: 2023-07-18
-tags: liu huo
 social_image: '/media/tab_yulan.png'
 description: Yu lan Kit
 ---
