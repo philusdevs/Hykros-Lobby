@@ -1,6 +1,5 @@
 ---
-title: "Ming Jin"
-template: simu-template
+title: "Ming Jing"
 date: 2023-08-08
 social_image: '/media/tab_mingjing.png'
 description: Ming Jing Kit

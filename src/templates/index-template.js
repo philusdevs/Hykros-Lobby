@@ -4,6 +4,7 @@ import { Search as SearchIcon } from '@material-ui/icons';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import PostList from '../components/post-list';
+import SimulacraList from '../components/simu-list'; // Import SimulacraList component
 import StyledLink from '../components/styled-link';
 import styled from 'styled-components';
 
@@ -22,10 +23,14 @@ const HomePage = ({ data }) => {
   const filteredPosts = posts.filter((post) => {
     const { title, tags } = post.frontmatter;
     const lowerCaseQuery = searchQuery.toLowerCase();
+    const contentType = post.fields.contentType;
+
+    // Use optional chaining to handle the case where tags might be null or undefined
+    const tagsString = tags?.join(' ').toLowerCase();
 
     return (
-      title.toLowerCase().includes(lowerCaseQuery) ||
-      tags.join(' ').toLowerCase().includes(lowerCaseQuery)
+      (contentType === "posts" || contentType === "simulacra") &&
+      (title.toLowerCase().includes(lowerCaseQuery) || (tagsString && tagsString.includes(lowerCaseQuery)))
     );
   });
 
@@ -54,7 +59,9 @@ const HomePage = ({ data }) => {
         />
       </SearchContainer>
 
+      {/* Render both PostList and SimulacraList */}
       {searchQuery && <PostList posts={filteredPosts} />}
+      {searchQuery && <SimulacraList posts={filteredPosts} />}
     </Layout>
   );
 };
@@ -107,13 +114,14 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "posts" } } }
+      filter: { fields: { contentType: { in: ["posts", "simulacra"] } } }
       sort: { order: DESC, fields: frontmatter___date }
       limit: 9
     ) {
       nodes {
         fields {
           slug
+          contentType
         }
         excerpt
         timeToRead
