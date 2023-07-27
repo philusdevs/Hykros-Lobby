@@ -105,7 +105,7 @@ const StyledHeader = styled.header`
   padding-top: var(--size-300);
   background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")};
   color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#000000")};
-  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 0s" : "background-color 0.5s")};
+  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 5s" : "background-color 10s")};
 `;
 
 const HeaderNavList = ({ children }) => {
