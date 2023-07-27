@@ -7,6 +7,7 @@ import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 const SimulacraTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
   const simulacraList = frontmatter.simulacra || [];
+  
 
   return (
     <Layout title={frontmatter.title}>

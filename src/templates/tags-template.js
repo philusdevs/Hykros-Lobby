@@ -10,6 +10,7 @@ const TagsTemplate = ({ pageContext, data }) => {
   const { totalCount } = data.allMarkdownRemark;
   const posts = data.allMarkdownRemark.nodes;
   const title = `Posts tagged ${tag}`;
+  
 
   return (
     <Layout title={title}>

@@ -10,6 +10,7 @@ import styled from 'styled-components';
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [isDarkMode, setIsDarkMode] = useState(false); // Add dark mode state
+  
 
   const posts = data.allMarkdownRemark.nodes;
   const intro = data.markdownRemark.html;

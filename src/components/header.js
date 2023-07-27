@@ -2,8 +2,9 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
-import ThemeSwitch from "./theme-switch";
+import ThemeSwitchButton from "./theme-switch";
 import { useStaticQuery, graphql } from "gatsby";
+import { useTheme } from '../ThemeContext/ThemeContext';
 
 const HEADER_NAV_ITEM = [
   {
@@ -42,12 +43,14 @@ const Header = () => {
     `
   );
 
+  const { darkMode } = useTheme(); // Get the dark mode state from the ThemeContext
+
   return (
-    <StyledHeader>
+    <StyledHeader darkMode={darkMode}>
       <HeaderWrapper>
         <HeaderLogo>
           <Link to="/">
-            <img src="/media/logo.png" />
+            <img src="/media/logo.png" alt="Logo" />
           </Link>
         </HeaderLogo>
 
@@ -70,7 +73,7 @@ const Header = () => {
             );
           })}
           <HeaderNavListItem>
-            <ThemeSwitch />
+            <ThemeSwitchButton />
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
@@ -79,6 +82,13 @@ const Header = () => {
 };
 
 export default Header;
+
+// StyledHeader and other styled components
+const StyledHeader = styled.header`
+  padding-top: var(--size-300);
+  background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")}; // Set background color based on dark mode
+  color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#000000")}; // Set text color based on dark mode
+`;
 
 const HeaderNavList = ({ children }) => {
   return (
@@ -92,9 +102,6 @@ const HeaderNavListItem = ({ children }) => {
   return <StyledNavListItem>{children}</StyledNavListItem>;
 };
 
-const StyledHeader = styled.header`
-  padding-top: var(--size-300);
-`;
 
 const HeaderWrapper = styled(Container)`
   display: flex;
