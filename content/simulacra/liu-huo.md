@@ -5,8 +5,6 @@ tags: [SSR, Flame]
 social_image: '/media/tab_liuhuo.png'
 description: Liu Huo Kit
 ---
-
-
 ![liu_huo](https://telegra.ph/file/b92dcf4a1580b810fef54.png)
 
 #### Awaken
