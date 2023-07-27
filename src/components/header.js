@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import styled from "styled-components";
+import React, { useEffect, useState } from "react";
+import styled, { css } from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
 import ThemeSwitchButton from "./theme-switch";
@@ -43,22 +43,27 @@ const Header = () => {
   );
 
   const { darkMode, setDarkMode } = useTheme(); // Get the dark mode state and setter from the ThemeContext
-  const [updatedDarkMode, setUpdatedDarkMode] = useState(darkMode); // Separate state variable for updated dark mode preference
 
-  const handleThemeToggle = () => {
-    setUpdatedDarkMode((prevDarkMode) => !prevDarkMode); // Update the separate state variable for the new dark mode preference
-
-    // Store the new dark mode preference in local storage
-    localStorage.setItem("darkMode", (!darkMode).toString());
-  };
+  const [isInitialLoad, setIsInitialLoad] = useState(true);
 
   useEffect(() => {
-    // Apply the updated dark mode preference when the page is refreshed or re-rendered
-    setDarkMode(updatedDarkMode);
-  }, [updatedDarkMode, setDarkMode]);
+    const localDarkMode = localStorage.getItem("darkMode");
+    if (localDarkMode !== null) {
+      // If there's a dark mode preference in localStorage, use it on initial load
+      setDarkMode(localDarkMode === "true");
+      setIsInitialLoad(false);
+    }
+  }, [setDarkMode]);
+
+  useEffect(() => {
+    if (!isInitialLoad) {
+      // If it's not the initial load, update localStorage with the new dark mode preference
+      localStorage.setItem("darkMode", darkMode.toString());
+    }
+  }, [darkMode, isInitialLoad]);
 
   return (
-    <StyledHeader darkMode={darkMode}>
+    <StyledHeader darkMode={darkMode} isInitialLoad={isInitialLoad}>
       <HeaderWrapper>
         <HeaderLogo>
           <Link to="/">
@@ -85,7 +90,7 @@ const Header = () => {
             );
           })}
           <HeaderNavListItem>
-            <ThemeSwitchButton onClick={handleThemeToggle} />
+            <ThemeSwitchButton />
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
@@ -98,8 +103,9 @@ export default Header;
 // StyledHeader and other styled components
 const StyledHeader = styled.header`
   padding-top: var(--size-300);
-  background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")}; // Set background color based on dark mode
-  color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#000000")}; // Set text color based on dark mode
+  background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")};
+  color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#000000")};
+  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 4s" : "background-color 4s")};
 `;
 
 const HeaderNavList = ({ children }) => {
