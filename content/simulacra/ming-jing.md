@@ -53,7 +53,7 @@ If equipped with 1 item of electric, fire, or ice weapon, shield penetration dam
 ### Advancements
 
 </br>
-1★ Whenever a Heavy Wound is applied, you deal devouring damage to the target equal to 30% of ATK. This effect can occur no more than once every 0.5 seconds.
+1★ Every time grievous is applied, deal devouring damage equal to 50% of ATK to the target. This effect can only be triggered 1 time every 0.5 seconds.Every time the weapon's ignite trait is applied to a non-grievous target, the target becomes grievous for 7 seconds.
 
 </br>
 
