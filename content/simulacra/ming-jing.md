@@ -1,6 +1,7 @@
 ---
 title: "Ming Jing"
 date: 2023-08-08
+tags: [SSR, Physical, Flame]
 social_image: '/media/tab_mingjing.png'
 description: Ming Jing Kit
 ---

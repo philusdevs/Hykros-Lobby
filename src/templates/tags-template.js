@@ -61,15 +61,14 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         frontmatter: { tags: { in: [$tag] } }
-        fields: {
-          contentType: { in: ["posts", "simulacra"] }
-        }
+        fields: { contentType: { in: ["posts", "simulacra"] } }
       }
     ) {
       totalCount
       nodes {
         fields {
           slug
+          contentType
         }
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
@@ -83,3 +82,4 @@ export const pageQuery = graphql`
     }
   }
 `;
+

@@ -1,7 +1,7 @@
 ---
 title: "Yu Lan"
 date: 2023-07-18
-tags: [Yu Lan, kit]
+tags: [SSR, Frost]
 social_image: '/media/tab_yulan.png'
 description: Yu lan Kit
 ---
