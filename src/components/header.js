@@ -50,8 +50,8 @@ const Header = () => {
     const localDarkMode = localStorage.getItem("darkMode");
     if (localDarkMode !== null) {
       // If there's a dark mode preference in localStorage, use it on initial load
-      setDarkMode(localDarkMode === "true");
-      setIsInitialLoad(true);
+      setDarkMode(localDarkMode === "false");
+      setIsInitialLoad(false);
     }
   }, [setDarkMode]);
 
