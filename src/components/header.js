@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
@@ -11,19 +11,18 @@ const HEADER_NAV_ITEM = [
     label: "Guides",
     url: "/guides",
     isExternal: false,
-  } 
-  ,
+  },
   {
     label: "Simulacra",
     url: "/simulacra",
     isExternal: false,
-  }/*,
-  {
+  },
+  /*{
     label: "Contact",
     url: "/contact",
     isExternal: false,
   },*/
-  ,{
+  {
     label: "About",
     url: "/about",
     isExternal: false,
@@ -43,7 +42,20 @@ const Header = () => {
     `
   );
 
-  const { darkMode } = useTheme(); // Get the dark mode state from the ThemeContext
+  const { darkMode, setDarkMode } = useTheme(); // Get the dark mode state and setter from the ThemeContext
+  const [updatedDarkMode, setUpdatedDarkMode] = useState(darkMode); // Separate state variable for updated dark mode preference
+
+  const handleThemeToggle = () => {
+    setUpdatedDarkMode((prevDarkMode) => !prevDarkMode); // Update the separate state variable for the new dark mode preference
+
+    // Store the new dark mode preference in local storage
+    localStorage.setItem("darkMode", (!darkMode).toString());
+  };
+
+  useEffect(() => {
+    // Apply the updated dark mode preference when the page is refreshed or re-rendered
+    setDarkMode(updatedDarkMode);
+  }, [updatedDarkMode, setDarkMode]);
 
   return (
     <StyledHeader darkMode={darkMode}>
@@ -73,7 +85,7 @@ const Header = () => {
             );
           })}
           <HeaderNavListItem>
-            <ThemeSwitchButton />
+            <ThemeSwitchButton onClick={handleThemeToggle} />
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
@@ -101,6 +113,7 @@ const HeaderNavList = ({ children }) => {
 const HeaderNavListItem = ({ children }) => {
   return <StyledNavListItem>{children}</StyledNavListItem>;
 };
+
 
 
 const HeaderWrapper = styled(Container)`

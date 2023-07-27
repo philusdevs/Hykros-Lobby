@@ -1,15 +1,19 @@
-// ThemeSwitchButton.js
 import React from 'react';
 import { DarkModeSwitch } from 'react-toggle-dark-mode';
 import styled from 'styled-components';
-import { useTheme } from '../ThemeContext/ThemeContext'; // Adjust the path based on your folder structure
+import { useTheme } from '../ThemeContext/ThemeContext';
 
 const ThemeSwitchButton = () => {
-  const { darkMode, toggleTheme } = useTheme(); // Use the hook to get the theme mode and toggle function
+  const { darkMode, setDarkMode } = useTheme();
+
+  const handleThemeToggle = () => {
+    setDarkMode((prevDarkMode) => !prevDarkMode);
+    window.location.reload(); // Refresh the page after the dark mode state is updated
+  };
 
   return (
     <StyledThemeSwitch>
-      <DarkModeSwitch checked={darkMode} size={20} onChange={toggleTheme} /> {/* Use the theme mode and toggle function */}
+      <DarkModeSwitch checked={darkMode} onChange={handleThemeToggle} size={20} />
     </StyledThemeSwitch>
   );
 };

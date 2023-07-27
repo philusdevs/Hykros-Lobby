@@ -5,21 +5,23 @@ import Footer from "./footer";
 import Container from "./container";
 import GlobalStyle from "./global-styles";
 import styled from "styled-components";
-
+import { ThemeProvider } from "../ThemeContext/ThemeContext"; // Import the ThemeProvider
 
 const Layout = ({ children, title, description, socialImage = "" }) => {
   return (
-    <Fragment>
-      <GlobalStyle />
-      <Seo title={title} description={description} socialImage={socialImage} />
-      <LayoutWrapper>
-        <Header />
-        <main>
-          <Container>{children}</Container>
-        </main>
-        <Footer />
-      </LayoutWrapper>
-    </Fragment>
+    <ThemeProvider> {/* Wrap the entire layout with the ThemeProvider */}
+      <Fragment>
+        <GlobalStyle />
+        <Seo title={title} description={description} socialImage={socialImage} />
+        <LayoutWrapper>
+          <Header />
+          <main>
+            <Container>{children}</Container>
+          </main>
+          <Footer />
+        </LayoutWrapper>
+      </Fragment>
+    </ThemeProvider>
   );
 };
 

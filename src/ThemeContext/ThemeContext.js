@@ -1,29 +1,40 @@
-import React, { createContext, useState, useEffect, useContext } from 'react';
+import React, { createContext, useState, useContext, useEffect } from "react";
 
 const ThemeContext = createContext();
+const useTheme = () => useContext(ThemeContext);
 
-export const ThemeProvider = ({ children }) => {
-  const [darkMode, setDarkMode] = useState(true);
+const ThemeProvider = ({ children }) => {
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    try {
+      const storedDarkMode = localStorage.getItem("darkMode");
+      return storedDarkMode ? JSON.parse(storedDarkMode) : true;
+    } catch (error) {
+      console.error("Error accessing localStorage:", error);
+      return true;
+    }
+  });
 
   useEffect(() => {
-    // Fetch the theme mode from persisted storage (e.g., localStorage) and set the initial state
-    const savedThemeMode = localStorage.getItem('darkMode');
-    setDarkMode(savedThemeMode === 'true');
+    setIsLoaded(true); // Mark the initial load as complete after the first render
   }, []);
 
-  const toggleTheme = () => {
-    // Toggle the theme mode and save the updated state to persisted storage
-    setDarkMode((prevMode) => {
-      localStorage.setItem('darkMode', !prevMode);
-      return !prevMode;
-    });
-  };
+  useEffect(() => {
+    // After the initial load and when dark mode changes, save to localStorage
+    if (isLoaded) {
+      try {
+        localStorage.setItem("darkMode", JSON.stringify(darkMode));
+      } catch (error) {
+        console.error("Error accessing localStorage:", error);
+      }
+    }
+  }, [darkMode, isLoaded]);
 
   return (
-    <ThemeContext.Provider value={{ darkMode, toggleTheme }}>
+    <ThemeContext.Provider value={{ darkMode, setDarkMode }}>
       {children}
     </ThemeContext.Provider>
   );
 };
 
-export const useTheme = () => useContext(ThemeContext);
+export { ThemeProvider, useTheme };

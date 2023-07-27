@@ -1,9 +1,10 @@
-
 import React from 'react';
 import { ThemeProvider } from './src/ThemeContext/ThemeContext';
 
-export const wrapRootElement = ({ element }) => (
-  <ThemeProvider>{element}</ThemeProvider>
-);
+import './src/components/prism-coldark-dark.css'; // Move the import inside gatsby-browser.js
 
-require('./src/components/prism-coldark-dark.css');
+export const wrapRootElement = ({ element }) => (
+  <ThemeProvider>
+    {element}
+  </ThemeProvider>
+);
