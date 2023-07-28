@@ -70,7 +70,7 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 || **Fifth Attack:**   Deal damage equal to `279.2%` of ATK + 15 and continuously knock the target back.| 
 || **Sixth Attack:**  Deal damage equal to `227.4%` of ATK + 12 and knock the target into the air.| 
 ||</br> Battering Fist can be used in either the Martial Artist or Sweeping Force form. After using any dodge attack while in the Martial Artist form, use normal attack to quickly trigger the Fourth Attack. After the Fifth Attack lands a hit while in the Martial Artist form, strongly freeze the target for 2 seconds (unavailable in Apex League and against bosses) and additionally inflict Chilblain, dealing damage equal to `280%` of ATK plus 15 every second for 8 seconds. This effect can only be triggered on the same target 1 time every 8 seconds.|
-| </br>  **Arial:Floating Fist**|  </br> `Attack X6` While airborne, use a regular attack to perform 5 consecutive attacks in the air, consuming stamina.|
+| </br>  **Arial: Floating Fist**|  </br> `Attack X6` While airborne, use a regular attack to perform 5 consecutive attacks in the air, consuming stamina.|
 ||**First Attack:** Deal damage equal to `68.4%` of ATK + 4.|
 ||**Second Attack:** Deal damage equal to `59.9%` of ATK + 3.|
 ||**Third Attack:** Deal damage equal to `62.7%` of ATK + 3.|
