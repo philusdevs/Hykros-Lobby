@@ -63,7 +63,7 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: { tags: { in: [$tag] } }
         fields: {
-          contentType: { in: ["posts", "simulacra", "matrices"] }
+          contentType: { in: [ "posts", "simulacra", "matrices" ] }
         }
       }
     ) {
