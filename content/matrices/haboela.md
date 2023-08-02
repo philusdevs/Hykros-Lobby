@@ -7,8 +7,6 @@ description: Haboela Matrices
 ---
 ### Volcanic Ash Rain
 
-</br>
-
 ![](https://telegra.ph/file/740497fe2de3d735acce4.png)
 
 

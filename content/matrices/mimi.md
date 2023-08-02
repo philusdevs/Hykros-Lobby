@@ -8,12 +8,7 @@ description: Mimi Matrices
 
 #### TBA
 
-</br>
-
 ![](https://telegra.ph/file/25cdb8ade6eecd8365ce6.png)
-
-<br/> 
-
 
 > **2-piece:** Increase final damage by 10% / 12% / 14% / 16%. After a Little Green Dragon hits a target with an attack, increase skill damage by 30% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 

@@ -7,8 +7,6 @@ description: Scylla Matrices
 ---
 ### Reverberating Drums
 
-</br>
-
 ![](https://telegra.ph/file/20facf9fd4be663ad2b55.png)
 
 

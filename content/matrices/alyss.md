@@ -7,10 +7,7 @@ description: Alyss Matrices
 ---
 ### Spiritual Reconstruction 
 
-</br>
-
 ![](https://telegra.ph/file/33c8c96a40fe435b03f86.png)
-
 
 > **2-piece:** Increase final damage by 4.5% / 5.5% / 6.5% / 7.5% upon switching to this weapon. Increase frost damage by an additional 3% for 18 seconds if it's a frost weapon. Only the set with the highest star rating will take effect.
 
