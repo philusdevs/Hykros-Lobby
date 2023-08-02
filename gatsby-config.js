@@ -46,6 +46,13 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
+        name: "matrices",
+        path: `${__dirname}/content/matrices`,
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
         name: "simulacra",
         path: `${__dirname}/content/simulacra`,
       },

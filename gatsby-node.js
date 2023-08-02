@@ -29,7 +29,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         }
         tagsGroup: allMarkdownRemark(
           limit: 2000
-          filter: { fields: { contentType: { in: ["posts", "simulacra"] } } }
+          filter: { fields: { contentType: { in: ["posts", "simulacra", "matrices"] } } }
         ) {
           group(field: frontmatter___tags) {
             fieldValue
@@ -61,6 +61,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   // Filter nodes for the "simulacra" content type
   const simuMarkdownNodes = allMarkdownNodes.filter(
     (node) => node.fields.contentType === `simulacra`
+  );
+
+  const matMarkdownNodes = allMarkdownNodes.filter(
+    (node) => node.fields.contentType === `matrices`
   );
 
   if (blogMarkdownNodes.length > 0) {
@@ -119,6 +123,21 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     });
   }
 
+  if (matMarkdownNodes.length > 0) {
+    matMarkdownNodes.forEach((node) => {
+      // Get the base name of the file without extension
+      const fileName = path.basename(node.fields.slug, '.md');
+
+      createPage({
+        path: `/matrices/${fileName}/`,
+        component: path.resolve(`./src/templates/mat-template.js`),
+        context: {
+          slug: `${node.fields.slug}`,
+        },
+      });
+    });
+  }
+
   tags.forEach((tag) => {
     createPage({
       path: `/tags/${toKebabCase(tag.fieldValue)}/`,
@@ -163,6 +182,17 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         name: `slug`,
         node,
         value: `/simulacra/${fileName}/`,
+      });
+    }
+
+    if (fileNode.sourceInstanceName === 'matrices') {
+      // Get the base name of the file without extension
+      const fileName = path.basename(relativeFilePath, path.extname(relativeFilePath));
+      
+      createNodeField({
+        name: `slug`,
+        node,
+        value: `/matrices/${fileName}/`,
       });
     }
 

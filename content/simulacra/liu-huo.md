@@ -2,7 +2,7 @@
 title: "Liu huo"
 date: 2023-06-27
 tags: [SSR, Flame]
-social_image: '/media/tab_liuhuo.png'
+social_image: /media/tab_liuhuo.png
 description: Liu Huo Kit
 ---
 ![liu_huo](https://telegra.ph/file/b92dcf4a1580b810fef54.png)
@@ -17,6 +17,8 @@ Pine Comet
 ![](https://telegra.ph/file/1b86730c66f5415bba330.png)
 
 Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 15.00
+
+</br>
 
 #### Element Type: Flame
 

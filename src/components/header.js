@@ -17,6 +17,11 @@ const HEADER_NAV_ITEM = [
     url: "/simulacra",
     isExternal: false,
   },
+  {
+    label: "Matrices",
+    url: "/matrices",
+    isExternal: false,
+  },
   /*{
     label: "Contact",
     url: "/contact",
@@ -178,4 +183,3 @@ const StyledNavListItem = styled.li`
     }
   }
 `;
-
