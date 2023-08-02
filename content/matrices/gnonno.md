@@ -1,8 +1,7 @@
-
 ---
 title: "Gnonno"
 date: 2023-06-02
-tags: [SSR,Matrices, Physical]
+tags: [SSR, Matrices, Physical]
 social_image: '/media/logo.png'
 description: Gnonno Matirces
 ---

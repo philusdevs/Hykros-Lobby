@@ -14,6 +14,4 @@ description: Ming Jing Matrices
 
 > **2-piece:** Increases the number of linked chain members to 5. When equipped with at least one physical or fire weapon, physical and fire attack power increases by 14%/16%/18%/20%. The effect can be applied in the background after equipping. Only the highest star level takes effect.
 
-</br>
-
 > **4-piece:** After adding Snake Devour effect, physical and fire attack power increases by 9% for 30 seconds. In battle, the final damage increases by 14%/17%/20%/23%. The effect can be applied in the background after equipping. Only the highest star level takes effect.
