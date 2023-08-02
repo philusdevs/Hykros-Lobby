@@ -5,7 +5,6 @@ tags: [SSR, Matrices, Volt]
 social_image: /media/logo
 description: Mimi Matrices
 ---
-
 #### TBA
 
 ![](https://telegra.ph/file/25cdb8ade6eecd8365ce6.png)

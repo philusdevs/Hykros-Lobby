@@ -5,7 +5,6 @@ tags: [SSR, Matrices, Physical]
 social_image: '/media/logo.png'
 description: Gnonno Matirces
 ---
-
 #### Adventure Asteroid
 
 ![](https://telegra.ph/file/b74a86a716225aedef72c.png)
