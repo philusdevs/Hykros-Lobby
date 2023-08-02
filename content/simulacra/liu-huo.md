@@ -55,7 +55,7 @@ Wanderer's resistance types plus 200% of crit. This effect can be triggered once
 
 </br>
 
-![](https://telegra.ph/file/6dc971ed931a19268d50d.png)
+![](https://telegra.ph/file/3dd8e9490147f7e273c62.png)
 
 <br/> 
 
