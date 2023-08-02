@@ -27,11 +27,11 @@ const HEADER_NAV_ITEM = [
     url: "/contact",
     isExternal: false,
   },*/
-  {
+  /*{
     label: "About",
     url: "/about",
     isExternal: false,
-  },
+  },*/
 ];
 
 const Header = () => {
