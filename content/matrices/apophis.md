@@ -1,6 +1,6 @@
 ---
 title: "Apophis"
-date: 2023-08-08
+date: 2022-08-11
 tags: [SSR, Matrices]
 social_image: '/media/logo.png'
 description: Apophis Matrices
