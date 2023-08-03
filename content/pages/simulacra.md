@@ -2,6 +2,18 @@
 title: "Simulacra"
 template: "simulacra-template"
 simulacra:
+  - name: Fei Se
+    icon: /media/Fei_se.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Mimi 
+    icon: /media/Mimi.png
+    gradientColor: Volt
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay2: /media/DPS.png
   - name: Ming Jing 
     icon: /media/ming_jing.png
     gradientColor: Physical&Flame

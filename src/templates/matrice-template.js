@@ -42,7 +42,7 @@ export default MatriceTemplate;
 const MatriceTitle = styled.h1`
   font-size: 2rem;
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 `;
 
 const MatriceWrapper = styled.div`

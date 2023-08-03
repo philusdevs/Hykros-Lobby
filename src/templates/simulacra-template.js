@@ -84,8 +84,8 @@ export default SimulacraTemplate;
 
 const SimulacraTitle = styled.h1`
 font-size: 2rem;
-  text-align: center;
-  margin-bottom: 3rem;
+  text-align: left;
+  margin-bottom: 2rem;
 `;
 const SimulacraWrapper = styled.div`
   display: flex;
