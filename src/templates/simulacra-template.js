@@ -11,6 +11,7 @@ const SimulacraTemplate = ({ data }) => {
 
   return (
     <Layout title={frontmatter.title}>
+      <SimulacraTitle>{frontmatter.title}</SimulacraTitle>
       <SimulacraWrapper>
         <SimulacraTabView>
           {simulacraList.map((simulacrum) => {
@@ -81,12 +82,17 @@ const SimulacraTemplate = ({ data }) => {
 
 export default SimulacraTemplate;
 
+const SimulacraTitle = styled.h1`
+font-size: 2rem;
+  text-align: center;
+  margin-bottom: 3rem;
+`;
 const SimulacraWrapper = styled.div`
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center; /* Center the content horizontally */
   height: 100%;
-  
+  margin: 0 auto; /* This will center the MatriceWrapper horizontally */
 
   @media screen and (max-width: 1000px) {
     flex-direction: column;
@@ -96,13 +102,33 @@ const SimulacraWrapper = styled.div`
 `;
 
 const SimulacraTabView = styled.div`
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 1rem;
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+grid-gap: 0.5rem;
 
-  @media screen and (max-width: 1000px) {
-    grid-template-columns: repeat(2, 1fr);
-  }
+@media screen and (max-width: 480px) {
+  /* For smaller smartphones */
+  grid-template-columns: repeat(2, 1fr);
+  /* You can also adjust the font-size here if needed */
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  /* For larger smartphones and small tablets */
+  grid-template-columns: repeat(3, 1fr);
+  /* You can adjust the font-size here if needed */
+}
+
+@media screen and (min-width: 769px) and (max-width: 1200px) {
+  /* For medium-sized tablets and laptops */
+  grid-template-columns: repeat(4, 1fr);
+  /* You can adjust the font-size here if needed */
+}
+
+@media screen and (min-width: 1201px) {
+  /* For larger laptops and desktops */
+  grid-template-columns: repeat(6, 1fr);
+  /* You can adjust the font-size here if needed */
+}
 `;
 
 const SimulacraTab = styled.div`

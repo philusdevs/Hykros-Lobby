@@ -10,6 +10,7 @@ const MatriceTemplate = ({ data }) => {
 
   return (
     <Layout title={frontmatter.title}>
+      <MatriceTitle>{frontmatter.title}</MatriceTitle>
       <MatriceWrapper>
         <MatriceTabView>
           {matriceList.map((matrice) => {
@@ -38,11 +39,18 @@ const MatriceTemplate = ({ data }) => {
 
 export default MatriceTemplate;
 
+const MatriceTitle = styled.h1`
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 3rem;
+`;
+
 const MatriceWrapper = styled.div`
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center; /* Center the content horizontally */
   height: 100%;
+  margin: 0 auto; /* This will center the MatriceWrapper horizontally */
 
   @media screen and (max-width: 1000px) {
     flex-direction: column;
@@ -51,17 +59,35 @@ const MatriceWrapper = styled.div`
   }
 `;
 
-
 const MatriceTabView = styled.div`
   display: grid;
-  grid-template-columns: repeat(8, 1fr);
-  grid-row-gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 0.5rem;
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 480px) {
+    /* For smaller smartphones */
     grid-template-columns: repeat(2, 1fr);
+    /* You can also adjust the font-size here if needed */
+  }
+
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    /* For larger smartphones and small tablets */
+    grid-template-columns: repeat(3, 1fr);
+    /* You can adjust the font-size here if needed */
+  }
+
+  @media screen and (min-width: 769px) and (max-width: 1200px) {
+    /* For medium-sized tablets and laptops */
+    grid-template-columns: repeat(4, 1fr);
+    /* You can adjust the font-size here if needed */
+  }
+
+  @media screen and (min-width: 1201px) {
+    /* For larger laptops and desktops */
+    grid-template-columns: repeat(8, 1fr);
+    /* You can adjust the font-size here if needed */
   }
 `;
-
 const MatriceTab = styled.div`
   display: flex;
   flex-direction: column;

@@ -1,5 +1,5 @@
 ---
-title: "Matrice"
+title: "Matrices"
 template: "matrice-template"
 matrice:
   - name: Mimi
