@@ -63,6 +63,42 @@ matrice:
   - name: Coco
     icon: /media/Coco_m.png
   - name: Samir
-    icon: /media/Samir_m.png                   
+    icon: /media/Samir_m.png
+  - name: Apophis 
+    icon: /media/Apophis_m.png
+  - name: Bai Ling
+    icon: /media/Bai_Ling_m.png 
+  - name: Barbarossa
+    icon: /media/Barbarossa_m.png
+  - name: Echo 
+    icon: /media/Echo_m.png
+  - name: Ene
+    icon: /media/Ene_m.png
+  - name: Frost Bot
+    icon: /media/Frost_Bot_m.png
+  - name: Hilda
+    icon: /media/Hilda_m.png
+  - name: Pepper
+    icon: /media/Pepper_m.png
+  - name: Robarg
+    icon: /media/Robarg_m.png      
+  - name: Sobek
+    icon: /media/Sobek_m.png
+  - name: F.Dash
+    icon: /media/Functional_Dash_m.png  
+  - name: O.Removal
+    icon: /media/Obstacle_Removal_m.png
+  - name: Plunder
+    icon: /media/Plunder_m.png
+  - name: S.explosive
+    icon: /media/Self_explosive_m.png
+  - name: S.Operation
+    icon: /media/Standard_Operation_m.png     
+  - name: Wind Blade
+    icon: /media/Wind_Blade_m.png
+  - name: S.Bloodline
+    icon: /media/Savage_Bloodline_m.png
+  - name: Swipe
+    icon: /media/Swipe_m.png             
 ---
 
