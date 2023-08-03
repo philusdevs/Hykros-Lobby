@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TextField, IconButton } from '@material-ui/core';
+import { TextField, InputAdornment, IconButton } from '@material-ui/core';
 import { Search as SearchIcon } from '@material-ui/icons';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
@@ -10,7 +10,6 @@ import styled from 'styled-components';
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [isDarkMode, setIsDarkMode] = useState(false); // Add dark mode state
-  
 
   const posts = data.allMarkdownRemark.nodes;
   const intro = data.markdownRemark.html;
@@ -44,14 +43,16 @@ const HomePage = ({ data }) => {
           onChange={handleSearchChange}
           placeholder="Search"
           variant="outlined"
+          darkMode={isDarkMode} // Pass the dark mode state as a prop
           InputProps={{
             startAdornment: (
-              <IconButton disabled>
-                <SearchIcon />
-              </IconButton>
+              <InputAdornment position="start">
+                <IconButton onClick={() => console.log('Search clicked')}>
+                  <SearchIcon />
+                </IconButton>
+              </InputAdornment>
             ),
           }}
-          darkMode={isDarkMode} // Pass the dark mode state as a prop
         />
       </SearchContainer>
 
@@ -59,6 +60,8 @@ const HomePage = ({ data }) => {
     </Layout>
   );
 };
+
+
 
 export default HomePage;
 
