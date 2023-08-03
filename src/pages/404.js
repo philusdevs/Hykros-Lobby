@@ -7,7 +7,7 @@ const NotFoundPage = () => {
   return (
     <Layout title="404 Not Found">
       <NotFoundPageWrapper>
-        <Ghost size={240} mood="sad" color="#E0E4E8" />
+        <img src = "./media/404.png" alt= "404"></img>
         <h1>OOPS..</h1>
         <p>404. Page not found</p>
       </NotFoundPageWrapper>
