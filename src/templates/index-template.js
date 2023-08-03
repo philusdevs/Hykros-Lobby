@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { TextField, InputAdornment, IconButton } from '@material-ui/core';
 import { Search as SearchIcon } from '@material-ui/icons';
 import { Link, graphql } from 'gatsby';
@@ -10,6 +10,12 @@ import styled from 'styled-components';
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [isDarkMode, setIsDarkMode] = useState(false); // Add dark mode state
+  const [stylesLoaded, setStylesLoaded] = useState(false); // Add state for styles loaded
+
+  useEffect(() => {
+    // Set stylesLoaded to true after the styles have been loaded
+    setStylesLoaded(true);
+  }, []);
 
   const posts = data.allMarkdownRemark.nodes;
   const intro = data.markdownRemark.html;
@@ -31,39 +37,42 @@ const HomePage = ({ data }) => {
 
   return (
     <Layout title={title}>
-      <Intro
-        dangerouslySetInnerHTML={{
-          __html: intro,
-        }}
-      />
+      {stylesLoaded && ( // Only render the content when styles are loaded
+        <>
+          <Intro
+            dangerouslySetInnerHTML={{
+              __html: intro,
+            }}
+          />
 
-      <SearchContainer>
-        <StyledTextField
-          value={searchQuery}
-          onChange={handleSearchChange}
-          placeholder="Search"
-          variant="outlined"
-          darkMode={isDarkMode} // Pass the dark mode state as a prop
-          InputProps={{
-            startAdornment: (
-              <InputAdornment position="start">
-                <IconButton onClick={() => console.log('Search clicked')}>
-                  <SearchIcon />
-                </IconButton>
-              </InputAdornment>
-            ),
-          }}
-        />
-      </SearchContainer>
+          <SearchContainer>
+            <StyledTextField
+              value={searchQuery}
+              onChange={handleSearchChange}
+              placeholder="Search"
+              variant="outlined"
+              darkMode={isDarkMode} // Pass the dark mode state as a prop
+              InputProps={{
+                startAdornment: (
+                  <InputAdornment position="start">
+                    <IconButton onClick={() => console.log('Search clicked')}>
+                      <SearchIcon />
+                    </IconButton>
+                  </InputAdornment>
+                ),
+              }}
+            />
+          </SearchContainer>
 
-      {searchQuery && <PostList posts={filteredPosts} />}
+          {searchQuery && <PostList posts={filteredPosts} />}
+        </>
+      )}
     </Layout>
   );
 };
 
-
-
 export default HomePage;
+
 
 const Intro = styled.div`
   display: flex;
