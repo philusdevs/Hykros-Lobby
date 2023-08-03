@@ -2,6 +2,8 @@
 title: "Matrices"
 template: "matrice-template"
 matrice:
+  - name: Fei Se
+    icon: '/media/Fei_Se_m.png'
   - name: Mimi
     icon: '/media/Mimi_m.png'
   - name: Ming Jing
