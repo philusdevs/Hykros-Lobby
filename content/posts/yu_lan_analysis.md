@@ -1,6 +1,6 @@
 ---
 title: Yulan Analysis/Guide
-date: 2702-01-27
+date: 2023-07-18
 tags: [Maygii, Guide, Analysis]
 social_image: '/media/logo.png'
 description: Yulan's Analysis 
