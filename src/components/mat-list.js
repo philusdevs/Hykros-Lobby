@@ -10,7 +10,7 @@ const MatriceList = ({ posts }) => {
 
   const MatriceListItems = matricePosts.map(
     ({ frontmatter, fields, excerpt, timeToRead }) => {
-      const { title, tags, date, description } = frontmatter;
+      const { title, tags, date } = frontmatter;
       const { slug } = fields;
 
       return (
@@ -21,7 +21,6 @@ const MatriceList = ({ posts }) => {
           date={date}
           slug={slug}
           timeToRead={timeToRead}
-          description={description}
           excerpt={excerpt}
         />
       );
@@ -39,7 +38,6 @@ const MatriceListItem = ({
   timeToRead,
   tags,
   excerpt,
-  description,
   slug,
 }) => {
   return (
@@ -51,7 +49,7 @@ const MatriceListItem = ({
       </MatriceListTitle>
       <MatriceListExcerpt
         dangerouslySetInnerHTML={{
-          __html: description || excerpt,
+          __html: excerpt,
         }}
       />
       <MatriceListMeta>
