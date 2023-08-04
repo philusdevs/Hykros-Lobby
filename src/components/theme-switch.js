@@ -7,18 +7,8 @@ const ThemeSwitchButton = () => {
   const { darkMode, setDarkMode } = useTheme();
 
   const handleThemeToggle = () => {
-    setDarkMode((prevDarkMode) => {
-      // Toggle the dark mode state
-      const newDarkMode = !prevDarkMode;
-
-      // Save the updated dark mode state to localStorage (optional, if you use it)
-      localStorage.setItem('darkMode', newDarkMode);
-
-      // Refresh the page after the dark mode state is updated
-      window.location.reload();
-
-      return newDarkMode;
-    });
+    setDarkMode((prevDarkMode) => !prevDarkMode);
+    window.location.reload(); // Refresh the page after the dark mode state is updated
   };
 
   return (

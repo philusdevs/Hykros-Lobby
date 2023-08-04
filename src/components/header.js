@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
 import ThemeSwitchButton from "./theme-switch";
@@ -22,15 +22,39 @@ const HEADER_NAV_ITEM = [
     url: "/matrices",
     isExternal: false,
   },
+  /*{
+    label: "Contact",
+    url: "/contact",
+    isExternal: false,
+  },*/
+  /*{
+    label: "About",
+    url: "/about",
+    isExternal: false,
+  },*/
 ];
 
 const Header = () => {
-  const { darkMode, setDarkMode } = useTheme();
+  const { site } = useStaticQuery(
+    graphql`
+      query {
+        site {
+          siteMetadata {
+            title
+          }
+        }
+      }
+    `
+  );
+
+  const { darkMode, setDarkMode } = useTheme(); // Get the dark mode state and setter from the ThemeContext
+
   const [isInitialLoad, setIsInitialLoad] = useState(true);
 
   useEffect(() => {
     const localDarkMode = localStorage.getItem("darkMode");
     if (localDarkMode !== null) {
+      // If there's a dark mode preference in localStorage, use it on initial load
       setDarkMode(localDarkMode === "true");
       setIsInitialLoad(false);
     }
@@ -38,6 +62,7 @@ const Header = () => {
 
   useEffect(() => {
     if (!isInitialLoad) {
+      // If it's not the initial load, update localStorage with the new dark mode preference
       localStorage.setItem("darkMode", darkMode.toString());
     }
   }, [darkMode, isInitialLoad]);
@@ -80,12 +105,14 @@ const Header = () => {
 
 export default Header;
 
+// StyledHeader and other styled components
 const StyledHeader = styled.header`
   padding-top: var(--size-300);
   background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")};
   color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#000000")};
-  transition: background-color 0.3s ease;
+  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 0s" : "background-color 0.01s")};
 `;
+
 const HeaderNavList = ({ children }) => {
   return (
     <StyledNav>
