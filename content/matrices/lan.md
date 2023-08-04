@@ -7,7 +7,7 @@ description: Lan Matrices
 ---
 ### Firestorm
 
-![](https://telegra.ph/file/adaefcce5c31a8a3aca4e.png)
+![](https://telegra.ph/file/e6abb11164036f29cf0c4.png)
 
 
 > **2-piece:** When equipped with at least 1 flame weapon, increase flame ATK by 6% / 7% / 8% / 9% and flame damage by 3.2% / 3.8% / 4.4% / 5%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
