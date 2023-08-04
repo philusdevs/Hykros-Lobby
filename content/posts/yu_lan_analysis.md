@@ -5,9 +5,7 @@ tags: [Maygii, Guide, Analysis]
 social_image: '/media/logo.png'
 description: Yulan's Analysis 
 ---
-
 Author: [Maygii](https://maygi.carrd.co/)
-
 
 Yulan's here! With two distinct forms to pick from, she can play either DPS or supporting roles in Frost teams - so just how strong is she? How are her synergies with previous Frost characters? Let's dive right in!
 
