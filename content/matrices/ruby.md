@@ -1,7 +1,7 @@
 ---
 title: "Ruby"
 date: 2023-06-02
-tags: [SSR,Matrices, Ruby]
+tags: [SSR,Matrices,Ruby]
 social_image: '/media/logo.png'
 description: Ruby Matirces
 ---

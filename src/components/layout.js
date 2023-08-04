@@ -5,11 +5,11 @@ import Footer from "./footer";
 import Container from "./container";
 import GlobalStyle from "./global-styles";
 import styled from "styled-components";
-import { ThemeProvider } from "../ThemeContext/ThemeContext"; // Import the ThemeProvider
+import { ThemeProvider } from "../ThemeContext/ThemeContext";
 
 const Layout = ({ children, title, description, socialImage = "" }) => {
   return (
-    <ThemeProvider> {/* Wrap the entire layout with the ThemeProvider */}
+    <ThemeProvider>
       <Fragment>
         <GlobalStyle />
         <Seo title={title} description={description} socialImage={socialImage} />

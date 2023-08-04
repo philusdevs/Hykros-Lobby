@@ -120,9 +120,9 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fields: { contentType:{ in: ["posts", "simulacra"] } } }
+      filter: { fields: { contentType:{ in: ["posts", "simulacra" "matrices"] } } }
       sort: { order: DESC, fields: frontmatter___date }
-      limit: 9
+      limit: 50
     ) {
       nodes {
         fields {
