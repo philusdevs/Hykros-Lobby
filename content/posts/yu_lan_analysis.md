@@ -28,10 +28,6 @@ Yulan can pick between two different forms: Martial Artist, and Sweeping Force. 
 
 Let's start off by talking about the Martial Artist Form. This branch enhances Yulan's dodge and basic attacks by 40%, and also gives hyperbody to her dodges. It also gives access to a new combo chain where dodging lets you instantly start with the 4th autoattack in the chain. This skips the low damage half of the combo, and then additionally applies a potent DOT. Using the dodge attack into the 4th and 5th autos, dodging and repeating before getting to the last hit, is the optimal combo to spam for DPS.
 
-<iframe src="https://v.redd.it/link/152kfi4/asset/ixdshe63jmcb1/HLSPlaylist.m3u8?f=sd&v=1&a=1693752060%2CMWU2ZDhlMThhZGE4NjcyZTM4MWViYmRmMjVmNGRmNzQ2NDAwMjU1MjA2YThjNThiMzk1ODZlMzlkNTE2NmQwYQ%3D%3D" frameborder="0" width="720" height="360" allowfullscreen></iframe>
-
-*A demonstration of the martial artist combo. Dodge attack, attack, attack.*
-
 
 In Martial Artist Form, you'll also build up stacks of Internal Strength with every 3 hits of normal or dodge attacks, limited to one stack per 2 seconds. This effect stacks up to 10, and up to 5 stacks are consumed upon using her skill, granting up to a **3x damage multiplier**. When copied by Alyss, it will maintain the same bonus damage multiplier.
 
@@ -69,10 +65,6 @@ Next is her A3. This only affects damage for Martial Artist form by granting an 
 Her A5 is your typical death-defying advancement, giving you a hidden buff when consuming resource that prevents lethal damage and heals you **20% max hp** (doubled in solo play), once per 60 seconds.
 
 Finally, her A6 adds an additional **70%** multiplier to Martial Artist form as well as adds an extra **10% final damage**, and the Sweeping Form final damage gains **15% final damage**. These effects all stack with the A1 buffs additively, making this advancement very strong.
-
-
-
-![r/TowerofFantasy - 【Math】Complete Yulan Analysis/Guide](https://preview.redd.it/math-complete-yulan-analysis-guide-v0-n9457689gncb1.png?width=893&format=png&auto=webp&s=2962d612f66fc76a7bbd25266a608bab37394587)
 
 
 Next, let's take a look at her matrices!
