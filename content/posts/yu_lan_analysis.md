@@ -12,7 +12,7 @@ Yulan's here! With two distinct forms to pick from, she can play either DPS or s
 Video Version
 =============
 
-[Complete Yulan Analysis/Guide](https://www.youtube.com/watch?v=dzJsBQVVNe0)
+<iframe src="https://www.youtube.com/embed/watch?v=dzJsBQVVNe0" frameborder="0" width="720" height="360" allowfullscreen></iframe>
 
 Kit Explanation
 ===============
@@ -159,9 +159,6 @@ The Sweeping Force rotation. Use a jump attack between Icarus yoyos for optimal 
 
 For this comp, precharge is important, as you need to use Yulan's discharge to start building up stacks of Fighting Spirit. If you do not have a discharge built up already, skip Yulan's rotation part at the start, only switching to her as soon as you build up a discharge. Otherwise, start out with Yulan's discharge and skill, followed by that of Fiona. Switch to Icarus and use his discharge and skill, followed by Return to Loneliness charges, before tapping Torrential Force for two more charges. If you did not have a precharge, tap Torrential immediately on swapping instead.
 
-<iframe src="https://v.redd.it/link/152kfi4/asset/3n3spmqflmcb1/HLSPlaylist.m3u8?f=sd&v=1&a=1693752060%2CMzg2ZGI4NjFiNTMyZGZmNmMwMDM4MDlhNGUxYjUwYzYxMjNmODhhNDIyNjljNTNiOWJkNmM5NDJjZmUwOGJjNA%3D%3D" frameborder="0" width="720" height="360" allowfullscreen></iframe>
-
-*Jumping in between Icarus yoyos.*
 
 After exhausting all yoyo charges, discharge to Yulan, and the rotation repeats from here. Due to the high charge granted by Icarus and Torrential Force, coupled with Yulan's discharge refund, you'll be using every character's discharge, spamming Icarus's second skill for constant procs of Yulan's passive, which is like essentially a stronger version of Alyss. Here's a real time loop of the rotation.
 
