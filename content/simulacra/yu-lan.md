@@ -58,24 +58,24 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 
 </br>
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1.5px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+
 |   Attacks        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Normal: Battering Fist** | </br> `Attack X6` While on the ground, use normal attack to launch 6 consecutive attacks.|
-||  If the fifth attack of the Fighter delivers the final blow while the Yuanwu Totem is active, fixed targets receive 1 Snakebite.|
-||  **First Attack:** Deal damage equal to `64.8%` of ATK + 3 and knock the target back.|
-||  **Second Attack:**   Deal damage equal to `50.4%` of ATK + 3 and knock the target back.|
-||  **Third Attack:**   Deal damage equal to `52.8%` of ATK + 3 and knock the target back..|
-||  **Fourth Attack:**   Deal damage equal to `143.9%` of ATK + 8 and knock the target back.|
-|| **Fifth Attack:**   Deal damage equal to `279.2%` of ATK + 15 and continuously knock the target back.| 
-|| **Sixth Attack:**  Deal damage equal to `227.4%` of ATK + 12 and knock the target into the air.| 
-||</br> Battering Fist can be used in either the Martial Artist or Sweeping Force form. After using any dodge attack while in the Martial Artist form, use normal attack to quickly trigger the Fourth Attack. After the Fifth Attack lands a hit while in the Martial Artist form, strongly freeze the target for 2 seconds (unavailable in Apex League and against bosses) and additionally inflict Chilblain, dealing damage equal to `280%` of ATK plus 15 every second for 8 seconds. This effect can only be triggered on the same target 1 time every 8 seconds.|
-| </br>  **Arial: Floating Fist**|  </br> `Attack X6` While airborne, use a regular attack to perform 5 consecutive attacks in the air, consuming stamina.|
-||**First Attack:** Deal damage equal to `68.4%` of ATK + 4.|
-||**Second Attack:** Deal damage equal to `59.9%` of ATK + 3.|
-||**Third Attack:** Deal damage equal to `62.7%` of ATK + 3.|
-||**Fourth Attack:** Deal damage equal to `136.4%` of ATK + 7.|
-||**Fifth Attack:** Deal damage equal to `249%` of ATK + 13. |
-||**Sixth Attack:** Deal damage equal to `222.3%` of ATK + 12. |
+| **Normal: Battering Fist** | </br> `Attack X6` While on the ground, use normal attack to launch 6 consecutive attacks. If the fifth attack of the Fighter delivers the final blow while the Yuanwu Totem is active, fixed targets receive 1 Snakebite.</br> **First Attack:** Deal damage equal to `64.8%` of ATK + 3 and knock the target back. </br> **Second Attack:**Deal damage equal to `50.4%` of ATK + 3 and knock the target back.</br>  **Third Attack:**   Deal damage equal to `52.8%` of ATK + 3 and knock the target back. </br>  **Fourth Attack:**   Deal damage equal to `143.9%` of ATK + 8 and knock the target back. </br>  **Fifth Attack:**   Deal damage equal to `279.2%` of ATK + 15 and continuously knock the target back. </br> **Sixth Attack:**  Deal damage equal to `227.4%` of ATK + 12 and knock the target into the air.</br> </br>  Battering Fist can be used in either the Martial Artist or Sweeping Force form. After using any dodge attack while in the Martial Artist form, use normal attack to quickly trigger the Fourth Attack. After the Fifth Attack lands a hit while in the Martial Artist form, strongly freeze the target for 2 seconds (unavailable in Apex League and against bosses) and additionally inflict Chilblain, dealing damage equal to `280%` of ATK plus 15 every second for 8 seconds. This effect can only be triggered on the same target 1 time every 8 seconds.|
+| </br>  **Arial: Floating Fist**|  </br> `Attack X6` While airborne, use a regular attack to perform 5 consecutive attacks in the air, consuming stamina.</br>**First Attack:** Deal damage equal to `68.4%` of ATK + 4. </br> **Second Attack:** Deal damage equal to `59.9%` of ATK + 3. </br> **Third Attack:** Deal damage equal to `62.7%` of ATK + 3. </br>**Fourth Attack:** Deal damage equal to `136.4%` of ATK + 7.</br> **Fifth Attack:** Deal damage equal to `249%` of ATK + 13. </br> **Sixth Attack:** Deal damage equal to `222.3%` of ATK + 12.|
 | **Forest-Piercing Swallow**| </br> `Attack+Hold-Attack` While on the ground, tap and hold normal attack when using the first to third normal attacks to trigger Forest-Piercing Swallow.Deal damage equal to `62.8%` of ATK plus 3 and draw in nearby targets. Then, deal damage equal to 146.6%` of ATK plus 8 to nearby targets and knock them back. Forest-Piercing Swallow can only be used while in the Martial Artist form. After using Cloud-Soaring Kite, using normal attack can also trigger Forest-Piercing Swallow.|
 |**Sky-Dancing Snake**|</br>`Attack+Hold-Attack+Hold-Attack` While on the ground, tap and hold normal attack when using the fourth to fifth normal attacks to trigger Sky-Dancing Snake. Deal damage equal to `75.4%` of ATK plus 4 to nearby targets and suspend them. Sky-Dancing Snake can only be used while in the Martial Artist form. After using Forest-Piercing Swallow, tapping and holding normal attack can also trigger Sky-Dancing Snake. |
 | **Frost High & Low**| </br>`Jump+Attack+Hold-Attack` While airborne, tap and hold normal attack when using the first to sixth normal attacks to trigger Frost High & Low. Toss your weapon in the air, dealing damage equal to `329%` of ATK plus 17 to nearby targets. Frost High & Low can be used in either the Martial Artist or Sweeping Force form. |

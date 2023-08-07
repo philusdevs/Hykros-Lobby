@@ -29,21 +29,13 @@ Onyx Tortoise
 
 When the weapon is fully charged, the next attack will cause enemies to become grievous for 7 seconds, increasing their damage received by 20% and dealing damage equal to 137.00% oF ATK. When in team play, grievous targets receive an additional 20% physical damage.
 
-</br>
-
 ### Physical Resonance
 
 Increase physical ATK by 15% and physical resistance by 25%. Activate by equipping 2 or more physical weapons. This set effect works in the ofF-hand slot.
 
-
-
-</br>
-
 ### Flame Resonance
 
 Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the ofF-hand slot.
-
-</br>
 
 ### Shield Break: Detachment
 
@@ -55,8 +47,10 @@ If there is 1 volt/Flame/frost weapon of any kind equipped, shield break damage 
 ### Advancements
 
 </br>
+
 1★ Every time grievous is applied, deal devouring damage equal to 50% of ATK to the target. This effect can only be triggered 1 time every 0.5 seconds.
 Every time the weapon's ignite trait is applied to a non-grievous target, the target becomes grievous for 7 seconds.
+
 </br>
 
 3★ After triggering Mighty Wind, turn targets hit into members of the Serpent Chain.
@@ -86,21 +80,26 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 </br>
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1.5px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+
+</br>
+
 |   Attacks        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Normal: Resistor** | </br> `Attack X5` While on the ground, use a normal attack to perform 5 consecutive attacks.|
-||  While the Xuanwu Totem is active, after Resistor's Fifth attack lands its final hit, add 1 snake bite to the locked-on target.|
-||  **First Attack:** Deal damage equal to `131.6%` of ATK and knocks back the target.|
-||  **Second Attack:**   Deal damage equal to `186.8%` of ATK and knocks back the target.|
-||  **Third Attack:**   Deal damage equal to `201.6%` of ATK and knocks back the target.|
-||  **Fourth Attack:**   Deal damage equal to `238%` of ATK and suspends the target.|
-|| **Fifth Attack:**   Deal damage equal to `338%`of ATK and launches the target into the air.| 
-|  **Arial: Flying Stone**|  </br> `Attack X5` While airborne, use a regular attack to perform 5 consecutive attacks in the air, consuming stamina.|
-||**First Attack:** Deals damage equal to `112.8%` of ATK.|
-||**Second Attack:** Deals damage equal to `168% `of ATK.|
-||**Third Attack:** Deals damage equal to `164.2%` of ATK.|
-||**Fourth Attack:** Deals damage equal to `140.2%` of ATK.|
-||**Fifth Attack:** Deals damage equal to `228%` of ATK. |
+| **Normal: Resistor** | </br> `Attack X5` While on the ground, use a normal attack to perform 5 consecutive attacks. </br> While the Xuanwu Totem is active, after Resistor's Fifth attack lands its final hit, add 1 snake bite to the locked-on target. </br> **First Attack:** Deal damage equal to `131.6%` of ATK and knocks back the target. </br> **Second Attack:**   Deal damage equal to `186.8%` of ATK and knocks back the target. </br> **Third Attack:**   Deal damage equal to `201.6%` of ATK and knocks back the target. </br> **Fourth Attack:**   Deal damage equal to `238%` of ATK and suspends the target.</br> **Fifth Attack:**   Deal damage equal to `338%`of ATK and launches the target into the air.| 
+|  **Arial: Flying Stone**|  </br> `Attack X5` While airborne, use a regular attack to perform 5 consecutive attacks in the air, consuming stamina.  </br> **First Attack:** Deals damage equal to `112.8%` of ATK. </br> **Second Attack:** Deals damage equal to `168% `of ATK. </br> **Third Attack:** Deals damage equal to `164.2%` of ATK. </br> **Fourth Attack:** Deals damage equal to `140.2%` of ATK. </br> **Fifth Attack:** Deals damage equal to `228%` of ATK. |
 | **Othershore Soul**| </br> `Attack+Hold-Attack+Attack` While on the ground, press and hold the regular attack button from the first to the fourth attack to trigger Othershore Soul. Throw your weapon forward, dealing damage equal to `212.4%` of ATK to the nearest targets.|
 |**Collapsing Mountain**|</br>`Hold-Attack` While on the ground, press and hold the regular attack button to trigger Collapsing Mountain. Continuously move forward, attacking and consuming stamina, and deal damage equal to `240%` of ATK to the nearest targets. |
 | **In Continuity**| </br>`Jump+Hold-Attack` Press and hold the regular attack button while airborne (press when the target is available) or use the regular attack while descending, jumping backward, or using a jetpack to trigger In Continuity. Dive to the ground and deal damage equal to `204%` of ATK to the nearest targets. |
@@ -119,11 +118,7 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 |   Skill        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Absolute Ravine**| </br> Press the skill button to use it.The Wanderer shatters the ground in front, gaining temporary invulnerability (unavailable in the Apex League) and pulling nearby targets, dealing damage equal to `806%` of ATK. Cooldown: 20 seconds. Increases the Wanderer's physical damage & flame damage by `26%` for 30 seconds, then summons the Yuanwu Totem. When out of combat, the Yuanwu Totem disappears.|
-|| </br>  The Yuanwu Totem summons dark souls from the four core formations every 0.6 seconds, each time dealing damage equal to `30%`of ATK to targets in their path. During the cooldown of Absolute Ravine, the Wanderer gains a new skill called "Mirror Reflection," allowing a counter-attack against nearby dark souls and activating corresponding cores. Activating any core completes the creation of the Yuanwu Totem and allows entry into the Altruistic Kingdom.|
-|| </br> While the Yuanwu Totem is active, use the Onyx Tortoise to obtain Hyperbody. To apply Snakebites, use the following methods: 1. When Absolute Ravine hits an enemy, the target with the highest 03 value receives 1 Snakebite. 2. When the fifth attack of Brawler lands the final blow, a fixed target receives 1 Snakebite. 3. When Open Clouds hits an enemy, a fixed target receives 1 Snakebite. 4. When Cutting Sand hits an enemy, a fixed target receives 1 Snakebite.|
-|| Snakebite inflicts devouring damage equal to `100%` of ATK on the target, restores `12%` of the Wanderer's max 03, and joins the target to the Snake Chain.The Snake Chain can transfer `30%` of the actual damage dealt by the weapon in the main weapon slot to the fixed chain member and heavily wounds all chain members (including the target itself). The Snake Chain can have up to 4 members. The element type of the transferred damage corresponds to the original damage and cannot be transferred again. The total damage transferred within 30 seconds cannot exceed the Wanderer's max ATK value multiplied by 2,400 (this limitation does not apply in team play). Damage from Dark Slash is not transferred. |
-|| </br>  After using Absolute Ravine, the Wanderer can also trigger Mighty Wind: Snake Chain members deal devouring damage equal to `25%` of ATK to nearby targets (including themselves) and reset the devouring damage counter.|
+| **Absolute Ravine**| </br> Press the skill button to use it.The Wanderer shatters the ground in front, gaining temporary invulnerability (unavailable in the Apex League) and pulling nearby targets, dealing damage equal to `806%` of ATK. Cooldown: 20 seconds. Increases the Wanderer's physical damage & flame damage by `26%` for 30 seconds, then summons the Yuanwu Totem. When out of combat, the Yuanwu Totem disappears. </br>  The Yuanwu Totem summons dark souls from the four core formations every 0.6 seconds, each time dealing damage equal to `30%`of ATK to targets in their path. During the cooldown of Absolute Ravine, the Wanderer gains a new skill called "Mirror Reflection," allowing a counter-attack against nearby dark souls and activating corresponding cores. Activating any core completes the creation of the Yuanwu Totem and allows entry into the Altruistic Kingdom. </br> While the Yuanwu Totem is active, use the Onyx Tortoise to obtain Hyperbody. To apply Snakebites, use the following methods: 1. When Absolute Ravine hits an enemy, the target with the highest 03 value receives 1 Snakebite. 2. When the fifth attack of Brawler lands the final blow, a fixed target receives 1 Snakebite. 3. When Open Clouds hits an enemy, a fixed target receives 1 Snakebite. 4. When Cutting Sand hits an enemy, a fixed target receives 1 Snakebite.  </br> Snakebite inflicts devouring damage equal to `100%` of ATK on the target, restores `12%` of the Wanderer's max 03, and joins the target to the Snake Chain.The Snake Chain can transfer `30%` of the actual damage dealt by the weapon in the main weapon slot to the fixed chain member and heavily wounds all chain members (including the target itself). The Snake Chain can have up to 4 members. The element type of the transferred damage corresponds to the original damage and cannot be transferred again. The total damage transferred within 30 seconds cannot exceed the Wanderer's max ATK value multiplied by 2,400 (this limitation does not apply in team play). Damage from Dark Slash is not transferred. </br>  After using Absolute Ravine, the Wanderer can also trigger Mighty Wind: Snake Chain members deal devouring damage equal to `25%` of ATK to nearby targets (including themselves) and reset the devouring damage counter.|
 
 </br>
 
