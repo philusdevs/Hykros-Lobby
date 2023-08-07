@@ -178,6 +178,7 @@ const PostPagination = styled.nav`
   }
 `;
 
+
 export const pageQuery = graphql`
   query PostBySlug($slug: String!, $prevSlug: String, $nextSlug: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
