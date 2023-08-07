@@ -5,7 +5,6 @@ tags: [SSR, Physical, Flame]
 social_image: '/media/tab_mingjing.png'
 description: Ming Jing Kit
 ---
->Currently in Beta (Simulucrum is subject to change)
 
 ![](https://telegra.ph/file/9c0eeea0e02ef25e3d367.png)
 
