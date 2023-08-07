@@ -12,8 +12,7 @@ description: Yu lan Kit
 
 > Increase final damage by 18%.
 
-> While in the Martial Artist form, additionally increase final damage by 7%.
-While in the Sweeping Force form, for every 1 frost weapon equipped, increase damage dealt via consuming Fighting Spirit by 9%. When 3 frost weapons are equipped, increase frost damage by 8%.
+> While in the Martial Artist form, additionally increase final damage by 7%. While in the Sweeping Force form, for every 1 frost weapon equipped, increase damage dealt via consuming Fighting Spirit by 9%. When 3 frost weapons are equipped, increase frost damage by 8%.
  <br/> 
   <br/> 
 Unity

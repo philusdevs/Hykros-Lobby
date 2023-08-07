@@ -11,8 +11,7 @@ description: Ming Jing Kit
 
 ### Awaken: Selfless
 
-> Increase Final damage by 18%.
-The Wanderer's base physical ATK is increased to the highest value out of their physical/flame/frost/volt base ATK. When the main slot weapon is Onyx Tortoise, normal attack damage is increased by 50%.
+> Increase Final damage by 18%. The Wanderer's base physical ATK is increased to the highest value out of their physical/flame/frost/volt base ATK. When the main slot weapon is Onyx Tortoise, normal attack damage is increased by 50%.
 
 </br>
 
