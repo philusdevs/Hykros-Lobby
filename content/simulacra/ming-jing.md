@@ -20,7 +20,7 @@ Onyx Tortoise
 
 ![](https://telegra.ph/file/a983748eb1f5ecea4d793.png)
 
- Attack: ?| HP: ? | Crit: ? | S: 14.00 | C: 12.00 
+ Attack: 19| HP: 1165 | Crit: 13 | S: 14.00 | C: 12.00 
 
 </br>
 
