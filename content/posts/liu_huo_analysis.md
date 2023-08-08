@@ -1,6 +1,6 @@
 ---
 title: Liu Huo Analysis/Guide 
-date: 2023-07-18
+date: 2023-06-27
 tags: [Maygii, Guide, Analysis]
 social_image: '/media/logo.png'
 description:  Liu Huo Analysis
