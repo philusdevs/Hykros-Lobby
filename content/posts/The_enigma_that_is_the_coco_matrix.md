@@ -7,10 +7,15 @@ description:  The Enigma that is the Coco Matrix 
 ---
 Author: [Maygii](https://maygi.carrd.co/)
 
-
 # The Enigma that is the Coco Matrix 
 
 Ever lay in bed on a weekday evening and think "hey I should be working on something productive"? Yeah that was me today so I figured it's time to figure out how exactly the Fiona tether works with buffs and whatnot, but in my testing, I ran into something that threw me off - the **Coco matrix**. For those who didn't know, this matrix buffs base attack, meaning its effectively a separate multiplier from other attack buffs, as this increased base attack will increase the value of the following ATK % buffs. Simple, right? No.
+
+Video Version
+=============
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CFUjt6E2C6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 tldr
 ====
