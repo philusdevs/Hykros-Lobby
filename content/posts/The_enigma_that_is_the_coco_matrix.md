@@ -1,6 +1,6 @@
 ---
 title: The Enigma that is the Coco Matrix 
-date: 2023-06-27
+date: 2023-05-17
 tags: [Maygii, Guide]
 social_image: '/media/logo.png'
 description:  The Enigma that is the Coco Matrix 
