@@ -89,7 +89,7 @@ blockquote {
 
 |   Skill        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Feild**| </br> Dash rapidly between two points 10 times, drawing in nearby targets and dealing damage equal to `371.7%` of ATK plus 20 to nearby targets. Upon landing, deal damage equal to `198.3%` of ATK plus 10 to nearby targets. Cooldown: 30 seconds. Each dash absorbs `10%` of the Max HP of all Crystamax thorns (unavailable in Apex League), and deals additional damage equal to the number of Crystamax thorns times `40%` of ATK, or the number of Crystamax thorns times `1%` of the Wanderer's Max HP, whichever is greater, until the crystal thorns are exhausted.The HP loss ratio of the Crystamax thorns' Max HP is the same as the HP loss ratio of the Wanderer.|
+| **Field**| </br> Dash rapidly between two points 10 times, drawing in nearby targets and dealing damage equal to `371.7%` of ATK plus 20 to nearby targets. Upon landing, deal damage equal to `198.3%` of ATK plus 10 to nearby targets. Cooldown: 30 seconds. Each dash absorbs `10%` of the Max HP of all Crystamax thorns (unavailable in Apex League), and deals additional damage equal to the number of Crystamax thorns times `40%` of ATK, or the number of Crystamax thorns times `1%` of the Wanderer's Max HP, whichever is greater, until the crystal thorns are exhausted.The HP loss ratio of the Crystamax thorns' Max HP is the same as the HP loss ratio of the Wanderer.|
 
 </br>
 
