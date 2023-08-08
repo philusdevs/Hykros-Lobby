@@ -6,4 +6,4 @@ social_image: /media/logo.png
 description: Fei Se Kit
 ---
 
->Upcoming Simulucrum (Simulucrum is subject to change)
+>Upcoming Simulucrum 

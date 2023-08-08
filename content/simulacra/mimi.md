@@ -7,4 +7,4 @@ description: Mimi Kit
 ---
 
 
->Upcoming Simulucrum (Simulucrum is subject to change)
+>Upcoming Simulucrum 
