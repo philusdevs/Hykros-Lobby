@@ -3,7 +3,7 @@ title: Yulan Analysis/Guide
 date: 2023-07-18
 tags: [Maygii, Guide, Analysis]
 social_image: '/media/logo.png'
-description: Yulan's Analysis 
+description: Yulan Analysis 
 ---
 Author: [Maygii](https://maygi.carrd.co/)
 
@@ -14,8 +14,7 @@ Video Version
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dzJsBQVVNe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Kit Explanation
-===============
+
 
 
 
