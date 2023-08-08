@@ -1,5 +1,5 @@
 ---
-title: Liu Huo Analysis/Guide 
+title: The Enigma that is the Coco Matrix 
 date: 2023-06-27
 tags: [Maygii, Guide]
 social_image: '/media/logo.png'
