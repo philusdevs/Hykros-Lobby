@@ -6,7 +6,7 @@ social_image: '/media/logo.png'
 description: This raid is different from previous raids in that it does not take much standard damage. The only way to damage Zhuyan is to shatter his shield or break his sword/spear. It is ideal to bring shatter weapons and two main tanks. Benediction and Fiona are also very helpful.
 ---
 
-# Challenge Raid - Zhuyan
+# Zhuyan Raid
 Author: arusukaze#c
 
 ![](https://telegra.ph/file/17d9f09ad78e70a75a567.png)
@@ -84,17 +84,17 @@ The following are Zhuyan's movesets:
 | **Main Tanks**         | **Benediction**                  | **Others**                               |
 |------------------------|----------------------------------|------------------------------------------|
 |  Maintain aggro on Zhuyan | Heal the party               | Hover on sides of Zhuyan               |
-|  Swap if too much Greying Bite | - Shave off half 1st health bar |  Do not really engage Zhuyan           |
+|  Swap if too much Greying Bite | Shave off half 1st health bar |  Do not really engage Zhuyan           |
 | Communicate with each other | Execute Zhuyan at low HP     | Shatter the shield, break the weapons |
 |  Stand in front during "Duel" | Shatter the shield, break weapons | Don't die                           |
 | Shatter shield, break weapons |  Don't die                   |                    |
 
 ## Additional Notes
 
-- You can choose to do damage to Zhuyan, but make sure you don't rip aggro off the main tanks.
-- If you're in DPS resonance, make sure you can contribute to shatter significantly; otherwise, you are more of a liability than a DPS.
+- You can choose to do damage to Zhuyan, but make sure you don't take aggro off the main tanks.
+- If you're in Attack Resonance, make sure you can contribute to shatter significantly; otherwise, you are more of a liability.
 - Note that certain shatter ratings are a lie; i.e. Tianlang does not actually shatter much.
-- Also note that if you do choose to go on DPS/Attacker Resonance, you need to make sure you dodge avoidable damage because dying is a damage loss.
+- Also note that if you do choose to go on Attack Resonance, you need to make sure you dodge avoidable damage because dying is a damage loss.
 
 ## Conclusion
 
