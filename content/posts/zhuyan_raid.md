@@ -6,7 +6,7 @@ social_image: '/media/logo.png'
 description: This raid is different from previous raids in that it does not take much standard damage. The only way to damage Zhuyan is to shatter his shield or break his sword/spear. It is ideal to bring shatter weapons and two main tanks. Benediction and Fiona are also very helpful.
 ---
 
-# Guide: New Challenge Raid - Zhuyan
+# Challenge Raid - Zhuyan
 Author: arusukaze#c
 
 ![](https://telegra.ph/file/17d9f09ad78e70a75a567.png)
