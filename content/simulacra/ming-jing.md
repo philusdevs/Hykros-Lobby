@@ -109,10 +109,8 @@ blockquote {
 |   Dodge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
 | **Dodge**| </br> `Move+Dodge` Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Cooldown: 15 seconds. Become immune to hitstun while dodging.|
-|**Cutting Sand**| </br>  `Dodge+Attack` Use normal attack during the short period after dodging to trigger Cutting Sand, unleashing a sword aura, dealing damage equal to `125%` of ATK plus 7 to targets ahead.
-While the Xuanwu Totem is active, after Cutting Sand lands a hit, add 1 snake bite to the locked-on target.|
-|**Open Clouds**| </br>  `Move+Dodge+Attack` Use normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Open Clouds, dealing damage equal to `60%` of ATK plus 3 to nearby targets.
-While the Xuanwu Totem is active, after Open Clouds lands a hit, add 1 snake bite to the locked-on target.|
+|**Cutting Sand**| </br>  `Dodge+Attack` Use normal attack during the short period after dodging to trigger Cutting Sand, unleashing a sword aura, dealing damage equal to `125%` of ATK plus 7 to targets ahead. While the Xuanwu Totem is active, after Cutting Sand lands a hit, add 1 snake bite to the locked-on target.|
+|**Open Clouds**| </br>  `Move+Dodge+Attack` Use normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Open Clouds, dealing damage equal to `60%` of ATK plus 3 to nearby targets. While the Xuanwu Totem is active, after Open Clouds lands a hit, add 1 snake bite to the locked-on target.|
 |**Lookout**| </br>  `Dodge+Hold-Attack`Tap and hold normal attack right after dodging to trigger Lookout (unavailable in Apex League). After the Xuanwu Totem summoned by Absolute Ravine is completed, use Lookout to enter Selfless Realm for 25 seconds and gain 3 Dark Slashes.</br> After the first successful normal or dodge attack from Onyx Tortoise lands a hit, trigger Dark Slash. If the target is an ordinary or elite enemy and their current HP doesn't exceed the Wanderer's Max ATK by more than 20,000 times, the target will be immediately executed. Otherwise, deal damage equal to `1,500%` of ATK.Selfless Realm ends when its duration is over, the Dark Slash count is exhausted, or upon switching weapons. Selfless Realm can only be triggered 1 time every 200 seconds.|
 
 </br>
