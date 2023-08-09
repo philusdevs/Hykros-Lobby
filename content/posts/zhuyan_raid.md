@@ -1,6 +1,6 @@
 ---
 title: "Zhuyan Raid"
-date: 2023-06-02
+date: 2023-08-08
 tags: [Raid, Guide]
 social_image: '/media/logo.png'
 description: This raid is different from previous raids in that it does not take much standard damage. The only way to damage Zhuyan is to shatter his shield or break his sword/spear. It is ideal to bring shatter weapons and two main tanks. Benediction and Fiona are also very helpful.
