@@ -72,9 +72,7 @@ Summary
 So, what's the point of knowing all of this? When there are separate categories for multipliers, the best way to optimize is to, ideally, have one set from each category. Below is a table for a quick overview for each element, and their matrix options for the various categories. Because Habo matrix grants Final Damage, it may be a stronger pick-up for F2P players who do not have any other Final Damage matrices. For people who do, though, it's a more appealing option to pick up Scylla's matrix as "all elemental damage" is a separate modifier.
 
 
-
-![r/TowerofFantasy - How Final Damage, Damage Dealt, Ele Damage, etc work](https://preview.redd.it/how-final-Damage-Damage-dealt-ele-Damage-etc-work-v0-rdydaqd1d1va1.png?width=1813&format=png&auto=webp&s=a3cf7aab30b1fd8e75ee75ddb5776b672270987f)
-
+[![how-final-dmg-dmg-dealt-ele-dmg-etc-work-v0-rdydaqd1d1va1.webp](https://i.postimg.cc/yxrmn7MQ/how-final-dmg-dmg-dealt-ele-dmg-etc-work-v0-rdydaqd1d1va1.webp)](https://postimg.cc/MfVfpJKV)
 
 
 There are some anomalies, such as Saki's matrix, which applies a debuff that is counted as a separate multiplier, as well as Zero's, whose multiplier does not fall under any of these categories and is essentially a "true" final multiplier.
