@@ -1,6 +1,6 @@
 ---
 title: "Fei Se"
-date: 2023-08-08
+date: 2023-10-01
 tags: [SSR, Matrices, Flame, FD, ED]
 social_image: '/media/logo.png'
 description: Fei Se Matrices
