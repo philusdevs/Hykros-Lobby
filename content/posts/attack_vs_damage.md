@@ -9,7 +9,7 @@ Author: [Maygii](https://maygi.carrd.co/)
 
 
 
-I've seen a lot of confusion recently regarding Flat Attack, Attack%, vs Damage% on the new gear.
+I've seen a lot of confusion recently regarding Flat Attack, Attack%, vs Damage% on the new .
 
 It's common knowledge that Damage% is superior - but that's at a 1:1 scale, and stat lines do NOT come equal. In order to find out what's actually better, let's dive into the math:
 
@@ -20,7 +20,7 @@ It's common knowledge that Damage% is superior - but that's at a 1:1 scale, and 
 
 **Short Answer:**
 
-On gear, Attack% rolls are preferable over Damage% lines.
+On , Attack% rolls are preferable over Damage% lines.
 
 - A6 Frost teams with Lin may see more Frost damage with Frost Damage % lines, at the cost of aberration damage
 
@@ -122,4 +122,4 @@ The average damage bonus from crits is an additive multiplier, meaning that the 
 Summary
 =======
 
-When compared at a 1:1 value, Damage % is stronger than Attack % in any scenario where you have any % Attack buffs to begin with. However, because Attack % has twice of high as a value on gear, it's more powerful than Damage % to roll on, barring some extreme situations - and depending on how much Attack you already have, flat Attack lines be worth even more than Attack %.
+When compared at a 1:1 value, Damage % is stronger than Attack % in any scenario where you have any % Attack buffs to begin with. However, because Attack % has twice of high as a value on , it's more powerful than Damage % to roll on, barring some extreme situations - and depending on how much Attack you already have, flat Attack lines be worth even more than Attack %.
