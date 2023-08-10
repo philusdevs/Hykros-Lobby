@@ -81,7 +81,7 @@ Ele attack (69 + 125-312)
 
 % Ele attack (1.26% + 1.44%)
 
-% Ele damage (0.65% + 0.72%)
+% Elemental damage (0.65% + 0.72%)
 
 and for visors, final Crit % (1.05% + 1.19%)
 
@@ -99,11 +99,10 @@ As you can see, there's kind of a stretch to push your total attack % buffs to 1
 
 What about flat Attack verses Attack %? This is pretty easily to calculate - we just need to calculate for the breakpoint for how much Attack you need before the flat Attack value equals the 1.44% of that Attack. Here's a quick table for various flat Attack rolls and how much base Attack you'd need before Attack % is worth more.
 
-[
 
 ![r/TowerofFantasy - [Math] Attack% vs Damage%, explained](https://preview.redd.it/math-Attack-vs-Damage-explained-v0-o258ywwxix3a1.png?width=692&format=png&auto=webp&s=b981a0f62a97fc6e121718933d30294c23c4aa8f)
 
-](https://preview.redd.it/math-Attack-vs-Damage-explained-v0-o258ywwxix3a1.png?width=692&format=png&auto=webp&s=b981a0f62a97fc6e121718933d30294c23c4aa8f "Image from r/TowerofFantasy - [Math] Attack% vs Damage%, explained")
+
 
 Finally, we have Crit %. If you don't have any additional sources of critical damage, each 1% Critical chance is worth up to 0.5% damage, so the 1.19% Crit is worth a maximum 0.59% Damage (at 0% crit chance; at higher crit chance, it's worth even less) - even less than the % Ele damage. If you have a Crow matrix, your Crit Damage is increased by up to ~0.252 on average, making Crit% slightly more valuable than Damage% at 34% crit rate and below - but still paling in comparison to Attack % and flat Attack in most cases.
 
