@@ -1,7 +1,7 @@
 ---
 title: "Fenrir"
 date: 2023-06-02
-tags: [SSR,Matrices, Volt]
+tags: [SSR,Matrices, Volt, Crit, FD]
 social_image: '/media/tab_rubilia.png'
 description: Fenrir Matirces
 ---

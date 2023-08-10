@@ -1,7 +1,7 @@
 ---
 title: "Anna"
 date: 2023-06-02
-tags: [SSR,Matrices, Flame]
+tags: [SSR,Matrices, Flame, FD, Crit]
 social_image: '/media/logo.png'
 description: Anna Matirces
 ---

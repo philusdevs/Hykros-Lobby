@@ -1,7 +1,7 @@
 ---
 title: "Lan"
 date: 2023-08-08
-tags: [SSR, Matrices]
+tags: [SSR, Matrices, ED]
 social_image: '/media/logo.png'
 description: Lan Matrices
 ---

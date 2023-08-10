@@ -1,7 +1,7 @@
 ---
 title: "Umi"
 date: 2023-06-02
-tags: [SSR,Matrices, Physical]
+tags: [SSR,Matrices, Physical, FD]
 social_image: '/media/logo.png'
 description: Umi Matirces
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Scylla"
 date: 2023-08-08
-tags: [SSR, Matrices]
+tags: [SSR, Matrices, Crit, ED]
 social_image: '/media/logo.png'
 description: Scylla Matrices
 ---

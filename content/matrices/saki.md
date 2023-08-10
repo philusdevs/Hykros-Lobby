@@ -1,7 +1,7 @@
 ---
 title: "Saki"
 date: 2023-06-02
-tags: [SSR,Matrices, Frost]
+tags: [SSR, Matrices, Frost, Normal]
 social_image: '/media/logo.png'
 description: Saki Matirces
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Liu huo"
 date: 2023-06-27
-tags: [SSR, Matrices, Flame]
+tags: [SSR, Matrices, Flame, FD, ED]
 social_image: /media/tab_liuhuo.png
 description: Liu Huo Matrices
 ---

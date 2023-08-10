@@ -44,7 +44,7 @@ matrice:
     icon: /media/Saki_m.png
   - name: Ruby
     icon: /media/Ruby_m.png
-  - name: Claudia 
+  - name: Claudia
     icon: /media/Claudia_m.png
   - name: Cobalt-B 
     icon: /media/Cobalt-B_m.png 
@@ -66,6 +66,8 @@ matrice:
     icon: /media/Coco_m.png
   - name: Samir
     icon: /media/Samir_m.png
+  - name: Zero
+    icon: /media/Zero_m.png
   - name: Apophis 
     icon: /media/Apophis_m.png
   - name: Bai Ling
@@ -86,19 +88,19 @@ matrice:
     icon: /media/Robarg_m.png      
   - name: Sobek
     icon: /media/Sobek_m.png
-  - name: F.Dash
+  - name: F-Dash
     icon: /media/Functional_Dash_m.png  
-  - name: O.Removal
+  - name: o-Removal
     icon: /media/Obstacle_Removal_m.png
   - name: Plunder
     icon: /media/Plunder_m.png
-  - name: S.explosive
+  - name: S-explosive
     icon: /media/Self_explosive_m.png
-  - name: S.Operation
+  - name: S-Operation
     icon: /media/Standard_Operation_m.png     
   - name: Wind Blade
     icon: /media/Wind_Blade_m.png
-  - name: S.Bloodline
+  - name: S-Bloodline
     icon: /media/Savage_Bloodline_m.png
   - name: Swipe
     icon: /media/Swipe_m.png             

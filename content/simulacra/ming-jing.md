@@ -73,10 +73,9 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 
 
-> **2-piece:** Increase Serpent Chain member limit to 5. When at least 1 physical or flame weapon is equipped, increase physical ATK and flame ATK by 14%/16%/18%/20%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
-</br>
+> **2-piece:** Increase Serpent Chain member limit to 5. When at least 1 physical or flame weapon is equipped, increase physical ATK and flame ATK by 14% / 16% / 18% / 20%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 
-> **4-piece:** After applying the snake bite effect, increase physical ATK and flame ATK by 9% for 30 seconds. While in the combat state, increase Final damage by 14%/17%/20%/23%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
+> **4-piece:** After applying the snake bite effect, increase physical ATK and flame ATK by 9% for 30 seconds. While in the combat state, increase final damage by 14% / 17% / 20% / 23%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 
 </br>
 

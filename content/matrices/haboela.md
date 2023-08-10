@@ -1,7 +1,7 @@
 ---
 title: "Haboela"
 date: 2023-08-08
-tags: [SSR, Matrices]
+tags: [SSR, Matrices, FD]
 social_image: '/media/logo.png'
 description: Haboela Matrices
 ---
