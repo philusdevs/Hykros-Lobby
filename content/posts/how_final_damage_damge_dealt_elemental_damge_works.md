@@ -3,7 +3,7 @@ title: How Final Damage, Damge Dealt, Element Damge Works
 date: 2023-04-20
 tags: [Maygii, Guide, Maths]
 social_image: '/media/logo.png'
-description: How Final Damage, Damge Dealt, Element Damge Works
+description: How Final Damage, Damge Dealt, Elemental Damge Works
 ---
 Author: [Maygii](https://maygi.carrd.co/)
 
