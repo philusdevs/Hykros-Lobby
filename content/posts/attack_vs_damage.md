@@ -48,7 +48,7 @@ blockquote {
 | 93 (min attack roll) | 6458 |
 | 150 | 10417 |
 | 234 (max attack roll) | 16250 |
-| 312 (max ele attack roll) | 21667 |
+| 312 (max Elemental attack roll) | 21667 |
 
 **Long Answer/Math:**
 
@@ -77,11 +77,11 @@ On the new Vera gear, notable lines of damage-increasing stats include:
 
 Flat attack (53 + 93-234)
 
-Ele attack (69 + 125-312)
+Elemental attack (69 + 125-312)
 
-% Ele attack (1.26% + 1.44%)
+% Elemental attack (1.26% + 1.44%)
 
-% Elemental damage (0.65% + 0.72%)
+% Elementalmental damage (0.65% + 0.72%)
 
 and for visors, final Crit % (1.05% + 1.19%)
 
@@ -104,7 +104,7 @@ What about flat Attack verses Attack %? This is pretty easily to calculate - we 
 
 
 
-Finally, we have Crit %. If you don't have any additional sources of critical damage, each 1% Critical chance is worth up to 0.5% damage, so the 1.19% Crit is worth a maximum 0.59% Damage (at 0% crit chance; at higher crit chance, it's worth even less) - even less than the % Ele damage. If you have a Crow matrix, your Crit Damage is increased by up to ~0.252 on average, making Crit% slightly more valuable than Damage% at 34% crit rate and below - but still paling in comparison to Attack % and flat Attack in most cases.
+Finally, we have Crit %. If you don't have any additional sources of critical damage, each 1% Critical chance is worth up to 0.5% damage, so the 1.19% Crit is worth a maximum 0.59% Damage (at 0% crit chance; at higher crit chance, it's worth even less) - even less than the % Elemental damage. If you have a Crow matrix, your Crit Damage is increased by up to ~0.252 on average, making Crit% slightly more valuable than Damage% at 34% crit rate and below - but still paling in comparison to Attack % and flat Attack in most cases.
 
 The average damage bonus from crits is an additive multiplier, meaning that the relative value of each additional amount of crit chance is worth relatively less than that before, making crit worth even less than the above values - and that's not even factoring in Crit Resist.
 
