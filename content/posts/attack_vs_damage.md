@@ -66,11 +66,10 @@ To summarize, when talking about relative gain for damage%, you'll be receiving 
 
 The below table details the relative gain at each step (e.g. the gain from one buff state to another) when adding another copy of a 10% Damage or Attack buff.
 
-[
 
 ![r/TowerofFantasy - [Math] Attack% vs Damage%, explained](https://preview.redd.it/math-Attack-vs-Damage-explained-v0-ur24z148jx3a1.png?width=691&format=png&auto=webp&s=f5a5b85f54314ac316d5c4a6ceaa23b78c672c73)
 
-](https://preview.redd.it/math-Attack-vs-Damage-explained-v0-ur24z148jx3a1.png?width=691&format=png&auto=webp&s=f5a5b85f54314ac316d5c4a6ceaa23b78c672c73 "Image from r/TowerofFantasy - [Math] Attack% vs Damage%, explained")
+
 
 **Gear**
 
