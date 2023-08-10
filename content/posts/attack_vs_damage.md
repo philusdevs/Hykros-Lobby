@@ -67,7 +67,8 @@ To summarize, when talking about relative gain for damage%, you'll be receiving 
 The below table details the relative gain at each step (e.g. the gain from one buff state to another) when adding another copy of a 10% Damage or Attack buff.
 
 
-![r/TowerofFantasy - [Math] Attack% vs Damage%, explained](https://preview.redd.it/math-Attack-vs-Damage-explained-v0-ur24z148jx3a1.png?width=691&format=png&auto=webp&s=f5a5b85f54314ac316d5c4a6ceaa23b78c672c73)
+![r/TowerofFantasy - [Math] Attack% vs Damage%, explained](https://i.postimg.cc/c1f1GdXw/math-atk-vs-dmg-explained-v0-ur24z148jx3a1-png.webp
+)
 
 
 
@@ -100,7 +101,7 @@ As you can see, there's kind of a stretch to push your total attack % buffs to 1
 What about flat Attack verses Attack %? This is pretty easily to calculate - we just need to calculate for the breakpoint for how much Attack you need before the flat Attack value equals the 1.44% of that Attack. Here's a quick table for various flat Attack rolls and how much base Attack you'd need before Attack % is worth more.
 
 
-![r/TowerofFantasy - [Math] Attack% vs Damage%, explained](https://preview.redd.it/math-Attack-vs-Damage-explained-v0-o258ywwxix3a1.png?width=692&format=png&auto=webp&s=b981a0f62a97fc6e121718933d30294c23c4aa8f)
+![r/TowerofFantasy - [Math] Attack% vs Damage%, explained](https://i.postimg.cc/ZKZbTXMg/math-atk-vs-dmg-explained-v0-o258ywwxix3a1-png.webp)
 
 
 
