@@ -1,7 +1,7 @@
 ---
 title: "Ming Jing"
 date: 2023-08-08
-tags: [SSR, Matrices, Physical, Flame, FD]
+tags: [SSR, Matrices, Physical, Flame, FD, ATK]
 social_image: '/media/tab_mingjing.png'
 description: Ming Jing Matrices
 ---

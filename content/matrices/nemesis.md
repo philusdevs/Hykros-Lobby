@@ -1,7 +1,7 @@
 ---
 title: "Nemesis"
 date: 2022-08-11
-tags: [SSR, Matrices, Volt, Normal]
+tags: [SSR, Matrices, Volt, Normal, ATK]
 social_image: '/media/logo.png'
 description: Nemesis Matrices
 ---

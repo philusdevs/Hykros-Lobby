@@ -1,7 +1,7 @@
 ---
 title: "Lyra"
 date: 2022-09-04
-tags: [SSR, Matrices, Physical, Normal, Support]
+tags: [SSR, Matrices, Physical, Normal, ATK, Support]
 social_image: '/media/logo.png'
 description: Lyra Matrices
 ---
