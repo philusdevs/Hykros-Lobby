@@ -1,6 +1,6 @@
 ---
 title: "Mimi"
-date: 2023-06-27
+date: 2023-09-01
 tags: [SSR, Matrices, Volt, FD, ED]
 social_image: /media/logo.png
 description: Mimi Matrices
