@@ -2,7 +2,7 @@
 title: "Mimi"
 date: 2023-06-27
 tags: [SSR, Matrices, Volt, FD, ED]
-social_image: /media/logo
+social_image: /media/logo.png
 description: Mimi Matrices
 ---
 #### TBA
