@@ -3,7 +3,7 @@ title: "Liu Huo"
 date: 2023-06-27
 tags: [SSR, Flame]
 social_image: /media/logo.png
-description: Liu Huo, featured as a obtainable SSR Simulacrum within the simulacrum system, associated with the Pine Comet weapon.
+description: Liu Huo, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Pine Comet weapon.
 ---
 ![liu_huo](https://telegra.ph/file/b92dcf4a1580b810fef54.png)
 

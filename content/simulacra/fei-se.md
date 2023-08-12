@@ -3,7 +3,7 @@ title: "Fei Se"
 date: 2023-06-27
 tags: [SSR, Flame]
 social_image: /media/logo.png
-description: Mimi, featured as a obtainable SSR Simulacrum within the simulacrum system.
+description: Mimi, featured as an obtainable SSR Simulacrum within the simulacrum system.
 ---
 
 >Upcoming Simulucrum 
