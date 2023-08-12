@@ -6,6 +6,9 @@ social_image: '/media/logo.png'
 description: Fiona, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Moonstar Bracelet weapon.
 ---
 
+![](https://i.postimg.cc/P5F3Cvsy/Simulacrum-Fiona-Awaken.webp)
+
+
 ### Awaken: Moon Reflection
 > Increase final damage by 18%.
 
@@ -27,7 +30,7 @@ description: Fiona, featured as an obtainable SSR Simulacrum within the simulacr
 <center>Moonstar Bracelet</center>
 
 <p align="center">
-    <img src="https://i.postimg.cc/P5F3Cvsy/Simulacrum-Fiona-Awaken.webp" alt="Centered Image">
+    <img src="https://i.postimg.cc/VkwXsYV6/Icon-Weapon-Moonstar-Bracelet.png">
 </p>
 
 <center> Attack: 18 | HP: 1165 | Resist: 4 | S: 11.50 | C: 11.50</center>
