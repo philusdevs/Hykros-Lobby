@@ -70,7 +70,7 @@ As an Executor, overseeing various responsibilities can be demanding. This check
 <p>Author: Shimakaze#c</p>
 
 <h2>Daily Checklist</h2>
-<ul class="checklist">
+<ol class="checklist">
   <li>
     <input type="checkbox" id="check1">
     <label for="check1">Claim Mia's 3 Daily Meals</label>
@@ -99,10 +99,10 @@ As an Executor, overseeing various responsibilities can be demanding. This check
     <input type="checkbox" id="check7">
     <label for="check7">Optional: Get your daily 1500 support points</label>
   </li>
-</ul>
+</ol>
 
 <h2>Weekly Checklist</h2>
-<ul class="checklist">
+<ol class="checklist">
   <li>
     <input type="checkbox" id="check8">
     <label for="check8">Consume charges of Frontier Clash & Void Rift</label>
@@ -147,13 +147,13 @@ As an Executor, overseeing various responsibilities can be demanding. This check
     <input type="checkbox" id="check18">
     <label for="check18">Buyout Fishing shop/Turn in Fish</label>
   </li>
-</ul>
+</ol>
 
 <h2>Monthly Checklist</h2>
-<ul class="checklist">
+<ol class="checklist">
   <li>
     <input type="checkbox" id="check19">
-    <label for="check19">Origin of War ongoing, push floors</label>
+    <label for="check19">Origin of War ongoing</label>
   </li>
   <li>
     <input type="checkbox" id="check20">
@@ -171,7 +171,7 @@ As an Executor, overseeing various responsibilities can be demanding. This check
     <input type="checkbox" id="check23">
     <label for="check23">Buyout Monthly items from your Artificial Island shop (Red Matrix pulls)</label>
   </li>
-</ul>
+</ol>
 
 <script>
 // Function to refresh the checklist at 5 AM every day
