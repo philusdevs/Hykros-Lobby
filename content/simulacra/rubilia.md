@@ -47,6 +47,8 @@ Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2
 
 ★ 6After successfully using Harrah's Embrace, increase volt damage by an additional 12% for 30 seconds.
 
+</br> 
+
 #### Matrices
 
 ![](https://telegra.ph/file/d188583ef4e4fc96c8e0e.png)
@@ -102,21 +104,3 @@ blockquote {
 |   Discharge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
 | **Harrah's Embrace**| </br> When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the wielderand summon Harrah to cast 12 Tempest Rounds, each of which deals damage equal to `68.8%` of ATK plus 4 to nearby targets, during which the Wanderer has damage immunity for 2.6 seconds (unavailable in Apex League). Increase volt damage by `7% `for 30 seconds after successfully using Harrah's Embrace. In addition, generate 3 Crystamax thorns (up to 5 can exist at one time). Crystamax thorns start with `100%` Max HP, are unable to be attacked, can only be healed by Feedback, and last for 150 seconds. Gain 2 Feedbacks after Harrah's Embrace lands an attack (can stack up to 4 times). Lost Art consumes 1 Feedback every dodge attack, dealing damage to the target equal to the number of Crystamax thorns times `72%` of ATK, recovering `25%` of Max HP to the Crystamax thorns, and resetting Crystamax thorn location and duration. Harrah's Embrace restores 1 dodge attempt upon landing an attack, and does not consume dodge attempts.|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

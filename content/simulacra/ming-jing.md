@@ -21,7 +21,7 @@ description: Ming Jing Kit
     <img src="https://telegra.ph/file/a983748eb1f5ecea4d793.png" alt="Centered Image">
 </p>
 
- <center>  Attack: 19| HP: 1165 | Crit: 13 | S: 14.00 | C: 12.00 </center>
+ <center>Attack: 19| HP: 1165 | Crit: 13 | S: 14.00 | C: 12.00 </center>
 
 </br>
 
