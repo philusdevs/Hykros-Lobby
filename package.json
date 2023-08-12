@@ -1,9 +1,9 @@
 {
-  "name": "Hykros-Lobby-Blog",
-  "private": true,
+  "name": "Hykros Lobby",
+  "private": false,
   "description": "A Community Guide site for Tower of Fantasy.",
   "version": "1.0.0",
-  "author": "Vex",
+  "author": "Vex-Community",
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@material-ui/core": "^4.12.4",
@@ -43,7 +43,7 @@
   "devDependencies": {
     "prettier": "2.7.1"
   },
-  "homepage": "https://github.com/yinkakun/gatsby-starter-glass#readme",
+  "homepage": "http://hykroslobby.com/",
   "keywords": [
     "gatsby",
     "netlify cms"
@@ -51,7 +51,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yinkakun/gatsby-starter-glass.git"
+    "url": "git+https://github.com/philusdevs/Hykros-Lobby.git"
   },
   "scripts": {
     "build": "gatsby build",
