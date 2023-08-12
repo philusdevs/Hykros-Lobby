@@ -159,8 +159,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Frosted Blog`,
-        short_name: `Gatsby Frosted`,
+        name: `Hykros Lobby`,
+        short_name: `Hykros Lobby`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
