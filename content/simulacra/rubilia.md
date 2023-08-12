@@ -13,11 +13,17 @@ description: rubilia kit
 
 > Increase volt damage by 8% for every 1 volt weapon equipped. The amount of time that Grayspace Entities are controlled by Seal is increased to 120 seconds.
 
-Lost Art
 
-![](https://telegra.ph/file/dc10128262fa1cafb115d.png)
 
-Attack: 18 | HP: 1165 | Crit: 14 | S: 10.00 | C: 12.00
+<center>Lost Art</center>
+
+<p align="center">
+    <img src="https://telegra.ph/file/dc10128262fa1cafb115d.png" alt="Centered Image">
+</p>
+
+
+
+<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 10.00 | C: 12.00</center>
 
 ####
 

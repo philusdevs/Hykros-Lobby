@@ -15,11 +15,13 @@ description: Ming Jing Kit
 
 </br>
 
-Onyx Tortoise
+<center> Onyx Tortoise </center>
 
-![](https://telegra.ph/file/a983748eb1f5ecea4d793.png)
+<p align="center">
+    <img src="https://telegra.ph/file/a983748eb1f5ecea4d793.png" alt="Centered Image">
+</p>
 
- Attack: 19| HP: 1165 | Crit: 13 | S: 14.00 | C: 12.00 
+ <center>  Attack: 19| HP: 1165 | Crit: 13 | S: 14.00 | C: 12.00 </center>
 
 </br>
 
@@ -69,9 +71,10 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 </br>
 
-![](https://telegra.ph/file/dfd7e5fc726572ba14b56.png)
 
-
+<p align="center">
+    <img src="https://telegra.ph/file/dfd7e5fc726572ba14b56.png" alt="Centered Image">
+</p>
 
 > **2-piece:** Increase Serpent Chain member limit to 5. When at least 1 physical or flame weapon is equipped, increase physical ATK and flame ATK by 14% / 16% / 18% / 20%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 

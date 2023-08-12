@@ -15,11 +15,16 @@ description: Yu lan Kit
 > While in the Martial Artist form, additionally increase final damage by 7%. While in the Sweeping Force form, for every 1 frost weapon equipped, increase damage dealt via consuming Fighting Spirit by 9%. When 3 frost weapons are equipped, increase frost damage by 8%.
  <br/> 
   <br/> 
-Unity
 
-![](https://telegra.ph/file/4a6860839884422427118.png )
 
-Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 10.00
+<center> Unity </center>
+
+<p align="center">
+    <img src="https://telegra.ph/file/4a6860839884422427118.png" alt="Centered Image">
+</p>
+
+
+<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 10.00 </center>
 
 ### Element Type: **Frost**
 
@@ -50,7 +55,11 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 
 ### Matrices
 
-![](https://telegra.ph/file/3d3157040eaa52353db44.png)
+<p align="center">
+    <img src="https://telegra.ph/file/3d3157040eaa52353db44.png" alt="Centered Image">
+</p>
+
+
 
 >  **2-piece:** When at least 1 frost weapon is equipped, nearby targets will take 65% ATK damage every second while in combat. Using any frost weapon's skill or discharge skill increases final damage 6%/7%/8%/9% for 30 seconds. This effect works in the background, and if multiple sets are used, the highest star set will take effect.
 

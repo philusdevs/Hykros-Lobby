@@ -7,3 +7,5 @@ description: Fei Se Kit
 ---
 
 >Upcoming Simulucrum 
+
+![](https://i.postimg.cc/d3KSqMPK/Simulacrum-Fei-Se-Awaken.webp)

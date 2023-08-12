@@ -8,3 +8,5 @@ description: Mimi Kit
 
 
 >Upcoming Simulucrum 
+
+![](https://i.postimg.cc/QtqcWvKD/Simulacrum-Mimi-Awaken.png)
