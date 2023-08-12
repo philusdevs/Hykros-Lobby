@@ -3,7 +3,7 @@ title: "Rubilia"
 date: 2023-06-02
 tags: [SSR, Volt]
 social_image: '/media/tab_rubilia.png'
-description: rubilia kit
+description: Rubilia, featured as a obtainable SSR Simulacrum within the simulacrum system, associated with the Lost Art weapon.
 ---
 
 
@@ -35,11 +35,9 @@ description: rubilia kit
 
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
 
-
 ### Volt Resonance
 
 Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
-
 
 ### Advancements
 
