@@ -7,16 +7,22 @@ description: Liu Huo, featured as an obtainable SSR Simulacrum within the simula
 ---
 ![liu_huo](https://telegra.ph/file/b92dcf4a1580b810fef54.png)
 
-#### Awaken
+### Awaken: Growing Up
 
 > Increase final damage by 18%. When Pine Comet is in the off-hand slot, Sparrow Feather launch frequency increases to 1 per second. When Sparrow Feather hits and triggers the spreading effect, it additionally spreads Ion Scorch and Cross Burn. In team play, your damage taken from the aggroed target is reduced by 5%. When Fortitude Resonance is activated, the damage reduction increases to 8%.
  <br/> 
 <br/> 
-Pine Comet
 
-![](https://telegra.ph/file/1b86730c66f5415bba330.png)
 
-Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 15.00
+<center>Pine Comet</center>
+
+
+<p align="center">
+    <img src="https://telegra.ph/file/1b86730c66f5415bba330.png" alt="Centered Image">
+</p>
+
+
+<center>Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 15.00</center>
 
 </br>
 
@@ -51,11 +57,13 @@ Wanderer's resistance types plus 200% of crit. This effect can be triggered once
 
 </br>
 
-#### Matrices
+### Matrices
 
 </br>
 
-![](https://telegra.ph/file/3dd8e9490147f7e273c62.png)
+<p align="center">
+    <img src="https://telegra.ph/file/3dd8e9490147f7e273c62.png" alt="Centered Image">
+</p>
 
 <br/> 
 

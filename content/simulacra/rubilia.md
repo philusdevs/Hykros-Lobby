@@ -31,15 +31,15 @@ description: Rubilia, featured as an obtainable SSR Simulacrum within the simula
 
 
 
-### Element Type :Volt
+#### Element Type :Volt
 
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
 
-### Volt Resonance
+#### Volt Resonance
 
 Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-### Advancements
+#### Advancements
 
 ★ 1 After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds
 

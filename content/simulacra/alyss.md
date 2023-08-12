@@ -3,7 +3,7 @@ title: "Alyss"
 date: 2023-02-02
 tags: [SSR, Frost]
 social_image: '/media/logo.png'
-description: Alyss, featured as a obtainable SSR Simulacrum within the simulacrum system, associated with the Unyielding Wing weapon.
+description: Alyss, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Unyielding Wing weapon.
 ---
 
 
@@ -29,17 +29,17 @@ description: Alyss, featured as a obtainable SSR Simulacrum within the simulacru
 
 
 
-### Element Type: **Frost**
+#### Element Type: **Frost**
 
 Ice Shell When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for6 seconds. Breaking the ice shell causes additional damage equal to151% of ATK. While frostbitten, the target's weapon charge rate is reduced by50%
 
 
-### Frost Resonance
+#### Frost Resonance
 
 Increase Frost ATK by15% and Frost Resistance by 25%. Activate by equipping2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 </br>
 
-### Advancements
+#### Advancements
 
 1★Receive Alyss's Support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward. Alyss's supporting discharge skill damage is equal to 70% of her skill's original damage.
 

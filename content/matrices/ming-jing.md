@@ -7,7 +7,9 @@ description: Ming Jing Matrices
 ---
 ### Lost at Heart
 
-![](https://telegra.ph/file/dfd7e5fc726572ba14b56.png)
+<p align="center">
+    <img src="https://telegra.ph/file/dfd7e5fc726572ba14b56.png" alt="Centered Image">
+</p>
 
 > **2-piece:** Increase Serpent Chain member limit to 5. When at least 1 physical or flame weapon is equipped, increase physical ATK and flame ATK by 14% / 16% / 18% / 20%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 

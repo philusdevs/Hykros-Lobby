@@ -39,15 +39,15 @@ description: Fiona, featured as an obtainable SSR Simulacrum within the simulacr
 >Moonstar Bracelet will not be included in the permanent weapon banner
 
 
-### Element Type: Altered 
+#### Element Type: Altered 
 
 hen the weapon is fully charged, the next attack will mark the target, causing an explosion after 5 seconds. Additionally inflict 25% of all damage received by the target while the mark exists, up to a total of 560% of your ATK. Only 1 mark can be added on a target at a time.
 
-### Altered Resonance
+#### Altered Resonance
 Increase ATK by 20% and altered resistance by 30%. Activate by equipping 2 or more altered weapons. This set effect works in the off-hand slot. Cannot stack with other Altered Resonance or Altered Reaction effects, with Altered Resonance taking precedence.
 
 
-### Advancements
+#### Advancements
 
 1★ Using any weapon or discharge skill grants 1 elemental crystal, up to 5 crystals. Elemental crystals are lost at a rate of 1 crystal every 6 seconds.
 Elemental crystals provide a final damage boost equal to 4% of ((crystal count plus 1)/2) and an increased healing effect equal to 6% of ((crystal count plus 1)/2).
