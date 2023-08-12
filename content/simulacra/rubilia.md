@@ -9,11 +9,14 @@ description: rubilia kit
 
 ![](https://telegra.ph/file/cf9ceaf192d1ca4148b0e.png)
 
-#### Awaken Rubilia: Enlightenment
+
+</br>
+
+### Awaken Rubilia: Enlightenment
 
 > Increase volt damage by 8% for every 1 volt weapon equipped. The amount of time that Grayspace Entities are controlled by Seal is increased to 120 seconds.
 
-
+</br>
 
 <center>Lost Art</center>
 
@@ -24,32 +27,33 @@ description: rubilia kit
 
 
 <center> Attack: 18 | HP: 1165 | Crit: 14 | S: 10.00 | C: 12.00</center>
+</br>
 
-####
 
-#### Element Type :Volt
+
+### Element Type :Volt
 
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
 
-#### Volt Resonance
+
+### Volt Resonance
 
 Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-####
 
-#### Advancements
+### Advancements
 
-★ 1After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds
+★ 1 After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds
 
-★ 3Using any weapon skill or the discharge skill of any other weapon will generate 1 Crystamax thorn.
+★ 3 Using any weapon skill or the discharge skill of any other weapon will generate 1 Crystamax thorn.
 
-★ 5Increases Feedback's Max HP recovery of Crystamax thorns by 50%.
+★ 5 Increases Feedback's Max HP recovery of Crystamax thorns by 50%.
 
-★ 6After successfully using Harrah's Embrace, increase volt damage by an additional 12% for 30 seconds.
+★ 6 After successfully using Harrah's Embrace, increase volt damage by an additional 12% for 30 seconds.
 
 </br> 
 
-#### Matrices
+### Matrices
 
 ![](https://telegra.ph/file/d188583ef4e4fc96c8e0e.png)
 
