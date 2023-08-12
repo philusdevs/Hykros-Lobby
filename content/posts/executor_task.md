@@ -5,11 +5,14 @@ tags: [new executor brief]
 social_image: '/media/logo.png'
 description: Comprehensive daily, weekly, and monthly checklist for Executors
 ---
+
+As an Executor, overseeing various responsibilities can be demanding. This checklist aims to provide you with a streamlined approach to managing tasks effectively on a daily, weekly, and monthly basis.
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-/* Style for the checklist items */
+
 .checklist {
   list-style-type: none;
   padding: 0;
