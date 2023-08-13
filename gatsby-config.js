@@ -143,7 +143,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: `Gatsby Glass RSS Feed`,
+            title: `Hykros Lobby`,
           },
         ],
       },
