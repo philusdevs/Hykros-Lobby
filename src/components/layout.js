@@ -7,7 +7,7 @@ import GlobalStyle from "./global-styles";
 import styled from "styled-components";
 import { ThemeProvider } from "../ThemeContext/ThemeContext";
 
-const Layout = ({ children, title, description, socialImage = "" }) => {
+const Layout = ({ children, title, description, socialImage }) => {
   return (
     <ThemeProvider>
       <Fragment>

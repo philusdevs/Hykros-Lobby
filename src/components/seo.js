@@ -25,8 +25,8 @@ const Seo = ({ description, lang, meta, title, socialImage }) => {
   const defaultTitle = site.siteMetadata?.title;
 
   const ogImage = socialImage
-    ? `${site.siteMetadata.siteUrl}/${socialImage}`
-    : `${site.siteMetadata.siteUrl}/${site.siteMetadata.openGraphImage}`;
+    ? `${site.siteMetadata.siteUrl}${socialImage}`
+    : `${site.siteMetadata.siteUrl}${site.siteMetadata.openGraphImage}`;
 
   return (
     <Helmet
@@ -89,7 +89,7 @@ Seo.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
-  socialImage: PropTypes.string, // Add this prop type
+  socialImage: PropTypes.string,
 };
 
 export default Seo;
