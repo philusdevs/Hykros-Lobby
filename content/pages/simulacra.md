@@ -13,7 +13,7 @@ simulacra:
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/DPS.png
+    bottomRightOverlay2: /media/fortitude.png
   - name: Ming Jing 
     icon: /media/ming_jing.png
     gradientColor: Physical&Flame
