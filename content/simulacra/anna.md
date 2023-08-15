@@ -70,7 +70,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 > **4-piece:** When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 5.5% / 7% / 8.5% / 10%, and increases crit damage by an additional 12% / 14% / 16% / 18% within 25 seconds of landing a critical hit. For every 3 charged attacks that hit the target, restore 1 dodge attempt. Cooldown: 2 seconds. Only the effect of the highest star rating is applied when obtained repeatedly.
 
-
+</br>
 </br>
 
 <style>

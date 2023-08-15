@@ -55,6 +55,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 6★ Increase the damage dealt by Dancing Flames and Soaring Strike by 50%. The multiplier for spinning parasols, Phoenix Sweep, and Fiery Crash is now Polyfeather Parasol plus 2.
 
 </br>
+</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 

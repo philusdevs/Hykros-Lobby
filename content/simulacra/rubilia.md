@@ -54,6 +54,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targe
 6★  After successfully using Harrah's Embrace, increase volt damage by an additional 12% for 30 seconds.
 
 </br> 
+</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 

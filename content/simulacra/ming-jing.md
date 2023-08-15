@@ -68,6 +68,7 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 6★ When there is 1 Serpent Chain member, increase conduction damage's conduction rate by 50%.
 
 </br>
+</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 

@@ -78,6 +78,7 @@ Ice Shell When the weapon is fully charged, the next attack will freeze targets 
 > **4-piece:** Increase final damage by 6% / 7.5% / 9% / 10.5% for 18 seconds when using Unyielding Wing's discharge skill, stacking up to 2 times. Remove 1 stack when the duration ends. This set effect works in the off-hand slot, and only one set can take effect. The endurance consumption is reduced by 50% in its Latent State.
 
 </br>
+</br>
 
 <style>
 table {

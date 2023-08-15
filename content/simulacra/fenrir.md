@@ -56,6 +56,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 6★ Increase crit rate by 18% while wielding Gleipnir. The crit rate increase lasts another 5 seconds after switching to  other weapons.
 
 </br>
+</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 
@@ -67,6 +68,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 > **4-piece:** When dealing volt damage, increase final damage by 2.75% for 10 seconds, stacking up to  5 / 6 / 7 / 8 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
+</br>
 </br>
 
 <style>

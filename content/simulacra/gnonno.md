@@ -61,6 +61,7 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 6★ Increase damage dealt by detonating Treasure Tracers by 90% of ATK.
 
 </br>
+</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 
