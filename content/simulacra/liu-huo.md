@@ -32,17 +32,11 @@ description: Liu Huo, featured as an obtainable SSR Simulacrum within the simula
 When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.
 
 
-#### Flame Resonance
+<h4 style="text-align: center;"> Elemental Resonance</h4>
 
-Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Flame Resonance:** Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-<br/> 
-
-#### Fiery Explosion: On-Field
-
-When landing any hit with Pine Comet, it deals damage to nearby targets equal to 105% of flame ATK plus 1.5% of the Wanderer's Max HP plus 55% of the sum of all the
-
-Wanderer's resistance types plus 200% of crit. This effect can be triggered once every 1.5 seconds. The Fiery Explosion damage is counted as normal attack damage. If there is 1 volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by 1.3 times. In addition, Fiery Explosion damage is not affected by any damage boost.
+**Fiery Explosion: On-Field:** When landing any hit with Pine Comet, it deals damage to nearby targets equal to 105% of flame ATK plus 1.5% of the Wanderer's Max HP plus 55% of the sum of all the Wanderer's resistance types plus 200% of crit. This effect can be triggered once every 1.5 seconds. The Fiery Explosion damage is counted as normal attack damage. If there is 1 volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by 1.3 times. In addition, Fiery Explosion damage is not affected by any damage boost.
 
 </br>
 
