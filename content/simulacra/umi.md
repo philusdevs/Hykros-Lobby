@@ -3,7 +3,7 @@ title: "Umi"
 date: 2023-02-22
 tags: [SSR, Physical]
 social_image: '/media/logo.png'
-description: Umi, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Mobius weapon.
+description: Umi, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Mobius.
 ---
 ![](https://i.postimg.cc/mrf9pTQR/Simulacrum-Umi-Awaken.webp)
 

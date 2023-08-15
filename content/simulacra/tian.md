@@ -3,7 +3,7 @@ title: "Tian Lang"
 date: 2022-12-22
 tags: [SSR, Volt]
 social_image: '/media/logo.png'
-description: Tian Lang, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Thunderbreaker weapon.
+description: Tian Lang, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Thunderbreaker.
 ---
 
 ![](https://i.postimg.cc/MpjRYnfd/Simulacrum-Tian-Lang-Awaken.webp)

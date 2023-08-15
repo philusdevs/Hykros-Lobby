@@ -3,7 +3,7 @@ title: "Fiona"
 date: 2023-04-26
 tags: [SSR, Altered]
 social_image: '/media/logo.png'
-description: Fiona, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Moonstar Bracelet weapon.
+description: Fiona, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Moonstar Bracelet.
 ---
 
 ![](https://i.postimg.cc/P5F3Cvsy/Simulacrum-Fiona-Awaken.webp)

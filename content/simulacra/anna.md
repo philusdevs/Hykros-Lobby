@@ -3,7 +3,7 @@ title: "Annabella"
 date: 2023-01-11 
 tags: [SSR, Flame]
 social_image: '/media/logo.png'
-description: Annabella, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the Clover Cross weapon.
+description: Annabella, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Clover Cross.
 ---
 ![](https://i.postimg.cc/90GKTmtM/Simulacrum-Annabella-Awaken.webp)
 
