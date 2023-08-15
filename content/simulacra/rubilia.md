@@ -39,6 +39,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targe
 
 **Volt Resonance:** Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
+</br>
+
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★ After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds

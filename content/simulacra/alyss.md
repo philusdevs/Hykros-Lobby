@@ -40,6 +40,7 @@ Ice Shell When the weapon is fully charged, the next attack will freeze targets 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Frost Resonance:** Increase Frost ATK by15% and Frost Resistance by 25%. Activate by equipping2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+
 </br>
 
 <h4 style="text-align: center;"> Advancements </h4>

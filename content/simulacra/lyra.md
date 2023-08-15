@@ -39,6 +39,8 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 **Physical Benediction:** Increase the entire team's physical ATK by 5% when Benediction Resonance is active.
 
+</br>
+
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★ When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to 30% of physical ATK x number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 when without it.

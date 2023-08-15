@@ -40,6 +40,8 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 **Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
+</br>
+
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★ Hitting a target 2 times with Cross Snipe creates an Optical Space for 12 seconds at the target location. After an enemy in the Optical Space triggers burn tally, burn tally will be triggered an additional 2 times. When an enemy leaves the Optical Space, their speed is reduced by 80% for 2.5 seconds. Cooldown: 12 seconds. Targets of Cross Snipe will be terrified (speed is slowed by 80%) for 1.5 seconds. Cooldown: 4 seconds.

@@ -39,6 +39,8 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 **Elementalist:** Increase final damage by 1.5% for every 1 type of weapon element equipped. This set effect also works with weapons in the off-hand slot.
 
+</br>
+
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★ When any weapon skill is used, Speedy Yo-yo can trigger harmony, dealing damage to nearby targets equal to 25% of their lost HP. The damage dealt shall be no less than 120% of the Wanderer's Max ATK, and no more than 800% of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon. When any weapon discharge is used, Speedy Yo-yo can trigger tuning, dealing damage to nearby targets equal to 4% of the Wanderer's Max HP. The damage dealt shall be no more than 400% of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.

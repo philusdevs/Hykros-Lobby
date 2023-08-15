@@ -50,6 +50,8 @@ When the weapon is fully charged, the next attack will mark the target, causing 
 **Altered Resonance:** Increase ATK by 20% and altered resistance by 30%. Activate by equipping 2 or more altered weapons. This set effect works in the off-hand slot. Cannot stack with other Altered Resonance or Altered Reaction effects, with Altered Resonance taking precedence.
 
 
+</br>
+
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★ Using any weapon or discharge skill grants 1 elemental crystal, up to 5 crystals. Elemental crystals are lost at a rate of 1 crystal every 6 seconds.

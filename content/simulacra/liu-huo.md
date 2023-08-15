@@ -39,6 +39,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 **Fiery Explosion: On-Field:** When landing any hit with Pine Comet, it deals damage to nearby targets equal to 105% of flame ATK plus 1.5% of the Wanderer's Max HP plus 55% of the sum of all the Wanderer's resistance types plus 200% of crit. This effect can be triggered once every 1.5 seconds. The Fiery Explosion damage is counted as normal attack damage. If there is 1 volt/frost/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by 1.3 times. In addition, Fiery Explosion damage is not affected by any damage boost.
 
 </br>
+
 <h4 style="text-align: center;"> Advancement</h4>
 
 

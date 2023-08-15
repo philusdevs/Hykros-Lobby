@@ -40,6 +40,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 **Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
+</br>
 
 <h4 style="text-align: center;"> Advancements </h4>
 

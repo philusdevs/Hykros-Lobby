@@ -39,6 +39,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 **Volt Resonance:** Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
+</br>
+
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★ Gain 1 stack of Superconductor per charge: Increase Max HP by 7.5% but increase damage received by 2% (except when the current HP is lower than 50 times of volt ATK and no HP Shield is equipped), stacking up to 8 times. Lose 1 stack if no Superconductor gets refreshed within 6 seconds.

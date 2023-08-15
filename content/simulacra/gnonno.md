@@ -44,6 +44,7 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 **Universal Resonance:** Increase final damage by 15%. Activate by equipping 2 weapons of the same element, not including physical. This set effect works in the off-hand slot.
 
+</br>
 
 <h4 style="text-align: center;"> Advancements </h4>
 
