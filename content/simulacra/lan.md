@@ -1,12 +1,15 @@
 ---
 title: "Lan"
-date: 2023-01-11 
+date: 2023-03-30
 tags: [SSR, Flame]
 social_image: '/media/logo.png'
 description: Lan, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Vermilion Bird.
 ---
 
 ![](https://i.postimg.cc/R0HRqPTC/Simulacrum-Lan-Awaken.webp)
+
+### Awaken: Towering Flames
+During Fortitude Resonance, flame and frost damage received by you and your teammates in the barrier is reduced by 24%, and final damage is increased by 8%.
 
 </br>
 </br>
