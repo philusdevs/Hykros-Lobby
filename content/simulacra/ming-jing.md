@@ -37,9 +37,9 @@ When the weapon is fully charged, the next attack will cause enemies to become g
 
 **Physical Resonance:** Increase physical ATK by 15% and physical resistance by 25%. Activate by equipping 2 or more physical weapons. This set effect works in the ofF-hand slot.
 
-Flame Resonance: Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the ofF-hand slot.
+**Flame Resonance:** Increase flame ATK by 15% and flame resistance by 25%. Activate by equipping 2 or more flame weapons. This set effect works in the ofF-hand slot.
 
-Shield Break: Detachment: After using Absolute Ravine, every second, deal damage equal to 70% of physical ATK plus 1% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage.
+**Shield Break: Detachment:** After using Absolute Ravine, every second, deal damage equal to 70% of physical ATK plus 1% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage.
 </br>
 If there is 1 volt/Flame/frost weapon of any kind equipped, shield break damage is multiplied by 1.3 times. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 </br>
