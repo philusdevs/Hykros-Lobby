@@ -1,5 +1,15 @@
+---
+title: "Icarus"
+date: 2023-04-12
+tags: [SSR, Frost]
+social_image: '/media/logo.png'
+description: Icarus, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Precious One.
+---
+
 ![](https://i.postimg.cc/nc3TW9zx/Simulacrum-Icarus-Awaken.webp)
 
+### Awaken: Molten Feathers
+> After equipping Precious One, increase final damage by 15%. While using Precious One, increase shatter by 45%.
 </br>
 </br>
 
