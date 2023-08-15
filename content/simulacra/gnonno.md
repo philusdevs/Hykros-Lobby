@@ -32,18 +32,20 @@ description: Gnonno, featured as an obtainable SSR Simulacrum within the simulac
 <center> Attack: 19 | HP: 1165 | Crit: 13 | S: 12.00 | C: 14.00 </center>
 
 
-#### Grievous
+</br>
+
+<h4 style="text-align: center;"> Trait: Grievous </h4>
 
 When the weapon is fully charged, the next attack will inflict damage equal to 137% of ATK, and make the target grievous for 7 seconds, taking 20% extra damage. When in Color|gold|team play, grievous targets receive an additional 20% physical damage.
 
-#### Physical Resonance
-Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+<h4 style="text-align: center;"> Elemental Resonance </h4>
 
-#### Universal Resonance
-Increase final damage by 15%. Activate by equipping 2 weapons of the same element, not including physical. This set effect works in the off-hand slot.
+**Physical Resonance:** Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+
+**Universal Resonance:** Increase final damage by 15%. Activate by equipping 2 weapons of the same element, not including physical. This set effect works in the off-hand slot.
 
 
-#### Advancements
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ Increase the shatter effect of Frantic Digging, Boiling Octopus Balls, and Go on, Pip! by 80%.
 Gain a 50% increase to Shield when these skills are used while the Wanderer's Shield is below 50%. This effect lasts for 8 seconds.
@@ -57,7 +59,7 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 
 </br>
 
-### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/b74a86a716225aedef72c.png"

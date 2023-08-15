@@ -25,22 +25,21 @@ description: Icarus, featured as an obtainable SSR Simulacrum within the simulac
 Attack: 18 | HP: 1165 | Crit: 14 | S: 9.50 | C: 8.00
 </center>
 
-</br>
+
 </br>
 
-#### Element Type: Frost
+<h4 style="text-align: center;"> Trait: Ice Shell </h4>
+
 
 When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
-#### Frost Resonance 
+<h4 style="text-align: center;"> Elemental Resonance </h4> 
 
-Increase Frost ATK by 15% and Frost Resistance by 25%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Frost Resonance:** Increase Frost ATK by 15% and Frost Resistance by 25%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-#### Elementalist
+**Elementalist:** Increase final damage by 1.5% for every 1 type of weapon element equipped. This set effect also works with weapons in the off-hand slot.
 
-Increase final damage by 1.5% for every 1 type of weapon element equipped. This set effect also works with weapons in the off-hand slot.
-
-#### Advancements
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ When any weapon skill is used, Speedy Yo-yo can trigger harmony, dealing damage to nearby targets equal to 25% of their lost HP. The damage dealt shall be no less than 120% of the Wanderer's Max ATK, and no more than 800% of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon. When any weapon discharge is used, Speedy Yo-yo can trigger tuning, dealing damage to nearby targets equal to 4% of the Wanderer's Max HP. The damage dealt shall be no more than 400% of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.
 
@@ -55,7 +54,7 @@ Increase final damage by 1.5% for every 1 type of weapon element equipped. This 
 </br>
 </br>
 
-#### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/5e674f3c026a413a49344.png" alt="Centered Image">

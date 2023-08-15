@@ -30,15 +30,16 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 12.50 | C: 8.00
 </br>
 </br>
 
-#### Element Type:Volt
+<h4 style="text-align: center;"> Trait: Volt </h4>
+
 
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
 
-#### Volt Resonance
+<h4 style="text-align: center;"> Elemental Resonance </h4>
 
-Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Volt Resonance:** Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-#### Advancements
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ Gain 1 stack of Superconductor per charge: Increase Max HP by 7.5% but increase damage received by 2% (except when the current HP is lower than 50 times of volt ATK and no HP Shield is equipped), stacking up to 8 times. Lose 1 stack if no Superconductor gets refreshed within 6 seconds.
 
@@ -51,7 +52,7 @@ Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or 
 </br>
 </br>
 
-#### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
 <img src="https://telegra.ph/file/772439576be48e2f6125c.png" alt="Centered Image">

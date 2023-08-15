@@ -30,13 +30,17 @@ Attack: 16 | HP: 1010 | Crit: 11 | S: 12.50 | C: 9.00
 </br>
 
 
-#### Element Type: Flame
+</br>
+
+<h4 style="text-align: center;"> Trait: Flame</h4>
+
 When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.
 
-#### Flame Resonance
-Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+<h4 style="text-align: center;"> Elemental Resonance </h4>
 
-#### Advancements
+**Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ Hitting a target 2 times with Cross Snipe creates an Optical Space for 12 seconds at the target location. After an enemy in the Optical Space triggers burn tally, burn tally will be triggered an additional 2 times. When an enemy leaves the Optical Space, their speed is reduced by 80% for 2.5 seconds. Cooldown: 12 seconds. Targets of Cross Snipe will be terrified (speed is slowed by 80%) for 1.5 seconds. Cooldown: 4 seconds.
 
@@ -49,7 +53,7 @@ Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 o
 </br>
 </br>
 
-#### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/279e90d03308af567f70a.png" alt="Centered Image">

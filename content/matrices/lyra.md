@@ -1,11 +1,11 @@
 ---
 title: "Lyra"
-date: 2022-09-04
+date: 2022-12-22 
 tags: [SSR, Matrices, Physical, Normal, ATK, Support]
 social_image: '/media/logo.png'
 description: Lyra Matrices
 ---
-### The Confession of Memory
+#### The Confession of Memory
 
 ![](https://i.postimg.cc/tCt0VWHs/Lyra-m.png)
 

@@ -30,15 +30,18 @@ Attack: 16 | HP: 1165 | Res: 6 | S: 14.00 | C: 8.00
 </br>
 </br>
 
-#### Element Type: Flame
+<h4 style="text-align: center;"> Trait: Flame </h4>
+
 When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.
 
-#### Flame Resonance
 
-Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+<h4 style="text-align: center;"> Elemental Resonance</h4>
 
 
-#### Advancements
+**Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+
+
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ Vermilion Strength: When equipping Vermilion Bird, the ammo costs of other weapons are multiplied by Polyfeather Parasol, and their damage, charge, and shatter effects are also multiplied by Polyfeather Parasol. Glowing Fire: When burn tally is triggered or when taking damage from Fiery Crash, 30% of the damage is transferred to the 3 units near the target (including the target itself) with the highest HP percentage.
 
@@ -52,7 +55,7 @@ Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 o
 
 </br>
 
-#### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 
 <p align="center">

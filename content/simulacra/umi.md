@@ -30,18 +30,18 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 12.00 | C: 9.00
 </br>
 
 
+</br>
 
-<h4 style="text-align: center;"> Element Type: Physical </h4>
-
+<h4 style="text-align: center;"> Trait: Grievous </h4>
 
 When the weapon is fully charged, the next attack will inflict damage equal to 137% of ATK, and make the target grievous for 7 seconds, taking 20% extra damage. When in team play, grievous targets receive an additional 20% physical damage.
 
-#### Physical Resonance 
+<h4 style="text-align: center;"> Elemental Resonance </h4>
 
-Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Physical Resonance:** Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
 
-#### Advancements
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ When switching to Mobius, immediately gain 30 warmup points. Cooldown: 17 seconds. Upon entering Magic Trick, deal area damage equal to 840% of ATK to nearby targets and reduce their physical resistance by 10% for 20 seconds.
 
@@ -57,7 +57,7 @@ Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equippi
 </br>
 </br>
 
-#### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/9145f8dd4f47aeaf5d2c4.png" alt="Centered Image">

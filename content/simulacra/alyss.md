@@ -28,18 +28,21 @@ description: Alyss, featured as an obtainable SSR Simulacrum within the simulacr
 <center>Attack: 15 | HP: 1010 | Resist : 3 | S: 8.00 | C: 12.00 </center>
 
 
+</br>
 
-#### Element Type: **Frost**
+
+<h4 style="text-align: center;"> Trait: Ice Shell </h4>
+
 
 Ice Shell When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for6 seconds. Breaking the ice shell causes additional damage equal to151% of ATK. While frostbitten, the target's weapon charge rate is reduced by50%
 
 
-#### Frost Resonance
+<h4 style="text-align: center;"> Elemental Resonance </h4>
 
-Increase Frost ATK by15% and Frost Resistance by 25%. Activate by equipping2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Frost Resonance:** Increase Frost ATK by15% and Frost Resistance by 25%. Activate by equipping2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 </br>
 
-#### Advancements
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★Receive Alyss's Support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward. Alyss's supporting discharge skill damage is equal to 70% of her skill's original damage.
 
@@ -58,7 +61,7 @@ Increase Frost ATK by15% and Frost Resistance by 25%. Activate by equipping2 or 
 </br>
 </br>
 
-### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/33c8c96a40fe435b03f86.png" alt="Centered Image">

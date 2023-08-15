@@ -30,20 +30,20 @@ Attack: 19 | HP: 1165 | Crit: 13 | S: 10.00 | C: 12.00
 </br>
 </br>
 
-#### Element Type: Volt
+<h4 style="text-align: center;"> Trait: Volt </h4>
+
 
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to  144% of ATK. Targets can't receive any buffs for the next 6 seconds.
 
-#### Volt Resonance:
+<h4 style="text-align: center;"> Elemental Resonance </h4>:
 
-Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Volt Resonance:** Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-#### Elemental Balancing
-Increase all ATK by 15%. Activate by equipping 3 weapons of different types. This set effect also works with weapons in the off-hand slot.
+**Elemental Balancing:** Increase all ATK by 15%. Activate by equipping 3 weapons of different types. This set effect also works with weapons in the off-hand slot.
 
 </br>
 
-#### Advancements
+<h4 style="text-align: center;"> Advancements </h4>
 
 1★ When Su-Paw-Star summons a consciousness and is on cooldown, gain the Aural Fever skill. Rush to  the target and attack multiple times, dealing damage up to  720% of ATK. Each hit landed slows the enemy for a brief period and resto res HP equal to  100% of ATK. The last hit places 2 musical notes on the target. Aural Fever cooldown: 15 seconds. When 3 or more notes are deto nated and the cooldown of Aural Fever is greater than 5 seconds, clear the cooldown of Aural Fever. This effect can only trigger 1 time every 15 seconds.
 
@@ -55,7 +55,7 @@ Increase all ATK by 15%. Activate by equipping 3 weapons of different types. Thi
 
 </br>
 
-#### Matrices
+<h4 style="text-align: center;"> Matrices </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/1c9f4f607ae78e4bf6b31.png" alt="Centered Image">
