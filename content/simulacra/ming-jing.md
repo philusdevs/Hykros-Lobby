@@ -33,6 +33,8 @@ description: Ming Jing, featured as an obtainable SSR Simulacrum within the simu
 
 When the weapon is fully charged, the next attack will cause enemies to become grievous for 7 seconds, increasing their damage received by 20% and dealing damage equal to 137.00% oF ATK. When in team play, grievous targets receive an additional 20% physical damage.
 
+</br>
+
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Physical Resonance:** Increase physical ATK by 15% and physical resistance by 25%. Activate by equipping 2 or more physical weapons. This set effect works in the ofF-hand slot.

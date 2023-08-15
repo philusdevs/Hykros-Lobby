@@ -33,6 +33,8 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 9.50 | C: 8.00
 
 When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
+</br>
+
 <h4 style="text-align: center;"> Elemental Resonance </h4> 
 
 **Frost Resonance:** Increase Frost ATK by 15% and Frost Resistance by 25%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.

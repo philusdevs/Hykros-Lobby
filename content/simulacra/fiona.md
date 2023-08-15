@@ -45,6 +45,8 @@ description: Fiona, featured as an obtainable SSR Simulacrum within the simulacr
 
 When the weapon is fully charged, the next attack will mark the target, causing an explosion after 5 seconds. Additionally inflict 25% of all damage received by the target while the mark exists, up to a total of 560% of your ATK. Only 1 mark can be added on a target at a time.
 
+</br>
+
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Altered Resonance:** Increase ATK by 20% and altered resistance by 30%. Activate by equipping 2 or more altered weapons. This set effect works in the off-hand slot. Cannot stack with other Altered Resonance or Altered Reaction effects, with Altered Resonance taking precedence.

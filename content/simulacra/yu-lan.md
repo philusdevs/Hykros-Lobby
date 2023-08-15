@@ -33,14 +33,18 @@ description: Yu lan, featured as an obtainable SSR Simulacrum within the simulac
 
 When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
+</br>
+
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 ***Frost Resonance:** Increase Frost ATK by 20% and Frost Resistance by 40%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
 **Icecrush: Swift Cut:** When equipped with Unity, after any weapon discharge skill hits a target, deal additional damage equal to 400% of frost ATK + 6.7% of max HP + 240% of all elemental resistance + 800% of crit damage to nearby targets. While in combat, for every 0.5 seconds elapsed, the damage from Quick Cut will be increased by 1 times, up to 30 times. When equipped with 1 volt/physical/flame weapon, increase the frost damage from Quick Cut by 2.5 times. The frost damage inflicted by Quick Cut is not affected by buff or debuff effects except from the effects from Titan equipment, and cannot trigger additional attack effects.
+
 </br>
 
-#### Advancement
+<h4 style="text-align: center;"> Advancement</h4>
+
 </br>
 1★ In the Martial Artist Form, for every 3 or more points of Inner Strength consumed, Unity returns 1 point of Inner Strength, final damage is increased by 5%, and Unity's dodge attack and normal attack will be increased by 50% for 30 seconds; In the Sweeping Form, for every 3 or more points of Fighting Spirit consumed, Unity returns 1 point of Fighting Spirit, and final damage is increased by 5% for 15 seconds.
 

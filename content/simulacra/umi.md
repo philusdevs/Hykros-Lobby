@@ -36,10 +36,13 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 12.00 | C: 9.00
 
 When the weapon is fully charged, the next attack will inflict damage equal to 137% of ATK, and make the target grievous for 7 seconds, taking 20% extra damage. When in team play, grievous targets receive an additional 20% physical damage.
 
+</br>
+
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Physical Resonance:** Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
+</br>
 
 <h4 style="text-align: center;"> Advancements </h4>
 
