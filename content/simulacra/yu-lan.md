@@ -57,6 +57,7 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 6★ In the Martial Artist Form, Unity's dodge attack and normal attack is increased by 60%, and its final damage is increased by 10% for 30 seconds after any points of Inner Strength is consumed. In the Sweeping Form, Unity's final damage is increased by 15% for 30 seconds after any points of Fighting Spirit is consumed.
 
 </br>
+</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 
