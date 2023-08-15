@@ -88,9 +88,8 @@ blockquote {
 
 </br>
 
-**Dodge:**
 
-| Attacks | Description |
+| Dodge| Description |
 | --- | --- |
 | **Dodge** | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area.
 | **Alioth** | Tap normal attack during the short period after dodging. Dash to attack the target, dealing damage equal to 172.6% of ATK + 9.
