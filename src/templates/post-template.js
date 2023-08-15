@@ -98,6 +98,10 @@ const PostContent = styled.section`
   h3 {
     font-size: var(--size-500);
   }
+  
+  h4{ 
+    text-align: center;
+  }
 
   b,
   strong {

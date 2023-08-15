@@ -41,13 +41,13 @@ Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2
 
 #### Advancements
 
-★ 1 After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds
+1★ After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds
 
-★ 3 Using any weapon skill or the discharge skill of any other weapon will generate 1 Crystamax thorn.
+3★  Using any weapon skill or the discharge skill of any other weapon will generate 1 Crystamax thorn.
 
-★ 5 Increases Feedback's Max HP recovery of Crystamax thorns by 50%.
+5★  Increases Feedback's Max HP recovery of Crystamax thorns by 50%.
 
-★ 6 After successfully using Harrah's Embrace, increase volt damage by an additional 12% for 30 seconds.
+6★  After successfully using Harrah's Embrace, increase volt damage by an additional 12% for 30 seconds.
 
 </br> 
 
