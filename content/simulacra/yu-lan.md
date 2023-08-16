@@ -2,7 +2,7 @@
 title: "Yu Lan"
 date: 2023-07-18
 tags: [SSR, Frost]
-social_image: '/media/logo.png'
+social_image: 'media/tab_yulan.png'
 description: Yu lan, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Unity.
 ---
 

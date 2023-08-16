@@ -2,7 +2,7 @@
 title: "Lyra"
 date: 2022-12-22 
 tags: [SSR, Physical]
-social_image: '/media/logo.png'
+social_image: '/media/tab_lyra.png'
 description: Lyra, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Vesper.
 ---
 

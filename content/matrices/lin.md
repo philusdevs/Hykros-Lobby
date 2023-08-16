@@ -2,7 +2,7 @@
 title: "Lin"
 date: 2022-11-22
 tags: [SSR, Matrices, Altered, FD, ATK]
-social_image: '/media/logo.png'
+social_image: '/media/tab_lin.png'
 description: Lin Matrices
 ---
 #### Night City Never Sleeps
