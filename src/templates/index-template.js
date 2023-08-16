@@ -122,7 +122,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       filter: { fields: { contentType:{ in: ["posts", "simulacra" "matrices"] } } }
       sort: { order: DESC, fields: frontmatter___date }
-      limit: 50
+      limit: 100
     ) {
       nodes {
         fields {
