@@ -4,26 +4,25 @@ import Layout from "../components/layout";
 import styled from "styled-components";
 import Tags from "../components/tags";
 
-
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
   const prev = data.prev;
   const next = data.next;
-  
+
+  const siteUrl = data.site.siteMetadata.siteUrl; // Add this line to get the siteUrl
+
+  // Construct the full URL for the social_image using relative path and siteUrl
+  const socialImageUrl = frontmatter.social_image
+    ? `${siteUrl}${frontmatter.social_image}`
+    : "";
 
   return (
     <Layout
       title={frontmatter.title}
       description={frontmatter.description || excerpt}
-      socialImage={
-        frontmatter.social_image ? frontmatter.social_image.absolutePath : ""
-      }
+      socialImage={socialImageUrl} // Use the constructed socialImageUrl
     >
-
-    <Helmet>
-      <meta property="og:image" content={frontmatter.social_image.publicURL} />
-    </Helmet>
-    
+  
       <PostWrapper>
         <article>
           <PostTitle>{frontmatter.title}</PostTitle>
@@ -102,10 +101,6 @@ const PostContent = styled.section`
 
   h3 {
     font-size: var(--size-500);
-  }
-  
-  h4{ 
-    text-align: center;
   }
 
   b,
