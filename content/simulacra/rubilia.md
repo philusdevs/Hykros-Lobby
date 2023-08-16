@@ -2,9 +2,10 @@
 title: "Rubilia"
 date: 2023-06-02
 tags: [SSR, Volt]
-social_image: '/media/logo.png'
+social_image: '/opt/build/repo/static/media/tab_mingjing.png'
 description: Rubilia, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Lost Art.
 ---
+
 
 
 ![](https://telegra.ph/file/cf9ceaf192d1ca4148b0e.png)
