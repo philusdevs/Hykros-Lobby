@@ -118,10 +118,7 @@ module.exports = {
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,
                   guid: site.siteMetadata.siteUrl + node.fields.slug,
-                  custom_elements: [
-                    { "content:encoded": node.html },
-                    { "og:image": node.frontmatter.social_image }, // Add this line
-                  ],
+                  custom_elements: [{ "content:encoded": node.html }],
                 });
               });
             },
@@ -139,7 +136,6 @@ module.exports = {
                     frontmatter {
                       title
                       date
-                      social_image 
                     }
                   }
                 }
