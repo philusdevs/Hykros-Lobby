@@ -5,7 +5,6 @@ module.exports = {
       name: `Vex`,
       summary: `Guide Hub For Tower of Fantasy`,
     },
-    openGraphImage: `logo.png`,
     description: `A Guide hub for Tower of Fantasy`,
     siteUrl: `http://hykroslobby.com`,
     socialLinks: [
