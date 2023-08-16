@@ -2,7 +2,7 @@
 title: "Alyss"
 date: 2023-02-02
 tags: [SSR, Frost]
-social_image: '/media/logo.png'
+social_image: '/media/tab_alyss.png'
 description: Alyss, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Unyielding Wing.
 ---
 
