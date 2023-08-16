@@ -29,7 +29,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 11.50 | C: 11.50
 </br>
 </br>
 
-<h4 style="text-align: center;"> Trait: Grievous</h4>
+<h4 style="text-align: center;"> Trait: Altered Damage</h4>
 
 When the weapon is fully charged, the next attack will mark the target, causing an explosion after 5 seconds. Additionally inflict 25% of all damage received by the target while the mark exists, up to a total of 560% of your ATK. Only 1 mark can be added on a target at a time.
 
