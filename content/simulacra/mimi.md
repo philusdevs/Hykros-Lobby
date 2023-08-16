@@ -32,7 +32,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
-**Volt Resonance:** Increase Volt ATK by 20% and Volt Resistance by 40%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Volt Resonance:** Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
 **Thunder Clap - Station:** When Soaring Azure Dragon  lands any attack, deal damage equal to 1,875% * of Volt ATK + 31% * of Max HP + 1,125% * of all elemental resistance + 3,750% * of crit to nearby targets. This effect can only be triggered once every 1.5 seconds. Thunder Clap is regarded as normal attack damage, and if 1 fire/ice/physical weapon is equipped, increase Thunder Clap damage by 2.5 times. Additionally, the damage inflicted by Thunder Clap is not affected by buff or debuff effects except from the effects from Titan equipment, and cannot trigger additional attack effects.
 
