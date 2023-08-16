@@ -1,6 +1,6 @@
 ---
-title: "Saki"
-date: 2023-06-02
+title: "Saki Fuwa"
+date: 2022-11-09
 tags: [SSR, Matrices, Frost, Normal]
 social_image: '/media/logo.png'
 description: Saki Matirces

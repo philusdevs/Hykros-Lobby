@@ -23,7 +23,7 @@ Vesper
 
 
 <center>
-Attack: 15 | HP: 1165 | Res: 7 | S: 12.00 | C: 10.00
+Attack: 15 | HP: 1165 | Resistance: 7 | S: 12.00 | C: 10.00
 </center>
 
 </br>

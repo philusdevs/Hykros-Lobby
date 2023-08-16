@@ -1,11 +1,11 @@
 ---
 title: "Claduia"
-date: 2023-08-08
+date: 2022-09-14
 tags: [SSR, Matrices, Normal]
 social_image: '/media/logo.png'
 description: Claduia Matrices
 ---
-### Multi-directional Strike 
+#### Multi-directional Strike 
 
 ![](https://i.postimg.cc/MKR63nJw/Claudia-m.png)
 

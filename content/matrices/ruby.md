@@ -1,6 +1,6 @@
 ---
 title: "Ruby"
-date: 2023-06-02
+date: 2022-10-19
 tags: [SSR,Matrices,Ruby, Normal]
 social_image: '/media/logo.png'
 description: Ruby Matirces

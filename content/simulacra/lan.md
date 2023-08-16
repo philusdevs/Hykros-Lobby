@@ -24,7 +24,7 @@ Vermilion Bird
 
 
 <center>
-Attack: 16 | HP: 1165 | Res: 6 | S: 14.00 | C: 8.00
+Attack: 16 | HP: 1165 | Resistance: 6 | S: 14.00 | C: 8.00
 </center>
 
 </br>
