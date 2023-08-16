@@ -4,25 +4,21 @@ import Layout from "../components/layout";
 import styled from "styled-components";
 import Tags from "../components/tags";
 
+
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
   const prev = data.prev;
   const next = data.next;
-
-  const siteUrl = data.site.siteMetadata.siteUrl; // Add this line to get the siteUrl
-
-  // Construct the full URL for the social_image using relative path and siteUrl
-  const socialImageUrl = frontmatter.social_image
-    ? `${siteUrl}${frontmatter.social_image}`
-    : "";
+  
 
   return (
     <Layout
       title={frontmatter.title}
       description={frontmatter.description || excerpt}
-      socialImage={socialImageUrl} // Use the constructed socialImageUrl
+      socialImage={
+        frontmatter.social_image ? frontmatter.social_image.publicURL : ""
+      }
     >
-  
       <PostWrapper>
         <article>
           <PostTitle>{frontmatter.title}</PostTitle>
@@ -102,6 +98,7 @@ const PostContent = styled.section`
   h3 {
     font-size: var(--size-500);
   }
+
 
   b,
   strong {
@@ -194,7 +191,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         social_image {
-          absolutePath
+          publicURL
         }
       }
     }
