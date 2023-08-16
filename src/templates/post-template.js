@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
+import { Helmet } from "react-helmet";
 import styled from "styled-components";
 import Tags from "../components/tags";
 
@@ -23,7 +24,7 @@ const PostTemplate = ({ data }) => {
     <Helmet>
       <meta property="og:image" content={frontmatter.social_image.publicURL} />
     </Helmet>
-    
+
       <PostWrapper>
         <article>
           <PostTitle>{frontmatter.title}</PostTitle>
