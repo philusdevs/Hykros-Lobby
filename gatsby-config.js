@@ -6,7 +6,7 @@ module.exports = {
       summary: `Guide Hub For Tower of Fantasy`,
     },
     description: `A Guide hub for Tower of Fantasy`,
-    siteUrl: `http://hykroslobby.com`,
+    siteUrl: `https://hykroslobby.com`,
     socialLinks: [
       {
         name: "",
