@@ -7,7 +7,6 @@ description: Rubilia, featured as an obtainable SSR Simulacrum within the simula
 ---
 
 
-
 ![](https://telegra.ph/file/cf9ceaf192d1ca4148b0e.png)
 
 
