@@ -92,8 +92,8 @@ blockquote {
 
 | Dodge | Description |
 | --- | --- |
-| **Go, Dolly!** | Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area.
-| **Electric Switch** | Tap normal attack during the short period after dodging to trigger Electric Switch.
+| **Go, Dolly!** | Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.</br> Passive: Send a Lightning Hydrangea forwards.
+| **Electric Switch** | Tap normal attack during the short period after dodging to trigger Electric Switch. Teleport instantly to the location of the Lightning Hydrangea, and deal damage equal to 215% of ATK + 11 to nearby targets, while also generating a pool of lightning on the ground, drawing in nearby targets and dealing continuous damage equal to 302% of ATK + 16 to targets in the pool of lightning. Afterwards, the Wanderer teleports back to the original position they were at the start of Electric Switch. </br> Passive: During Electric Switch, gain hyperbody, and gain 1 stack of "Green Dragon Power" when this attack hits a target.|
 
 </br>
 
