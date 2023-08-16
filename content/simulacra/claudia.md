@@ -10,6 +10,8 @@ description: Claudia, featured as an obtainable SSR Simulacrum within the simula
 ### Awaken: Shadow
 > Go invisible for 1.5 seconds upon dodging.
 
+</br>
+
 <center>
 Guren Blade
 </center>
