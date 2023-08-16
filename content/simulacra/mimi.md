@@ -11,6 +11,9 @@ description: Mimi, featured as an obtainable SSR Simulacrum within the simulacru
 
 ![](https://i.postimg.cc/QtqcWvKD/Simulacrum-Mimi-Awaken.png)
 
+### Awaken: Emerald Unicorn
+> Increase final damage by 18%. Equip 3 volt weapons to increase volt damage by 6%, and increase the duration of critical hit rate buffs by 25 seconds. Whenever a duration extension of critical hit rate occurs, increase critical damage by 18% for 30 seconds.
+
 </br>
 
 <center>Soaring Azure Dragon</center>
