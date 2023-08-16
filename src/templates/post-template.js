@@ -19,6 +19,11 @@ const PostTemplate = ({ data }) => {
         frontmatter.social_image ? frontmatter.social_image.absolutePath : ""
       }
     >
+
+    <Helmet>
+      <meta property="og:image" content={frontmatter.social_image.publicURL} />
+    </Helmet>
+    
       <PostWrapper>
         <article>
           <PostTitle>{frontmatter.title}</PostTitle>
