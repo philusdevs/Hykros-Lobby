@@ -1,9 +1,9 @@
 ---
-title: "Mimi"
+title: "Juan"
 date: 2023-09-01
 tags: [SSR, Matrices, Volt, FD, ED]
 social_image: /media/logo.png
-description: Mimi Matrices
+description:  Matrices
 ---
 #### TBA
 
