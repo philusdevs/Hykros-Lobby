@@ -8,7 +8,7 @@ simulacra:
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
-  - name: Mimi 
+  - name: Juan 
     icon: /media/Mimi.png
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
