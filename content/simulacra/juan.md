@@ -1,5 +1,5 @@
 ---
-title: "Jaun"
+title: "Juan"
 date: 2023-09-01
 tags: [SSR, Volt]
 social_image: '/media/tab_mimi.png'
