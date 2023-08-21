@@ -11,7 +11,7 @@ Within the Simulacrum system we have designed it so that you can equip three Sim
 In the simulacrum system, we have a feature called Weapon Resonance which will provides you specific buffs based on your weapon loadout. 
 
 ![wre](/media/wre.png)
-Weapons are categorized into Balance, Attack, Fortidue, and Benediction roles:
+Weapons are categorized into Balance, Attack, Fortitude, and Benediction roles:
 
 **Balance:** This resonance activates when you have at least one weapon of each role equipped. It increases damage dealt by 5%, reduces damage taken by 5%, and enhances shatter and healing by 20%. In team play, it further increases damage dealt by 20% and reduces damage taken by an additional 20%​​
 
