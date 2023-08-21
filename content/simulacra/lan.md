@@ -2,7 +2,7 @@
 title: "Lan"
 date: 2023-03-30
 tags: [SSR, Flame]
-social_image: '/media/logo.png'
+social_image: '/media/tab_lan.png'
 description: Lan, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Vermilion Bird.
 ---
 

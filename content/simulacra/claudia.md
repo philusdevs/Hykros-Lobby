@@ -2,7 +2,7 @@
 title: "Claudia"
 date: 2022-09-14
 tags: [SSR, Physical]
-social_image: '/media/logo.png'
+social_image: '/media/tab_claudia.png'
 description: Claudia, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Guren Blade.
 ---
 ![](https://i.postimg.cc/QMy2ZndX/Simulacrum-Claudia-Awaken.webp)

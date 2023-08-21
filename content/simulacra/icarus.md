@@ -2,7 +2,7 @@
 title: "Icarus"
 date: 2023-04-12
 tags: [SSR, Frost]
-social_image: '/media/logo.png'
+social_image: '/media/tab_icarus.png'
 description: Icarus, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Precious One.
 ---
 

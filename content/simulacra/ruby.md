@@ -2,7 +2,7 @@
 title: "Ruby"
 date: 2022-10-19
 tags: [SSR, Flame]
-social_image: '/media/logo.png'
+social_image: '/media/tab_ruby.png'
 description: Ruby, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Spark.
 ---
 ![](https://i.postimg.cc/J4Ycxw64/Simulacrum-Ruby-Awaken.webp)

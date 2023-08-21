@@ -2,7 +2,7 @@
 title: "Saki Fuwa"
 date: 2022-11-09
 tags: [SSR, Frost]
-social_image: '/media/logo.png'
+social_image: '/media/tab_saki.png'
 description: Saki Fuwa, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Heartstream.
 ---
 ![](https://i.postimg.cc/rsFxGg5r/Simulacrum-Saki-Fuwa-Awaken.webp)

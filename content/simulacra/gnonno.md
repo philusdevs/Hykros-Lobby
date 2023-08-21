@@ -2,7 +2,7 @@
 title: "Gnonno"
 date: 2023-05-11
 tags: [SSR, Physical]
-social_image: '/media/logo.png'
+social_image: '/media/tab_gnn.png'
 description: Gnonno, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Mini Hurricane.
 ---
 

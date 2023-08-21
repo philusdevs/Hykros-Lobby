@@ -2,7 +2,7 @@
 title: "Fenrir"
 date: 2023-03-08
 tags: [SSR, Volt]
-social_image: '/media/logo.png'
+social_image: '/media/tab_fenrir.png'
 description: Fenrir, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Gleipnir.
 ---
 

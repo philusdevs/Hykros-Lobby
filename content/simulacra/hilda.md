@@ -2,7 +2,7 @@
 title: "Hilda"
 date: 2022-08-11
 tags: [SR, Frost]
-social_image: '/media/tab_hilda.png'
+social_image: '/media/logo.png'
 description: Hilda, featured as an obtainable SR Simulacrum within the simulacrum system, associated with the weapon The Terminator.
 ---
 
