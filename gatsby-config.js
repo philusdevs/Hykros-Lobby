@@ -9,8 +9,8 @@ module.exports = {
     siteUrl: `https://hykroslobby.com`,
     socialLinks: [
       {
-        name: "",
-        url: "",
+        name: "Hykros Lobby",
+        url: "https://t.me/hykroslobby",
       },
     ],
   },
