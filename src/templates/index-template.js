@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Helmet } from 'react-helmet'; // Import Helmet from react-helmet
 import { TextField, InputAdornment, IconButton } from '@material-ui/core';
 import { Search as SearchIcon } from '@material-ui/icons';
 import { Link, graphql } from 'gatsby';
@@ -9,11 +10,10 @@ import styled from 'styled-components';
 
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
-  const [isDarkMode, setIsDarkMode] = useState(false); // Add dark mode state
-  const [stylesLoaded, setStylesLoaded] = useState(false); // Add state for styles loaded
+  const [isDarkMode, setIsDarkMode] = useState(false);
+  const [stylesLoaded, setStylesLoaded] = useState(false);
 
   useEffect(() => {
-    // Set stylesLoaded to true after the styles have been loaded
     setStylesLoaded(true);
   }, []);
 
@@ -37,8 +37,13 @@ const HomePage = ({ data }) => {
 
   return (
     <Layout title={title}>
-      {stylesLoaded && ( // Only render the content when styles are loaded
+      {stylesLoaded && (
         <>
+          <Helmet>
+            
+            <meta property="og:image" content="/static/media/logo.png" />
+          </Helmet>
+
           <Intro
             dangerouslySetInnerHTML={{
               __html: intro,
@@ -51,7 +56,7 @@ const HomePage = ({ data }) => {
               onChange={handleSearchChange}
               placeholder="Search"
               variant="outlined"
-              darkMode={isDarkMode} // Pass the dark mode state as a prop
+              darkMode={isDarkMode}
               InputProps={{
                 startAdornment: (
                   <InputAdornment position="start">

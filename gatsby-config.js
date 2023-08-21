@@ -5,7 +5,6 @@ module.exports = {
       name: `Vex`,
       summary: `Guide Hub For Tower of Fantasy`,
     },
-    openGraphImage: `logo.png`,
     description: `A Guide Hub for Tower of Fantasy`,
     siteUrl: `https://hykroslobby.com`,
     socialLinks: [
@@ -21,6 +20,7 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    'gatsby-plugin-react-helmet',
     "gatsby-plugin-use-dark-mode",
     {
       resolve: "gatsby-source-filesystem",
