@@ -2,7 +2,7 @@
 title: "Echo"
 date: 2022-08-11
 tags: [SR, Volt]
-social_image: '/media/logo.png'
+social_image: '/media/tab_echo.png'
 description: Echo, featured as an obtainable SR Simulacrum within the simulacrum system, associated with the weapon Thunderous Halberd.
 ---
 

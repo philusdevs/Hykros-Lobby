@@ -2,7 +2,7 @@
 title: "Cobalt-B"
 date: 2022-08-11
 tags: [SSR, Flame]
-social_image: '/media/logo.png'
+social_image: '/media/tab_cobalt.png'
 description: Cobalt-B, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Flaming Revolver
 ---
 

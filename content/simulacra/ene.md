@@ -2,7 +2,7 @@
 title: "Ene"
 date: 2022-08-11
 tags: [SR, Frost]
-social_image: '/media/logo.png'
+social_image: '/media/tab_ene.png'
 description: Ene, featured as an obtainable SR Simulacrum within the simulacrum system, associated with the weapon Pummeler.
 ---
 ![](https://i.postimg.cc/Qt7yG8zb/Simulacrum-Ene-Prototype.webp)

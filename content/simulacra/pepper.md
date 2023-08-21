@@ -2,7 +2,7 @@
 title: "Pepper"
 date: 2022-08-11
 tags: [SR, Volt]
-social_image: '/media/logo.png'
+social_image: '/media/tab_pepper.png'
 description: Pepper, featured as an obtainable SR Simulacrum within the simulacrum system, associated with the weapon Staff of Scars.
 ---
 ![](https://i.postimg.cc/rmC3nt2m/Simulacrum-Pepper-Prototype.png)
