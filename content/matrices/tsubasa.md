@@ -1,6 +1,6 @@
 ---
 title: "Tsubasa"
-date: 2022-12-22
+date: 2022-08-11
 tags: [SSR, Matrices, Frost]
 social_image: '/media/matrice.png'
 description: Tsubasa Matirces
