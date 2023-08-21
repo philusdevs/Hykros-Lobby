@@ -10,7 +10,7 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-          Log files released by Hykros Lobby 
+        A fan-made website for Tower of Fantasy players. Game assets are property of Hotta Studio.
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
