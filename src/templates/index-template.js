@@ -6,7 +6,6 @@ import Layout from '../components/layout';
 import PostList from '../components/post-list';
 import StyledLink from '../components/styled-link';
 import styled from 'styled-components';
-import { Helmet } from 'react-helmet';
 
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
@@ -40,9 +39,6 @@ const HomePage = ({ data }) => {
     <Layout title={title}>
       {stylesLoaded && ( // Only render the content when styles are loaded
         <>
-        <Helmet>
-          <meta property="og:image" content="/media/logo.png" />
-        </Helmet>
           <Intro
             dangerouslySetInnerHTML={{
               __html: intro,
