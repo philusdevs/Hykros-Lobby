@@ -2,7 +2,7 @@
 title: "Bai Ling"
 date: 2022-08-11
 tags: [SR, Physical]
-social_image: '/media/tab_bai_ling.png'
+social_image: '/media/logo.png'
 description: Bai Ling, featured as an obtainable SR Simulacrum within the simulacrum system, associated with the weapon Nightingale's Feather.
 ---
 
