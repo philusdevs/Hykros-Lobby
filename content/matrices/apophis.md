@@ -2,10 +2,10 @@
 title: "Apophis"
 date: 2022-08-11
 tags: [SR, Matrices, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Apophis Matrices
 ---
-### Internal Struggle
+#### Internal Struggle
 
 ![](https://telegra.ph/file/f0c8ae24e393829b4617a.png)
 

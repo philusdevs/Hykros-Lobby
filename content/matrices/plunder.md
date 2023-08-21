@@ -2,10 +2,10 @@
 title: "Plunder"
 date: 2022-08-11
 tags: [R, Matrices, Physical]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Plunder Matrices
 ---
-### Plunder 
+#### Plunder 
 
 ![](https://i.postimg.cc/QMwRDf29/Plunder-m.png)
 

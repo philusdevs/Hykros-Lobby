@@ -12,7 +12,6 @@ description: Lan, featured as an obtainable SSR Simulacrum within the simulacrum
 During Fortitude Resonance, flame and frost damage received by you and your teammates in the barrier is reduced by 24%, and final damage is increased by 8%.
 
 </br>
-</br>
 <center>
 Vermilion Bird
 </center>
@@ -27,7 +26,6 @@ Vermilion Bird
 Attack: 16 | HP: 1165 | Resistance: 6 | S: 14.00 | C: 8.00
 </center>
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Trait: Flame </h4>
@@ -44,6 +42,8 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ Vermilion Strength: When equipping Vermilion Bird, the ammo costs of other weapons are multiplied by Polyfeather Parasol, and their damage, charge, and shatter effects are also multiplied by Polyfeather Parasol. Glowing Fire: When burn tally is triggered or when taking damage from Fiery Crash, 30% of the damage is transferred to the 3 units near the target (including the target itself) with the highest HP percentage.
 
 
@@ -54,7 +54,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 6★ Increase the damage dealt by Dancing Flames and Soaring Strike by 50%. The multiplier for spinning parasols, Phoenix Sweep, and Fiery Crash is now Polyfeather Parasol plus 2.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -71,7 +70,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 > **4-piece:** Gain different effects based on the number of different elemental weapons equipped: Increase flame/frost/physical/volt damage by 4% / 5% / 6% / 7% for every flame/frost/physical/volt weapon equipped. Increase final damage by 5% / 6% / 7% / 8% for every altered weapon equipped. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

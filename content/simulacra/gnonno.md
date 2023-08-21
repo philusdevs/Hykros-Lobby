@@ -16,7 +16,6 @@ description: Gnonno, featured as an obtainable SSR Simulacrum within the simulac
 > While diving, increase movement speed by 50%.
 
 </br>
-</br>
 
 <center> Mini Hurricane </center>
 
@@ -50,6 +49,8 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ Increase the shatter effect of Frantic Digging, Boiling Octopus Balls, and Go on, Pip! by 80%.
 Gain a 50% increase to Shield when these skills are used while the Wanderer's Shield is below 50%. This effect lasts for 8 seconds.
 This effect can only be triggered 1 time every 5 seconds (unavailable in Apex League).
@@ -60,7 +61,6 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 
 6★ Increase damage dealt by detonating Treasure Tracers by 90% of ATK.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -77,7 +77,6 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 
 > **4-piece:** After using any physical weapon skill or discharge skill, increase all elemental damage by 13% / 16% / 19% / 22% for 25 seconds. Endurance consumed when using Mini Hurricane is reduced by 40%. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

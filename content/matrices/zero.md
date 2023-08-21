@@ -2,10 +2,10 @@
 title: "Zero"
 date: 2022-08-11
 tags: [SSR, Matrices, Support]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Zero Matrices
 ---
-### Incredible Connection
+#### Incredible Connection
 
 ![](https://telegra.ph/file/0d36fb7bb029ff7d74a0f.png)
 

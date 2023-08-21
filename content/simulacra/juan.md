@@ -42,6 +42,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ While in Soaring Azure Dragon 's charging state, 2 Little Green Dragons will appear at a time, and each Little Green Dragon will restore 20% of the Wanderer's max HP; The damage dealt by Soaring Azure Dragon 's charged attack and the damage dealt by Little Green Dragons is increased by 50%; Gain 3 stacks of "Green Dragon Power" after releasing The Moon's Feared Green Clouds, and gain 1 stack of "Green Dragon Power" after releasing any other volt weapon's weapon skill.
 
 
@@ -52,7 +54,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ After releasing The Moon's Feared Green Clouds, increase volt damage by 15% and final damage by 25%, lasting for 30 seconds. This effect does not stack.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -65,7 +66,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 > **4-piece:** When equipped with at least 1 volt weapon, increase all elemental damage by 28% / 32% / 36% / 40%, and after using any of Soaring Azure Dragon 's skills/discharge skills, increase crit damage by 20% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

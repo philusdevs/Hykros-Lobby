@@ -2,10 +2,10 @@
 title: "Fei Se"
 date: 2023-10-01
 tags: [SSR, Matrices, Flame, FD, ED]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Fei Se Matrices
 ---
-### TBA
+#### TBA
 
 ![](https://telegra.ph/file/629b6e880789b70d754b8.png)
 

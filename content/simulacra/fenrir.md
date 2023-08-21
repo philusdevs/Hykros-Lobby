@@ -14,7 +14,6 @@ description: Fenrir, featured as an obtainable SSR Simulacrum within the simulac
 > Increase final damage by 18% when equipping 2 weapons of different types. Increase final damage by 23% when equipping 3 weapons of different types
 
 </br>
-</br>
 
 <center> Gleipnir </center>
 
@@ -27,7 +26,6 @@ description: Fenrir, featured as an obtainable SSR Simulacrum within the simulac
 Attack: 19 | HP: 1165 | Crit: 13 | S: 10.00 | C: 12.00
 </center>
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
@@ -47,6 +45,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ When Su-Paw-Star summons a consciousness and is on cooldown, gain the Aural Fever skill. Rush to  the target and attack multiple times, dealing damage up to  720% of ATK. Each hit landed slows the enemy for a brief period and resto res HP equal to  100% of ATK. The last hit places 2 musical notes on the target. Aural Fever cooldown: 15 seconds. When 3 or more notes are deto nated and the cooldown of Aural Fever is greater than 5 seconds, clear the cooldown of Aural Fever. This effect can only trigger 1 time every 15 seconds.
 
 3★ While Songworld is active: For every 45% of max HP lost or when using the skill Aural Fever, trigger a Songworld Quake which deals damage equal to  650% of ATK to  targets in the Songworld. For every 99% of max HP lost, gain 1 escape death (block a lethal effect and become immune to  damage for a short time) for 45 seconds, stacking up to  1 time.
@@ -55,7 +55,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ Increase crit rate by 18% while wielding Gleipnir. The crit rate increase lasts another 5 seconds after switching to  other weapons.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -68,7 +67,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 > **4-piece:** When dealing volt damage, increase final damage by 2.75% for 10 seconds, stacking up to  5 / 6 / 7 / 8 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

@@ -10,7 +10,6 @@ description: Saki Fuwa, featured as an obtainable SSR Simulacrum within the simu
 ### Awaken: Guarding Sword
 > When HP is lower than 70%, increase all resistance by 40% with an extra 60% increased frost resistance. In the state of Silent Flow: After the sword shadow releases Surge and blocks an attack, the teammate with the lowest HP percentage will get 3 block abilities, not including yourself, lasting for 10 seconds. The maximum blocking damage does not exceed 15% of the teammate's max HP.
 </br>
-</br>
 <center>
 Heartstream
 </center>
@@ -46,7 +45,6 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 6★ Upon hitting a target with Surge, increase frost damage by 11% for 15 seconds. Upon triggering block with Sword Shadow, reduce the frost damage dealt by enemy targets by 25% for 12 seconds.
 
 </br>
-</br>
 
 <h4 style="text-align: center;"> Matrices</h4>
 
@@ -61,7 +59,6 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 > **4-piece:** Attack the target 10 times to inflict a 12-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by 11% / 13% / 15% / 17%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

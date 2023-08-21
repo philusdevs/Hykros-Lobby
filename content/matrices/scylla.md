@@ -2,10 +2,10 @@
 title: "Scylla"
 date: 2023-08-08
 tags: [SSR, Matrices, Crit, ED]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Scylla Matrices
 ---
-### Reverberating Drums
+#### Reverberating Drums
 
 ![](https://telegra.ph/file/20facf9fd4be663ad2b55.png)
 

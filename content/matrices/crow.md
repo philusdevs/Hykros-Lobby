@@ -1,11 +1,11 @@
 ---
 title: "Crow"
-date: 2023-08-11
+date: 2022-08-11
 tags: [SSR, Matrices, Crit, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Crow Matrices
 ---
-### Fanatical Pursuit 
+#### Fanatical Pursuit 
 
 ![](https://i.postimg.cc/h4N409wM/Crow-m.png)
 

@@ -2,10 +2,10 @@
 title: "Haboela"
 date: 2023-08-08
 tags: [SSR, Matrices, FD]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Haboela Matrices
 ---
-### Volcanic Ash Rain
+#### Volcanic Ash Rain
 
 ![](https://telegra.ph/file/740497fe2de3d735acce4.png)
 

@@ -12,7 +12,6 @@ description: Tian Lang, featured as an obtainable SSR Simulacrum within the simu
 > Each release of volt weapon skill or discharge skill gains 1 free dodge attempt, up to 3 attempts. When volt weapon skill and discharge skill are released simultaneously, increase volt damage by 18% for 8 seconds. This effect cannot be stacked.
 
 </br>
-</br>
 
 <center>
 Thunderbreaker
@@ -27,7 +26,6 @@ Thunderbreaker
 Attack: 18 | HP: 1165 | Crit: 14 | S: 12.50 | C: 8.00
 </center>
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
@@ -45,6 +43,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ Gain 1 stack of Superconductor per charge: Increase Max HP by 7.5% but increase damage received by 2% (except when the current HP is lower than 50 times of volt ATK and no HP Shield is equipped), stacking up to 8 times. Lose 1 stack if no Superconductor gets refreshed within 6 seconds.
 
 3★ Release any volt weapon skill or discharge skill to get 2 charges. Gain hyperbody at 8 Superconductor stacks.
@@ -53,7 +53,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ Boost Dubhe's Volt Sense: For every 1 other volt weapon sensed, gain 10% volt damage boost for 25 seconds.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -67,7 +66,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 > **4-piece:** Every time a volt weapon's skill or discharge skill is used, increase volt damage by 12% / 14% / 16% / 18% for 15 seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
 
-</br>
 </br>
 
 <style>

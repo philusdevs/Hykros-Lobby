@@ -2,7 +2,7 @@
 title: "Lan"
 date: 2023-03-30
 tags: [SSR, Matrices, ED]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Lan Matrices
 ---
 #### Firestorm

@@ -43,12 +43,13 @@ When the weapon is fully charged, the next attack will cause enemies to become g
 
 **Shield Break: Detachment:** After using Absolute Ravine, every second, deal damage equal to 70% of physical ATK plus 1% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Detachment damage will not stack and shield break damage will be counted as skill damage.
 </br>
-</br>
 If there is 1 volt/Flame/frost weapon of any kind equipped, shield break damage is multiplied by 1.3 times. In addition, shield break damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
 </br>
 
 <h4 style="text-align: center;"> Advancements </h4>
+
+
 
 </br>
 
@@ -67,7 +68,6 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 6★ When there is 1 Serpent Chain member, increase conduction damage's conduction rate by 50%.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>

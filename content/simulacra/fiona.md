@@ -56,6 +56,8 @@ When the weapon is fully charged, the next attack will mark the target, causing 
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ Using any weapon or discharge skill grants 1 elemental crystal, up to 5 crystals. Elemental crystals are lost at a rate of 1 crystal every 6 seconds.
 Elemental crystals provide a final damage boost equal to 4% of ((crystal count plus 1)/2) and an increased healing effect equal to 6% of ((crystal count plus 1)/2).
 
@@ -68,7 +70,6 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 6★ Increase final damage by 7% of ((crystal count plus 3)/2).
 
 </br>
-</br>
 <h4 style="text-align: center;"> Matrices </h4>
 
 
@@ -80,7 +81,6 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 
 > **4-piece:** While Benediction Resonance is not active, after using Scatter Technique, increase final damage by 17% / 19% / 21% / 23% for 20 seconds. While Benediction Resonance is active, after using Scatter Technique, increase final damage for self and teammates by 8.5% / 9.5% / 10.5% / 11.5% for 20 seconds. Final damage is additionally increased based on base attack by (Base ATK/10,000)%, up to 5%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

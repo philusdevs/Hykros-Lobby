@@ -2,10 +2,10 @@
 title: "Huma"
 date: 2022-08-11
 tags: [SSR, Matrices, Flame, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Huma Matrices
 ---
-### Slightly Awakened 
+#### Slightly Awakened 
 
 ![](https://i.postimg.cc/QM6hK51Q/Huma-m.png)
 

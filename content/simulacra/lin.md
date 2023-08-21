@@ -12,7 +12,6 @@ description: Lin, featured as an obtainable SSR Simulacrum within the simulacrum
 >Increase epiphyllum explosion damage by 20%. Reduce all resistance by 7% upon hit by epiphyllums for 7 seconds. This effect does not stack.
 
 </br>
-</br>
 
 <center>
 Shadoweave
@@ -26,7 +25,6 @@ Shadoweave
 Attack: 18 | HP: 1165 | Crit: 14 | S: 11.50 | C: 11.50
 </center>
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Trait: Altered Damage</h4>
@@ -48,7 +46,6 @@ When pairing Shadoweave with other weapons, the Weapons Master effect can be cre
 
 6★ Switch modes on Moonlight Realm up to 2 times. Gain 1 attempt after skill cooldown and another 1 attempt by charging discharge. Use any weapon discharge 3 times to gain +1 on the Moonlight Realm count. Effective even when Shadoweave is in the off-hand slot. When under the effect of Moonlight Realm, increase attack by 23%.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices</h4>
@@ -73,7 +70,6 @@ blockquote {
 }
 </style>
 
-</br>
 </br>
 
 | Attacks | Description |

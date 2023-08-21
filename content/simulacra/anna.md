@@ -11,7 +11,6 @@ description: Annabella, featured as an obtainable SSR Simulacrum within the simu
 > For every 1 enemy hit by Gas Explosion, increase Clover Cross's damage by 18% for 20 seconds, stacking up to 2 times.
 
 </br>
-</br>
 
 <center>
 Clover Cross
@@ -26,7 +25,6 @@ Clover Cross
 Attack: 16 | HP: 1010 | Crit: 11 | S: 12.50 | C: 9.00
 </center>
 
-</br>
 </br>
 
 
@@ -46,6 +44,8 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ Hitting a target 2 times with Cross Snipe creates an Optical Space for 12 seconds at the target location. After an enemy in the Optical Space triggers burn tally, burn tally will be triggered an additional 2 times. When an enemy leaves the Optical Space, their speed is reduced by 80% for 2.5 seconds. Cooldown: 12 seconds. Targets of Cross Snipe will be terrified (speed is slowed by 80%) for 1.5 seconds. Cooldown: 4 seconds.
 
 3★ After Cross Snipe lands a critical hit, recover HP equal to 50% of the damage dealt (not exceeding 15% of own Max HP and not including damage from Gas Explosion), and 50 weapon charge. Each stack of Tranquil Heart increases final crit rate to 6%, up to 18%, and converts up to 9% of crit damage.
@@ -55,7 +55,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 6★ Increase damage dealt by Cross Snipe by an additional 12%.
 
 </br>
-</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 
@@ -64,13 +63,11 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 </p>
 
 </br>
-</br>
 
 > **2-piece:** After hitting a target with a flame weapon, increase final damage by 2.7% / 3.2% / 3.7% / 4.2% and final crit rate by 2% / 2% / 2.4% / 2.4% for 25 seconds, stacking up to 2 times. Only the effect with the highest star rating is applied when obtained repeatedly.
 
 > **4-piece:** When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 5.5% / 7% / 8.5% / 10%, and increases crit damage by an additional 12% / 14% / 16% / 18% within 25 seconds of landing a critical hit. For every 3 charged attacks that hit the target, restore 1 dodge attempt. Cooldown: 2 seconds. Only the effect of the highest star rating is applied when obtained repeatedly.
 
-</br>
 </br>
 
 <style>

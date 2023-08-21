@@ -2,10 +2,10 @@
 title: "Ene"
 date: 2022-08-11
 tags: [SR, Matrices, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Ene Matrices
 ---
-### Overload
+#### Overload
 
 ![](https://i.postimg.cc/YCFmHQVR/Ene-m.png)
 

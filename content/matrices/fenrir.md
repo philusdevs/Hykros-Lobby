@@ -2,7 +2,7 @@
 title: "Fenrir"
 date: 023-03-08
 tags: [SSR,Matrices, Volt, Crit, FD]
-social_image: '/media/tab_rubilia.png'
+social_image: '/media/matrice.png'
 description: Fenrir Matirces
 ---
 

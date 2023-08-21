@@ -2,10 +2,10 @@
 title: "Robarg"
 date: 2022-08-11
 tags: [SR, Matrices, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Robarg Matrices
 ---
-### Devourer 
+#### Devourer 
 
 ![](https://i.postimg.cc/MKvQ9Cmh/Robarg-m.png)
 

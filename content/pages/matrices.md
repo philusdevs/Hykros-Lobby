@@ -68,6 +68,8 @@ matrice:
     icon: /media/Samir_m.png
   - name: Zero
     icon: /media/Zero_m.png
+  - name: Tsubasa
+    icon: /media/Tsubasa_m.png
   - name: Apophis 
     icon: /media/Apophis_m.png
   - name: Bai Ling

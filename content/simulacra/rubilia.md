@@ -45,6 +45,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targe
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ After triggering Feedback, every Crystamax thorn will deal damage to nearby targets equal to 66.7% of ATK every 2 seconds, lasting 30 seconds
 
 3★  Using any weapon skill or the discharge skill of any other weapon will generate 1 Crystamax thorn.

@@ -2,10 +2,10 @@
 title: "Yu Lan"
 date: 2023-07-18
 tags: [SSR, Matrices, Frost, FD, ED]
-social_image: '/media/tab_yulan.png'
+social_image: '/media/matrice.png'
 description: Yu Lan Matrices
 ---
-### Sincerity
+#### Sincerity
 
 ![](https://telegra.ph/file/3d3157040eaa52353db44.png)
 

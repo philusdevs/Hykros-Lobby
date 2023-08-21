@@ -2,10 +2,10 @@
 title: "Ming Jing"
 date: 2023-08-08
 tags: [SSR, Matrices, Physical, Flame, FD, ATK]
-social_image: '/media/tab_mingjing.png'
+social_image: '/media/matrice.png'
 description: Ming Jing Matrices
 ---
-### Lost at Heart
+#### Lost at Heart
 
 ![](https://telegra.ph/file/dfd7e5fc726572ba14b56.png)
 

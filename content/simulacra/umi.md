@@ -11,7 +11,6 @@ description: Umi, featured as an obtainable SSR Simulacrum within the simulacrum
 >Increases final damage by 18% for 30 seconds whenever Umi uses It's Magic Time. This effect does not stack.
 
 </br>
-</br>
 <center>
 Mobius
 </center>
@@ -26,7 +25,6 @@ Mobius
 Attack: 18 | HP: 1165 | Crit: 14 | S: 12.00 | C: 9.00
 </center>
 
-</br>
 </br>
 
 
@@ -46,6 +44,8 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ When switching to Mobius, immediately gain 30 warmup points. Cooldown: 17 seconds. Upon entering Magic Trick, deal area damage equal to 840% of ATK to nearby targets and reduce their physical resistance by 10% for 20 seconds.
 
 
@@ -58,7 +58,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 6★ When using Magic Trick, Mobius has an additional whip that is automatically swung whenever Mobius uses normal attacks or dodge attacks, dealing damage equal to 100% of Mobius's ATK (this damage is not counted as normal attack damage).
 
 </br>
-</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 
@@ -70,7 +69,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 > **4-piece:** When equipping 2 or more physical weapons, increase final damage by 15% / 17% / 19% / 21%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
-</br>
 </br>
 
 <style>

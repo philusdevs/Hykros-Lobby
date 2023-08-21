@@ -2,10 +2,10 @@
 title: "Shiro"
 date: 2022-08-11
 tags: [SSR, Matrices, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Shiro Matrices
 ---
-### Poem of Departure 
+#### Poem of Departure 
 
 ![](https://i.postimg.cc/R02pYZBr/Shiro-m.png)
 

@@ -2,10 +2,10 @@
 title: "Frost Bot"
 date: 2022-08-11
 tags: [SR, Matrices, Support]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Frost Bot Matrices
 ---
-### Extreme Zero
+#### Extreme Zero
 
 ![](https://i.postimg.cc/3wH0JdQT/Frost-Bot-m.png)
 

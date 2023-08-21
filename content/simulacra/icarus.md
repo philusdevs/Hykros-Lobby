@@ -11,7 +11,6 @@ description: Icarus, featured as an obtainable SSR Simulacrum within the simulac
 ### Awaken: Molten Feathers
 > After equipping Precious One, increase final damage by 15%. While using Precious One, increase shatter by 45%.
 </br>
-</br>
 
 <center>Precious One</center>
 
@@ -45,6 +44,8 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ When any weapon skill is used, Speedy Yo-yo can trigger harmony, dealing damage to nearby targets equal to 25% of their lost HP. The damage dealt shall be no less than 120% of the Wanderer's Max ATK, and no more than 800% of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon. When any weapon discharge is used, Speedy Yo-yo can trigger tuning, dealing damage to nearby targets equal to 4% of the Wanderer's Max HP. The damage dealt shall be no more than 400% of the Wanderer's Max ATK. The type of elemental damage dealt will be that of the current weapon.
 
 
@@ -55,7 +56,6 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 6★ Increase final damage by 6% while Speedy Yo-yo is active.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -69,7 +69,6 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 > **4-piece:** When dealing frost damage, increase all elemental damage by 13% / 16% / 19% / 22% for 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
 
-</br>
 </br>
 
 <style>

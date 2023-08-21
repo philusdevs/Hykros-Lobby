@@ -11,7 +11,6 @@ description: Lyra, featured as an obtainable SSR Simulacrum within the simulacru
 ### Awaken: Bless
 > Benediction Resonance: Increase Max HP by 10% for the entire team. This effect cannot be stacked. Additionally, increase your Max HP by 10%. Each time you successfully use the skill while having hyperbody or more than 50% HP, grant hyperbody to all allies for 8 seconds.
 </br>
-</br>
 
 <center>
 Vesper
@@ -26,7 +25,6 @@ Vesper
 Attack: 15 | HP: 1165 | Resistance: 7 | S: 12.00 | C: 10.00
 </center>
 
-</br>
 </br>
 
 </br>
@@ -43,6 +41,8 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★ When releasing any weapon skill or discharge, if your Guards are at the maximum, the Guard duration will be refreshed, dealing physical damage equal to 30% of physical ATK x number of Guards to the enemy. Up to 8 Guards when under the effect of Benediction, and up to 6 when without it.
 
 3★ Increase all damage dealt by Guards by 20%, and increase the guarded target's final damage by 15% for 10 seconds when releasing any weapon skill or discharge under the effect of Benediction Resonance.
@@ -51,7 +51,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 6★ When unleashing any weapon skill or discharge, the increase of final damage and healing depends on the number of Guards. Each Guard increases final damage and healing by 1.6%, up to 8% for 25 seconds.
 
-</br>
 </br>
 
 <h4 style="text-align: center;"> Matrices </h4>
@@ -65,7 +64,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 > **4-piece:** Upon reaching the maximum stacks, increase physical damage by an additional 3.5% / 7% / 10.5% / 14% for 5 seconds. Only the highest star rating's effect is applied when obtained repeatedly. Obtain 1 block for each dodge, blocking damage up to 60% of current HP, but not less than 20% of Max HP. Stack up to 3 blocks for 10 seconds.
 
-</br>
 </br>
 
 <style>

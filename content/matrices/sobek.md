@@ -2,10 +2,10 @@
 title: "Sobek"
 date: 2022-08-11
 tags: [SR, Matrices, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Sobek Matrices
 ---
-### Swamp Shadow 
+#### Swamp Shadow 
 
 ![](https://i.postimg.cc/25FbqrCB/Sobek-m.png)
 

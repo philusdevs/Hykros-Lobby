@@ -1,11 +1,11 @@
 ---
-title: "Coco"
+title: "Cocoritter"
 date: 2022-08-11
 tags: [SSR, Matrices, Support, ATK]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Coco Matrices
 ---
-### Proof of Trust
+#### Proof of Trust
 
 ![](https://i.postimg.cc/fRfwZ1bg/Coco-m.png)
 

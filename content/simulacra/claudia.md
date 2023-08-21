@@ -48,7 +48,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 6★ Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another 1 stack of War Wounds.
 
 </br>
-</br>
 
 <h4 style="text-align: center;"> Matrices</h4>
 
@@ -61,7 +60,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 > **4-piece:** Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5 / 2 / 2.5 / 3 seconds and increases the damage of discharge skills by 58% / 80% / 103% / 126% for 15 seconds.
 
-</br>
 </br>
 
 <style>

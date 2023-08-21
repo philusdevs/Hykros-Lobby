@@ -2,7 +2,7 @@
 title: "Liu huo"
 date: 2023-06-27
 tags: [SSR, Matrices, Flame, FD, ED]
-social_image: /media/tab_liuhuo.png
+social_image: /media/matrice.png
 description: Liu Huo Matrices
 ---
 #### Spring & Autumn Brush

@@ -15,7 +15,6 @@ description: Alyss, featured as an obtainable SSR Simulacrum within the simulacr
 > After Unyielding Wing is advanced to 1 star, receive Alyss' Support when using a Physical/Flame/Volt weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward.
 
 </br>
-</br>
 
 <center> Unyielding Wing </center>
 
@@ -25,7 +24,7 @@ description: Alyss, featured as an obtainable SSR Simulacrum within the simulacr
 
 
 
-<center>Attack: 15 | HP: 1010 | Resist : 3 | S: 8.00 | C: 12.00 </center>
+<center>Attack: 15 | HP: 1010 | Resistance: 3 | S: 8.00 | C: 12.00 </center>
 
 
 </br>
@@ -48,6 +47,8 @@ Ice Shell When the weapon is fully charged, the next attack will freeze targets 
 
 <h4 style="text-align: center;"> Advancements </h4>
 
+
+
 1★Receive Alyss's Support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward. Alyss's supporting discharge skill damage is equal to 70% of her skill's original damage.
 
 </br>
@@ -63,7 +64,6 @@ Ice Shell When the weapon is fully charged, the next attack will freeze targets 
 6★Increase frost damage by 12% when Alyss's Support reaches 3 stacks.
 
 </br>
-</br>
 
 <h4 style="text-align: center;"> Matrices </h4>
 
@@ -77,7 +77,6 @@ Ice Shell When the weapon is fully charged, the next attack will freeze targets 
 
 > **4-piece:** Increase final damage by 6% / 7.5% / 9% / 10.5% for 18 seconds when using Unyielding Wing's discharge skill, stacking up to 2 times. Remove 1 stack when the duration ends. This set effect works in the off-hand slot, and only one set can take effect. The endurance consumption is reduced by 50% in its Latent State.
 
-</br>
 </br>
 
 <style>

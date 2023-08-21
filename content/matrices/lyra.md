@@ -2,7 +2,7 @@
 title: "Lyra"
 date: 2022-12-22 
 tags: [SSR, Matrices, Physical, Normal, ATK, Support]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Lyra Matrices
 ---
 #### The Confession of Memory

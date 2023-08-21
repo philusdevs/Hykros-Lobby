@@ -2,10 +2,10 @@
 title: "Alyss"
 date: 2023-08-08
 tags: [SSR, Matrices, Frost, FD]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Alyss Matrices
 ---
-### Spiritual Reconstruction 
+#### Spiritual Reconstruction 
 
 ![](https://telegra.ph/file/33c8c96a40fe435b03f86.png)
 

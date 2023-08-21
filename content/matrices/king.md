@@ -2,10 +2,10 @@
 title: "King"
 date: 2022-08-11
 tags: [SSR, Matrices, Flame, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: King Matrices
 ---
-### Advocate of Violence 
+#### Advocate of Violence 
 
 ![](https://i.postimg.cc/3xYTL9Zj/King-m.png)
 

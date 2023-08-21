@@ -48,7 +48,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 
 </br>
-</br>
 
 <h4 style="text-align: center;"> Matrices</h4> 
 
@@ -62,7 +61,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 > **4-piece:** Grant Mastery after casting weapon skill for 15 seconds, with a cooldown of 15 seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increase flame damage by 2% / 2.5% / 3% / 3.5% every time the target is hit with a normal attack until the end of Mastery. Stack up to 6 times, adding a maximum of 1 stack every 0.2 seconds. At 6 stacks, grant a shield that can block damage for 1 time.
 
 
-</br>
 </br>
 
 <style>

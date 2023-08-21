@@ -2,10 +2,10 @@
 title: "Fiona"
 date: 2023-04-26
 tags: [SSR, Matrices, Altered, FD, ATK]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Fiona Matrices
 ---
-### Stimulus
+#### Stimulus
 
 ![](https://telegra.ph/file/87b9e85fe89829ae1bb74.png)
 

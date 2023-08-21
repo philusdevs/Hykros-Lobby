@@ -2,11 +2,11 @@
 title: "Bai Ling"
 date: 2022-08-11
 tags: [SR, Matrices, Physical]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Bai-Ling Matrices
 ---
 
-### Deadly Lock
+#### Deadly Lock
 
 ![](https://i.postimg.cc/4dP90ZMT/Bai-Ling-m.png)
 

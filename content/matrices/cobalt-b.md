@@ -2,10 +2,10 @@
 title: "Cobalt-B"
 date: 2023-08-08
 tags: [SSR, Matrices, Flame, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Cobalt-B Matrices
 ---
-### Intuitive Tactic
+#### Intuitive Tactic
 
 ![](https://i.postimg.cc/C532fMcH/Cobalt-B-m.png)
 

@@ -2,10 +2,9 @@
 title: "Saki Fuwa"
 date: 2022-11-09
 tags: [SSR, Matrices, Frost, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Saki Matirces
 ---
-
 #### Super Flow 
 
 ![](https://telegra.ph/file/dd01b4d068b0faebcc634.png)

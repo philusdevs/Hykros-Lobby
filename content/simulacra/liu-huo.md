@@ -56,7 +56,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 <h4 style="text-align: center;"> Matrices </h4>
 
 </br>
-</br>
 
 <p align="center">
     <img src="https://telegra.ph/file/3dd8e9490147f7e273c62.png" alt="Centered Image">
@@ -84,7 +83,6 @@ blockquote {
 </style>
 
 
-</br>
 </br>
 
 | Attacks                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |

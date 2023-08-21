@@ -2,10 +2,10 @@
 title: "Nemesis"
 date: 2022-08-11
 tags: [SSR, Matrices, Volt, Normal, ATK]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Nemesis Matrices
 ---
-### Life Bridging
+#### Life Bridging
 
 ![](https://i.postimg.cc/6qrPnJgk/Nemesis-m.png)
 

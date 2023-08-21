@@ -2,7 +2,7 @@
 title: "Barbarossa"
 date: 2022-08-11
 tags: [SR, Matrices, Normal]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Barbarossa Matrices
 ---
 ### Double Nightmares

@@ -2,7 +2,7 @@
 title: "Icarus"
 date: 2023-04-12
 tags: [SSR,Matrices, Frost, ED]
-social_image: '/media/logo.png'
+social_image: '/media/matrice.png'
 description: Icarus Matirces
 ---
 

@@ -181,7 +181,19 @@ simulacra:
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/DPS.png     
+    bottomRightOverlay2: /media/DPS.png
+  - name: Tsubasa
+    icon: /media/Tsubasa.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/DPS.png
+  - name: Bai Ling
+    icon: /media/Bai_Ling.png
+    gradientColor: none
+    bottomLeftOverlay: /media/SR.png
+    bottomRightOverlay: /media/Element_Physical.png
+    bottomRightOverlay2: /media/DPS.png                               
   - name: Ene 
     icon: /media/Ene.png
     gradientColor: none
@@ -205,5 +217,5 @@ simulacra:
     gradientColor: none
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/Bene.png                    
+    bottomRightOverlay2: /media/Bene.png                     
 ---
