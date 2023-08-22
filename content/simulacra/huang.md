@@ -1,9 +1,9 @@
 ---
-title: "Juan"
+title: "Huang"
 date: 2023-09-01
 tags: [SSR, Volt]
 social_image: '/media/tab_mimi.png'
-description: Juan, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Soaring Azure Dragon.
+description: Huang, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Soaring Azure Dragon.
 ---
 
 
