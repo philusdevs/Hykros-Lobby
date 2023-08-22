@@ -3,7 +3,7 @@ title: "Rubilia"
 date: 2023-06-02
 tags: [SSR,Matrices, Volt, ED]
 social_image: '/media/matrice.png'
-description: Rubilia Matirces
+description: Rubilia Matrices
 ---
 
 #### Seeker 

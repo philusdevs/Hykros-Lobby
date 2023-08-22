@@ -67,7 +67,7 @@ As an Executor, overseeing various responsibilities can be demanding. This check
 </head>
 <body>
 
-<p>Author: Shimakaze#c</p>
+<p>Researcher: Shimakaze#c</p>
 
 <h2>Daily Checklist</h2>
 <ol class="checklist">

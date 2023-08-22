@@ -3,7 +3,7 @@ title: "Tian Lang"
 date: 2022-12-22
 tags: [SSR,Matrices, Volt, ED]
 social_image: '/media/matrice.png'
-description: Tian Matirces
+description: Tian Matrices
 ---
 
 #### Savage Wolf 

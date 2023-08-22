@@ -28,6 +28,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 8.00
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
+
 **Volt Resonance:** Increase Volt ATK by 15% and Volt Resistance by 25%. Activate by equipping 2 or more Volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 **Volt Benediction:** Increase the entire team's volt ATK by 5% when Benediction Resonance is active.
 

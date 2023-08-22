@@ -5,7 +5,7 @@ tags: [Maygii, Guide]
 social_image: '/media/logo.png'
 description:  The Enigma that is the Coco Matrix 
 ---
-Author: [Maygii](https://maygi.carrd.co/)
+Researcher: [Maygii](https://maygi.carrd.co/)
 
 # The Enigma that is the Coco Matrix 
 

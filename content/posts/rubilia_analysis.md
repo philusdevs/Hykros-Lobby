@@ -5,7 +5,7 @@ tags: [Maygii, Guide]
 social_image: '/media/logo.png'
 description: Rubilia Analysis
 ---
-Author: [Maygii](https://maygi.carrd.co/)
+Researcher: [Maygii](https://maygi.carrd.co/)
 
 
 Rubilia is here! How does she fit into current Volt teams? Let's take a look with our usual analysis, starting with her kit, and then moving on to advancements and matrices, then finally, teamcomps, rotations, and comparisons!

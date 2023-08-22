@@ -5,7 +5,7 @@ tags: [Maygii, Guide, Analysis]
 social_image: '/media/logo.png'
 description: Ming Jing Analysis 
 ---
-Author: [Maygii](https://maygi.carrd.co/)
+Researcher: [Maygii](https://maygi.carrd.co/)
 
 Hi everyone! Just thought I'd post a quick mini TLDR on Zeke advancements for those wondering about his value.
 

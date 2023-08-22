@@ -3,7 +3,7 @@ title: "Tsubasa"
 date: 2022-08-11
 tags: [SSR, Matrices, Frost]
 social_image: '/media/matrice.png'
-description: Tsubasa Matirces
+description: Tsubasa Matrices
 ---
 
 #### Eye of Wind

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Helmet } from 'react-helmet'; // Import Helmet from react-helmet
+import { Helmet } from 'react-helmet'; 
 import { TextField, InputAdornment, IconButton } from '@material-ui/core';
 import { Search as SearchIcon } from '@material-ui/icons';
 import { Link, graphql } from 'gatsby';

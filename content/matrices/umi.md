@@ -3,7 +3,7 @@ title: "Umi"
 date: 2023-02-22
 tags: [SSR,Matrices, Physical, FD]
 social_image: '/media/matrice.png'
-description: Umi Matirces
+description: Umi Matrices
 ---
 
 #### Double Magic

@@ -7,7 +7,7 @@ description: This raid is different from previous raids in that it does not take
 ---
 
 # Zhuyan Raid
-Author: arusukaze#c
+Researcher: arusukaze#c
 
 ![](https://telegra.ph/file/17d9f09ad78e70a75a567.png)
 

@@ -3,7 +3,7 @@ title: "Gnonno"
 date: 2023-06-02
 tags: [SSR, Matrices, Physical, ED]
 social_image: '/media/matrice.png'
-description: Gnonno Matirces
+description: Gnonno Matrices
 ---
 #### Adventure Asteroid
 

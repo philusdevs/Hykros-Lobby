@@ -3,7 +3,7 @@ title: "Ruby"
 date: 2022-10-19
 tags: [SSR,Matrices,Ruby, Normal]
 social_image: '/media/matrice.png'
-description: Ruby Matirces
+description: Ruby Matrices
 ---
 
 #### White Rabbit Dance

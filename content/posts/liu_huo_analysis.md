@@ -5,7 +5,7 @@ tags: [Maygii, Guide, Analysis]
 social_image: '/media/logo.png'
 description:  Liu Huo Analysis
 ---
-Author: [Maygii](https://maygi.carrd.co/)
+Researcher: [Maygii](https://maygi.carrd.co/)
 
 Liu Huo is here! What role does she take in Flame teams, and how strong is she? We'll figure it out by looking at her kit, advancements, matrices, teamcomps, rotations, and finally, comparisons!
 

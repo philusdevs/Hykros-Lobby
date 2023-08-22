@@ -5,7 +5,7 @@ tags: [Maygii, Guide, Maths]
 social_image: '/media/logo.png'
 description: Attack%_vs_Damage% Explained
 ---
-Author: [Maygii](https://maygi.carrd.co/)
+Researcher: [Maygii](https://maygi.carrd.co/)
 
 
 

@@ -3,9 +3,9 @@ module.exports = {
     title: `Hykros Lobby`,
     author: {
       name: `Vex`,
-      summary: `Guide Hub For Tower of Fantasy`,
+      summary: `A Guide Hub for Tower of Fantasy, Featuring Simulacra and Matrices Information`,
     },
-    description: `A Guide Hub for Tower of Fantasy`,
+    description: `A Guide Hub for Tower of Fantasy, Featuring Simulacra and Matrices Information`,
     siteUrl: `https://hykroslobby.com`,
     socialLinks: [
       {
