@@ -30,7 +30,7 @@ Attack: 16 | HP: 1010 | Crit: 11 | S: 12.50 | C: 9.00
 
 </br>
 
-<h4 style="text-align: center;"> Trait: Flame</h4>
+<h4 style="text-align: center;">Trait: Ignite</h4>
 
 When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.
 
