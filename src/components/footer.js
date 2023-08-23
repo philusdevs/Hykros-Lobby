@@ -10,7 +10,7 @@ const Footer = () => {
         <SocialLinks />
 
         <FooterAttribution>
-        A fan-made website for Tower of Fantasy players. Game assets are property of Hotta Studio.
+        A fan-made website for Tower of Fantasy players. Game assets are property of ©Hotta Studio, a Perfect World Company.
         </FooterAttribution>
       </FooterWrapper>
     </StyledFooter>
