@@ -1,5 +1,5 @@
 ---
-title: "Ming Jing"
+title: "Meryl"
 date: 2022-08-11
 tags: [SSR, Matrices, Normal, Support]
 social_image: '/media/matrice.png'
