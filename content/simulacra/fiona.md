@@ -70,7 +70,7 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 6★ Increase final damage by 7% of ((crystal count plus 3)/2).
 
 </br>
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 
 <p align="center">

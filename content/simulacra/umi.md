@@ -59,7 +59,7 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/9145f8dd4f47aeaf5d2c4.png" alt="Centered Image">

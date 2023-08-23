@@ -58,7 +58,7 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/3d3157040eaa52353db44.png" alt="Centered Image">

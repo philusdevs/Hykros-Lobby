@@ -56,7 +56,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 
 <p align="center">

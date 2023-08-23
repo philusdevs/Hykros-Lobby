@@ -42,7 +42,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 <p align="center">
 <img src="https://i.postimg.cc/YCFmHQVR/Ene-m.png" alt="Centered Image">

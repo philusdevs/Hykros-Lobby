@@ -62,7 +62,7 @@ blockquote {
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 </br>
 

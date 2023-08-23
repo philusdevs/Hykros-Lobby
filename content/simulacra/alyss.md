@@ -65,7 +65,7 @@ Ice Shell When the weapon is fully charged, the next attack will freeze targets 
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/33c8c96a40fe435b03f86.png" alt="Centered Image">

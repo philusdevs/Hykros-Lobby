@@ -56,7 +56,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/25cdb8ade6eecd8365ce6.png" alt="Centered Image">

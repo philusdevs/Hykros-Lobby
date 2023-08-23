@@ -58,7 +58,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targe
 </br> 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 ![](https://telegra.ph/file/d188583ef4e4fc96c8e0e.png)
 

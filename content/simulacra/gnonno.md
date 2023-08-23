@@ -63,7 +63,7 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 <p align="center">
     <img src="https://telegra.ph/file/b74a86a716225aedef72c.png"

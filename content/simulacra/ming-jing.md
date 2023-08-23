@@ -70,7 +70,7 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 </br>
 
-<h4 style="text-align: center;"> Matrices </h4>
+<h4 style="text-align: center;"> Matrix </h4>
 
 </br>
 
