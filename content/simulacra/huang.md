@@ -12,8 +12,7 @@ description: Huang, featured as an obtainable SSR Simulacrum within the simulacr
 ![](https://i.postimg.cc/QtqcWvKD/Simulacrum-Mimi-Awaken.png)
 
 ### Awaken: Emerald Unicorn
-> Increase Final Damage by 18%. When 3 Volt weapons are equipped, increase Volt Damage by 6%, and extend Crit Rate buff durations by 25s.
-When Crit Rate buffs are refreshed, gain a 18% increase to Crit Damage for 30s.				
+> Increase Final Damage by 18%. When 3 Volt weapons are equipped, increase Volt Damage by 6%, and extend Crit Rate buff durations by 25s. When Crit Rate buffs are refreshed, gain a 18% increase to Crit Damage for 30s.				
 </br>
 
 <center>Meng Zhang</center>
