@@ -1,6 +1,6 @@
 ---
 title: "Fenrir"
-date: 023-03-08
+date: 2023-03-08
 tags: [SSR,Matrices, Volt, Crit, FD]
 social_image: '/media/matrice.png'
 description: Fenrir Matrices

@@ -35,13 +35,4 @@ collections:
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
-  - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Template', name: 'template', widget: 'string', default: 'page-template'}
-      - {label: 'Body', name: 'body', widget: 'markdown'}
-      - {label: 'Profile Image', name: 'profile_image', widget: 'image', required: false, hint: 'For avatar image in About page.' }
+  

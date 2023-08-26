@@ -40,7 +40,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 Call Lightning damage per second: 1,875%*Volt Attack + 31%*Max HP + 1,125%*Sum of Resistances + 3,750%*Crit Rate
 Call Lightning attribute is Normal Attack damage, but will not trigger additional effects.
 Call Lightning is not affected by elemental damage increase/decrease nor final damage increase/decrease multipliers other than Titan unique stat.
-The damage of Call Lightning will be multiplied by 2.5x if there is any Flame/Frost/Physical Weapon equipped."						
+The damage of Call Lightning will be multiplied by 2.5x if there is any Flame/Frost/Physical Weapon equipped.					
 
 
 <h4 style="text-align: center;"> Advancements </h4>
