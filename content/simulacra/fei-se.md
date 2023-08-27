@@ -6,7 +6,7 @@ social_image: /media/tab_feise.png
 description: Fei Se, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Zhongrui.
 ---
 
->Upcoming Simulucrum 
+>Upcoming simulacrum 
 
 ![](https://i.postimg.cc/d3KSqMPK/Simulacrum-Fei-Se-Awaken.webp)
 

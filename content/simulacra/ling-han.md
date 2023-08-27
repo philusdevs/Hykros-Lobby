@@ -5,7 +5,7 @@ tags: [SSR, Frost]
 social_image: 'media/logo.png'
 description: Ling Han, featured as an obtainable SSR Simulacrum within the simulacrum system.
 ---
->Upcoming Simulucrum 
+>Upcoming simulacrum 
 
 ![](https://telegra.ph/file/ad98e283fddfb7bafbcde.png)
 

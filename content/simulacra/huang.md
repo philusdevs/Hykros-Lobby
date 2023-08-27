@@ -7,7 +7,7 @@ description: Huang, featured as an obtainable SSR Simulacrum within the simulacr
 ---
 
 
->Upcoming Simulucrum 
+>Upcoming simulacrum 
 
 ![](https://i.postimg.cc/QtqcWvKD/Simulacrum-Mimi-Awaken.png)
 
