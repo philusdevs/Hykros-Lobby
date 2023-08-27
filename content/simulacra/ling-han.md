@@ -1,6 +1,6 @@
 ---
 title: "Yu Lan"
-date: 2023-10-01
+date: 2023-11-01
 tags: [SSR, Frost]
 social_image: 'media/logo.png'
 description: Ling Han, featured as an obtainable SSR Simulacrum within the simulacrum system.
