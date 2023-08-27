@@ -2,6 +2,12 @@
 title: "Simulacra"
 template: "simulacra-template"
 simulacra:
+  - name: Ling Han
+    icon: /media/Ling_Han.png
+    gradientColor: Frost
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Frost.png
+    bottomRightOverlay2: /media/DPS.png
   - name: Fei Se
     icon: /media/Fei_se.png
     gradientColor: Flame
