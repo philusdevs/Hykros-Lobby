@@ -25,7 +25,7 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 </p>
 
 
-<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 15.00 | C: 8.00 </center>
+<center> Attack: 16 | HP: 1010 | Crit: 11 | S: 15.00 | C: 8.00 </center>
 
 </br>
 
