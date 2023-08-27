@@ -9,7 +9,7 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 
 ![](https://telegra.ph/file/ad98e283fddfb7bafbcde.png)
 
-### Awaken: Attention
+### Awaken: Ling Han
 
 > Increases final damage by 18%.
 > While equipped with Monitoring Guards, for each equipped frost weapon, frost damage increases by 4%. When equipped with 3 frost weapons, gain an additional 350 weapon charge after using any frost weapon skill. After releasing any frost weapon skill other than Monitoring Guards or discharge , deal an additional 5600% * attack damage to nearby targets.
