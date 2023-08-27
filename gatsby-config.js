@@ -10,7 +10,7 @@ module.exports = {
     socialLinks: [
       {
         name: "Discord",
-        url: "https://discord.gg/XeBgk4Tp",
+        url: "https://discord.gg/TcASn7fjNg",
       },
     ],
   },
