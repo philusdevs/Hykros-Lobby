@@ -1,5 +1,5 @@
 ---
-title: Shattering Guide -
+title: Shattering Guide
 date: 2023-08-28 20:09
 tags:
   - raid
