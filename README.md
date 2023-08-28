@@ -11,7 +11,7 @@ Hykros Lobby is a comprehensive guide hub specifically designed for the upcoming
 
 - Maximized Lighthouse Score: We are committed to delivering exceptional performance, and our website has been optimized to achieve a high Lighthouse score. This ensures fast loading times, efficient resource management, and an overall smooth user experience.
 
-- Edit Content with Contentful CMS: Hykros Lobby utilizes Contentful CMS, a user-friendly and powerful content management system. This allows our team to easily update and manage the website's content, ensuring that the information provided is always up to date and accurate.
+- Edit Content with Netlify CMS: Hykros Lobby utilizes Netlify CMS, a user-friendly and powerful content management system. This allows our team to easily update and manage the website's content, ensuring that the information provided is always up to date and accurate.
 
 - Syntax Highlighting via PrismJS: We understand the importance of code readability, and therefore, we have integrated PrismJS, a syntax highlighting library. This feature enhances the presentation of code snippets, making them easier to read and understand for developers and enthusiasts.
 
