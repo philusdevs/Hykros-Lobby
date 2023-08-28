@@ -43,7 +43,7 @@ To contribute to the Hykros Lobby website, follow these steps:
 
 If you encounter any issues while using the Hykros Lobby website or have any questions, please don't hesitate to reach out to our support team. You can contact us through the following channels:
 
-- Message: https://t.me/HykrosLobby.com
+- Message: https://discord.gg/TcASn7fjNg
 
 ## License
 
