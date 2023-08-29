@@ -35,4 +35,43 @@ collections:
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
 
+  - name: 'simulacra'
+    label: 'Posts'
+    folder: 'content/simulacra'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { 
+          label: 'Date',
+          name: 'date',
+          widget: 'datetime',
+          date_format: 'YYYY-MM-DD',
+          time_format: 'HH:mm',
+          format: 'YYYY-MM-DD HH:mm',
+        }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Social Image', name: 'social_image', widget: 'image', required: false }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
+    
+  - name: 'matrices'
+    label: 'Posts'
+    folder: 'content/matrices'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { 
+          label: 'Date',
+          name: 'date',
+          widget: 'datetime',
+          date_format: 'YYYY-MM-DD',
+          time_format: 'HH:mm',
+          format: 'YYYY-MM-DD HH:mm',
+        }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Social Image', name: 'social_image', widget: 'image', required: false }
+      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
   
