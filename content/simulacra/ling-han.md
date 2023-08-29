@@ -88,6 +88,8 @@ blockquote {
 </br>
 
 
+
+
 | Dodge | Description |
 | --- | --- |
 | **Dodge** | Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you can gain hitstun immunity for 0.5 seconds. |
@@ -98,5 +100,6 @@ blockquote {
 
 | Discharge | Description |
 | --- | --- |
-| **Frosty Roar** | Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Frosty Roar. </br> While falling, each hit deals damage equal to 335.2% of ATK. </br> In the end, trigger a powerful energy explosion, dealing damage equal to 1005.6% of ATK to nearby targets. |
+| **Frosty Roar** | Switch to this weapon when fully charged or when Phantasia is activated. When the weapon is fully charged or when Phantasia is activated, switching to this weapon removes all debuffs from the Wanderer and summons Yuanwu, dealing area damage equal to 2111.8% of ATK to nearby targets. Bai-Hu is then summoned, dealing damage equal to 4,927.4% of ATK to nearby targets. While the skill is active, it grants damage immunity for 2.6 seconds. (not available in Apex League).
+
 
