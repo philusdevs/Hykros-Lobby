@@ -12,7 +12,7 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 ### Awaken: Ling Han
 
 > Increases final damage by 18%.
-> While equipped with Monitoring Guards, for each equipped frost weapon, frost damage increases by 4%. When equipped with 3 frost weapons, gain an additional 350 weapon charge after using any frost weapon skill. After releasing any frost weapon skill other than Monitoring Guards or discharge , deal an additional 5600% * attack damage to nearby targets.
+> While equipped with Monitoring Guards, for each equipped frost weapon, frost damage increases by 4%. When equipped with 3 frost weapons, gain an additional 350 weapon charge after using any frost weapon skill. After releasing any frost weapon skill other than Monitoring Guards or discharge , deal an additional 5600% * attack damage to nearby targets. The character becomes immune to damage for 4 seconds after activating the Frosty Roar (unavailable in Apex League).
 
  <br/> 
   <br/> 
@@ -48,7 +48,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 
 3 ★ The maximum number of created Ice Blades increases to 4, and the base damage multiplier of Frosty Roar increases to 1,800% of ATK. If the Frosty Roar effect is active on only one target for 6 seconds, it applies an additional Arterial Sealing effect, reducing the target's movement speed by 30% (does not work in the Abyss, does not work on bosses). If a target under the influence of Arterial Sealing is damaged by an Ice Blade again, it triggers an explosion, removing the Frosty Roar and Arterial Sealing effects from the target and dealing damage equal to 6,000% of ATK + 2% of the target's lost HP (the explosion damage cannot be less than 7,000% of the character's Frost damage or more than 12,000% of the character's Frost damage).
 
 
-5 ★ The damage dealt by Crystal Cracks and Frosty Air is increased by 50%. The number of Light Fall charges is increased to 5, and the recharge rate of Light Fall charges is increased to 1 charge every 5 seconds.
+5 ★ The damage dealt by Crystal Cracks and Frosty Air is increased by 50%. The number of Light Fall charges is increased to 5, and the recharge rate of Light Fall charges is increased to 1 charge every 3 seconds.
 
 6 ★ The radius of damage from Frosty Roar inflicted by the impact of Icy Blades is increased. Frosty Roar additionally deals damage equal to 4,500% of ATK to nearby targets.
 
@@ -83,6 +83,7 @@ blockquote {
 | **Moonset Slash** | Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Moonset Slash. While falling, each hit deals damage equal to twelve point five percent of ATK plus one. Upon landing, deal damage equal to one hundred forty point five percent of ATK plus seven and launch targets. The higher the altitude when triggering the attack, the greater the damage dealt, up to six hundred percent damage. |
 | **Sneak Attack** | Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to five hundred seventy percent of ATK plus thirty. |
 | **Whirlwind** | While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to one hundred thirty-two point eight percent of ATK plus seven every zero point five seconds to the target. Grant hitstun immunity while in use. |
+| **Light Fall** | While in the air after a double jump, press the jump button and the movement button in a direction to ascend into the air and continue gliding. Light Fall can be used up to 2 times in the air, and 1 charge is restored every 10 seconds when the character is on the ground. |
 
 </br>
 
