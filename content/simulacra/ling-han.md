@@ -1,5 +1,5 @@
 ---
-title: "Yu Lan"
+title: "Ling Han"
 date: 2023-11-01
 tags: [SSR, Frost]
 social_image: 'media/logo.png'
