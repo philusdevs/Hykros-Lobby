@@ -145,7 +145,7 @@ simulacra:
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
-    bottomRightOverlay2: /media/DPS.png
+    bottomRightOverlay2: /media/Bene.png
   - name: Shiro 
     icon: /media/Shiro.png
     gradientColor: Physical
