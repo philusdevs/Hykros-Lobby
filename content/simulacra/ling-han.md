@@ -39,7 +39,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Frost Resonance:** Increase Frost ATK by 20% and Frost Resistance by 40%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type. </br>
-**Frost: Detachment:** After using [Sword Art: Frozen Reflection], you will deal damage to affected targets every second for 30 seconds, equal to 1250% of cold ATK + 20% of max HP of the Wanderer + 750% of the sum of all types of resistance + 2500% of critical damage. Damage from multiple Detachments does not stack, and Frost damage is considered skill damage. When equipped with 1 electric, fire, or physical weapon, Frost damage is multiplied by 2.5. Additionally, Frost damage is not affected by any damage boosts, except for rare Titan equipment parameters, and it does not trigger additional attack effects.
+**Frost: Detachment:** After using Frozen Reflection, you will deal damage to affected targets every second for 30 seconds, equal to 1250% of cold ATK + 20% of max HP of the Wanderer + 750% of the sum of all types of resistance + 2500% of critical damage. Damage from multiple Detachments does not stack, and Frost damage is considered skill damage. When equipped with 1 electric, fire, or physical weapon, Frost damage is multiplied by 2.5. Additionally, Frost damage is not affected by any damage boosts, except for rare Titan equipment parameters, and it does not trigger additional attack effects.
 
 <h4 style="text-align: center;"> Advancement</h4>
 
@@ -75,15 +75,16 @@ blockquote {
 </style>
 
 
-| Attacks | Description |
+|Attacks | Description|
 | --- | --- |
-| **Heavy Cleave** | While on the ground, swing a greatsword to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 72.9% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 60.1% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 105.4% of ATK + 6 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 156.3% of ATK + 8, strongly launch the target, then launch them upon landing. |
-| **Aerial Strike** | While airborne or after jumping once, tap normal attack to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 106.5% of ATK + 6. </br> **Second Attack:** Deal damage equal to 87.5% of ATK + 5. </br> **Third Attack:** Deal damage equal to 156% of ATK + 8. </br> **Fourth Attack:** Deal damage equal to 140.5% of ATK + 7 and deliver a knockdown, launch the target upon landing. |
-| **Rising Slash** | After the third normal attack, hold normal attack to trigger Rising Slash. Upon hit, strongly suspend the target and go airborne, dealing damage equal to sixty-four point three percent of ATK plus three. |
-| **Moonset Slash** | Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Moonset Slash. While falling, each hit deals damage equal to twelve point five percent of ATK plus one. Upon landing, deal damage equal to one hundred forty point five percent of ATK plus seven and launch targets. The higher the altitude when triggering the attack, the greater the damage dealt, up to six hundred percent damage. |
-| **Sneak Attack** | Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to five hundred seventy percent of ATK plus thirty. |
-| **Whirlwind** | While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to one hundred thirty-two point eight percent of ATK plus seven every zero point five seconds to the target. Grant hitstun immunity while in use. |
-| **Light Fall** | While in the air after a double jump, press the jump button and the movement button in a direction to ascend into the air and continue gliding. Light Fall can be used up to 2 times in the air, and 1 charge is restored every 10 seconds when the character is on the ground. |
+| **Moon Execution** | While on the ground, use your normal attack to land 6 consecutive attacks. </br> **First Attack:** Deals damage equal to 376.2% of ATK. </br> **Second Attack:** Deals damage equal to 497.5% of ATK. </br> **Third Attack:** Deals damage equal to 797.1% of ATK. </br> **Fourth Attack:** Deals damage equal to 480.7% of ATK. </br> **Fifth Attack:** Deals damage equal to 869.5% ATK. </br> **Sixth Attack:** Deals damage equal to 975.4% of ATK. |
+| **Crystal Crack** | Any basic attack with Ling Han's weapon hits the target with 1 stack of Crystal Crack (up to 3 stacks), dealing damage equal to 150% of ATK to the target every second for 15 seconds. The same target can only receive a stack of Crystal Crack more than once every 4 seconds. When the duration expires, only 1 stack of Crystal Rift disappears, rather than all at once. |
+| **Wild Plum** | While in the air, use your normal attack to land 6 consecutive attacks at the expense of stamina. </br> **First Attack:** Deals damage equal to 368.9% ATK. </br> **Second Attack:** Deals damage equal to 387.3% of ATK. </br> **Third Attack:** Deals damage equal to 840.5% ATK. </br> **Fourth Attack:** Deals damage equal to 500% of ATK. </br> **Fifth Attack:** Deals damage equal to 822.1% of ATK. </br> **Sixth Attack:** Deals damage equal to 988.1% of ATK. |
+| **Snowfall** | While on the ground, press and hold a normal attack to perform  Snowfall. Control your sword with your mind, constantly draining stamina and dealing damage equal to 335.2% of your ATK to nearby targets with each swing. When  Snowfall is cast, the character gains a Hyperbody effect.  Snowfall unleashes a powerful blast of sword energy at the end of its cast, dealing damage equal to 1,005.6% of ATK to nearby targets. |
+| **Frostfall** | Press and hold a normal attack while flying (press when a target is available), or use a normal attack while climbing, jumping backward, or using a jetpack to perform  Frostfall. While falling, each hit deals damage equal to 288.5% of ATK. Upon landing, deals damage equal to 1410.4% of ATK to the target. |
+| **Light Fall** | While in the air after double jumping, press the jump button and the side move button to take off into the air and continue to hover. Light Fall can be used up to 2 times while in the air, and 1 charge is restored every 10 seconds when the character is on the ground.
+
+|
 
 </br>
 
@@ -91,17 +92,17 @@ blockquote {
 | Skill | Description |
 | --- | --- |
 | **Frost Air** | After using this skill, the character will emit Frost Air, dealing damage equal to 340% of ATK to nearby targets every second and slowing them by 30% (unavailable in Apex League. Does not work on bosses).</br> After using this skill, the character's cold damage is increased by 15% for 35 seconds. |
-| **Frost Blades** | This skill generates the maximum number of Frost Blades after casting. Every 7.5 seconds, 1 Frost Blade will be fired at the target enemy, dealing damage equal to 1800% of ATK. Hitting with Frost Blade causes [FrostFall]. Initially, a character can create up to 3 Frost Blades. Out of combat, all Frost Blades disappear. |
+| **Frost Blades** | This skill generates the maximum number of Frost Blades after casting. Every 7.5 seconds, 1 Frost Blade will be fired at the target enemy, dealing damage equal to 1800% of ATK. Hitting with Frost Blade causes FrostFall. Initially, a character can create up to 3 Frost Blades. Out of combat, all Frost Blades disappear. |
 | **FrostFall** | Deals damage equal to 1200% ATK to nearby targets every 3 seconds for 12 seconds. |
 
 </br>
 
-| Dodge | Description |
-| --- | --- |
-| **Dodge** | Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you can gain hitstun immunity for 0.5 seconds. |
-| **Devastate** | Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate. Deal damage equal to sixty-five point nine percent of ATK plus three each hit and launch targets. |
-| **Crescent Slash** | Tap normal attack during the short period after dodging to trigger Crescent Slash. Swing the greatsword to unleash sword auras forward, each dealing damage equal to forty-nine point six percent of ATK plus three. |
 
+| Dodge | Description|
+| --- | --- |
+| **Dodge** | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area.|
+| **Cascade of Floating Clouds** | Press the normal attack button after using a move dodge to perform Floating Cloud Cascade. Deals damage equal to 1,173.2% of ATK to nearby targets. |
+| **Vast Soul** | Press the normal attack button after using a dodge to perform  Vast Soul. Summons a Bai-Hu phantom that deals damage equal to 670.4% of ATK to targets in front. |
 </br>
 
 | Discharge | Description |
