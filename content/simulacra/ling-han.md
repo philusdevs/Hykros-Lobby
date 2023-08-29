@@ -29,10 +29,10 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 
 </br>
 
-<h4 style="text-align: center;"> Trait: Ice Shell </h4>
+<h4 style="text-align: center;"> Trait: FrostShell </h4>
 
 
-When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
+When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the frostshell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
 </br>
 
@@ -43,9 +43,9 @@ When the weapon is fully charged, the next attack will freeze targets for 2 
 
 <h4 style="text-align: center;"> Advancement</h4>
 
-1 ★ After launching an Ice Blade, the character's Frost damage increases by 10% for 30 seconds. During this time, nearby enemies receive damage equal to 400% of ATK every second.
+1 ★ After launching an FrostBlade, the character's Frost damage increases by 10% for 30 seconds. During this time, nearby enemies receive damage equal to 400% of ATK every second.
 
-3 ★ The maximum number of created Ice Blades increases to 4, and the base damage multiplier of Frosty Roar increases to 1,800% of ATK. If the Frosty Roar effect is active on only one target for 6 seconds, it applies an additional Arterial Sealing effect, reducing the target's movement speed by 30% (does not work in the Abyss, does not work on bosses). If a target under the influence of Arterial Sealing is damaged by an Ice Blade again, it triggers an explosion, removing the Frosty Roar and Arterial Sealing effects from the target and dealing damage equal to 6,000% of ATK + 2% of the target's lost HP (the explosion damage cannot be less than 7,000% of the character's Frost damage or more than 12,000% of the character's Frost damage).
+3 ★ The maximum number of created FrostBlades increases to 4, and the base damage multiplier of Frosty Roar increases to 1,800% of ATK. If the Frosty Roar effect is active on only one target for 6 seconds, it applies an additional Arterial Sealing effect, reducing the target's movement speed by 30% (does not work in the Abyss, does not work on bosses). If a target under the influence of Arterial Sealing is damaged by an FrostBlade again, it triggers an explosion, removing the Frosty Roar and Arterial Sealing effects from the target and dealing damage equal to 6,000% of ATK + 2% of the target's lost HP (the explosion damage cannot be less than 7,000% of the character's Frost damage or more than 12,000% of the character's Frost damage).
 
 
 5 ★ The damage dealt by Crystal Cracks and Frosty Air is increased by 50%. The number of Light Fall charges is increased to 5, and the recharge rate of Light Fall charges is increased to 1 charge every 3 seconds.
@@ -54,7 +54,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 
 
 <h4 style="text-align: center;"> Matrix </h4>
 
->  **2-piece:** Increases all elemental damage by 9%/12%/15%/18%. When launching Ice Blades, deal an additional 1600% * attack damage to nearby targets. Becomes effective in the background after equipping, and only the highest star level among multiple sets becomes effective.
+>  **2-piece:** Increases all elemental damage by 9%/12%/15%/18%. When launching FrostBlades, deal an additional 1600% * attack damage to nearby targets. Becomes effective in the background after equipping, and only the highest star level among multiple sets becomes effective.
 
 >  **4-piece:** After releasing any frost weapon skill, increases final damage by 28%/32%/36%/40% for 30 seconds; while equipped with Monitoring Guards, increases all attack by 15%. Becomes effective in the background after equipping, and only the highest star level among multiple sets becomes effective.
 
@@ -88,7 +88,13 @@ blockquote {
 </br>
 
 
+| Skill | Description |
+| --- | --- |
+| **Frost Air** | After using this skill, the character will emit Frost Air, dealing damage equal to 340% of ATK to nearby targets every second and slowing them by 30% (unavailable in Apex League. Does not work on bosses).</br> After using this skill, the character's cold damage is increased by 15% for 35 seconds. |
+| **Frost Blades** | This skill generates the maximum number of Frost Blades after casting. Every 7.5 seconds, 1 Frost Blade will be fired at the target enemy, dealing damage equal to 1800% of ATK. Hitting with Frost Blade causes [FrostFall]. Initially, a character can create up to 3 Frost Blades. Out of combat, all Frost Blades disappear. |
+| **FrostFall** | Deals damage equal to 1200% ATK to nearby targets every 3 seconds for 12 seconds. |
 
+</br>
 
 | Dodge | Description |
 | --- | --- |
