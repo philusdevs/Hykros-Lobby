@@ -82,9 +82,7 @@ blockquote {
 | **Wild Plum** | While in the air, use your normal attack to land 6 consecutive attacks at the expense of stamina. </br> **First Attack:** Deals damage equal to 368.9% ATK. </br> **Second Attack:** Deals damage equal to 387.3% of ATK. </br> **Third Attack:** Deals damage equal to 840.5% ATK. </br> **Fourth Attack:** Deals damage equal to 500% of ATK. </br> **Fifth Attack:** Deals damage equal to 822.1% of ATK. </br> **Sixth Attack:** Deals damage equal to 988.1% of ATK. |
 | **Snowfall** | While on the ground, press and hold a normal attack to perform  Snowfall. Control your sword with your mind, constantly draining stamina and dealing damage equal to 335.2% of your ATK to nearby targets with each swing. When  Snowfall is cast, the character gains a Hyperbody effect.  Snowfall unleashes a powerful blast of sword energy at the end of its cast, dealing damage equal to 1,005.6% of ATK to nearby targets. |
 | **Frostfall** | Press and hold a normal attack while flying (press when a target is available), or use a normal attack while climbing, jumping backward, or using a jetpack to perform  Frostfall. While falling, each hit deals damage equal to 288.5% of ATK. Upon landing, deals damage equal to 1410.4% of ATK to the target. |
-| **Light Fall** | While in the air after double jumping, press the jump button and the side move button to take off into the air and continue to hover. Light Fall can be used up to 2 times while in the air, and 1 charge is restored every 10 seconds when the character is on the ground.
-
-|
+| **Light Fall** | While in the air after double jumping, press the jump button and the side move button to take off into the air and continue to hover. Light Fall can be used up to 2 times while in the air, and 1 charge is restored every 10 seconds when the character is on the ground.|
 
 </br>
 
@@ -92,8 +90,8 @@ blockquote {
 | Skill | Description |
 | --- | --- |
 | **Frost Air** | After using this skill, the character will emit Frost Air, dealing damage equal to 340% of ATK to nearby targets every second and slowing them by 30% (unavailable in Apex League. Does not work on bosses).</br> After using this skill, the character's cold damage is increased by 15% for 35 seconds. |
-| **Frost Blades** | This skill generates the maximum number of Frost Blades after casting. Every 7.5 seconds, 1 Frost Blade will be fired at the target enemy, dealing damage equal to 1800% of ATK. Hitting with Frost Blade causes FrostFall. Initially, a character can create up to 3 Frost Blades. Out of combat, all Frost Blades disappear. |
-| **FrostFall** | Deals damage equal to 1200% ATK to nearby targets every 3 seconds for 12 seconds. |
+| **Frost Blades** | This skill generates the maximum number of Frost Blades after casting. Every 7.5 seconds, 1 Frost Blade will be fired at the target enemy, dealing damage equal to 1800% of ATK. Hitting with Frost Blade causes Icy Fall. Initially, a character can create up to 3 Frost Blades. Out of combat, all Frost Blades disappear. |
+| **Icy Fall** | Deals damage equal to 1200% ATK to nearby targets every 3 seconds for 12 seconds. |
 
 </br>
 
@@ -103,6 +101,7 @@ blockquote {
 | **Dodge** | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area.|
 | **Cascade of Floating Clouds** | Press the normal attack button after using a move dodge to perform Floating Cloud Cascade. Deals damage equal to 1,173.2% of ATK to nearby targets. |
 | **Vast Soul** | Press the normal attack button after using a dodge to perform  Vast Soul. Summons a Bai-Hu phantom that deals damage equal to 670.4% of ATK to targets in front. |
+
 </br>
 
 | Discharge | Description |
