@@ -29,7 +29,7 @@ Attack: 14 | HP: 1010 | Resistance: 5 | S: 14.00 | C: 15.00
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
 
-When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
+When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 151.00% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
