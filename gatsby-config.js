@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Hykros Lobby`,
     author: {
-      name: `Vex`,
+      name: `Hykros Lobby`,
       summary: `A Guide Hub for Tower of Fantasy, Featuring Simulacra and Matrices Information`,
     },
     description: `A Guide Hub for Tower of Fantasy, Featuring Simulacra and Matrices Information`,
