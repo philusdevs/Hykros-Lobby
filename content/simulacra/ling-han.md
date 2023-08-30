@@ -86,7 +86,6 @@ blockquote {
 
 </br>
 
-
 | Skill | Description |
 | --- | --- |
 | **Frost Air** | After using this skill, the character will emit Frost Air, dealing damage equal to 340% of ATK to nearby targets every second and slowing them by 30% (unavailable in Apex League. Does not work on bosses).</br> After using this skill, the character's cold damage is increased by 15% for 35 seconds. |
