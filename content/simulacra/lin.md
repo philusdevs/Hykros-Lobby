@@ -72,7 +72,7 @@ blockquote {
 
 </br>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, use Shadoweave to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 59.9% of ATK + 3. </br> **Second Attack:** Deal damage equal to 57.1% of ATK + 3. </br> **Third Attack:** Deal damage equal to 49.5% of ATK + 3. </br> **Fourth Attack:** Deal damage equal to 114.2% of ATK + 6 and suspend the target. </br> **Fifth Attack:** Deal damage equal to 152.2% of ATK + 8.
 | **Aerial Discharge** | While airborne, use normal attack to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 30.6% of ATK + 2. </br> **Second Attack:** Deal damage equal to 55.6% of ATK + 3. </br> **Third Attack:** Deal damage equal to 48.2% of ATK + 3. </br> **Fourth Attack:** Deal damage equal to 111.2% of ATK + 6. </br> **Fifth Attack:** Deal damage equal to 148.3% of ATK + 8.

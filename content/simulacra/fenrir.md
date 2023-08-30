@@ -84,7 +84,7 @@ blockquote {
 
 
 
-| Normal Attacks          | Description                                                                                                                     |
+| Normal Attack |Description                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Woof** |Initiate 7 attacks in a row when on the ground.</br> **First Attack:** Deal damage equal to  48.6% of ATK plus  4. </br> **Second Attack:** Deal damage equal to  54.1% of ATK plus  5. </br> **Third Attack:** Deal damage equal to  54.1% of ATK plus  5. </br> **Fourth Attack:** Deal damage equal to  85.4% of ATK plus  7. </br> **Fifth Attack:** Deal damage equal to  54.1% of ATK plus  5. </br> **Sixth Attack:** Deal damage equal to  152.9% of ATK plus  13. </br> **Seventh Attack:** Deal damage equal to  169% of ATK plus  15.
 | **Unshackle** | While airborne or after jumping once, use normal attack to  attack 7 times in a row in mid-air. </br> **First Attack:** Deal damage equal to  52.9% of ATK plus  5.</br> **Second Attack:** Deal damage equal to  60.8% of ATK plus  5. </br> **Third Attack:** Deal damage equal to  60.8% of ATK plus  5.</br>  **Fourth Attack:** Deal damage equal to  105.8% of ATK plus  9. </br> **Fifth Attack:** Deal damage equal to  79.3% of ATK plus  7.</br>  **Sixth Attack:** Deal damage equal to 183 .4% of ATK plus  16 . </br> **Seventh Attack:** Deal damage equal to  202 .8% of ATK plus  18 .

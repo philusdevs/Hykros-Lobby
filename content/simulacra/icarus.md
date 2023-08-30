@@ -85,10 +85,10 @@ blockquote {
 </style>
 
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
-| **Normal: Withering Cold** | While on the ground, use normal attack to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 112.1% of ATK + 6 and knock the target back. </br> **Second Attack:** Deal damage equal to 130.5% of ATK + 7 and knock the target back. </br> **Third Attack:** Deal damage equal to 213.2% of ATK + 11 and suspend the target. </br> **Fourth Attack:** Deal damage equal to 329% of ATK + 17 and knock the target back. </br> **Fifth Attack:** Deal damage equal to 222.5% of ATK + 12 and launches the target.
-| **Aerial: Thaw** | While airborne, use normal attack to attack 5 times in a row in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 132.2% of ATK + 7. </br> **Second Attack:** Deal damage equal to 158.6% of ATK + 8. </br> **Third Attack:** Deal damage equal to 248.6% of ATK + 13. </br> **Fourth Attack:** Deal damage equal to 343.5% of ATK + 18. </br> **Fifth Attack:** Deal damage equal to 334.5% of ATK + 18 and launch the target.
+| **Withering Cold** | While on the ground, use normal attack to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 112.1% of ATK + 6 and knock the target back. </br> **Second Attack:** Deal damage equal to 130.5% of ATK + 7 and knock the target back. </br> **Third Attack:** Deal damage equal to 213.2% of ATK + 11 and suspend the target. </br> **Fourth Attack:** Deal damage equal to 329% of ATK + 17 and knock the target back. </br> **Fifth Attack:** Deal damage equal to 222.5% of ATK + 12 and launches the target.
+| **Thaw** | While airborne, use normal attack to attack 5 times in a row in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 132.2% of ATK + 7. </br> **Second Attack:** Deal damage equal to 158.6% of ATK + 8. </br> **Third Attack:** Deal damage equal to 248.6% of ATK + 13. </br> **Fourth Attack:** Deal damage equal to 343.5% of ATK + 18. </br> **Fifth Attack:** Deal damage equal to 334.5% of ATK + 18 and launch the target.
 | **Piercing Cold** | While on the ground, tap and hold normal attack to trigger Piercing Cold, dealing damage equal to 345.1% of ATK plus 18.
 | **Sharp Chill** | Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using a Jetpack to trigger Sharp Chill.<br>While falling, deal damage equal to 57.5% of ATK plus 3 each hit. Upon landing, deal damage equal to 344.9% of ATK plus 18 and launch the target.
 

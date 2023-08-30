@@ -24,7 +24,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 8.00
 
 <h4 style="text-align: center;"> Trait: Volt</h4>
 
-When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
+When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
 <h4 style="text-align: center;"> Advancements </h4>
 
@@ -70,7 +70,7 @@ blockquote {
 
 </br>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Twin Blades** | While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 66.1% of ATK + 3 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 80.3% of ATK + 4 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 120.6% of ATK + 5 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 106.5% of ATK + 5 and knock the target back a short distance. </br> **Fifth Attack:** Deal damage equal to 222.4% of ATK + 11 and knock the target back a short distance. |
 | **Sky Flurry** | While airborne or after jumping once, use normal attack to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 72.2% of ATK + 3. </br> **Second Attack:** Deal damage equal to 42.2% of ATK + 2. </br> **Third Attack:** Deal damage equal to 101.2% of ATK + 5. </br> **Fourth Attack:** Deal damage equal to 151.8% of ATK + 7.

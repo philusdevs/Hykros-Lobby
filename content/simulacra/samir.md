@@ -27,7 +27,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 10.70
 
 <h4 style="text-align: center;"> Trait: Volt</h4>
 
-When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
+When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
 <style>
 table {
@@ -71,7 +71,7 @@ blockquote {
 
 </br>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Dual Fire** | Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols. </br> **First Attack:** Deal total damage equal to 56.5% of ATK + 2. </br> **Second Attack:** Deal total damage equal to 43% of ATK + 2. </br> **Third Attack:** Deal total damage equal to 143.6% of ATK + 6. </br> **Fourth Attack:** Deal total damage equal to 135.7% of ATK + 6. </br> **Fifth Attack:** Deal total damage equal to 184.8% of ATK + 8 and launch the target. |
 | **Bullet Rain** | While airborne, use normal attack to fire continuously at the ground, dealing damage equal to fifty-four point three percent of ATK plus three, each hit consumes one hundred fifty endurance.

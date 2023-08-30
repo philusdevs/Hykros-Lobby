@@ -69,7 +69,7 @@ blockquote {
 
 </br>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Thrust** | While on the ground, swing the long spear to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 24.7% of ATK + 1 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 22.6% of ATK + 1 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 47.2% of ATK + 2 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 65.2% of ATK + 3 and knock the target back a short distance. </br> **Fifth Attack:** Deal damage equal to 114.95% of ATK + 6 and knock the target back a significant distance.
 | **Jumping Strike** | While airborne, tap normal attack to attack 4 times in a row in the air. </br> **First Attack:** Deal damage equal to 27.4% of ATK + 1. </br> **Second Attack:** Deal damage equal to 23.2% of ATK + 1. </br> **Third Attack:** Deal damage equal to 45.8% of ATK + 2. </br> **Fourth Attack:** Deal damage equal to 110% of ATK + 6.

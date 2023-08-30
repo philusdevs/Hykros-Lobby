@@ -25,7 +25,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 8.00
 </br>
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
-When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
+When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
@@ -80,7 +80,7 @@ blockquote {
 </br>
 
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, use Venus to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 50.8% of ATK + 3. </br> **Second Attack:** Deal damage equal to 36.3% of ATK + 2. </br> **Third Attack:** Deal damage equal to 98.3% of ATK + 5. </br> **Fourth Attack:** Deal damage equal to 67.3% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 148.3% of ATK + 8. |
 | **Aerial Discharge** | While airborne, tap normal attack to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 62.5% of ATK + 3. </br> **Second Attack:** Deal damage equal to 62.5% of ATK + 3. </br> **Third Attack:** Deal damage equal to 120% of ATK + 6. </br> **Fourth Attack:** Deal damage equal to 71.2% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 126% of ATK + 7. |

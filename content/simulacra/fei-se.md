@@ -84,7 +84,7 @@ blockquote {
 
 
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Open and Close** | While on the ground, use normal attack to launch 6 consecutive attacks. </br> **First Attack:** Deal damage equal to 136% of ATK + 7. </br> **Second Attack:** Deal damage equal to 204% of ATK + 11. </br> **Third Attack:** Deal damage equal to 220% of ATK + 12. </br> **Fourth Attack:** Deal damage equal to 240% of ATK + 13. </br> **Fifth Attack:** Deal damage equal to 244% of ATK + 13. </br> **Sixth Attack** Deal damage equal to 192% of ATK + 10. |
 | **Slender Clouds** | While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 120% of ATK + 6. </br> **Second Attack:** Deal damage equal to 164% of ATK + 9. </br> **Third Attack:** Deal damage equal to 236% of ATK + 12. </br> **Fourth Attack:** Deal damage equal to 236% of ATK + 12. </br> **Fifth Attack:** Deal damage equal to 288% of ATK + 15. </br> **Sixth Attack** Deal damage equal to 240% of ATK + 13. |

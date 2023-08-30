@@ -1,6 +1,6 @@
 ---
 title: "Huang"
-date: 2023-09-01
+date: 2023-09-05
 tags: [SSR, Volt]
 social_image: '/media/tab_mimi.png'
 description: Huang, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Azure Dragon.
@@ -29,34 +29,30 @@ Attack: 14 | HP: 1010 | Resistance: 5 | S: 14.00 | C: 15.00
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
 
-When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
+When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
-**Volt Resonance:** Equip 2 Volt element weapons to increase Volt Attack by 20% and Volt Resistance by 40%.						
+**Volt Resonance:** Increase volt ATK by 15% and volt resistance by 25%. Activate by equipping 2 or more volt weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.					
 
-**Call Lightning:** When Azure Dragon hits a target, Call Lightning chase damage can be triggered once every 1.5s.
-Call Lightning damage per second: 1,875%*Volt Attack + 31%*Max HP + 1,125%*Sum of Resistances + 3,750%*Crit Rate
-Call Lightning attribute is Normal Attack damage, but will not trigger additional effects.
-Call Lightning is not affected by elemental damage increase/decrease nor final damage increase/decrease multipliers other than Titan unique stat.
-The damage of Call Lightning will be multiplied by 2.5x if there is any Flame/Frost/Physical Weapon equipped.					
+**Thunderboom: On-Field:** When landing any hit with Azure Dragon, it deals damage to nearby targets equal to 131.3% of volt ATK plus 1.9% of the Wanderer's Max HP plus 68.8% of the sum of all the Wanderer's resistance types plus 250% of crit. This effect can be triggered up to 1 time every 1.5 seconds. The Thunderboom damage is counted as normal attack damage. If there is 1 flame/ frost/physical weapon of any kind equipped, Thunderboom damage is multiplied by 1.3 times. In addition, Thunderboom damage is not affected by any damage boost except from the effects from Titan equipment, and cannot trigger additional attack effects.
+				
 
 
 <h4 style="text-align: center;"> Advancements </h4>
 
 
 
-1★ When using the Held Normal of Azure Dragon, summon 2 Little Azure Dragons once. Each Little Azure Dragon restores the HP of summoned objects by 20%. The Held Normal of Azure Dragon and the damage of Little Azure Dragons are also increased by 50%. Obtain 3 stacks of Azure Dragon Power when using Azure Dragon's Skill. Obtain 1 stack of Azure Dragon Power when using other Volt weapon's Skills.			
+1★ Each time after Thunder Burst charges, 2 Azuras will appear. Each Azura will restore 20% Max HP to other summons.
+Increase Thunder Burst's charged attack and shockwave damage by 30%. After using Azure Moon, immediately gain 3 stacks of Qinglong's Might. Using other volt weapons' skills will grant 1 stack of Qinglong's Might instead.
+
+3★ When Azure Dragon is equipped, reduce all volt weapon base skill cooldowns by 20%. This is not affected by other cooldown clearing, resetting, or changing effects. Additionally, increase the Wanderer's volt damage by 15%. This effect works in the off-hand slot.				
 
 
-3★ The Main Skill cooldown of Volt weapons is decreased by 33%. Not affected by Skill Cooldowns, clearing, resets, and changes.
-Additionally, gain a 30% increase in Volt Damage. These effects can activate in the background.					
+5★ When the Wanderer receives lethal damage, prevent lethal damage 1 time and gain damage immunity for a short duration. This effect can only trigger 1 time every 60 seconds and works in the off-hand slot. </br> After activating Fortitude Resonance: Using Soaring Dragon draws in nearby targets, ignoring hyperbody (ineffective against bosses). In team play, Thunder Burst will produce 1 volt timestamp every 6 seconds while charging, which will link up in the order they are produced to form a power grid. The power grid can block enemies' movements and their projectile damage. Each volt timestamp lasts for up to 20 seconds.	
 
-
-5★ Resist fatal damage and gain damage immunity for a short time. 60s cd. This effect can activate in the background. When Fortitude Resonance is active, Azure Dragon's Discharge will have a minor suction effort towards non-boss enemies, bypassing superarmor. When Fortitude Resonance is active and you are in team play, every time Azure Dragon hits with the Held Normal, every 6s generate a Lightning Timestamp.Lightning Timestamps will chain together to form a Power Grid which lasts up to 20s that blocks the movement and projectiles of enemies.	
-
-6★ After using Azure Dragon's Skill, increase 15% Volt Damage and 25% Final Damage for 30s.					
+6★ After using Azure Moon, increase the Wanderer's volt damage by 10% and final damage by 10% for 30					
 
 </br>
 
@@ -66,9 +62,9 @@ Additionally, gain a 30% increase in Volt Damage. These effects can activate in 
     <img src="https://telegra.ph/file/25cdb8ade6eecd8365ce6.png" alt="Centered Image">
 </p>
 
-> **2-piece:** Increase Final Damage by 10%/12%/14%/16%. When Little Azure Dragon hits a target, increase Skill damage by 30% for 30s.These effects can activate in the background.		
+> **2-piece:** Increase final damage by 7%8%/ 9%/10%. After Azura's shockwave lands a hit, increase skill damage by 15% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.		
 
-> **4-piece:** When equipped with at least 1 Volt Weapon, increase all Elemental Damage by 28%/32%/36%/40%. Using Azure Dragon's Skill/Discharge will increase Crit Damage by 20% for 30s. These effects can activate in the background.		
+> **4-piece:** When equipped with at least 1 volt weapon, increase all elemental damage by 14%/17%/20%/23%. After using Azure Moon / Soaring Dragon, increase crit damage by 6% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.			
 
 </br>
 
@@ -85,35 +81,35 @@ blockquote {
 }
 </style>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
-| **Normal: Earth-Shaking Pearls and Jade** | While on the ground, use normal attack to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 184% of ATK + 10. </br> **Second Attack:** Deal damage equal to 278% of ATK + 15. </br> **Third Attack:** Deal damage equal to 808% of ATK + 43. </br> **Fourth Attack:** Deal damage equal to 670% of ATK + 35. </br> **Fifth Attack:** Deal damage equal to 334% of ATK + 18.
-| **Aerial: Sightseeing** | While airborne, use normal attack to launch 5 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 187% of ATK + 10. </br> **Second Attack:** Deal damage equal to 304% of ATK + 16. </br> **Third Attack:** Deal damage equal to 835% of ATK + 44. </br> **Fourth Attack:** Deal damage equal to 575% of ATK + 30. </br> **Fifth Attack:** Deal damage equal to 373% of ATK + 20.
-| **Azure Dragon  Sunrise** | While on the ground, tap and hold normal attack when executing the first to fourth normal attacks to trigger Azure Dragon  Sunrise, consuming endurance.<br>Launch an attack forward, dealing damage equal to 666% of ATK +35 to nearby targets, suspending them.
-| **Lightning Burst** | Hold Normal to enter a stance, gaining superarmor and continuously firing lightning at the target, dealing 108% damage per hit at the cost of endurance. During this stance, summon Little Azure Dragons every 1.5s that fire a lightning shockwave dealing 200% damage.Stance hits and Little Azure Dragon hits reduce enemy Volt Resistance by 3%, stacking up to 15% and lasting 10s. Also, gain a 10% life shield every 1.5s, stacking up to 30% HP. The shield lasts up to 15s. </br>When Fortitude Resonance is activated: </br> 1. Taunt nearby enemies with stance hits. 2. The resistance shred is changed to all element resistance shred. 3. Allies will also gain a life shield equal to 10% of this wielder's HP. |		
-| **Dragon Tour** | While airborne, tap and hold normal attack when executing the first to fourth normal attacks to trigger Dragon Tour, consuming endurance.<br>Launch an attack forward, dealing damage equal to 666% of ATK +35 to nearby targets, suspending them.
-| **Power of the Azure Dragon** |For every 3 hits of Azure Dragon Normal/Held Normal Attacks, gain 1 stack of Azure Dragon Power, stacking up to 8 times.Stacks collectively last 30s and expire all at once after 30 seconds. The duration can be refreshed even with 8 stacks. When Fortitude Resonance is activated, for each stack of Azure Dragon Power, gain 1.5% damage reduction.						
+| **Pearls and Jade** | While on the ground, use normal attack to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 91.1% of ATK. </br> **Second Attack:** Deal damage equal to 137.6% of ATK. </br> **Third Attack:** Deal damage equal to 400% of ATK. </br> **Fourth Attack:** Deal damage equal to 331.7% of ATK. </br> **Fifth Attack:** Deal damage equal to 165.3% of ATK.
+| **Seeing Sights** | While airborne, use normal attack to launch 5 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 92.6% of ATK. </br> **Second Attack:** Deal damage equal to 150.5% of ATK. </br> **Third Attack:** Deal damage equal to 413.3% of ATK. </br> **Fourth Attack:** Deal damage equal to 284.6% of ATK. </br> **Fifth Attack:** Deal damage equal to 184.6% of ATK.
+| **Azure Dragon Pierces the Sun** | While on the ground, tap and hold normal attack when using the first to fourth normal attacks to trigger Azure Dragon Pierces the Sun and consume endurance.</br> Launch an attack ahead, dealing damage equal to 329.7% of ATK plus 1,874 to nearby targets and suspending them. </br> After triggering Azure Dragon Pierces the Sun, tap and hold normal attack to trigger Thunder Burst.
+| **Thunder Burst** | While on the ground, tap and hold normal attack to trigger Thunder Burst. Continuously fire lightning at the targets ahead, consuming endurance, during which the Wanderer gains hyperbody. Every attack that lands deals damage equal to 53.5% of ATK plus 304 to nearby targets. At the same time, summon 1 Azura every 1.5 seconds that fire shockwaves, dealing damage equal to 99% of ATK plus 563 to nearby targets. </br> The Wanderer gains a 10% HP shield every 1.5 seconds, up to 30%, for 15 seconds. </br> After activating Fortitude Resonance: Whenever Thunder Burst or shockwave lands a hit, nearby targets are taunted for 2 seconds. Every time Thunder Burst produces a shield, nearby teammates will additionally receive a shield up to 10% of the Wanderer's Max HP. |		
+| **Roving Dragon** | While airborne, tap and hold normal attack when executing the first to fourth normal attacks to trigger Dragon Tour, consuming endurance.<br>Launch an attack forward, dealing damage equal to 666% of ATK +35 to nearby targets, suspending them.
+| **Qinglong's Might** |Every 3 normal attacks landed while using Azure Dragon grants 1 stack of Qinglong's Might, stacking up to 8 times, for 30 seconds.</br> After activating Fortitude Resonance: Each stack of Qinglong's Might reduces the Wanderer's damage taken by 1.5%.						
 
 </br>
 
 
 | Dodge | Description |
 | --- | --- |
-| **Dodge** | Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.</br> Passive: Dodges will also throw a Lightning Hydrangea forward.
-| **Electric Switch** | Dodge Attack by pressing or hold Normal during a dodge to warp to the Lightning Hydrangea, dealing 215% damage to targets in the way, generating a Lightning Pool that deals 302% damage, then return to the original position. </br>Passive:</br>Gain superarmor while performing this attack, and when the Dodge Attack hits a target, gain one stack of Azure Dragon Power. Continue holding Normal to continue to the Held Normal attack.|
+| **Dodge** | Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.</br> Passive: Launch a lightning ball ahead.
+| **Lightning Flash** |Use normal attack during the short period after dodging to trigger Lightning Flash.</br> Instantly appear at lightning ball's location, dealing damage equal to 106.4% of ATK plus 605 to nearby targets and produce a lightning pool, then return to the Wanderer's original location. The lightning pool will deal a total DoT equal to 149.5% of ATK plus 850 and continuously draw in nearby targets.</br>Passive: During Lightning Flash, the Wanderer receives hyperbody. After Lightning Flash lands a hit, receive 1 stack of Qinglong's Might. </br> After triggering Lightning Flash, tap and hold normal attack to trigger Thunder Burst.|
 
 </br>
 
 
 | Skill | Description |
 |-------|-------------|
-| **The Moon's Feared Green Clouds** | Azure Dragon flies to the sky, dealing 3,591% damage to targets in the process. Azure Dragon will remain on the field for 8s,consuming the Azure Dragon Power and releasing up to 8 Thunderbolts spread over time.Thunderbolts deal 1,313% damage each. At each interval, a Thunderbolt is fired. If there is no target, no Thunderbolt is fired and no stack is used until a target appears at the next interval.Azure Dragon Power can still be gained while this Skill is consuming the stacks. When the Azure Dragon departs after the 8s, it deals 3,000% damage. This Skill can stock up to 2 uses, and recovers 1 use every 30s. This can be reduced to every 20s with A3. </br>Passive:</br> When 3 Volt weapons are equipped, after Azure Dragon's Skill is used, the target takes 600% damage every 2s for 30s. This damage is attributed as Skill attribute damage.|
+| **Azure Moon** |An azure dragon soars through the sky. During this time, grant hyperbody to the Wanderer and deal damage equal to 1,777.5% of ATK plus 10,102 to nearby targets. The azure dragon will circle for 8 seconds. During this time, continuously consume Qinglong's Might and summon up to 8 lightning strikes. Every lightning strike deals damage equal to 649.9% of ATK plus 3,693 to nearby targets, and when the azure dragon disappears, deal damage again equal to 1,485% of ATK plus 8,439 to nearby targets. Cooldown: 30 seconds and this cooldown cannot be lowered below 20 seconds. Azure Moon can accumulate up to 2 stacks of skill uses.</br>Passive: When 3 volt weapons are equipped, after Azure Moon lands a hit, deal skill damage equal to 250% of ATK to the target every 2 seconds for 30 seconds.|
 
 </br>
 
 | Discharge | Description |
 |-----------|-------------|
-| **Flying Dragon in the Sky** |Deal 3,060% damage to nearby targets with 2.6s of invincibility (no effect in PVP). </br> Passive: When Azure Dragon is the active weapon during Phantasia, or when you switch to Azure Dragon during Phantasia, cause a powerful attack dealing 20,000% damage. This damage is attributed as Skill attribute damage. This is not affected by elemental damage increase/decrease nor final damage increase/decrease multipliers other than Titan unique stat, and can only be triggered once per Phantasia. |
+| **Soaring Dragon** |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and gather chi. Then smash the ground, causing an explosion, dealing damage equal to 1,514.7% of ATK plus 8,608 to nearby targets and suspending them. During the period, gain damage immunity for 1.5 seconds (unavailable in Apex League). </br> Passive: When Phantasia is triggered, if Azure Dragon is currently equipped or if switching to Azure Dragon from another weapon, deal damage equal to 5,000% of ATK to nearby targets. This damage is not affected by any damage boost effects except from titan equipment's rare stats. This can only be triggered up to 1 time per Phantasia trigger. |
 
 
 

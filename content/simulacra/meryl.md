@@ -78,7 +78,7 @@ blockquote {
 
 </br>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Heavy Cleave** | While on the ground, swing a greatsword to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 72.9% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 60.1% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 105.4% of ATK + 6 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 156.3% of ATK + 8, strongly launch the target, then launch them upon landing. |
 | **Aerial Strike** | While airborne or after jumping once, tap normal attack to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 106.5% of ATK + 6. </br> **Second Attack:** Deal damage equal to 87.5% of ATK + 5. </br> **Third Attack:** Deal damage equal to 156% of ATK + 8. </br> **Fourth Attack:** Deal damage equal to 140.5% of ATK + 7 and deliver a knockdown, launch the target upon landing.

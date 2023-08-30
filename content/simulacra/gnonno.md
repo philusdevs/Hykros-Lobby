@@ -93,7 +93,7 @@ blockquote {
 </style>
 
 
-| Attacks  | Description  |
+| Normal Attack | Description  |
 |-------------------|------------------------------------------------------|
 | **Speedy Blow**   | While on the ground, use normal attack to launch 5 consecutive attacks.</br> **First Attack:** Deal damage equal to 60.4% of ATK plus 3 and knock the target back.</br>  **Second Attack:** Deal damage equal to 70.9% of ATK plus 4 and knock the target back. </br> **Third Attack:** Deal damage equal to 58.8% of ATK plus 3 and knock the target back. </br> **Fourth Attack:** Deal damage equal to 160.4% of ATK plus 8 and continuously knocking the target back. </br> **Fifth Attack:** Deal damage equal to 172.9% of ATK plus 9 and launch the target back.</br>                                                                       |
 | **Whirling Blow** | While airborne, use normal attack to launch 5 consecutive attacks in mid-air, consuming endurance.</br>  **First Attack:** Deal damage equal to 72.1% of ATK plus 4. </br> **Second Attack:** Deal damage equal to 60.3% of ATK plus 3. </br>  **Third Attack:** Deal damage equal to 55.4% of ATK plus 3.</br>  **Fourth Attack:** Deal damage equal to 100.7% of ATK plus 5. </br> **Fifth Attack:** Deal damage equal to 134.7% of ATK plus 7. |

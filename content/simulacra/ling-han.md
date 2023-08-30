@@ -75,7 +75,7 @@ blockquote {
 </style>
 
 
-|Attacks | Description|
+| Normal Attack | Description|
 | --- | --- |
 | **Moon Execution** | While on the ground, use your normal attack to land 6 consecutive attacks. </br> **First Attack:** Deals damage equal to 376.2% of ATK. </br> **Second Attack:** Deals damage equal to 497.5% of ATK. </br> **Third Attack:** Deals damage equal to 797.1% of ATK. </br> **Fourth Attack:** Deals damage equal to 480.7% of ATK. </br> **Fifth Attack:** Deals damage equal to 869.5% ATK. </br> **Sixth Attack:** Deals damage equal to 975.4% of ATK. |
 | **Crystal Crack** | Any basic attack with Ling Han's weapon hits the target with 1 stack of Crystal Crack (up to 3 stacks), dealing damage equal to 150% of ATK to the target every second for 15 seconds. The same target can only receive a stack of Crystal Crack more than once every 4 seconds. When the duration expires, only 1 stack of Crystal Rift disappears, rather than all at once. |

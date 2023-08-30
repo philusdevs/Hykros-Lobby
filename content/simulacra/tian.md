@@ -31,7 +31,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 12.50 | C: 8.00
 <h4 style="text-align: center;"> Trait: Volt </h4>
 
 
-When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Targets can't receive any buffs for the next 6 seconds.
+When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
 </br>
 
@@ -81,11 +81,11 @@ blockquote {
 }
 </style>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack Passive** | When wielding Thunderbreaker, every 4 normal attacks will charge the weapon, stacking up to 5 charge points. After charging, any Electromancy dodge skill triggers electrocution with lightning. Lightning damage dealt equals 3% of HP lost (but no lower than 100% of Volt ATK, and no higher than 1,000% of Volt ATK), and triggers Electrified Entity, which deals area volt damage equal to 2% of HP lost (no lower than 40% of Volt ATK, and no higher than 400% of Volt ATK).
-| **Normal: Mizar** | While on the ground, initiate 6 attacks in a row with Thunderbreaker. </br> **First Attack:** Deal damage equal to 90.5% of ATK + 5 and knock the target back. </br> **Second Attack:** Deal damage equal to 67.9% of ATK + 4 and knock the target back. </br> **Third Attack:** Deal damage equal to 123% of ATK + 6 and knock the target back. </br> **Fourth Attack:** Deal damage equal to 217.9% of ATK + 11 and knock the target back. </br> **Fifth Attack:** Deal damage equal to 222% of ATK + 12 and knock the target back. </br> **Sixth Attack** Deal damage equal to 291.8% of ATK + 15 and launch the target.
-| **Aerial: Megrez** | While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air. </br> **First Attack:** Deal damage equal to 87.4% of ATK + 5. </br> **Second Attack:** Deal damage equal to 83% of ATK + 4. </br> **Third Attack:** Deal damage equal to 126.7% of ATK + 7. </br> **Fourth Attack:** Deal damage equal to 229.4% of ATK + 12. </br> **Fifth Attack:** Deal damage equal to 256.5% of ATK + 14.
+| **Mizar** | While on the ground, initiate 6 attacks in a row with Thunderbreaker. </br> **First Attack:** Deal damage equal to 90.5% of ATK + 5 and knock the target back. </br> **Second Attack:** Deal damage equal to 67.9% of ATK + 4 and knock the target back. </br> **Third Attack:** Deal damage equal to 123% of ATK + 6 and knock the target back. </br> **Fourth Attack:** Deal damage equal to 217.9% of ATK + 11 and knock the target back. </br> **Fifth Attack:** Deal damage equal to 222% of ATK + 12 and knock the target back. </br> **Sixth Attack** Deal damage equal to 291.8% of ATK + 15 and launch the target.
+| **Megrez** | While airborne or after jumping once, use normal attack to attack 5 times in a row in mid-air. </br> **First Attack:** Deal damage equal to 87.4% of ATK + 5. </br> **Second Attack:** Deal damage equal to 83% of ATK + 4. </br> **Third Attack:** Deal damage equal to 126.7% of ATK + 7. </br> **Fourth Attack:** Deal damage equal to 229.4% of ATK + 12. </br> **Fifth Attack:** Deal damage equal to 256.5% of ATK + 14.
 | **Phecda** | While on the ground, tap and hold normal attack to trigger. Deal damage up to 342% of ATK + 18 to the target and gather enemies around you.
 | **Merak** | Tap and hold normal attack while airborne, or use normal attack while climbing, jumping backward, or using the Jetpack to trigger.<br>While falling, deal damage equal to 38% of ATK + 2 each hit.
 

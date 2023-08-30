@@ -73,7 +73,7 @@ blockquote {
 </br>
 
 
-| Attacks          | Description                                                                                                                     |
+| Normal Attack |Description                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Rapid Throw** | While on the ground, brandish the chakram to unleash 5 spinning attacks. **First Attack:** Deal damage equal to 35.3% of ATK + 2. **Second Attack:** Deal damage equal to 27.4% of ATK + 1. **Third Attack:** Deal damage equal to 39.1% of ATK + 2. **Fourth Attack:** Deal damage equal to 35.3% of ATK + 2. **Fifth Attack:** Deal damage equal to 61.9% of ATK + 3 and knock the target back a short distance. |
 | **Aerial Discharge**| While airborne or after jumping once, tap normal attack to unleash 3 spinning attacks in a row. **First Attack:** Deal damage equal to 30.1% of ATK + 1. **Second Attack:** Deal damage equal to 33.6% of ATK + 2. **Third Attack:** Deal damage equal to 42.8% of ATK + 2. |

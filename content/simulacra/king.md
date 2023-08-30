@@ -73,7 +73,7 @@ blockquote {
 
 </br>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the scythe to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 57.1% of ATK + 3 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 49.1% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 106.8% of ATK + 6 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 109.5% of ATK + 6 and knock the target back a short distance. </br> **Fifth Attack:** Deal damage equal to 104.2% of ATK + 5, strongly suspend the target, and cause the Wanderer to go airborne. |
 | **Rising Scythe** | While airborne or after jumping once, attack 5 times in a row. </br> **First Attack:** Deal damage equal to 63.4% of ATK + 3. </br> **Second Attack:** Deal damage equal to 68.8% of ATK + 4. </br> **Third Attack:** Deal damage equal to 190.5% of ATK + 10. </br> **Fourth Attack:** Deal damage equal to 213.6% of ATK + 11. </br> **Fifth Attack:** Deal damage equal to 173.9% of ATK + 9 and knock the target down. The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage. |

@@ -72,7 +72,7 @@ blockquote {
 
 </br>
 
-| Normal Attacks          | Description                                                                                                                     |
+| Normal Attack |Description                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Normal Attack** | On the ground, use normal attack button to launch 5 attacks in a row. **First Attack:** Deal damage equal to 52.3% of ATK + 3. **Second Attack:** Deal damage equal to 75.6% of ATK + 4. **Third Attack:** Deal damage equal to 94.5% of ATK + 5. **Fourth Attack:** Deal damage equal to 142.8% of ATK + 8. **Fifth Attack:** Deal damage equal to 137.8% of ATK + 7. |
 | **Charged Shot** | Tap and hold normal attack to charge a shot and release to fire rounds, dealing 95.4% of ATK + 5 damage, plus an explosion 3 seconds later (or if the target dies), dealing 23.9% of ATK as damage to nearby enemies. Each time the target is dealt damage before the explosion (up to 4 times), AoE is doubled and damage is increased. |

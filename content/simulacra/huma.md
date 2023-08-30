@@ -71,7 +71,7 @@ blockquote {
 }
 </style>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the shield axe to attack 4 times in a row. </br> **First Attack in Shield Form:** Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 56.9% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 62.8% of ATK + 3 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 184% of ATK + 10 and launch the target into the air. </br> **First Attack in Axe Form:** Deal damage equal to 135.2% of ATK + 7 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 79.4% of ATK + 4 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 119.9% of ATK + 6 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 221.3% of ATK + 12 and knock the target back.
 | **Aerial Strike** | While airborne or after jumping once, attack 3 times in a row. </br> **First Attack in Shield Form:** Deal damage equal to 75.9% of ATK + 4. </br> **Second Attack:** Deal damage equal to 80.2% of ATK + 4. </br> **Third Attack:** Deal damage equal to 103% of ATK + 5. </br> **First Attack in Axe Form:** Deal damage equal to 118.6% of ATK + 6. </br> **Second Attack:** Deal damage equal to 91.1% of ATK + 5. </br> **Third Attack:** Deal damage equal to 227.% of ATK + 15.

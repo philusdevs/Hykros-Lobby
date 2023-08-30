@@ -67,7 +67,7 @@ blockquote {
 }
 </style>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Quickdraw** | While on the ground, draw the bow repeatedly to attack 5 times. </br> **First Attack:** Deal damage equal to 33.7% of ATK + 2. </br> **Second Attack:** Deal damage equal to 30.2% of ATK + 2. </br> **Third Attack:** Deal damage equal to 54.3% of ATK + 3. </br> **Fourth Attack:** Deal damage equal to 83.5% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance.
 | **Charged Arrow** | Tap and hold normal attack to charge. Deal basic damage equal to 60.5% of ATK + 3, and 50% more for each 1 second spent charging, up to 3 seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers).

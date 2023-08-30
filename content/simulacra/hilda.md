@@ -66,7 +66,7 @@ blockquote {
 </style>
 
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to 40 rounds. Each shot deals damage equal to 11.4% of ATK + 1. Deal double damage when scoring a headshot or hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers). |
 

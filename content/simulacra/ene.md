@@ -66,7 +66,7 @@ blockquote {
 </style>
 
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the maul to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 76.3% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 62.1% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 157.4% of ATK + 8 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 263.8% of ATK + 14 and launch the target. </br> * While Outburst is active, swing the maul to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 75.5% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 65% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 171.3% of ATK + 9 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 315.3% of ATK + 17 and strongly suspend the target.
 | **Pummel** | While airborne or after jumping once, tap normal attack to trigger Pummel. Deal damage equal to 121.7% of ATK + 6 and suspend the target. While Outburst is active, deal damage equal to 133.9% of ATK + 7 and strongly suspend the target. The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.

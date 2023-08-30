@@ -65,7 +65,7 @@ blockquote {
 }
 </style>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the staff to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 25.1% of ATK + 1. </br> **Second Attack:** Deal damage equal to 18.8% of ATK + 1. </br> **Third Attack:** Deal damage equal to 30.4% of ATK + 2. </br> **Fourth Attack:** Deal damage equal to 41.4% of ATK + 2. </br> **Fifth Attack:** Deal damage equal to 73.2% of ATK + 4.
 | **Soaring Barrage** | While airborne or after jumping once, tap normal attack to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 32.5% of ATK + 2. </br> **Second Attack:** Deal damage equal to 23.5% of ATK + 1. </br> **Third Attack:** Deal damage equal to 25.5% of ATK + 1. </br> **Fourth Attack:** Deal damage equal to 45.6% of ATK + 2. </br> **Fifth Attack:** Deal damage equal to 47.7% of ATK + 3.

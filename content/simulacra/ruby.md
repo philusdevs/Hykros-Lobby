@@ -76,10 +76,10 @@ blockquote {
 }
 </style>
 
-| Attacks | Description |
+| Normal Attack | Description |
 | --- | --- |
-| **Normal: Spark Attack** | On the ground, tap the normal attack button to command Spark to attack 5 times in a row. </br> **First Attack:** Deal total damage equal to 84.6% of ATK + 4 against each target. </br> **Second Attack:** Deal total damage equal to 94% of ATK + 5 against each target. </br> **Third Attack:** Deal total damage equal to 101.5% of ATK + 5 against each target. </br> **Fourth Attack:** Deal total damage equal to 109.9% of ATK + 6 against each target. </br> **Fifth Attack:** Deal total damage equal to 253.7% of ATK + 13 against each target and launch targets.
-| **Aerial: Aerial Discharge** | While airborne, tap normal attack to command Spark to attack 4 times in a row. </br> **First Attack:** Deal total damage equal to 97.1% of ATK + 5 against each target. </br> **Second Attack:** Deal total damage equal to 106.8% of ATK + 6 against each target. </br> **Third Attack:** Deal total damage equal to 121.3% of ATK + 6 against each target. </br> **Fourth Attack:** Deal total damage equal to 145.6% of ATK + 8 against each target.
+| **Spark Attack** | On the ground, tap the normal attack button to command Spark to attack 5 times in a row. </br> **First Attack:** Deal total damage equal to 84.6% of ATK + 4 against each target. </br> **Second Attack:** Deal total damage equal to 94% of ATK + 5 against each target. </br> **Third Attack:** Deal total damage equal to 101.5% of ATK + 5 against each target. </br> **Fourth Attack:** Deal total damage equal to 109.9% of ATK + 6 against each target. </br> **Fifth Attack:** Deal total damage equal to 253.7% of ATK + 13 against each target and launch targets.
+| **Aerial Discharge** | While airborne, tap normal attack to command Spark to attack 4 times in a row. </br> **First Attack:** Deal total damage equal to 97.1% of ATK + 5 against each target. </br> **Second Attack:** Deal total damage equal to 106.8% of ATK + 6 against each target. </br> **Third Attack:** Deal total damage equal to 121.3% of ATK + 6 against each target. </br> **Fourth Attack:** Deal total damage equal to 145.6% of ATK + 8 against each target.
 | **Gotcha!** | Tap and hold the normal attack button or do this after Lockdown Zone is triggered to continuously fire searing energy beams at enemies in a target direction, dealing damage equal to 40% of ATK +2.
 | **Blazing Dive** | Tap and hold normal attack while airborne to trigger Blazing Dive.
 | **Lockdown Zone** | After the second normal attack, hold the button during any attack.
