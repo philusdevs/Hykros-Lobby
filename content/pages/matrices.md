@@ -4,7 +4,6 @@ template: "matrice-template"
 matrice:
   - name: Ling Han
     icon: '/media/Ling_Han_m.png'
-  - name: Huang
   - name: Fei Se
     icon: '/media/Fei_Se_m.png'
   - name: Huang
