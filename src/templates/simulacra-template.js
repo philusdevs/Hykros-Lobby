@@ -7,7 +7,6 @@ import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 const SimulacraTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
   const simulacraList = frontmatter.simulacra || [];
-  
 
   return (
     <Layout title={frontmatter.title}>
@@ -19,6 +18,7 @@ const SimulacraTemplate = ({ data }) => {
             const bottomLeftOverlayImage = getImage(simulacrum.bottomLeftOverlay);
             const bottomRightOverlayImage = getImage(simulacrum.bottomRightOverlay);
             const bottomRightOverlayImage2 = getImage(simulacrum.bottomRightOverlay2);
+            const bottomRightOverlayImage3 = getImage(simulacrum.bottomRightOverlay3); // New optional field
 
             let gradientColors;
             switch (simulacrum.gradientColor) {
@@ -34,7 +34,7 @@ const SimulacraTemplate = ({ data }) => {
               case 'Physical':
                 gradientColors = 'linear-gradient(#7A6449, #D3B88F)';
                 break;
-                case 'Physical&Flame':
+              case 'Physical&Flame':
                 gradientColors = 'linear-gradient(#B59C78, #AD9A6E)';
                 break;
               case 'Altered':
@@ -65,6 +65,11 @@ const SimulacraTemplate = ({ data }) => {
                         <BottomRightOverlayContainer2>
                           <BottomRightOverlay2 image={bottomRightOverlayImage2} alt="Bottom Right Overlay 2" />
                         </BottomRightOverlayContainer2>
+                      )}
+                      {simulacrum.bottomRightOverlay3 && (
+                        <BottomRightOverlayContainer3>
+                          <BottomRightOverlay2 image={bottomRightOverlayImage3} alt="Bottom Right Overlay 3" />
+                        </BottomRightOverlayContainer3>
                       )}
                     </SimulacraIconWrapper>
                   </Link>
@@ -206,6 +211,15 @@ const BottomRightOverlayContainer2 = styled.div`
   padding-right: 33px;
 `;
 
+const BottomRightOverlayContainer3 = styled.div`
+position: absolute;
+top: 1px;
+bottom: 0;
+right: 0;
+z-index: 1;
+padding: 3px;
+`;
+
 const BottomLeftOverlay = styled(GatsbyImage)`
   width: 40px;
   height: 20px;
@@ -219,6 +233,11 @@ const BottomRightOverlay = styled(GatsbyImage)`
 const BottomRightOverlay2 = styled(GatsbyImage)`
   width: 30px;
   height: 25px;
+`;
+
+const BottomRightOverlay3 = styled(GatsbyImage)`
+width: 40px;
+height: 20px;
 `;
 
 const SimulacraCopy = styled.div`
@@ -258,6 +277,11 @@ export const pageQuery = graphql`
             }
           }
           bottomRightOverlay2 {
+            childImageSharp {
+              gatsbyImageData(placeholder: BLURRED, formats: PNG)
+            }
+          }
+          bottomRightOverlay3 {
             childImageSharp {
               gatsbyImageData(placeholder: BLURRED, formats: PNG)
             }

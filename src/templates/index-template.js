@@ -8,6 +8,7 @@ import PostList from '../components/post-list';
 import StyledLink from '../components/styled-link';
 import styled from 'styled-components';
 
+
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [isDarkMode, setIsDarkMode] = useState(false);
