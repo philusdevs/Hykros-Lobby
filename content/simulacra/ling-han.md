@@ -111,5 +111,3 @@ blockquote {
 | Discharge | Description |
 | --- | --- |
 | **Frosty Roar** | Switch to this weapon when fully charged or when Phantasia is activated. When the weapon is fully charged or when Phantasia is activated, switching to this weapon removes all debuffs from the Wanderer and summons Yuanwu, dealing area damage equal to 2111.8% of ATK to nearby targets. Bai-Hu is then summoned, dealing damage equal to 4,927.4% of ATK to nearby targets. While the skill is active, it grants damage immunity for 2.6 seconds. (not available in Apex League).
-
-
