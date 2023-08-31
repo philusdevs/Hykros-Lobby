@@ -29,10 +29,10 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 
 </br>
 
-<h4 style="text-align: center;"> Trait: FrostShell </h4>
+<h4 style="text-align: center;"> Trait: Frost Shell </h4>
 
 
-When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the frostshell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
+When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the frost shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
 </br>
 
@@ -53,6 +53,11 @@ When the weapon is fully charged, the next attack will freeze targets for 2 
 6 ★ The radius of damage from Frosty Roar inflicted by the impact of Icy Blades is increased. Frosty Roar additionally deals damage equal to 4,500% of ATK to nearby targets.
 
 <h4 style="text-align: center;"> Matrix </h4>
+
+<p align="center">
+    <img src="https://telegra.ph/file/f5050323358ef1a1ea6c5.png" alt="Centered Image">
+</p>
+
 
 >  **2-piece:** Increases all elemental damage by 9%/12%/15%/18%. When launching FrostBlades, deal an additional 1600% * attack damage to nearby targets. Becomes effective in the background after equipping, and only the highest star level among multiple sets becomes effective.
 
