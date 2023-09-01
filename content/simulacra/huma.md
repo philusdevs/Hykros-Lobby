@@ -8,7 +8,10 @@ description: Huma, featured as an obtainable SR Simulacrum within the simulacrum
 
 ![](https://i.postimg.cc/zXz0pFqp/Simulacrum-Huma-Awaken.webp)
 
-</br>
+### Awaken: Iron Screen
+> Each time Huma receives damage, gain 1 Fortitude mark and gain 1 more Fortitude mark if it is flame damage, up to 1 time per 1 second and 12 stacks in total. Upon using a weapon skill, use all Fortitude marks and gain an HP shield equal to the number of marks x 0.6% HP for 12 seconds If Fortitude marks are used when the effect is stacked up to the maximum, then gain an HP shield equal to the number of marks x 0.9% HP.
+
+</br> 
 
 <center>
 Molten Shield V2
