@@ -41,6 +41,6 @@ Build 2 is mainly for attempting to get high rankings on the leaderboard, and is
 
 ### Video:
 
-A video showing this raid has not been posted to YouTube yet, however when it
+A video showing this raid has not been posted to YouTube yet, however when it is available it will be added here along with some images of the mechanics.
 
-Thanks to cygnus3701 from Gateoo's discord for some the information in this guide!
+*Thanks to cygnus3701 from Gateoo's discord for some the information in this guide!*
