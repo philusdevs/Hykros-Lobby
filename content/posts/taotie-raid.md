@@ -1,6 +1,10 @@
 ---
 title: Taotie Raid
 date: 2023-09-02 20:16
+tags:
+  - Raid
+  - Guide
+social_image: /media/logo.png
 description: Taotie Raid, AKA the "Gluttonous Feast" Raid, is a Limited-Time
   mechanics-based raid launching in 3.2 on the 5th of September, akin to the
   Zhuyan/Black Jade Warrior raid. This guide goes over the mechanics, and the
