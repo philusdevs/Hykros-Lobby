@@ -12,6 +12,8 @@ description: Taotie Raid, AKA the "Gluttonous Feast" Raid, is a Limited-Time
 ---
 Researcher: SmolAlli
 
+![Taotie Boss](/media/taotie.png)
+
 As it were in the Zhuyan raid, there is a Limited-Time, mechanics-based raid for the newest world boss in 3.2, Taotie. Here are the mechanics (at least the important ones), and the recommended teams.
 
 ### Mechanics:
@@ -40,7 +42,5 @@ Build 2 is mainly for attempting to get high rankings on the leaderboard, and is
 ### Video:
 
 A video showing this raid has not been posted to YouTube yet, however when it
-
-
 
 Thanks to cygnus3701 from Gateoo's discord for some the information in this guide!
