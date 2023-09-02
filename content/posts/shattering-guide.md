@@ -22,7 +22,7 @@ The main shatterer is Shiro. Her skill has the highest shatter within all of the
 
 ![Lineup 1: Shiro, Ene, Saki Fuwa](https://media.discordapp.net/attachments/1143886813593882664/1143888090897862686/image.png)
 
-### Lineup 2:
+#### Lineup 2:
 
 ![Lineup 2: Shiro, Ene, Huma](https://media.discordapp.net/attachments/1143886813593882664/1143888404069757038/image.png)
 
@@ -38,7 +38,7 @@ Matrices are also something to consider, and the reason for this is that there e
 
 ![Lineup 1: 2pc Shiro and 2pc Scylla](https://media.discordapp.net/attachments/1143886813593882664/1143889333665931284/image.png)
 
-Lineup 2:
+#### Lineup 2:
 
 ![Lineup 2: 3pc Wind Blade (with 4th slot filled by high star SSR matrice)](https://media.discordapp.net/attachments/1143886813593882664/1143888911295336478/image.png)
 
@@ -48,18 +48,12 @@ Lineup 1 is achievable using the Mirroria Gachapon machines, Adventurer's Log, S
 * [Scylla](https://hykroslobby.com/matrices/scylla) [](https://hykroslobby.com/matrices/wind-blade)
 * [Wind Blade](https://hykroslobby.com/matrices/wind-blade) 
 
-
-
 ### Relics:
 
 The main focus is using Hologram Projector, so that you can majorly increase your shatter by having a clone also use Shiro's skill. However, unless you use Zero's trait and use skills in between shields to lower the cooldown of the relic, you will most likely only have it be usable every second shield (assuming ~2 minutes between shield, like Zhuyan's in the limited raid). That can also vary even more if you don't have the 2* advancement of the relic, so that the cooldown is lowered to 120s.
 
-
-
 ### Saki Resets:
 
 The way to effectively make use of Saki's resets is to set it up so that you have 4 stacks on the buff bar of her reset counter, and then after using Hologram projector you use Saki's skill twice in a row. 
-
-
 
 That's all I have to say for this. Happy shattering!
