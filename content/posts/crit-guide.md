@@ -7,9 +7,11 @@ tags:
 social_image: /media/logo.png
 description: A guide for what crit is, and the ways to get it.
 ---
+Researcher: SmolAlli
+
 Crit is an important stat for players within Tower of Fantasy, and getting it should be a mid-game and end-game goal.
 
-What is crit?
+### What is crit?
 
 Crit, short for critical, is a stat that is used in calculating how often you will do an extra amount of damage in a hit. The damage that has crit is denoted with a * symbol next to the damage number, as shown below.
 
@@ -27,7 +29,7 @@ If this comes out to 1.0 or above, it means you are guaranteed to crit an enemy 
 
 Unfortunately, there is not an indicator for mobs above level 80 right now. Using the crit rate calculation on a mob above level 80 will lead to results higher than they should be.
 
-How to get crit:
+### How to get crit:
 
 Crit is mainly gotten through weapon stats (when they do not have resistance stat), matrices stats (Mind pieces), and the main way is through the Gloves and Boots pieces.
 
