@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
 import styled from "styled-components";
@@ -6,8 +6,12 @@ import Tags from "../components/tags";
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
-
-
+  
+  useEffect(() => {
+    let content = document.querySelector("main article > section");
+    content.innerHTML = content.innerHTML.replace(/(\d+(\,\d+)?(\.\d+)?%?)(-piece:)?(?![^<]*>)(?!(2-))/g, '<span style="color:#0685CF">$&</span>');
+  }, []);
+  
   return (
     <Layout
       title={frontmatter.title}

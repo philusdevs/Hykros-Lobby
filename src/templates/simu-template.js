@@ -24,7 +24,7 @@ const PostTemplate = ({ data }) => {
 
 useEffect(() => {
   let content = document.querySelector("main article > section");
-  content.innerHTML = content.innerHTML.replace(/(\d+(\,\d+)?(\.\d+)?%?)(?![^<]*>)(?!(2-))/g, '<span style="color:#0685CF">$&</span>');
+  content.innerHTML = content.innerHTML.replace(/(?<!1★|3★|5★|6★)(\d+(\,\d+)?(\.\d+)?%?)(-piece:)?(?![^<]*>)/g, '<span style="color:#0685CF">$&</span>');
 }, []);
 
 
