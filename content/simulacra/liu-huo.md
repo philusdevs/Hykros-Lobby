@@ -69,18 +69,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 > **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 11% / 14% / 17% / 20%. After using In All Directions, increase all elemental damage boost by an additional 7% and gradually reduce to 4%over 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 </br>

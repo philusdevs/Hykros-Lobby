@@ -69,18 +69,7 @@ The endurance consumption of the held normal movement is decreased by 75%. This 
 > **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 28% / 32% / 36% / 40%. When generating a Colorful Illusion, increase final damage by an additional 20% for 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 

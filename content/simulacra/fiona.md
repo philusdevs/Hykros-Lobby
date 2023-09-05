@@ -83,18 +83,7 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Normal Attack |Description                                                                                                                                                                                                                                                        |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

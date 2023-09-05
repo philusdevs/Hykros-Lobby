@@ -68,18 +68,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Normal Attack | Description |
 | --- | --- |

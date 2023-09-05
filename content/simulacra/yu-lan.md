@@ -73,18 +73,7 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 |   Attacks        | Description                                                  |

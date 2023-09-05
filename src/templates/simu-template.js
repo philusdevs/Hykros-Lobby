@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
 import styled from "styled-components";
@@ -6,6 +6,32 @@ import Tags from "../components/tags";
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
+
+  const customStyles = `
+  <style>
+    table {
+        border-collapse: collapse;
+    }
+    table, th, td {
+       border: 1.5px solid black;
+    }
+    blockquote {
+        border-left: solid blue;
+        padding-left: 10px;
+    }
+  </style>
+`;
+
+useEffect(() => {
+  let content = document.querySelector("main article > section");
+  content.innerHTML = content.innerHTML.replace(/(\d+(\,\d+)?(\.\d+)?%?)(?![^<]*>)(?!(2-))/g, '<span style="color:#0685CF">$&</span>');
+}, []);
+
+
+  useEffect(() => {
+    let content = document.querySelector("main article > section");
+    content.innerHTML = customStyles + content.innerHTML;
+}, []);
 
 
   return (

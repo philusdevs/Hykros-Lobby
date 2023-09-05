@@ -85,18 +85,7 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 </br>

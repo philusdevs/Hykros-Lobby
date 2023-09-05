@@ -42,18 +42,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 6★ Sharp Arrow stacks up to 5 times. Hitting a target with a Charged Arrow immediately grants 3 stacks. Headshots grant 5 stacks.
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

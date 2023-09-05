@@ -44,18 +44,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 6★ When frostiness reaches15 points and you are in the Frost Domain, you will get an additional "Domain of Frost II" that increases frost ATK by 25% when frost weapons are used.
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

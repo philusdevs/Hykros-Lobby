@@ -58,18 +58,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 > **4-piece:** When there are 2 enemies around, hit restore HP equal to 14% / 18% / 22% / 26% of damage dealt upon attacking. The maximum HP restored every 0.5 seconds must not exceed 36% / 42% / 48% / 54% of ATK.
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

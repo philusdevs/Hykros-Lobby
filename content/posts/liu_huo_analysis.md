@@ -55,18 +55,7 @@ So, Liu Huo is a great buffer and has a lot of passive damage. That's all, right
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Combo | MV%/s | Notes |
 | --- | --- | --- |

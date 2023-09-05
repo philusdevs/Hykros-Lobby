@@ -30,18 +30,7 @@ Flat Attack rolls may be worth more than Attack%, depending on your base attack 
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Flat Attack Value | Threshold for how much Attack you need before Attack% is better |
 | --- | --- |

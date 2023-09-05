@@ -47,18 +47,7 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 6★ Whenever a healing bee is summoned or disappears from battle, heal all allies for 100% of the user's ATK. All allies within 10 meters of the healing bee also gain 15% all damage and healing boost (cannot stack).
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

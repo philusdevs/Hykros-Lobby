@@ -79,18 +79,7 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 | Normal Attack | Description  |

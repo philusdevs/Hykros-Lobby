@@ -7,8 +7,6 @@ description: Huang, featured as an obtainable SSR Simulacrum within the simulacr
 ---
 
 
->Upcoming simulacrum 
-
 ![](https://i.postimg.cc/QtqcWvKD/Simulacrum-Mimi-Awaken.png)
 
 ### Awaken: Jade Luster
@@ -24,6 +22,9 @@ description: Huang, featured as an obtainable SSR Simulacrum within the simulacr
 <center>
 Attack: 14 | HP: 1010 | Resistance: 5 | S: 14.00 | C: 15.00
 </center>
+
+
+
 
 </br>
 
@@ -52,7 +53,7 @@ Increase Thunder Burst's charged attack and shockwave damage by 30%. After using
 
 5★ When the Wanderer receives lethal damage, prevent lethal damage 1 time and gain damage immunity for a short duration. This effect can only trigger 1 time every 60 seconds and works in the off-hand slot. </br> After activating Fortitude Resonance: Using Soaring Dragon draws in nearby targets, ignoring hyperbody (ineffective against bosses). In team play, Thunder Burst will produce 1 volt timestamp every 6 seconds while charging, which will link up in the order they are produced to form a power grid. The power grid can block enemies' movements and their projectile damage. Each volt timestamp lasts for up to 20 seconds.	
 
-6★ After using Azure Moon, increase the Wanderer's volt damage by 10% and final damage by 10% for 30					
+6★ After using Azure Moon, increase the Wanderer's volt damage by 10% and final damage by 10% for 30 seconds.					
 
 </br>
 
@@ -68,25 +69,14 @@ Increase Thunder Burst's charged attack and shockwave damage by 30%. After using
 
 </br>
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Normal Attack | Description |
 | --- | --- |
-| **Pearls and Jade** | While on the ground, use normal attack to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 91.1% of ATK. </br> **Second Attack:** Deal damage equal to 137.6% of ATK. </br> **Third Attack:** Deal damage equal to 400% of ATK. </br> **Fourth Attack:** Deal damage equal to 331.7% of ATK. </br> **Fifth Attack:** Deal damage equal to 165.3% of ATK.
-| **Seeing Sights** | While airborne, use normal attack to launch 5 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 92.6% of ATK. </br> **Second Attack:** Deal damage equal to 150.5% of ATK. </br> **Third Attack:** Deal damage equal to 413.3% of ATK. </br> **Fourth Attack:** Deal damage equal to 284.6% of ATK. </br> **Fifth Attack:** Deal damage equal to 184.6% of ATK.
+| **Pearls and Jade** | While on the ground, use normal attack to launch 5 consecutive attacks. </br> **First Attack:** Deal damage equal to 91.1% of ATK + 5. </br> **Second Attack:** Deal damage equal to 137.6% of ATK + 7. </br> **Third Attack:** Deal damage equal to 400% of ATK + 21. </br> **Fourth Attack:** Deal damage equal to 331.7% of ATK + 17. </br> **Fifth Attack:** Deal damage equal to 165.3% of ATK + 9.
+| **Seeing Sights** | While airborne, use normal attack to launch 5 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 92.6% of ATK + 5. </br> **Second Attack:** Deal damage equal to 150.5% of ATK + 8. </br> **Third Attack:** Deal damage equal to 413.3% of ATK + 22. </br> **Fourth Attack:** Deal damage equal to 284.6% of ATK + 15. </br> **Fifth Attack:** Deal damage equal to 184.6% of ATK + 10.
 | **Azure Dragon Pierces the Sun** | While on the ground, tap and hold normal attack when using the first to fourth normal attacks to trigger Azure Dragon Pierces the Sun and consume endurance.</br> Launch an attack ahead, dealing damage equal to 329.7% of ATK plus 1,874 to nearby targets and suspending them. </br> After triggering Azure Dragon Pierces the Sun, tap and hold normal attack to trigger Thunder Burst.
-| **Thunder Burst** | While on the ground, tap and hold normal attack to trigger Thunder Burst. Continuously fire lightning at the targets ahead, consuming endurance, during which the Wanderer gains hyperbody. Every attack that lands deals damage equal to 53.5% of ATK plus 304 to nearby targets. At the same time, summon 1 Azura every 1.5 seconds that fire shockwaves, dealing damage equal to 99% of ATK plus 563 to nearby targets. </br> The Wanderer gains a 10% HP shield every 1.5 seconds, up to 30%, for 15 seconds. </br> After activating Fortitude Resonance: Whenever Thunder Burst or shockwave lands a hit, nearby targets are taunted for 2 seconds. Every time Thunder Burst produces a shield, nearby teammates will additionally receive a shield up to 10% of the Wanderer's Max HP. |		
+| **Thunder Burst** | While on the ground, tap and hold normal attack to trigger Thunder Burst. Continuously fire lightning at the targets ahead, consuming endurance, during which the Wanderer gains hyperbody. Every attack that lands deals damage equal to 53.5% of ATK plus 304 to nearby targets. At the same time, summon 1 Azura every 1.5 seconds that fire shockwaves, dealing damage equal to 99% of ATK plus 563 to nearby targets. </br> The Wanderer gains a 10% HP shield every 1.5 seconds, up to 15%, for 15 seconds. </br> After activating Fortitude Resonance: Whenever Thunder Burst or shockwave lands a hit, nearby targets are taunted for 2 seconds. Every time Thunder Burst produces a shield, nearby teammates will additionally receive a shield up to 10% of the Wanderer's Max HP. |		
 | **Roving Dragon** | While airborne, tap and hold normal attack when executing the first to fourth normal attacks to trigger Dragon Tour, consuming endurance.<br>Launch an attack forward, dealing damage equal to 666% of ATK +35 to nearby targets, suspending them.
 | **Qinglong's Might** |Every 3 normal attacks landed while using Azure Dragon grants 1 stack of Qinglong's Might, stacking up to 8 times, for 30 seconds.</br> After activating Fortitude Resonance: Each stack of Qinglong's Might reduces the Wanderer's damage taken by 1.5%.						
 

@@ -33,18 +33,7 @@ Zeke's trait buffs final damage, and also raises Physical Attack to the highest 
 
 As for Zeke's combos, the only relevant combo in his kit is his basic attack chain for DPS, or dodging for additional healing (which comes from another part of his kit).
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Combo | MV%/second (incl. snakebite) WITH TRAIT | Notes |
 | --- | --- | --- |

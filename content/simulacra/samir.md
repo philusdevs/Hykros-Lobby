@@ -29,18 +29,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 10.70
 
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 <h4 style="text-align: center;"> Advancements </h4>

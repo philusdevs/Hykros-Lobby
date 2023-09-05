@@ -40,18 +40,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 6★ After using a skill, increase volt damage dealt to the target by 20% for 20 seconds.
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

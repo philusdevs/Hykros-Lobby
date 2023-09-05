@@ -20,18 +20,7 @@ It is ideal to bring shatter weapons and two main tanks. Benediction and Fiona a
 Zhuyan possesses a protective shield that diminishes incoming damage. If this shield is successfully destroyed, it becomes briefly stunned. Zhuyan's shield will dissolve and grant a new ability if its Maximum gauge is full.
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 The following are Zhuyan's movesets:

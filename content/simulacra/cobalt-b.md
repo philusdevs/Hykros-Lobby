@@ -43,18 +43,7 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 6★ Barrage has a 15-second burning effect. Successful attacks with any weapon's dodge skills reduce the cooldown of Barrage by 4 seconds. This cooldown of the effect: 1.5 seconds. The DoT burn from the dodge skill also triggers a cooldown reduction effect.
 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

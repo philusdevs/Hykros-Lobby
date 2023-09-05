@@ -71,18 +71,7 @@ Her A5 causes Feedback to restore the HP of Crystamax thorns by **50%**. This i
 
 Finally, her A6 causes her discharge to grant an extra **12%** Volt damage buff when casting. This adds a good amount of bonus value to both comps.
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 
 | Rubilia Advancement | Gain from A0 in Fiona Volt | Gain from A0 in Triple Volt |

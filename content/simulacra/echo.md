@@ -54,18 +54,7 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 
 > **3-piece:** Using a discharge skill to switch to the current weapon grants 80 / 100 / 120 weapon charge.
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 

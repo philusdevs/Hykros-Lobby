@@ -25,18 +25,7 @@ When roaming the world solo, we recommended remain on DPS to deal as much damage
 
 Within these roles you also benefit from elemental resonance when you are equipped with two of the same elemental weapon.
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 | Elemental Symbol                                 | Element     |
 |----------------------------------------|----------|

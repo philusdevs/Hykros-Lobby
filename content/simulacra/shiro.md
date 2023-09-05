@@ -42,18 +42,7 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 6★ After using Full Bloom, grants a 100% crit chance for the next 8 seconds.
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1.5px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
+
 
 </br>
 
