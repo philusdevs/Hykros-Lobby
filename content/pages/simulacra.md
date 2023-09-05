@@ -22,7 +22,7 @@ simulacra:
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/fortitude.png
-    bottomRightOverlay3: /media/BETA.png
+    bottomRightOverlay3: null
   - name: Ming Jing 
     icon: /media/ming_jing.png
     gradientColor: Physical&Flame
