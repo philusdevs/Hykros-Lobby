@@ -22,6 +22,8 @@ The main shatterer is Shiro. Her skill has the highest shatter within all of the
 
 ![Lineup 1: Shiro, Ene, Saki Fuwa](https://media.discordapp.net/attachments/1143886813593882664/1143888090897862686/image.png)
 
+*Minimum stars: 1\* Saki, Any Ene, Any Shiro (3\* recommended)*
+
 #### Lineup 2:
 
 ![Lineup 2: Shiro, Ene, Huma](https://media.discordapp.net/attachments/1143886813593882664/1143888404069757038/image.png)
@@ -29,6 +31,16 @@ The main shatterer is Shiro. Her skill has the highest shatter within all of the
 Both of these lineups are possible to obtain within the current Standard weapons pool, as Saki Fuwa was just recently added in 3.1. 
 
 The reason for using Saki Fuwa is for her 1\* skill resets, which will be explained shortly. The use of Ene is to trigger both Frost and Fortitude resonance. Use Huma instead of Saki Fuwa if you do not possess her 1\*.
+
+*Minimum stars: Any Huma, Any Ene, Any Shiro (3* recommended)*
+
+#### Additional option - Gnonno:
+
+![](/media/gnonno-comp.png)
+
+Although not completely recommended, you are able to use Gnonno for shattering as her tentacles do a lot of shatter damage. You would want to do your discharge into her right on shield, trigger hologram projector, tap skill to trigger the quick tentacles, then do attack hold until in "Boiling Octopus Balls", where the combination of tentacles and her hold attack will give a lot of shatter.
+
+*Minimum stars: 1\* Gnonno, 1\* Lan, Any Tank Weapon*
 
 ### Recommended Matrices Lineup:
 
@@ -50,10 +62,12 @@ Lineup 1 is achievable using the Mirroria Gachapon machines, Adventurer's Log, S
 
 ### Relics:
 
-The main focus is using Hologram Projector, so that you can majorly increase your shatter by having a clone also use Shiro's skill. However, unless you use Zero's trait and use skills in between shields to lower the cooldown of the relic, you will most likely only have it be usable every second shield (assuming ~2 minutes between shield, like Zhuyan's in the limited raid). That can also vary even more if you don't have the 2* advancement of the relic, so that the cooldown is lowered to 120s.
+The main focus is using Hologram Projector, so that you can majorly increase your shatter by having a clone also use Shiro's skill. However, unless you use Zero's trait and use skills in between shields to lower the cooldown of the relic, you will most likely only have it be usable every second shield (assuming ~2 minutes between shield, like Zhuyan's in the limited raid). That can also vary even more if you don't have the 2* advancement of the relic, where the cooldown is lowered to 120s.
 
 ### Saki Resets:
 
-The way to effectively make use of Saki's resets is to set it up so that you have 4 stacks on the buff bar of her reset counter, and then after using Hologram projector you use Saki's skill twice in a row. 
+The way to effectively make use of Saki's resets is to set it up so that you have 4 stacks on the buff bar of her reset counter, and then after using Hologram projector you use Shiro's skill twice in a row. 
+
+Another option is to have 3 stacks on the buff bar, then use grapple and do a Saki skill when the shield has just come up, then use Holo + Shiro skills.
 
 That's all I have to say for this. Happy shattering!
