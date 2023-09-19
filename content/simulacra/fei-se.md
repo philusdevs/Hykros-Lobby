@@ -21,7 +21,7 @@ description: Fei Se, featured as an obtainable SSR Simulacrum within the simulac
 
 
 <p align="center">
-    <img src="https://i.postimg.cc/ydGNDP6j/Icon-Weapon-Heavy-Pistil.webp" alt="Centered Image">
+    <img src="https://telegra.ph/file/cd59e40849435ce845d8b.png" alt="Centered Image">
 </p>
 
 <center>
