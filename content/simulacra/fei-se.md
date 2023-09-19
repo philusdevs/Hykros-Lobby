@@ -13,7 +13,7 @@ description: Fei Se, featured as an obtainable SSR Simulacrum within the simulac
 </br>
 
 ### Awaken: Darkshadow
-> After using Whirling, for every 1 Flame weapon equipped, increase Final Damage by 7% for 30s.		
+> After using Whirling, for every 1 Flame weapon equipped, increase Final Damage by 7% for 30 seconds.		
 
 </br>
 
@@ -71,9 +71,6 @@ ATK, shatter is doubled, and there is a 15% chance to inflict a 65% delay for 2 
 
 > **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 14% / 17% / 20% / 23%. After creating Fei Se's Phantasia increase final damage by an additional 9% for 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 </br>
-
-
-
 
 
 | Normal Attack | Description |
