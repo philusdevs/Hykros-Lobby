@@ -15,7 +15,7 @@ simulacra:
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Flame.png
     bottomRightOverlay2: /media/DPS.png
-    bottomRightOverlay3: /media/CN.png
+    bottomRightOverlay3: /media/BETA.png
   - name: Huang 
     icon: /media/Mimi.png
     gradientColor: Volt

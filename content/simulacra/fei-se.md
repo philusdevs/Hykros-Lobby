@@ -1,9 +1,9 @@
 ---
 title: "Fei Se"
-date: 2023-10-01
+date: 2023-09-26
 tags: [SSR, Flame]
 social_image: /media/tab_feise.png
-description: Fei Se, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Zhongrui.
+description: Fei Se, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Endless Bloom.
 ---
 
 >Upcoming simulacrum 
@@ -12,12 +12,12 @@ description: Fei Se, featured as an obtainable SSR Simulacrum within the simulac
 
 </br>
 
-### Awaken: Fei Se
-> Increase Final Damage by 18%. When Illusionary Field is generated, for every Flame weapon equipped, increase Final Damage by 6% for 30s.		
+### Awaken: Darkshadow
+> After using Whirling, for every 1 Flame weapon equipped, increase Final Damage by 7% for 30s.		
 
 </br>
 
-<center> Zhongrui </center>
+<center> Endless Bloom </center>
 
 
 <p align="center">
@@ -25,36 +25,39 @@ description: Fei Se, featured as an obtainable SSR Simulacrum within the simulac
 </p>
 
 <center>
-Attack: 16 | HP: 1010 | Crit: 12 | S: 14.00 | C: 12.00
+Attack: 18 | HP: 1165 | Crit: 14 | S: 14.00 | C: 12.00
 </center>
 
 </br>
 
 <h4 style="text-align: center;"> Trait: Ignite </h4>
 
-When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy
+When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.
 </br>
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
-**Flame Resonance:** Increase Flame ATK by 20% and Flame Resistance by 40%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
+**Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-**Searing Flame:** When Zhongrui is equipped and any weapon discharge hits a target, cause an additional Flame element hit to the target. Searing Flame damage: 500%*Flame Attack + 8.4%*Max HP + 300%*Sum of Resistances + 1,000%*Crit Rate. For every 0.5s in combat, the damage of Searing Flame is increased by 1 times, up to 30 times. If there are multiple Searing Flames being applied on the field, Searing Flame will immediately apply the highest multiplier. Searing Flame is attributed as Discharge damage, but will not trigger additional effects. Searing Flame is not affected by elemental damage increase/decrease nor final damage increase/decrease multipliers other than Titan unique stat. Searing Flame damage will be multiplied by 2.5x if there is any Frost/Volt/Physical Weapon equipped.		
+**Fiery Explosion: Swift Cut:** When Endless Bloom is equipped, upon landing a hit with any weapon's discharge skill, deal initial damage to nearby targets equal to 37.5% of flame ATK plus 0.5% of the Wanderer's Max HP plus 18.75% of the sum of all the Wanderer's resistance types plus 68.75% of crit. While in combat, after every 0.5 seconds, the next Swift Cut damage will be increased by an additional 1 time, up to a maximum of 30 times. When multiple Swift Cut damages exist, the highest initial value is used for calculation.Fiery Explosion: Swift Cut damage is counted as discharge skill damage. If there is 1 frost/volt/physical weapon of any kind equipped, Fiery Explosion damage is multiplied by 1.3 times. In addition, Fiery Explosion damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
 </br>
 
 <h4 style="text-align: center;"> Advancements </h4>
 
 
+1★ Blazing Heart damage's base multiplier is increased to 60% of
+ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, Blazing Heart damage's base multiplier is additionally increased to that of the highest multiplier effect.
 
-1★ The base damage of Heartburn is now 120%. If there are multiple burn types being inflicted, Heartburn base damage will increase to whichever burn has the highest multiplier.
+3★ The maximum number of
+Fei Se's Phantasia is increased to 2.
+After Whirling lands a hit, additionally create 1 Fei Se's Phantasia.
 
-3★ The maximum number of Illusionary Clones that can be on the field is now 2. When Zhongrui's Skill hits a target, an Illusionary Clone will be generated.
+5★ For every 1 Fei Se's Phantasia or Lotus Petal in the Mirage, Blazing Heart's damage is additionally increased by 12%. Lotus Aspara's endurance consumption is reduced by 75%.
 
-5★ For each Illusionary Clone and Lotus Petal in the Illusionary Field, increase the damage of Heartburn by 15%.
-The endurance consumption of the held normal movement is decreased by 75%. This equates to 26s with 1,300 endurance.
+6★ Soulwear damage's base multiplier is increased to 270% of
+ATK, shatter is doubled, and there is a 15% chance to inflict a 65% delay for 2 seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).
 
-6★ The base damage of Heart Eclipse DoT is now 900%/s, and its shatter is doubled. Heartburn now has a 15% chance of adding 2s of 65% slow (ineffective against BOSS enemies and unavailable in the Apex League).
 
 </br>
 
@@ -64,9 +67,9 @@ The endurance consumption of the held normal movement is decreased by 75%. This 
     <img src="https://telegra.ph/file/629b6e880789b70d754b8.png" alt="Centered Image">
 </p>
 
-> **2-piece:** After using any flame weapon skill or discharge skill, increase all ATK by 18% / 22% / 26% / 30% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
+> **2-piece:** After using any flame weapon skill or discharge skill, increase all ATK by 14% / 16% / 18% / 20% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
-> **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 28% / 32% / 36% / 40%. When generating a Colorful Illusion, increase final damage by an additional 20% for 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
+> **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 14% / 17% / 20% / 23%. After creating Fei Se's Phantasia increase final damage by an additional 9% for 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 </br>
 
 
@@ -75,31 +78,37 @@ The endurance consumption of the held normal movement is decreased by 75%. This 
 
 | Normal Attack | Description |
 | --- | --- |
-| **Open and Close** | While on the ground, use normal attack to launch 6 consecutive attacks. </br> **First Attack:** Deal damage equal to 136% of ATK + 7. </br> **Second Attack:** Deal damage equal to 204% of ATK + 11. </br> **Third Attack:** Deal damage equal to 220% of ATK + 12. </br> **Fourth Attack:** Deal damage equal to 240% of ATK + 13. </br> **Fifth Attack:** Deal damage equal to 244% of ATK + 13. </br> **Sixth Attack** Deal damage equal to 192% of ATK + 10. |
-| **Slender Clouds** | While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 120% of ATK + 6. </br> **Second Attack:** Deal damage equal to 164% of ATK + 9. </br> **Third Attack:** Deal damage equal to 236% of ATK + 12. </br> **Fourth Attack:** Deal damage equal to 236% of ATK + 12. </br> **Fifth Attack:** Deal damage equal to 288% of ATK + 15. </br> **Sixth Attack** Deal damage equal to 240% of ATK + 13. |
-| **Autumn Wind and Dew** | While on the ground, tap and hold normal attack when executing the first to third normal attacks to trigger Autumn Wind and Dew. Draw in nearby targets, then deal damage equal to 432% of ATK + 23 to nearby targets, suspending them. |
-| **Jingling Ring** | While on the ground, tap and hold normal attack when executing the fourth to sixth normal attacks to trigger Jingling Ring. Deal damage equal to 264% of ATK + 14 to the target and knock them back. |
-| **Flying Lotus Steps** | While on the ground or airborne, tap and hold normal attack to trigger Flying Lotus Steps.<br>Continuously fly forwards in the air, consuming endurance. Use the arrow keys to adjust the forward direction during Flying Lotus Steps. |
-| **Falling Flowers** | While using Slender Clouds, tap and hold normal attack to trigger Falling Flowers. Fall from the sky, and after landing, deal damage equal to 124% of ATK + 7 to nearby targets and knock them back.
+| **Maneuver** | While on the ground, use normal attack to launch 6 consecutive attacks. </br> **First Attack:** Deal damage equal to 82%  of ATK. </br> **Second Attack:** Deal damage equal to 122% of ATK. </br> **Third Attack:** Deal damage equal to 132% of ATK. </br> **Fourth Attack:** Deal damage equal to 144% of ATK. </br> **Fifth Attack:** Deal damage equal to 146% of ATK. </br> **Sixth Attack** Deal damage equal to 115% of ATK. |
+| **Shifting Clouds** | While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance. </br> **First Attack:** Deal damage equal to 72% of ATK. </br> **Second Attack:** Deal damage equal to 98% of ATK. </br> **Third Attack:** Deal damage equal to 142% of ATK. </br> **Fourth Attack:** Deal damage equal to 142% of ATK. </br> **Fifth Attack:** Deal damage equal to 173% of ATK. </br> **Sixth Attack** Deal damage equal to 144% of ATK |
+| **Golden Autumn** | While using on the ground, tap and hold normal attack when using the First to third normal attacks to trigger Golden Autumn. Draw in nearby targets, dealing damage equal to 259% of ATK and suspending them.|
+| **Resounding Pendants** | While using on the ground, tap and hold normal attack when using the fourth to sixth normal attacks to trigger Resounding Pendants. Deal damage equal to 74% of ATK and knock the targets back.|
+| **Falling FLowers** | During Shifting Clouds, tap and hold normal attack to trigger Falling Flowers.</br> Descend from above. After landing, deal damage equal to 74% of ATK to nearby targets and launch them. |
+| **Lotus Aspara** | When on the ground or while airborne, tap and hold normal attack to trigger Lotus Aspara. Soar ahead continuously in the air while consuming endurance. Use the directional controls to adjust the direction during Lotus Aspara.
+
 
 </br>
 
 | Dodge Attacks | Description |
 | --- | --- |
-| **Dodge** | Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging. |
-| **Scattering Flowers** | Move in a direction while tapping normal attack during the short period after dodging forward to trigger Scattering Flowers, dealing damage equal to 348% of ATK + 18 to nearby targets. While the Mirage generated by Soaring is still active, after the dodge attack of any weapon hits a target for the first time, the effect of Scattering Flowers will activate, generating Lotus Petals and Colored Illusions.<br>Colorful Illusions: When generated, a Colorful Illusion will convert 25% of the target's Max ATK into Flame ATK, which gets added to the Wanderer's basic Flame ATK (no less than 6,500 and no more than 10,000, this increase in ATK will not be displayed in the Wanderer Stats screen, and does not take affect in the Apex League). The calculations of Colorful Illusions are calculated independently, and only 1 Colorful Illusion can exist on the field.<br>Lotus Petals: When generated, the number of Lotus Petals that will appear is equal to the number of summoned objects that are currently on the field that were generated by other weapons except Heavy Pistil. Once generated, the number of Lotus Petals will not change if the number of summoned objects on the field change. Lotus Petals are considered summoned objects.
-| **Swirling** | Tap normal attack during the short period after dodging to trigger Swirling. Deal damage equal to 200% of ATK + 11 to nearby targets.
+| **Dodge** | Dodge right before getting hit to trigger Phantasia, reducing the speed of targets within the area. Become immune to hitstun while dodging.|
+| **Scatter** |Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Flower Scatter, dealing damage equal to 209% of ATK to nearby targets.</br> During Mirage Fantasy created by Whirling, after the First dodge attack using any weapon lands a hit, trigger Flower Graft, creating a Fei Se's Phantasia and Lotus Petal. Fei Se's Phantasia: Upon creation, Fei Se's Phantasia copies 25% of the target's Max ATK and converts it to the Wanderer's base Flame ATK [not lower than 3,300 and not exceeding 3,450; this Flame ATK will not be reflected on the Wanderer's stats and is unavailable in Apex League] until Fei Se's Phantasia disappears. </br> This is calculated independently for each Fei Se's Phantasia. There can be only 1 Fei Se's Phantasia at a time. Lotus Petal: Upon creation, the Lotus Petal count is equal to the number of summons created by the Wanderer's weapons other than Endless Bloom. After creation, the Lotus Petal count does not change with the number of summons. Lotus Petals are considered as summons.
+| **Flutter** | Use normal attack during the short period after dodging to trigger Flutter, dealing damage equal to 120% of ATK to nearby targets.
 
 </br>
 
 | Skill | Description |
 | --- | --- |
-| **Soaring** | Deal damage equal to 3,360% of ATK + 177 to nearby targets and creates a Mirage, lasting up to 25 seconds. While Soaring is on cooldown, the new skill Frightened Swan can be released once the Mirage has lasted on the field for 20 seconds. When the Mirage disappears, the cooldown of Soaring is instantly refreshed. This cannot be affected by any other cooldown removal, cooldown reset, or cooldown change effects.<br><br>While the Mirage is on the field:<br>Deal Heart Eclipse damage every second equal to 450% of ATK to the target. Heart Eclipse damage is regarded as normal attack damage;<br>Inflict a Heartburn status to one of the targets every 5 seconds, dealing 50% of ATK of Heartburn damage per second for 5 seconds. Heartburn damage is increased by an additional 15% for every self-generated Colorful Illusion and Lotus Petal in the Mirage's range. |
-| **Frightened Swan** | While Soaring is on cooldown, the new skill Frightened Swan can be released once the Mirage has lasted on the field for 20 seconds. Remove all Colorful Illusions and Lotus Petals in the Mirage, where for each removed Colorful Illusion and Lotus Petal, deal damage equal to 1,200% of ATK + 63 to nearby targets, then shatter and remove the Mirage, dealing damage equal to 1,500% of ATK + 79 to nearby targets.
+| **Whirling** | Tap the skill button to cast Deal damage equal to 1,008% of ATK to nearby targets and create a Mirage Fantasy, lasting up to 25 seconds. </br> When Whirling is in cooldown, gain the new skill, Lissom. Lissom can be used after the Mirage has been active for 20 seconds.</br> After the Mirage disappears, immediately refresh Whirling's cooldown. This is not affected by other cooldown clearing, resetting, or changing effects.</br> During the Mirage: Every second, deal Soulwear damage equal to 135% of ATK. Soulwear damage counts as normal attack damage. Every 5 seconds, inflict Blazing Heart on targets within range, dealing burn damage equal to 20% of ATK for 5 seconds. For every 1 Fei Se's Phantasia or Lotus Petal created by the Wanderer in the Mirage, Blazing Heart's damage is additionally increased by 6%.|
+| **Lissom** | When Whirling is in cooldown, gain the new skill, Lissom. Lissom can be used after the Mirage has been active for 20 seconds. Clear all Fei Se's Phantasias and Lotus Petals in the Mirage created by the Wanderer. For every 1 Fei Se's Phantasia or Lotus Petal cleared, deal damage equal to 180% of ATK to nearby targets. Then, shatter the Mirage Fantasy, dealing damage equal to 450% of ATK to nearby targets.
+
 
 </br>
 
 | Discharge | Description |
 | --- | --- |
-| **Unparalleled Beauty** | When weapon charge is full or Phantasia is triggered, switching to this weapon from another removes all debuffs from the wielder and deals damage equal to 3,632% of ATK + 191 to target. During this period, gain damage immunity for 2.6 seconds (unavailable in Apex League).
+| **Unparalleled Jade Pool** | When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer, dealing damage equal to 1,090% of ATK. During this period, gain damage immunity For 1.5 seconds (unavailable in Apex League).
+
+
+
+
 
