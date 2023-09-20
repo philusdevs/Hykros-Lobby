@@ -1,11 +1,11 @@
 ---
 title: "Fei Se"
-date: 2023-10-01
+date: 2023-09-26
 tags: [SSR, Matrices, Flame, FD, ED]
 social_image: '/media/matrice.png'
 description: Fei Se Matrices
 ---
-#### TBA
+#### Lissom
 
 ![](https://telegra.ph/file/629b6e880789b70d754b8.png)
 
