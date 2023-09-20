@@ -12,3 +12,7 @@ description:  Huang Matrices
 > **2-piece:** Increase final damage by 7%/8%/ 9%/10%. After Azura's shockwave lands a hit, increase skill damage by 15% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.		
 
 > **4-piece:** When equipped with at least 1 volt weapon, increase all elemental damage by 14%/17%/20%/23%. After using Azure Moon / Soaring Dragon, increase crit damage by 6% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.		
+
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154065671378972722/1154065874026766397/Huang_Matrix-_Hykros_Lobby.png';">
+      Download Matrix
+    </button>
