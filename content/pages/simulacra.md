@@ -2,6 +2,13 @@
 title: "Simulacra"
 template: "simulacra-template"
 simulacra:
+  - name: Nanyin
+    icon: /media/Nanyin.png
+    gradientColor: Altered
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Altered.png
+    bottomRightOverlay2: /media/DPS.png
+    bottomRightOverlay3: /media/CN.png
   - name: Ling Han
     icon: /media/Ling_Han.png
     gradientColor: Frost
