@@ -14,4 +14,8 @@ description: Nanyin Matrices
 > **4-piece:** When equipped with Black Bamboo, critical damage increases by 22%, and final damage increases by 28%/32%/36%/42%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 
 
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1144235381605285960/1155216468842131590/Nanyin_Matrix_CN_-_Hykros_Lobby.png';">
+      Download Day 1 Test Server [CN] 
+    </button>
+
 
