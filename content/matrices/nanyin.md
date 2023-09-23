@@ -1,6 +1,6 @@
 ---
 title: "Nanyin"
-date: 2023-08-08
+date: 2023-11-01
 tags: [SSR, Matrices, Altered, FD, CD, ATK]
 social_image: '/media/matrice.png'
 description: Nanyin Matrices
