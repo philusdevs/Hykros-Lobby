@@ -18,18 +18,6 @@ description: Nanyin, featured as an obtainable SSR Simulacrum within the simulac
 
 </br>
 
-
-<h4 style="text-align: center;"> Elemental Resonance </h4>
-
-**Last Knock:** Increase ATK by 30%. Activate by equipping 3
-altered weapons. This set effect works in the off-hand slot.
-
-**Influence:** after switching the weapon to Black Bamboo, Black Bamboo's damage element type will be changed to the element type of the previous active weapon.
-
-**Temporary Dwelling:** any unlocked wanderer's weapon can be enhanced with Darkness in the settings of a specific weapon. </br> </br>Darkness-enhanced weapons deals 4% more damage.</br> </br> When not spreading to other weapons, Darkness resides in Black Bamboo, increasing all wanderer's damage dealt by 9% when Black Bamboo is the current active weapon.
-
-</br>
-
 <center> Black Bamboo </center>
 
 <p align="center">
@@ -41,6 +29,17 @@ altered weapons. This set effect works in the off-hand slot.
 </br>
 
 >Black Bamboo will not be included in the permanent weapon banner
+
+</br>
+
+<h4 style="text-align: center;"> Elemental Resonance </h4>
+
+**Last Knock:** Increase ATK by 30%. Activate by equipping 3
+altered weapons. This set effect works in the off-hand slot.
+
+**Influence:** after switching the weapon to Black Bamboo, Black Bamboo's damage element type will be changed to the element type of the previous active weapon.
+
+**Temporary Dwelling:** any unlocked wanderer's weapon can be enhanced with Darkness in the settings of a specific weapon. </br> </br>Darkness-enhanced weapons deals 4% more damage.</br> </br> When not spreading to other weapons, Darkness resides in Black Bamboo, increasing all wanderer's damage dealt by 9% when Black Bamboo is the current active weapon.
 
 </br>
 
