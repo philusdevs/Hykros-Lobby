@@ -45,8 +45,7 @@ altered weapons. This set effect works in the off-hand slot.
 
 <h4 style="text-align: center;"> Advancements </h4>
 
-1★ Shadow inherits an additional
-50% of the wanderer's ATK. If the wanderer is not in Trance state, when the wanderer takes lethal damage, the Shadow disappears and the wanderer becomes invulnerable for a short period of time. This effect triggers once every 60 seconds, with other similar effects triggering first and works in the off-hand slot.
+1★ Darkness damage buff is further increased by 1% For every 1 advancement level of Darkness-enhanced weapon.Hyperspace damage's base multiplier is increased to 0.06% of total wanderer damage in Hyperspace [not including Shadow damage] plus 4,000% of ATK.
 
 3★ Shadow inherits an additional
 50% of the wanderer's ATK. If the wanderer is not in Trance state, when the wanderer takes lethal damage, the Shadow disappears and the wanderer becomes invulnerable for a short period of time. This effect triggers once every 60 seconds, with other similar effects triggering first and works in the off-hand slot.
