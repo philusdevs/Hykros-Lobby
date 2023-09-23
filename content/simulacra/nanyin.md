@@ -7,6 +7,7 @@ description: Nanyin, featured as an obtainable SSR Simulacrum within the simulac
 ---
 
 > Upcoming Simulacrum
+> Day 1 Test Server CN [STC]
 
 
 ![](https://telegra.ph/file/75a4b1aec974630bcace3.png)
