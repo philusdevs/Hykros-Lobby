@@ -101,6 +101,6 @@ Increase Thunder Burst's charged attack and shockwave damage by 30%. After using
 |-----------|-------------|
 | **Soaring Dragon** ![](https://i.postimg.cc/8kHFnMvC/Weapon-Azure-Dragon-Soaring-Dragon.png) |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and gather chi. Then smash the ground, causing an explosion, dealing damage equal to 1,514.7% of ATK plus 8,608 to nearby targets and suspending them. During the period, gain damage immunity for 1.5 seconds (unavailable in Apex League). </br> Passive: When Phantasia is triggered, if Azure Dragon is currently equipped or if switching to Azure Dragon from another weapon, deal damage equal to 5,000% of ATK to nearby targets. This damage is not affected by any damage boost effects except from titan equipment's rare stats. This can only be triggered up to 1 time per Phantasia trigger. |
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1146265827306385461/1155630669263810600/Huang_-_Hykros_Lobby.pdf';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1146265827306385461/1155635263616331846/Huang_-_Hykros_Lobby.pdf';">
       Download Simulacrum
     </button>
