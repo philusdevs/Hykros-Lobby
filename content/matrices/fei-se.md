@@ -16,3 +16,9 @@ description: Fei Se Matrices
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1155789750746234971/Fei_Se_Matrix_-_Hykros_Lobby.png';">
       Download Matrix
     </button>
+
+
+
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1155880847786901514/Fei_Se_CN_Matrix_-_Hykros_Lobby.png;">
+      Download Matrix [CN]
+    </button>

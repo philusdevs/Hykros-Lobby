@@ -116,3 +116,6 @@ ATK, shatter is doubled, and there is a 15% chance to inflict a 65% delay for 2 
 
 
 
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1151000836231675935/1155880248789975111/Fei_Se_CN_-_Hykros_Lobby.png';">
+      Download Simulacrum [CN]
+    </button>
