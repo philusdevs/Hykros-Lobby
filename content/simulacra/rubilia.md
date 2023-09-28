@@ -60,7 +60,10 @@ When the weapon is fully charged, the next attack will strongly paralyze targe
 
 <h4 style="text-align: center;"> Matrix </h4>
 
-![](https://telegra.ph/file/d188583ef4e4fc96c8e0e.png)
+<p align="center">
+    <img src="https://telegra.ph/file/d188583ef4e4fc96c8e0e.png" alt="Centered Image">
+</p>
+
 
 > **2-piece:** Increase volt ATK by 14.5% / 16.5% / 18.5% / 20.5%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 
