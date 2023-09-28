@@ -89,10 +89,10 @@ When the weapon is fully charged, the next attack will strongly paralyze targe
 |   Dodge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
 | **Dodge**| </br> Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for 0.5 seconds while dodging.|
-|**Pillage**| </br>   Move in a direction while tapping normal attack during the short period after dodging forward to trigger Pillage, dealing damage equal to `55.9%` of ATK plus 3 to nearby targets and suspending them. Using Pillage can trigger Feedback.|
-|**Swarm**| </br>   Tap normal attack during the short period after dodging to trigger Swarm, summoning two Abyssant illusions which deal damage equal to `88.2%` of ATK plus 5 to targets ahead of the Wanderer. Using Swarm can trigger Feedback.|
+|**Pillage**| </br>   Move in a direction while tapping normal attack during the short period after dodging forward to trigger Pillage, dealing damage equal to 55.9% of ATK plus 3 to nearby targets and suspending them. Using Pillage can trigger Feedback.|
+|**Swarm**| </br>   Tap normal attack during the short period after dodging to trigger Swarm, summoning two Abyssant illusions which deal damage equal to 88.2% of ATK plus 5 to targets ahead of the Wanderer. Using Swarm can trigger Feedback.|
 |**Weave**| </br>  TWhen on the ground, long pressing any dodge can trigger Weave, dashing for a distance through the air (does not work in areas the Jetpack can't be used).|
-|**Seal**| </br> Tap and hold normal attack during the short period after dodging to trigger Seal, launching a hive consciousness forward which controls Grayspace Entities that it hits, turning them into allies (does not work on bosses), lasting for 60 seconds. The control state is removed when Seal is used again on a target or its duration ends, dealing `45%` of all damage dealt during the control period. The hive consciousness can be blocked by non-Grayspace Entity targets, which are not affected by this control effect.|
+|**Seal**| </br> Tap and hold normal attack during the short period after dodging to trigger Seal, launching a hive consciousness forward which controls Grayspace Entities that it hits, turning them into allies (does not work on bosses), lasting for 60 seconds. The control state is removed when Seal is used again on a target or its duration ends, dealing 45% of all damage dealt during the control period. The hive consciousness can be blocked by non-Grayspace Entity targets, which are not affected by this control effect.|
 
 </br>
 
