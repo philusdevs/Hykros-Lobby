@@ -2,7 +2,7 @@
     "title": "Cocoritter",
     "date": "2022-08-11",
     "tags": ["SSR", "Frost"],
-    "social_image": "/media/tab_coco.png",
+    "social_image": "https://hykroslobby.com/opt/build/repo/static/media/tab_coco.png",
     "description": "Cocoritter, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Absolute Zero.",
     "image_url": "https://i.postimg.cc/fLS6zjVY/Simulacrum-Cocoritter-Awaken.webp",
     "awaken": [
