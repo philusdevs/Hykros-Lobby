@@ -17,8 +17,8 @@
       "attack": 16,
       "hp": 1010,
       "crit": 11,
-      "charge": 12.50,
-      "crit": 9.00
+      "shatter": 12.50,
+      "charge": 9.00
     },
     "trait": "Ignite",
     "trait_description": "When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.",

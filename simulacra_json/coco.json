@@ -17,8 +17,8 @@
       "attack": 15,
       "hp": 1165,
       "resistance": 7,
-      "charge": 4.00,
-      "crit": 12.50
+      "shatter": 4.00,
+      "charge": 12.50
     },
     "trait": "Ice Shell",
     "trait_description": "When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.",

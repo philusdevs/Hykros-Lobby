@@ -17,8 +17,8 @@
       "attack": 19,
       "hp": 1130,
       "crit": 14,
-      "charge": 6.00,
-      "crit": 10.00
+      "shatter": 6.00,
+      "charge": 10.00
     },
     "trait": "Grievous",
     "trait_description": "When the weapon is fully charged, the next attack will inflict damage equal to 100% of ATK, and make the target grievous for 7 seconds, taking 20% extra damage. When in team play, grievous targets receive an additional 20% physical damage.",
