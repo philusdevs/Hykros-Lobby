@@ -2,7 +2,7 @@
     "title": "Crow",
     "date": "2022-08-11",
     "tags": ["SSR", "Volt"],
-    "social_image": "/media/tab_crow.png",
+    "social_image": "https://hykroslobby.com/opt/build/repo/static/media/tab_crow.png",
     "description": "Crow, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Thunderblades.",
     "image_url": "https://i.postimg.cc/fbLGFhZ2/Simulacrum-Crow-Awaken.webp",
     "awaken": [

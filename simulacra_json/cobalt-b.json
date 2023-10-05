@@ -2,7 +2,7 @@
     "title": "Cobalt-B",
     "date": "2022-08-11",
     "tags": ["SSR", "Flame"],
-    "social_image": "/media/tab_cobalt.png",
+    "social_image": "https://hykroslobby.com/opt/build/repo/static/media/tab_cobalt.png",
     "description": "Cobalt-B, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Flaming Revolver.",
     "image_url": "https://i.postimg.cc/2SzRQZtf/Simulacrum-Cobalt-B-Awaken.webp",
     "awaken": [
