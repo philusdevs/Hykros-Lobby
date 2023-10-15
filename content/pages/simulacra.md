@@ -233,6 +233,13 @@ simulacra:
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/DPS.png
     bottomRightOverlay3: null
+  - name: Zero
+    icon: /media/Zero.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_Flame.png
+    bottomRightOverlay2: /media/Bene.png
+    bottomRightOverlay3: null
   - name: Bai Ling
     icon: /media/Bai_Ling.png
     gradientColor: none
