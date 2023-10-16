@@ -3,13 +3,14 @@ title: Benediction Guide from a ToF Veteran WIP
 date: 2023-10-16 07:47
 tags:
   - GUIDE
+social_image: /media/logo.png
 description: |-
   updated up to version 3.3
   compilation by: Elle
 ---
 \[draft]
 
-Movement guide: \[done] https://youtu.be/NB1qongAwmU
+Movement guide: <iframe width="560" height="315" src="https://www.youtube.com/embed/NB1qongAwmU?si=SuRMgAQ2rGsa0N5-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # **INTRODUCTION:**
 
