@@ -13,12 +13,12 @@ description: Fei Se Matrices
 
 > **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 14% / 17% / 20% / 23%. After creating Fei Se's Phantasia increase final damage by an additional 9% for 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1155789750746234971/Fei_Se_Matrix_-_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1164132403007201371/Fei_Se_Matrix.png';">
       Download Matrix
     </button>
 
 
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1155880847786901514/Fei_Se_CN_Matrix_-_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1164132402768121886/Fei_Se_Matrix_CN.png';">
       Download Matrix [CN]
     </button>

@@ -13,6 +13,12 @@ description: Liu Huo Matrices
 
 > **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 11% / 14% / 17% / 20%. After using In All Directions, increase all elemental damage boost by an additional 7% and gradually reduce to 4%over 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402441874374666/1154402442004418600/Liu_Huo_Matrix_-_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164180486562779168/1164180486701199491/Liu_Huo_Matrix.png';">
       Download Matrix
+    </button>
+
+
+
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164180486562779168/1164180543374626877/Liu_Huo_Matrix_CN.png';">
+      Download Matrix [CN]
     </button>

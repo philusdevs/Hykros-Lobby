@@ -13,6 +13,12 @@ description: Ming Jing Matrices
 
 > **4-piece:** After applying the snake bite effect, increase physical ATK and flame ATK by 9% for 30 seconds. While in the combat state, increase final damage by 14% / 17% / 20% / 23%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402847933349988/1154402848356978698/Ming_Jing_Matrix_-_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402847933349988/1164134878862921768/Ming_Jing_Matrix.png';">
       Download Matrix
+    </button>
+
+
+
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402847933349988/1164132541264052315/Ming_Jing_Matrix_CN.png';">
+      Download Matrix [CN]
     </button>

@@ -13,6 +13,12 @@ description:  Huang Matrices
 
 > **4-piece:** When equipped with at least 1 volt weapon, increase all elemental damage by 14%/17%/20%/23%. After using Azure Moon / Soaring Dragon, increase crit damage by 6% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.		
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154065671378972722/1154065874026766397/Huang_Matrix-_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154065671378972722/1164132339903893595/Huang_Matrix.png';">
       Download Matrix
+    </button>
+
+
+
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154065671378972722/1164132339459301497/Huang_Matrix_CN.png';">
+      Download Matrix [CN]
     </button>
