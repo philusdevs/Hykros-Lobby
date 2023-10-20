@@ -1,7 +1,7 @@
 ---
 title: "Nanyin"
-date: 2023-11-01
-tags: [SSR, Matrices, Altered, FD, CD, ATK]
+date: 2023-11-21
+tags: [SSR, Matrices, Altered, FD, CD]
 social_image: '/media/matrice.png'
 description: Nanyin Matrices
 ---

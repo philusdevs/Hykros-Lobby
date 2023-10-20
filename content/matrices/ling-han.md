@@ -1,6 +1,6 @@
 ---
 title: "Ling Han"
-date: 2023-11-01
+date: 2023-10-24
 tags: [SSR, Matrices, Frost, FD, ED]
 social_image: /media/matrice.png
 description: Ling Han Matrices
