@@ -9,16 +9,16 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 
 ![](https://telegra.ph/file/ad98e283fddfb7bafbcde.png)
 
-### Awaken: Ling Han
+### Awaken: Governing Blade
 
-> Increases final damage by 18%.
-> While equipped with Monitoring Guards, for each equipped frost weapon, frost damage increases by 4%. When equipped with 3 frost weapons, gain an additional 350 weapon charge after using any frost weapon skill. After releasing any frost weapon skill other than Monitoring Guards or discharge , deal an additional 5600% * attack damage to nearby targets. The character becomes immune to damage for 4 seconds after activating the Frosty Roar (unavailable in Apex League).
+
+>Increase final damage by 18%. When Alabaster Tiger is equipped, gain damage immunity for 4 seconds when using Sword Art: Icy Beckon (unavailable in Apex League). For every 1 frost weapon equipped, increase frost damage by 2.5%. When 3 frost weapons are equipped, gain an additional 350 weapon charge after the Wanderer uses any frost weapon skill. After using any frost weapon's skill or discharge other than Alabaster Tiger's, deal additional damage equal to 1,456% of ATK to nearby targets.
 
  <br/> 
   <br/> 
 
 
-<center> Monitoring Guards </center>
+<center> Alabaster Tiger </center>
 
 <p align="center">
     <img src="https://telegra.ph/file/c42acda5834f63d2a970c.png" alt="Centered Image">
@@ -32,7 +32,7 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 <h4 style="text-align: center;"> Trait: Frost Shell </h4>
 
 
-When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the frost shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
+When the weapon is fully charged, the next attack will strongly freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 144% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
 </br>
 
@@ -99,4 +99,4 @@ When the weapon is fully charged, the next attack will freeze targets for 2 
 
 | Discharge | Description |
 | --- | --- |
-| **Frosty Roar** | Switch to this weapon when fully charged or when Phantasia is activated. When the weapon is fully charged or when Phantasia is activated, switching to this weapon removes all debuffs from the Wanderer and summons Yuanwu, dealing area damage equal to 2111.8% of ATK to nearby targets. Bai-Hu is then summoned, dealing damage equal to 4,927.4% of ATK to nearby targets. While the skill is active, it grants damage immunity for 2.6 seconds. (not available in Apex League).
+| **Sword Art: Icy Beckon** | When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds (unavailable in Apex League).</br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.
