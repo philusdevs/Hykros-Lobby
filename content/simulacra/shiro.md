@@ -28,7 +28,7 @@ Attack: 19 | HP: 1165 | Crit: 13 | S: 10.00 | C: B 6.00
 
 <h4 style="text-align: center;"> Trait: Grievous </h4>
 
-When the weapon is fully charged, the next attack will inflict damage equal to 137% of ATK, and make the target grievous for 7 seconds, taking 20% extra damage.
+When the weapon is fully charged, the next attack will inflict damage equal to 137% of ATK, and make the target grievous for 7 seconds, taking 20% extra damage. When in team play, grievous targets receive an additional 20% physical damage.
 
 <h4 style="text-align: center;"> Advancements </h4>
 

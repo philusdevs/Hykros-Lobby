@@ -1,9 +1,9 @@
 ---
 title: "Ling Han"
-date: 2023-11-01
+date: 2023-10-24
 tags: [SSR, Frost]
 social_image: '/media/tab_linghan.png'
-description: Ling Han, featured as an obtainable SSR Simulacrum within the simulacrum system.
+description: Ling Han, featured as an obtainable SSR Simulacrum within the simulacrum system associated with the weapon Alabaster Tiger.
 ---
 >Upcoming simulacrum 
 
@@ -25,7 +25,7 @@ description: Ling Han, featured as an obtainable SSR Simulacrum within the simul
 </p>
 
 
-<center> Attack: 16 | HP: 1010 | Crit: 11 | S: 15.00 | C: 8.00 </center>
+<center> Attack: 16 | HP: 1010 | Crit: 11 | S: 16.00 | C: 8.00 </center>
 
 </br>
 
@@ -39,7 +39,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Frost Resonance:** Increase Frost ATK by 20% and Frost Resistance by 40%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type. </br>
-**Frost: Detachment:** After using Frozen Reflection, you will deal damage to affected targets every second for 30 seconds, equal to 1250% of cold ATK + 20% of max HP of the Wanderer + 750% of the sum of all types of resistance + 2500% of critical damage. Damage from multiple Detachments does not stack, and Frost damage is considered skill damage. When equipped with 1 electric, fire, or physical weapon, Frost damage is multiplied by 2.5. Additionally, Frost damage is not affected by any damage boosts, except for rare Titan equipment parameters, and it does not trigger additional attack effects.
+***Extreme Cold: Unload:** After using Sword Art: Shadowy Ice, every second, deal damage equal to 70% of frost ATK plus 10% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is 1 volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by 1.3 times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
 <h4 style="text-align: center;"> Advancement</h4>
 
@@ -68,35 +68,31 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 
 
-
 | Normal Attack | Description|
 | --- | --- |
-| **Moon Execution** | While on the ground, use your normal attack to land 6 consecutive attacks. </br> **First Attack:** Deals damage equal to 376.2% of ATK. </br> **Second Attack:** Deals damage equal to 497.5% of ATK. </br> **Third Attack:** Deals damage equal to 797.1% of ATK. </br> **Fourth Attack:** Deals damage equal to 480.7% of ATK. </br> **Fifth Attack:** Deals damage equal to 869.5% ATK. </br> **Sixth Attack:** Deals damage equal to 975.4% of ATK. |
-| **Crystal Crack** | Any basic attack with Ling Han's weapon hits the target with 1 stack of Crystal Crack (up to 3 stacks), dealing damage equal to 150% of ATK to the target every second for 15 seconds. The same target can only receive a stack of Crystal Crack more than once every 4 seconds. When the duration expires, only 1 stack of Crystal Rift disappears, rather than all at once. |
-| **Wild Plum** | While in the air, use your normal attack to land 6 consecutive attacks at the expense of stamina. </br> **First Attack:** Deals damage equal to 368.9% ATK. </br> **Second Attack:** Deals damage equal to 387.3% of ATK. </br> **Third Attack:** Deals damage equal to 840.5% ATK. </br> **Fourth Attack:** Deals damage equal to 500% of ATK. </br> **Fifth Attack:** Deals damage equal to 822.1% of ATK. </br> **Sixth Attack:** Deals damage equal to 988.1% of ATK. |
-| **Snowfall** | While on the ground, press and hold a normal attack to perform  Snowfall. Control your sword with your mind, constantly draining stamina and dealing damage equal to 335.2% of your ATK to nearby targets with each swing. When  Snowfall is cast, the character gains a Hyperbody effect.  Snowfall unleashes a powerful blast of sword energy at the end of its cast, dealing damage equal to 1,005.6% of ATK to nearby targets. |
-| **Frostfall** | Press and hold a normal attack while flying (press when a target is available), or use a normal attack while climbing, jumping backward, or using a jetpack to perform  Frostfall. While falling, each hit deals damage equal to 288.5% of ATK. Upon landing, deals damage equal to 1410.4% of ATK to the target. |
-| **Light Fall** | While in the air after double jumping, press the jump button and the side move button to take off into the air and continue to hover. Light Fall can be used up to 2 times while in the air, and 1 charge is restored every 10 seconds when the character is on the ground.|
+|  **Sword Art: Mooncutter** ![](https://i.postimg.cc/ryPrQ4N6/Weapon-Alabaster-Tiger-Sword-Art-Mooncutter.png) | While on the ground, use your normal attack to land 6 consecutive attacks. </br> **First Attack:** Deal damage equal to 97.8% of ATK + 5 and knock the target back.</br> **Second Attack:** Deal damage equal to 129.4% of ATK + 7 and knock the target back. </br> **Third Attack:** Deal damage equal to 207.2% of ATK + 11 and knock the target back. </br> **Fourth Attack:** Deal damage equal to 125% of ATK + 7 and knock the target back. </br> **Fifth Attack:** Deal damage equal to 226% of ATK + 12 and draw in enemies to the front of the Wanderer. </br> **Sixth Attack:** Deal damage equal to 253.6% of ATK + 13 and launch the target.</br>After triggering Sword Art: Mooncutter, tap and hold normal attack to trigger Sword Art: Endless Snow. </br> After any of Alabaster Tiger's normal attacks land a hit, apply 1 stack of Crystalline Crack to the target, dealing normal attack damage equal to 48% of ATK every second for 15 seconds. Only 1 stack of Crystalline Crack can be applied to the same target every 4 seconds, stacking up to 3 times. The stacks will disappear one by one after the effect duration is over. |
+|  **Sword Art: Plum Swordcry** ![](https://i.postimg.cc/dVMTKKf4/Weapon-Alabaster-Tiger-Sword-Art-Plum-Swordcry.png)| While in the air, use your normal attack to land 6 consecutive attacks at the expense of stamina. </br> **First Attack:** Deal damage equal to 95.9% of ATK + 5. </br> **Second Attack:** Deal damage equal to 100.7% of ATK + 5. </br> **Third Attack:** Deal damage equal to 218.6% of ATK + 12. </br> **Fourth Attack:** Deal damage equal to 130% of ATK + 7. </br> **Fifth Attack:** Deal damage equal to 213.7% of ATK + 11. </br> **Sixth Attack:** Deal damage equal to 256.9% of ATK + 14. |
+| **Sword Art: Endless Snow** ![](https://i.postimg.cc/C5Xn5yxM/Weapon-Alabaster-Tiger-Sword-Art-Endless-Snow.png) | While using normal attack on the ground, tap and hold normal attack to trigger Sword Art: Endless Snow. Use mind control to manipulate the sword while consuming endurance, during which the Wanderer gains hyperbody. Every attack that lands deals damage equal to 140.8% of ATK plus 7 to nearby targets.</br> When Sword Art: Endless Snow ends, release a powerful sword aura, dealing damage equal to 422.4% of ATK plus 22 to nearby targets. |
+| **Sword Art: Falling Frost**  ![](https://i.postimg.cc/L5nZm4R0/Weapon-Alabaster-Tiger-Sword-Art-Falling-Frost.png) |Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Sword Art: Falling Frost.</br>While falling, deal damage equal to 75% of ATK plus 4 each time a target is hit. Upon landing, deal damage equal to 366.7% of ATK plus 19 to nearby targets. |
+| **Light Steps** ![](https://i.postimg.cc/MTsQkfkQ/Weapon-Alabaster-Tiger-Light-Steps.png) | While the Wanderer is airborne after double jumping, tap jump to trigger Light Steps. Briefly dash upward before gliding down. While airborne, Light Steps can be used up to 2 times.</br> While on the ground, Light Steps recovers 1 use attempt every 10 seconds (switching areas or unequipping Alabaster Tiger will reset the use attempts).|
 
 </br>
 
 | Skill | Description |
 | --- | --- |
-| **Frost Air** | After using this skill, the character will emit Frost Air, dealing damage equal to 340% of ATK to nearby targets every second and slowing them by 30% (unavailable in Apex League. Does not work on bosses).</br> After using this skill, the character's cold damage is increased by 15% for 35 seconds. |
-| **Frost Blades** | This skill generates the maximum number of Frost Blades after casting. Every 7.5 seconds, 1 Frost Blade will be fired at the target enemy, dealing damage equal to 1800% of ATK. Hitting with Frost Blade causes Icy Fall. Initially, a character can create up to 3 Frost Blades. Out of combat, all Frost Blades disappear. |
-| **Icy Fall** | Deals damage equal to 1200% ATK to nearby targets every 3 seconds for 12 seconds. |
+| **Sword Art: Shadowy Ice** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Deal damar equal to 370.2% of ATK plus 19 to nearby targets an draw them in. Then, form a Sword Array to summon a heavy rain of swords and strongly freeze targets (unavailable in Apex League and against bosses) for 4 seconds. Cooldown: 30 seconds.</br> After successfully using Sword Art: Shadowy Ice, the Wanderer emits Cold Air, dealing damage equal to 88.4% of ATK to nearby targets every second and reducing the targets' speed by 30% (unavailable in Apex League and against bosses). At the same time, increase the Wanderer's frost damage by 8% for 35 seconds. </br> After completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of Frost Blades, firing 1 blade every 7.5 seconds at the currently locked-on target, dealing damage equal to 468% of ATK and inflicting Temperature Reduction on the target. There can be up to 3 Frost Blades created initially, and all blades will be removed while in the non-combat state.</br> Temperature Reduction: Deal damage equal to 312% of ATK every 3 seconds to nearby targets for 12 seconds. |
 
 </br>
 
 
 | Dodge | Description|
 | --- | --- |
-| **Dodge** | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area.|
-| **Cascade of Floating Clouds** | Press the normal attack button after using a move dodge to perform Floating Cloud Cascade. Deals damage equal to 1,173.2% of ATK to nearby targets. |
-| **Vast Soul** | Press the normal attack button after using a dodge to perform  Vast Soul. Summons a Bai-Hu phantom that deals damage equal to 670.4% of ATK to targets in front. |
+| **Dodge** ![](https://i.postimg.cc/DywWV0QP/Weapon-Common-Dodge.png) | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area.|
+| **Sword Art: Cloud Shower** ![](https://i.postimg.cc/bJYtFH5P/Weapon-Alabaster-Tiger-Sword-Art-Cloud-Shower.png)| Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Sword Art: Cloud Shower, dealing damage up to 305% of ATK plus 16 to targets hit. |
+| ![](https://i.postimg.cc/bwQSyBc8/Weapon-Alabaster-Tiger-Sword-Art-Mortal-Soul.png) **Sword Art: Mortal Soul** | Use normal attack during the short period after dodging to trigger Sword Art: Mortal Soul. Release a White Tiger illusion to deal damage equal to 167.8% of ATK plus 9 to targets ahead. |
 
 </br>
 
 | Discharge | Description |
 | --- | --- |
-| **Sword Art: Icy Beckon** | When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds (unavailable in Apex League).</br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.
+|**Sword Art: Icy Beckon**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds (unavailable in Apex League).</br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.

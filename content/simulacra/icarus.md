@@ -30,7 +30,7 @@ Attack: 18 | HP: 1165 | Crit: 14 | S: 9.50 | C: 8.00
 <h4 style="text-align: center;"> Trait: Ice Shell </h4>
 
 
-When the weapon is fully charged, the next attack will freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 151% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
+When the weapon is fully charged, the next attack will strongly freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 144% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
 </br>
 

@@ -24,7 +24,8 @@ Attack: 16 | HP: 1010 | Crit: 11 | S: 12.50 | C: 10.00
 </br>
 
 <h4 style="text-align: center;"> Trait: Ignite </h4>
-When the weapon is fully charged, the next attack will set the target on fire for 8 seconds, causing damage equal to 58% of ATK every second. Ignited targets have 50% reduced healing efficacy.
+
+When the weapon is fully charged, the next attack will ignite the target for 8 seconds, dealing damage equal to 58% of ATK every second. While ignited target's healing effect is reduced 50%.
 
 <h4 style="text-align: center;"> Elemental Resonance </h4> 
 **Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
