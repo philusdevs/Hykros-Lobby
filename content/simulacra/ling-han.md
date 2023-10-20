@@ -39,7 +39,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Frost Resonance:** Increase Frost ATK by 20% and Frost Resistance by 40%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type. </br>
-***Extreme Cold: Unload:** After using Sword Art: Shadowy Ice, every second, deal damage equal to 70% of frost ATK plus 10% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is 1 volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by 1.3 times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
+**Extreme Cold: Unload:** After using Sword Art: Shadowy Ice, every second, deal damage equal to 70% of frost ATK plus 10% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is 1 volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by 1.3 times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
 <h4 style="text-align: center;"> Advancement</h4>
 
@@ -59,9 +59,11 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 </p>
 
 
->  **2-piece:** Increases all elemental damage by 9%/12%/15%/18%. When launching FrostBlades, deal an additional 1600% * attack damage to nearby targets. Becomes effective in the background after equipping, and only the highest star level among multiple sets becomes effective.
+>  **2-piece:** Increase all elemental damage by 7%/ 8%/9%/10%. When firing Frost Blades, deal additional damage to 416% of ATK to nearby targets. This set effect works in the off-hand slot, and only the set with highest star rating will take effect.
 
->  **4-piece:** After releasing any frost weapon skill, increases final damage by 28%/32%/36%/40% for 30 seconds; while equipped with Monitoring Guards, increases all attack by 15%. Becomes effective in the background after equipping, and only the highest star level among multiple sets becomes effective.
+
+>  **4-piece:** After using any frost weapon's discharge skill, increase final damage by 12%/15%/19%/23% for 30 seconds. When Alabaster Tiger is equipped, increase all attack by 12%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
+
 
 </br>
 </br>
