@@ -15,7 +15,7 @@ simulacra:
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/DPS.png
-    bottomRightOverlay3: /media/BETA.png
+    bottomRightOverlay3: null
   - name: Fei Se
     icon: /media/Fei_se.png
     gradientColor: Flame

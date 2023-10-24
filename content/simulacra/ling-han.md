@@ -43,14 +43,14 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 <h4 style="text-align: center;"> Advancement</h4>
 
-1 ★ After launching an FrostBlade, the character's Frost damage increases by 10% for 30 seconds. During this time, nearby enemies receive damage equal to 400% of ATK every second.
+1 ★ After launching Frost Blades, the Wanderer's frost ATK is increased by 10% and nearby targets will be dealt damage equal to 80% of ATK every second for 30 seconds.
 
-3 ★ The maximum number of created FrostBlades increases to 4, and the base damage multiplier of Frosty Roar increases to 1,800% of ATK. If the Frosty Roar effect is active on only one target for 6 seconds, it applies an additional Arterial Sealing effect, reducing the target's movement speed by 30% (does not work in the Abyss, does not work on bosses). If a target under the influence of Arterial Sealing is damaged by an FrostBlade again, it triggers an explosion, removing the Frosty Roar and Arterial Sealing effects from the target and dealing damage equal to 6,000% of ATK + 2% of the target's lost HP (the explosion damage cannot be less than 7,000% of the character's Frost damage or more than 12,000% of the character's Frost damage).
+3 ★ The Wanderer can produce up to 4 Frost Blades and Temperature Reduction's damage's base multiplier is increased to 360%. If the target is the only one affected by Temperature Reduction within 6 seconds, additionally apply Vein Seal to the target, reducing their speed by 30% (unavailable in Apex League and against bosses). If the target receives Frost Blade damage again during Vein Seal's duration, trigger Icy Burst, dealing skill damage equal to 1,700% of ATK plus 2% of the target's HP lost at that point (Icy Burst damage will be no lower than 2,000% of the Wanderer's frost ATK and no higher than 2,200% of the Wanderer's frost ATK). Then, remove the Vein Seal and Temperature Reduction effects on the target.
 
 
-5 ★ The damage dealt by Crystal Cracks and Frosty Air is increased by 50%. The number of Light Fall charges is increased to 5, and the recharge rate of Light Fall charges is increased to 1 charge every 3 seconds.
+5 ★ The damage dealt by Crystalline Crack and Cold Air is additionally increased by 50%. Light Steps' use attempts is increased to 10 and recovery rate is increased to 1 attempt every 3 seconds.
 
-6 ★ The radius of damage from Frosty Roar inflicted by the impact of Icy Blades is increased. Frosty Roar additionally deals damage equal to 4,500% of ATK to nearby targets.
+6 ★ The Temperature Reduction effect inflicted after firing Frost Blades is now applied to an area and also deals additional damage equal to 990% of ATK to nearby targets.
 
 <h4 style="text-align: center;"> Matrix </h4>
 
@@ -82,7 +82,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 | Skill | Description |
 | --- | --- |
-| **Sword Art: Shadowy Ice** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Deal damar equal to 370.2% of ATK plus 19 to nearby targets an draw them in. Then, form a Sword Array to summon a heavy rain of swords and strongly freeze targets (unavailable in Apex League and against bosses) for 4 seconds. Cooldown: 30 seconds.</br> After successfully using Sword Art: Shadowy Ice, the Wanderer emits Cold Air, dealing damage equal to 88.4% of ATK to nearby targets every second and reducing the targets' speed by 30% (unavailable in Apex League and against bosses). At the same time, increase the Wanderer's frost damage by 8% for 35 seconds. </br> After completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of Frost Blades, firing 1 blade every 7.5 seconds at the currently locked-on target, dealing damage equal to 468% of ATK and inflicting Temperature Reduction on the target. There can be up to 3 Frost Blades created initially, and all blades will be removed while in the non-combat state.</br> Temperature Reduction: Deal damage equal to 312% of ATK every 3 seconds to nearby targets for 12 seconds. |
+| **Sword Art: Shadowy Ice** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Deal damar equal to 370.2% of ATK plus 19 to nearby targets an draw them in. Then, form a Sword Array to summon a heavy rain of swords and strongly freeze targets (unavailable in Apex League and against bosses) for 4 seconds. Cooldown: 30 seconds.</br> After successfully using Sword Art: Shadowy Ice, the Wanderer emits Cold Air, dealing damage equal to 68% of ATK to nearby targets every second and reducing the targets' speed by 30% (unavailable in Apex League and against bosses). At the same time, increase the Wanderer's frost damage by 8% for 35 seconds. </br> After completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of Frost Blades, firing 1 blade every 7.5 seconds at the currently locked-on target, dealing damage equal to 360% of ATK and inflicting Temperature Reduction on the target. There can be up to 3 Frost Blades created initially, and all blades will be removed while in the non-combat state.</br> Temperature Reduction: Deal damage equal to 240% of ATK every 3 seconds to nearby targets for 12 seconds. |
 
 </br>
 
