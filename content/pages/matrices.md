@@ -2,6 +2,8 @@
 title: "Matrices"
 template: "matrice-template"
 matrice:
+  - name: Yan Miao
+    icon: '/media/Yan_Miao_m.png'
   - name: Nanyin
     icon: '/media/Nanyin_m.png'
   - name: Ling Han
