@@ -1,7 +1,7 @@
 ---
 title: "Samir"
 date: 2022-08-11
-tags: [SR, Matrices, Normal]
+tags: [SSR, Matrices, Normal]
 social_image: '/media/matrice.png'
 description: Samir Matrices
 ---

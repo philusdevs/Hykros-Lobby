@@ -2,6 +2,13 @@
 title: "Simulacra"
 template: "simulacra-template"
 simulacra:
+  - name: Yan Miao
+    icon: /media/Yan_Miao.png
+    gradientColor: Physical&Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_PhysicalFlame.png
+    bottomRightOverlay2: /media/DPS.png
+    bottomRightOverlay3: /media/CN.png
   - name: Nanyin
     icon: /media/Nanyin.png
     gradientColor: Altered

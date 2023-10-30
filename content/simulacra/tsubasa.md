@@ -42,25 +42,6 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 6★ Sharp Arrow stacks up to 5 times. Hitting a target with a Charged Arrow immediately grants 3 stacks. Headshots grant 5 stacks.
 
 
-
-
-</br>
-
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-
-<p align="center">
-    <img src="https://i.postimg.cc/B6D7ffSj/Tsubasa-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** Increase damage dealt by 14% / 16% / 18% / 20% when there are no enemies within 4 meters.
-
-> **4-piece:** Upon a headshot or hitting the target with Icewind Arrow: Piercing Shot, increase ATK by 15% / 18% / 21% / 25% for 8 seconds.
-
-
-
 </br>
 
 

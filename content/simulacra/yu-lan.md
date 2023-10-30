@@ -59,20 +59,6 @@ In any form, for every 3 or more points of Inner Strength or Fighting Spiri
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-    <img src="https://telegra.ph/file/3d3157040eaa52353db44.png" alt="Centered Image">
-</p>
-
-
-
->  **2-piece:** When at least 1 frost weapon is equipped, nearby targets will take 65% ATK damage every second while in combat. Using any frost weapon's skill or discharge skill increases final damage 6%/7%/8%/9% for 30 seconds. This effect works in the background, and if multiple sets are used, the highest star set will take effect.
-
->  **4-piece:** After Unity consumes stacks of Inner Strength or Battle Spirit, final damage is increased by 12% for 15 seconds. Dealing frost damage increases all elemental damage by 12%/15%/18%/21% for 30 seconds. This effect works in the background, and if multiple sets are used, the highest star set will take effect.
-
-</br>
-
 |   Attacks        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
 | **Normal: Battering Fist** | </br>  While on the ground, use normal attack to launch 6 consecutive attacks. If the fifth attack of the Fighter delivers the final blow while the Yuanwu Totem is active, fixed targets receive 1 Snakebite.</br> **First Attack:** Deal damage equal to 64.8% of ATK + 3 and knock the target back. </br> **Second Attack:**Deal damage equal to 50.4% of ATK + 3 and knock the target back.</br>  **Third Attack:**   Deal damage equal to 52.8% of ATK + 3 and knock the target back. </br>  **Fourth Attack:**   Deal damage equal to 143.9% of ATK + 8 and knock the target back. </br>  **Fifth Attack:**   Deal damage equal to 279.2% of ATK + 15 and continuously knock the target back. </br> **Sixth Attack:**  Deal damage equal to 227.4% of ATK + 12 and knock the target into the air.</br> </br>  Battering Fist can be used in either the Martial Artist or Sweeping Force form. After using any dodge attack while in the Martial Artist form, use normal attack to quickly trigger the Fourth Attack. After the Fifth Attack lands a hit while in the Martial Artist form, strongly freeze the target for 2 seconds (unavailable in Apex League and against bosses) and additionally inflict Chilblain, dealing damage equal to 280% of ATK plus 15 every second for 8 seconds. This effect can only be triggered on the same target 1 time every 8 seconds.|

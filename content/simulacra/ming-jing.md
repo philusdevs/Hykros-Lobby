@@ -3,8 +3,9 @@ title: "Ming Jing"
 date: 2023-08-08
 tags: [SSR, Physical, Flame]
 social_image: '/media/tab_mingjing.png'
-description: Ming Jing Kit
+description: Ming Jing, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Onyx Tortoise
 ---
+
 
 ![](https://telegra.ph/file/9c0eeea0e02ef25e3d367.png)
 

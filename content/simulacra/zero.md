@@ -48,26 +48,6 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-
-<p align="center">
-    <img src="https://telegra.ph/file/0d36fb7bb029ff7d74a0f.png" alt="Centered Image">
-</p>
-
-
-
->  **2-piece:** Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150% / 200% / 250% / 300% of ATK for 6 seconds.
-
->  **4-piece:** While the shield is active, you and your teammates deal 16% / 20% / 24% / 28% more damage.
-
-
-
-
-</br>
-
 | Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the scythe to launch 5 consecutive attacks.While on the ground, manipulate the cube to attack 5 times in a row.</br> **First Attack:** Deal damage equal to 56% of ATK + 2</br> **Second Attack:** Deal damage equal to 45.8% of ATK + 2.</br> **Third Attack:** Deal damage equal to 142.2% of ATK + 8.</br> **Fourth Attack:** Deal damage equal to 95.5% of ATK + 4.</br> **Fifth Attack:** Deal damage equal to 97.1% of ATK + 4 up to 3 times and launch the target.</br>Passive: If normal attacks hit targets 6 times, gain 1 cube. Up to 5 cubes can be stored.|

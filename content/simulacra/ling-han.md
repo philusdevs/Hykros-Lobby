@@ -5,7 +5,6 @@ tags: [SSR, Frost]
 social_image: '/media/tab_linghan.png'
 description: Ling Han, featured as an obtainable SSR Simulacrum within the simulacrum system associated with the weapon Alabaster Tiger.
 ---
->Upcoming simulacrum 
 
 ![](https://telegra.ph/file/ad98e283fddfb7bafbcde.png)
 
@@ -52,23 +51,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 6 ★ The Temperature Reduction effect inflicted after firing Frost Blades is now applied to an area and also deals additional damage equal to 990% of ATK to nearby targets.
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-    <img src="https://telegra.ph/file/f5050323358ef1a1ea6c5.png" alt="Centered Image">
-</p>
-
-
->  **2-piece:** Increase all elemental damage by 7%/ 8%/9%/10%. When firing Frost Blades, deal additional damage to 416% of ATK to nearby targets. This set effect works in the off-hand slot, and only the set with highest star rating will take effect.
-
-
->  **4-piece:** After using any frost weapon's discharge skill, increase final damage by 12%/15%/19%/23% for 30 seconds. When Alabaster Tiger is equipped, increase all attack by 12%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
-
-
 </br>
-</br>
-
-
 
 | Normal Attack | Description|
 | --- | --- |
@@ -82,7 +65,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 | Skill | Description |
 | --- | --- |
-| **Sword Art: Shadowy Ice** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Deal damar equal to 370.2% of ATK plus 19 to nearby targets an draw them in. Then, form a Sword Array to summon a heavy rain of swords and strongly freeze targets (unavailable in Apex League and against bosses) for 4 seconds. Cooldown: 30 seconds.</br> After successfully using Sword Art: Shadowy Ice, the Wanderer emits Cold Air, dealing damage equal to 68% of ATK to nearby targets every second and reducing the targets' speed by 30% (unavailable in Apex League and against bosses). At the same time, increase the Wanderer's frost damage by 8% for 35 seconds. </br> After completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of Frost Blades, firing 1 blade every 7.5 seconds at the currently locked-on target, dealing damage equal to 360% of ATK and inflicting Temperature Reduction on the target. There can be up to 3 Frost Blades created initially, and all blades will be removed while in the non-combat state.</br> Temperature Reduction: Deal damage equal to 240% of ATK every 3 seconds to nearby targets for 12 seconds. |
+| **Empyrean Rotation** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Wanderer deals damage equal to 4,099% of ATK and gains a hyper-body for 20 seconds. At the end of Empyrean Rotation creates 3 Flaming Daggers for 20 seconds the maximum number of Flaming Daggers can only be given once every 20 seconds]. Cooldown: 20 seconds.Flaming Daggers: When hitting the target with a dodge attack of anv flame or physical weapon. Faming Dagger wi be used to inflict armour melt on the target and deal additional damage equal to 6.500% oF ATK of the corresponding active weapon element type. Hitting the target with a Flaming Dagger restores 1 dodge attempt and increases Final damage by 20% for 20 seconds. Flaming Dagger can be triggered once every 2.8 seconds, and its damage counts as normal attack damage. |
 
 </br>
 
@@ -97,4 +80,4 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 | Discharge | Description |
 | --- | --- |
-|**Sword Art: Icy Beckon**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds (unavailable in Apex League).</br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.
+|**Cloud-Bursting Meteorite**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and causes Equilibrium to spin at high speed, sending the wanderer forward and dealing damage equal to 3,990% oF ATK to enemies in its path. During this period, gain damage immunity For 2.6 seconds [unavailable in Apex League].
