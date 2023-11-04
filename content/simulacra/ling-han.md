@@ -81,3 +81,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 | Discharge | Description |
 | --- | --- |
 |**Cloud-Bursting Meteorite**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and causes Equilibrium to spin at high speed, sending the wanderer forward and dealing damage equal to 3,990% oF ATK to enemies in its path. During this period, gain damage immunity For 2.6 seconds [unavailable in Apex League].
+
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1145372556782751844/1170422370956230686/Ling_Han_Hykros_Lobby.png">
+      Download Simulacrum 
+    </button>
