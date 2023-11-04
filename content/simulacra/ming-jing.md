@@ -95,6 +95,6 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 | **Way Home**![](https://i.postimg.cc/NftwJzss/Weapon-Onyx-Tortoise-Way-Home.png)| </br> Switch to this weapon when fully charged or when Phantasia is activated. When the weapon is fully charged or when Phantasia is activated, switching to this weapon removes all debuffs from the Wanderer and summons Yuanwu, dealing area damage equal to 681.2% of ATK to all nearby targets. During this time, you gain 1.5 seconds of damage immunity (unavailable in the Apex League).|
 
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1156523813236903988/1156570200779542639/Ming_Jing_-_Hykros_Lobby.png?ex=6515736f&is=651421ef&hm=2dc0f1aaccf71363b0410544b4ce177057fbc7880700aa5840c9cf902a9e55c3&;">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1156523813236903988/1156570200779542639/Ming_Jing_-_Hykros_Lobby.png';">
       Download Simulacrum
     </button>

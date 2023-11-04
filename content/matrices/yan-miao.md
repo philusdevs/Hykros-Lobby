@@ -15,7 +15,7 @@ description: Yan Miao Matrices
 >  **4-piece:** When equipped with at least 1 physical weapon, all elemental damage is increased by 28%/32%/36%/42%. When equipped with Equilibrium, all elemental damage is additionally increased by 21%. This set effect works in the off-hand slot. Only the set with the highest star rating will take effect.
 
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1168588870242275338/1168589973801402398/Yan_Miao_Matrix_CN_un.png">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1168588870242275338/1168589973801402398/Yan_Miao_Matrix_CN_un.png';">
       Download Matrix [CN]
     </button>'
 
