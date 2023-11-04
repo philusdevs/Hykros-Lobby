@@ -46,21 +46,6 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 6★ When frostiness reaches15 points and you are in the Frost Domain, you will get an additional "Domain of Frost II" that increases frost ATK by 25% when frost weapons are used.
 
 
-
-</br>
-
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-<p align="center">
-    <img src="https://i.postimg.cc/cHrZRHBV/Frigg-m.png)" alt="Centered Image">
-</p>
-
-> **2-piece:** Increase frost ATK by 8% / 10% / 12% / 15% for 10 seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.
-
-> **4-piece:** When unleashing a frost domain with the weapon "Balmung," enemies within the frost domain receive frost damage equal to 55% / 65% / 75% / 85% of ATK every second.
-
 </br>
 
 | Attacks          | Description                                                                                                                     |

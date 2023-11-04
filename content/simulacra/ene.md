@@ -42,17 +42,6 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-<img src="https://i.postimg.cc/YCFmHQVR/Ene-m.png" alt="Centered Image">
-</p>
-
-> **3-piece:** When dealing damage greater than 100% of ATK, deal additional damage equal to 60% / 75% / 90% of ATK. Cooldown: 3 seconds.
-
-</br>
-
-
 
 
 | Normal Attack | Description |

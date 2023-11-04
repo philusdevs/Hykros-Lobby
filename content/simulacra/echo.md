@@ -45,18 +45,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4> 
-
-<p align="center">
-<img src="https://i.postimg.cc/yxrSVjsQ/Echo-m.png" alt="Centered Image">
-</p>
-
-
-
-> **3-piece:** Using a discharge skill to switch to the current weapon grants 80 / 100 / 120 weapon charge.
-
-
-</br>
 
 | Normal Attack | Description |
 | --- | --- |

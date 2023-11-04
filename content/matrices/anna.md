@@ -15,9 +15,6 @@ description: Anna Matrices
 > **4-piece:** When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 5.5% / 7% / 8.5% / 10%, and increases crit damage by an additional 12% / 14% / 16% / 18% within 25 seconds of landing a critical hit. For every 3 charged attacks that hit the target, restore 1 dodge attempt. Cooldown: 2 seconds. Only the effect of the highest star rating is applied when obtained repeatedly.
 
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402302233432174/1154402302556381214/Anna_Matrix_-_Hykros_Lobby.png';">
-      Download Matrix
-    </button>
 
 
 

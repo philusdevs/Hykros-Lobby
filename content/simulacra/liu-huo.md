@@ -53,27 +53,6 @@ When the weapon is fully charged, the next attack will set the target on fire fo
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-<p align="center">
-    <img src="https://telegra.ph/file/3dd8e9490147f7e273c62.png" alt="Centered Image">
-</p>
-
-<br/> 
-
-
-> **2-piece:** Increase final damage by 9% / 10% / 11% / 12%. The number of Sparrow Feathers obtained from dodging after using Pine Comet increases to 20. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
-
-> **4-piece:** When equipped with at least 1 flame weapon, increase all elemental damage by 11% / 14% / 17% / 20%. After using In All Directions, increase all elemental damage boost by an additional 7% and gradually reduce to 4%over 25 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
-
-
-
-
-
-</br>
-
 | Attacks                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Flying Words** | While on the ground, use normal attack to launch 7 consecutive attacks. </br> **First Attack**: Deal damage equal to 179.8% of ATK plus 9. </br> **Second Attack:** Deal damage equal to 151% of ATK plus 8. </br> **Third Attack:**  Deal damage equal to 182.3% of ATK plus 10. </br> **Fourth Attack:**  Deal damage equal to 179.8% of ATK plus 9. </br> **Fifth Attack:** Deal damage equal to 204.5% of ATK plus 11.</br> **Sixth Attack:**  Deal damage equal to 466.8% of ATK plus 25. </br> **Seventh Attack:** Deal damage equal to 779.6% of ATK plus 41.  </br>  |                                                                                                                      |

@@ -14,6 +14,3 @@ description: Scylla Matrices
 
 > **4-piece:** Equipping 2 or more elemental weapons or multiple class weapons increases all elemental damage by 9.5% / 11.5% / 13.5% / 15.5%. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402961980665937/1154402962127474771/Sycalla_Matrix_-_Hykros_Lobby.png';">
-      Download Matrix
-    </button>

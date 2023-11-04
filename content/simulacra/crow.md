@@ -40,24 +40,8 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 6★ After using a skill, increase volt damage dealt to the target by 20% for 20 seconds.
 
 
-
-
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-
-<p align="center">
-    <img src="https://i.postimg.cc/h4N409wM/Crow-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** Increase crit damage to targets with less than 60% HP by 24% / 30% / 36% / 42%.
-
-> **4-piece:** Crits deal additional damage over time every second equal to 18% / 22% / 26% / 30% of ATK for 5 seconds. This effect does not stack.
-
-</br>
 
 | Normal Attack | Description |
 | --- | --- |

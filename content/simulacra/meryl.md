@@ -47,24 +47,6 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 6★ Upon switching to the weapon (Rosy Edge), gain an Ice Shield equal to 20% of Max HP and immunity to being controlled when shield is active. Cooldown: 20 seconds. The Ice Shield lasts up to 10 seconds. This effect will replace Advancement 3 effect.
 
 
-
-
-
-</br>
-
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-
-<p align="center">
-    <img src="https://i.postimg.cc/k463VHnC/Meryl-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** If HP is less than 30% after being attacked, gain a shield equal to 20% / 26% / 32% / 40% of Max HP for 10 seconds. Cooldown: 90 seconds.
-
-> **4-piece:** Increase Whirlwind's damage by 36% / 45% / 54% / 63% and restore HP equal to 30% / 38% / 44% / 50% of the damage dealt while Whirlwind is active. The maximum HP restored every 0.5 seconds cannot exceed 60% / 72% / 81% / 90% of ATK.
-
 </br>
 
 | Normal Attack | Description |

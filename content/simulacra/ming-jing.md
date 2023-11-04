@@ -65,24 +65,6 @@ Every time the weapon's ignite trait is applied to a non-grievous target, the ta
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-<p align="center">
-    <img src="https://telegra.ph/file/dfd7e5fc726572ba14b56.png" alt="Centered Image">
-</p>
-
-
-
-
-> **2-piece:** Increase Serpent Chain member limit to 5. When at least 1 physical or flame weapon is equipped, increase physical ATK and flame ATK by 14% / 16% / 18% / 20%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
-
-> **4-piece:** After applying the snake bite effect, increase physical ATK and flame ATK by 9% for 30 seconds. While in the combat state, increase final damage by 14% / 17% / 20% / 23%. This set effect works in the off-hand slot, and only the set with the highest star rating will take effect.
-
-
-</br>
-
 |   Attacks        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
 | **Resistor** ![](https://i.postimg.cc/fW9wgdYK/Weapon-Onyx-Tortoise-Resistor.png) | </br>  While on the ground, use a normal attack to perform 5 consecutive attacks. </br> While the Xuanwu Totem is active, after Resistor's Fifth attack lands its final hit, add 1 snake bite to the locked-on target. </br> **First Attack:** Deal damage equal to 131.6% of ATK and knocks back the target. </br> **Second Attack:**   Deal damage equal to 186.8% of ATK and knocks back the target. </br> **Third Attack:**   Deal damage equal to 201.6% of ATK and knocks back the target. </br> **Fourth Attack:**   Deal damage equal to 238% of ATK and suspends the target.</br> **Fifth Attack:**   Deal damage equal to 338% of ATK and launches the target into the air.| 

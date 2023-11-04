@@ -56,22 +56,6 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-    <img src="https://telegra.ph/file/279e90d03308af567f70a.png" alt="Centered Image">
-</p>
-
-</br>
-
-> **2-piece:** After hitting a target with a flame weapon, increase final damage by 2.7% / 3.2% / 3.7% / 4.2% and final crit rate by 2% / 2% / 2.4% / 2.4% for 25 seconds, stacking up to 2 times. Only the effect with the highest star rating is applied when obtained repeatedly.
-
-> **4-piece:** When equipping 2 or more flame weapons, gain the Flowing Fire effect, which increases final damage by 5.5% / 7% / 8.5% / 10%, and increases crit damage by an additional 12% / 14% / 16% / 18% within 25 seconds of landing a critical hit. For every 3 charged attacks that hit the target, restore 1 dodge attempt. Cooldown: 2 seconds. Only the effect of the highest star rating is applied when obtained repeatedly.
-
-</br>
-
-
-
 | Attacks          | Description                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------|
 | **Clover Cross** | While on the ground, attack 3 times in a row with the sniper rifle. **First Attack:** Deals damage equal to 44.2% of ATK + 2 and knocks the target back. **Second Attack:** Deals damage equal to 84.4% of ATK + 4 and knocks the target back. **Third Attack:** Deals damage equal to 176.9% of ATK + 9 and launches the target. |

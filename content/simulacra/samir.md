@@ -46,19 +46,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4> 
-
-<p align="center">
-<img src="https://i.postimg.cc/kg1pxyYg/Samir-m.png" alt="Centered Image">
-</p>
-
-
-
-> **2-piece:** Increase damage progressively by 1% upon hitting a target. Stack up to 10 / 13 / 16 / 20 times. Last for 1.5 seconds.
-
-> **4-piece:** Increase Dual EM Stars' electrical explosion damage by 16% / 22% / 30% / 40% of ATK.
-
-</br>
 
 | Normal Attack | Description |
 | --- | --- |

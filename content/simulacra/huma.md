@@ -47,22 +47,6 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4> 
-
-<p align="center">
-<img src="https://i.postimg.cc/QM6hK51Q/Huma-m.png" alt="Centered Image">
-</p>
-
-
-
-> **2-piece:** Hitting targets with dodge skills inflicts bleed, dealing damage equal to / 15% / 19% / 22.5% / 26% of ATK every second for 5 seconds.
-
-> **4-piece:** Reduce ATK of all targets within 8 meters that are taking damage over time by 10% / 12% / 13% / 15%. Only the highest level's effect is applied when obtained repeatedly.
-
-</br>
-
-
-
 | Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the shield axe to attack 4 times in a row. </br> **First Attack in Shield Form:** Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 56.9% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 62.8% of ATK + 3 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 184% of ATK + 10 and launch the target into the air. </br> **First Attack in Axe Form:** Deal damage equal to 135.2% of ATK + 7 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 79.4% of ATK + 4 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 119.9% of ATK + 6 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 221.3% of ATK + 12 and knock the target back.

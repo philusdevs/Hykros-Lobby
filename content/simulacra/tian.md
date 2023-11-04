@@ -55,21 +55,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-<img src="https://telegra.ph/file/772439576be48e2f6125c.png" alt="Centered Image">
-</p>
-
-> **2-piece:** Every time volt damage is dealt, there is a 40% chance of triggering chain lightning, dealing damage equal to 50% / 65% / 90% / 120% of volt ATK to targets, up to 7 targets. Cooldown: 2 seconds. Every time chain lightning is triggered, increase volt damage by 6% for 6 seconds (chain lightning will not trigger attack effects). This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
-
-> **4-piece:** Every time a volt weapon's skill or discharge skill is used, increase volt damage by 12% / 14% / 16% / 18% for 15 seconds. This effect cannot be stacked. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
-
-
-</br>
-
-
-
 | Normal Attack | Description |
 | --- | --- |
 | **Normal Attack Passive** | When wielding Thunderbreaker, every 4 normal attacks will charge the weapon, stacking up to 5 charge points. After charging, any Electromancy dodge skill triggers electrocution with lightning. Lightning damage dealt equals 3% of HP lost (but no lower than 100% of Volt ATK, and no higher than 1,000% of Volt ATK), and triggers Electrified Entity, which deals area volt damage equal to 2% of HP lost (no lower than 40% of Volt ATK, and no higher than 400% of Volt ATK).

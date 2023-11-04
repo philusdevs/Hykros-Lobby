@@ -41,19 +41,6 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 </br>
 
 
-<h4 style="text-align: center;"> Matrix </h4> 
-
-<p align="center">
-<img src="https://i.postimg.cc/7YdTdKBb/Pepper-m.png" alt="Centered Image">
-</p>
-
-
-> **3-piece:** Increase speed of obtaining weapon charge by 10% / 12.5% / 15%.
-
-</br>
-
-
-
 | Normal Attack | Description |
 | --- | --- |
 | **Normal Attack** | While on the ground, swing the staff to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 25.1% of ATK + 1. </br> **Second Attack:** Deal damage equal to 18.8% of ATK + 1. </br> **Third Attack:** Deal damage equal to 30.4% of ATK + 2. </br> **Fourth Attack:** Deal damage equal to 41.4% of ATK + 2. </br> **Fifth Attack:** Deal damage equal to 73.2% of ATK + 4.

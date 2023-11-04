@@ -43,23 +43,6 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 
 6★ Barrage has a 15-second burning effect. Successful attacks with any weapon's dodge skills reduce the cooldown of Barrage by 4 seconds. This cooldown of the effect: 1.5 seconds. The DoT burn from the dodge skill also triggers a cooldown reduction effect.
 
-
-
-
-</br>
-
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-<p align="center">
-    <img src="https://i.postimg.cc/C532fMcH/Cobalt-B-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** Increase damage against debuffed targets by 14% / 16% / 18% / 20%.
-
-> **4-piece:** Restore 1 dodge attempt every 3 dodges. Dodge skills inflict burn upon hit, dealing damage equal to 24% / 30% / 36% / 42% of ATK every 0.5 seconds for 4 seconds.
-
 </br>
 
 | Normal Attack |Description                                                                                                                     |

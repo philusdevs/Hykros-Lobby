@@ -44,23 +44,6 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-
-<p align="center">
-    <img src="https://i.postimg.cc/3xYTL9Zj/King-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** When a target is shattered, grant 8% / 10% / 12% / 14% damage boost for 25 seconds. Only the highest level's effect is applied when obtained repeatedly.
-
-> **4-piece:** When there are 2 enemies around, hit restore HP equal to 14% / 18% / 22% / 26% of damage dealt upon attacking. The maximum HP restored every 0.5 seconds must not exceed 36% / 42% / 48% / 54% of ATK.
-
-
-
-
-</br>
 
 | Normal Attack | Description |
 | --- | --- |

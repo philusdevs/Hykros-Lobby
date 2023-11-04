@@ -44,18 +44,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-<img src="https://i.postimg.cc/4dP90ZMT/Bai-Ling-m.png" alt="Centered Image">
-</p>
-
-> **3-piece:** Increase damage dealt to grievous targets by 12% / 15% / 18%.
-
-</br>
-
-
-
 | Normal Attack | Description |
 | --- | --- |
 | **Quickdraw** | While on the ground, draw the bow repeatedly to attack 5 times. </br> **First Attack:** Deal damage equal to 33.7% of ATK + 2. </br> **Second Attack:** Deal damage equal to 30.2% of ATK + 2. </br> **Third Attack:** Deal damage equal to 54.3% of ATK + 3. </br> **Fourth Attack:** Deal damage equal to 83.5% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance.

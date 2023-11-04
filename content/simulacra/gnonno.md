@@ -63,15 +63,6 @@ This effect can only be triggered 1 time every 5 seconds (unavailable in Apex Le
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-    <img src="https://telegra.ph/file/b74a86a716225aedef72c.png"
-     alt="Centered Image">
-</p>
-
-
-
 
 > **2-piece:** Increase all elemental damage by 8% / 9% / 10% / 11% when at least 1 physical weapon is equipped. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 

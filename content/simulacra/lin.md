@@ -46,18 +46,6 @@ When pairing Shadoweave with other weapons, the Weapons Master effect can be cre
 
 6★ Switch modes on Moonlight Realm up to 2 times. Gain 1 attempt after skill cooldown and another 1 attempt by charging discharge. Use any weapon discharge 3 times to gain +1 on the Moonlight Realm count. Effective even when Shadoweave is in the off-hand slot. When under the effect of Moonlight Realm, increase attack by 23%.
 
-</br>
-
-<h4 style="text-align: center;"> Matrices</h4>
-
-<p align="center">
-    <img src="https://i.postimg.cc/GpSnmRnz/Lin-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** Increase ATK by 1.9% / 2.3% / 2.7% / 3.1% on hit for 18 seconds, stacking up to 5 times. Only the effect of the highest level is applied when obtained repeatedly.
-
-> **4-piece:** Every 5m traveled within Moonlight Realm grants 1 stack of Moonlight, increasing final damage by 3.4% / 4.2% / 5% / 5.8% for 15 seconds, stacking up to 3 times. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
-
 
 </br>
 

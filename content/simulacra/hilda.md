@@ -42,18 +42,6 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 </br>
 
-<h4 style="text-align: center;"> Matrix </h4>
-
-<p align="center">
-<img src="https://i.postimg.cc/J7TXcrZN/Hilda-m.png" alt="Centered Image">
-</p>
-
-> **3-piece:** Increase ATK by 15% / 19% / 22.5% when there are no enemies within 6 meters.
-
-</br>
-
-
-
 
 | Normal Attack | Description |
 | --- | --- |

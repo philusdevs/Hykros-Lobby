@@ -43,22 +43,6 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 6★ After using Full Bloom, grants a 100% crit chance for the next 8 seconds.
 
 
-
-</br>
-
-<h4 style="text-align: center;"> Matrix </h4>
-
-</br>
-
-
-<p align="center">
-    <img src="https://i.postimg.cc/R02pYZBr/Shiro-m.png" alt="Centered Image">
-</p>
-
-> **2-piece:** Increase both damage and shatter to targets with more than 50% HP by 15% / 19% / 22.5% / 26%.
-
-> **4-piece:** Upon entering battle, gain a 20% / 25% / 30% / 35% damage boost for 35 seconds. Reset 5 seconds after exiting battle.
-
 </br>
 
 
