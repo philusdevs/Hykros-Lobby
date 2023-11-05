@@ -46,17 +46,13 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 <h4 style="text-align: center;"> Advancements </h4>
 
 
-1★ Blazing Heart damage's base multiplier is increased to 60% of
-ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, Blazing Heart damage's base multiplier is additionally increased to that of the highest multiplier effect.
+1★ Blazing Heart damage's base multiplier is increased to 60% of ATK. While in the combat state, if the Wanderer inflicts multiple burn effects, Blazing Heart damage's base multiplier is additionally increased to that of the highest multiplier effect.
 
-3★ The maximum number of
-Fei Se's Phantasia is increased to 2.
-After Whirling lands a hit, additionally create 1 Fei Se's Phantasia.
+3★ The maximum number of Fei Se's Phantasia is increased to 2. After Whirling lands a hit, additionally create 1 Fei Se's Phantasia.
 
 5★ For every 1 Fei Se's Phantasia or Lotus Petal in the Mirage, Blazing Heart's damage is additionally increased by 12%. Lotus Aspara's endurance consumption is reduced by 75%.
 
-6★ Soulwear damage's base multiplier is increased to 270% of
-ATK, shatter is doubled, and there is a 15% chance to inflict a 65% delay for 2 seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).
+6★ Soulwear damage's base multiplier is increased to 270% of ATK, shatter is doubled, and there is a 15% chance to inflict a 65% delay for 2 seconds after landing a hit (ineffective against bosses in team play and unavailable in Apex League).
 
 
 </br>
@@ -96,16 +92,11 @@ ATK, shatter is doubled, and there is a 15% chance to inflict a 65% delay for 2 
 
 | Discharge | Description |
 | --- | --- |
-| **Unparalleled Jade Pool** ![](https://i.postimg.cc/PrHckLGS/Weapon-Heavy-Pistil-Unparalleled-Beauty.png) | When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer, dealing damage equal to 1,090% of ATK. During this period, gain damage immunity For 1.5 seconds (unavailable in Apex League).
+| **Unparalleled Jade Pool** ![](https://i.postimg.cc/PrHckLGS/Weapon-Heavy-Pistil-Unparalleled-Beauty.png) | When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer, dealing damage equal to 1,090% of ATK. During this period, gain damage immunity For 1.5 seconds [unavailable in Apex League].
 
 
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1151000836231675935/1155788608788250634/Fei_Se_-_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1151000836231675935/1170622365491793920/Fei_Se_Hykros_Lobby.png';">
       Download Simulacrum
     </button>
 
-
-
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1151000836231675935/1155880248789975111/Fei_Se_CN_-_Hykros_Lobby.png';">
-      Download Simulacrum [CN]
-    </button>

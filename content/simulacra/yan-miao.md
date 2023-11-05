@@ -101,6 +101,6 @@ If there is 1 frost/volt weapon of any kind equipped, Flying Blade damage is mul
 |-----------------|---------------------------------------------------------------|
 | **Cloud-Bursting Meteorite** ![](https://i.postimg.cc/g0sJTTKN/Weapon-Law-and-Order-Falling-Stars-Through-the-Clouds.png)| </br> When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and causes Equilibrium to spin at high speed, sending the wanderer forward and dealing damage equal to 3,990% of ATK to enemies in its path. During this period, gain damage immunity for 2.6 seconds [unavailable in Apex League].|
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1170415119289823302/1170422570827382874/Yan_Miao_Hykros_Lobby_CN_UN.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1170415119289823302/1170622740554846238/Yan_Miao_Hykros_Lobby.png';">
       Download Simulacrum CN [Unofficial Translation]
     </button>
