@@ -37,7 +37,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
-**Frost Resonance:** Increase Frost ATK by 20% and Frost Resistance by 40%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type. </br>
+**Frost Resonance:** Increase Frost ATK by 15% and Frost Resistance by 25%. Activate by equipping 2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type. </br>
 **Extreme Cold: Unload:** After using Sword Art: Shadowy Ice, every second, deal damage equal to 70% of frost ATK plus 10% of the Wanderer's Max HP plus 36% of the sum of all the Wanderer's resistance types plus 135% of crit for 30 seconds. Multiple Unload damage will not stack and Extreme Cold damage will be counted as skill damage. If there is 1 volt/flame/physical weapon of any kind equipped, Extreme Cold damage is multiplied by 1.3 times. In addition, Extreme Cold damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
 <h4 style="text-align: center;"> Advancement</h4>
@@ -82,6 +82,6 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 | --- | --- |
 |**Cloud-Bursting Meteorite**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and causes Equilibrium to spin at high speed, sending the wanderer forward and dealing damage equal to 3,990% oF ATK to enemies in its path. During this period, gain damage immunity For 2.6 seconds [unavailable in Apex League].
 
-<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1145372556782751844/1170422370956230686/Ling_Han_Hykros_Lobby.png';">
+<button onclick="window.location.href='https://cdn.discordapp.com/attachments/1145372556782751844/1170600513855819786/Ling_Han_Hykros_Lobby.png';">
       Download Simulacrum 
     </button>
