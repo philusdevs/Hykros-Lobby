@@ -6,7 +6,7 @@ simulacra:
     icon: /media/Brevey.png
     gradientColor: Volt
     bottomLeftOverlay: /media/SSR.png
-    bottomRightOverlay: /media/Element_Volt.png
+    bottomRightOverlay: /media/Element_VoltFrost.png
     bottomRightOverlay2: /media/Bene.png
     bottomRightOverlay3: /media/CN.png
   - name: Yan Miao
