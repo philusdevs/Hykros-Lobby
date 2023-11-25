@@ -2,7 +2,7 @@
 title: "Brevey"
 date: 2024-01-21
 tags: [SSR, Volt]
-social_image: '/media/tab_brevey.png'
+social_image: '/media/brevey_tab.png'
 description: Brevey, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Metz Pact Badge.
 ---
 
