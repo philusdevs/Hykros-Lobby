@@ -12,7 +12,7 @@ description: Brevey, featured as an obtainable SSR Simulacrum within the simulac
 ### Awaken: Vivid Colors
 
 > Final damage is increased by 18%.
-When equipped with Metz Pact Badge, Final damage is additionaly increased by 8%. When Benediction Resonance is active, final damage buff also applies to teammates (can't stack).
+When equipped with Metz Pact</br>Badge, Final damage is additionaly increased by 8%. When Benediction Resonance is active, final damage buff also applies to teammates (cannnot stack).
 
 </br>
 
