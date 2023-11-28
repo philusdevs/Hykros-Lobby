@@ -1,10 +1,7 @@
-import React, { useEffect, useState } from "react";
-import styled, { css } from "styled-components";
+import React, { useState, useEffect } from "react";
+import styled from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
-import ThemeSwitchButton from "./theme-switch";
-import { useStaticQuery, graphql } from "gatsby";
-import { useTheme } from '../ThemeContext/ThemeContext';
 
 const HEADER_NAV_ITEM = [
   {
@@ -22,47 +19,22 @@ const HEADER_NAV_ITEM = [
     url: "/matrices",
     isExternal: false,
   },
-  /*{
-    label: "Contact",
-    url: "/contact",
-    isExternal: false,
-  },*/
-  /*{
-    label: "About",
-    url: "/about",
-    isExternal: false,
-  },*/
 ];
 
 const Header = () => {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
-  );
-
-  const { darkMode, setDarkMode } = useTheme(); // Get the dark mode state and setter from the ThemeContext
-
+  const [darkMode, setDarkMode] = useState(false);
   const [isInitialLoad, setIsInitialLoad] = useState(true);
 
   useEffect(() => {
     const localDarkMode = localStorage.getItem("darkMode");
     if (localDarkMode !== null) {
-      // If there's a dark mode preference in localStorage, use it on initial load
       setDarkMode(localDarkMode === "true");
       setIsInitialLoad(true);
     }
-  }, [setDarkMode]);
+  }, []);
 
   useEffect(() => {
     if (!isInitialLoad) {
-      // If it's not the initial load, update localStorage with the new dark mode preference
       localStorage.setItem("darkMode", darkMode.toString());
     }
   }, [darkMode, isInitialLoad]);
@@ -94,23 +66,18 @@ const Header = () => {
               </HeaderNavListItem>
             );
           })}
-          <HeaderNavListItem>
-            <ThemeSwitchButton />
-          </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
     </StyledHeader>
   );
 };
 
-export default Header;
-
 // StyledHeader and other styled components
 const StyledHeader = styled.header`
   padding-top: var(--size-300);
   background-color: ${({ darkMode }) => (darkMode ? "#000000" : "#000000")};
   color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#e9e9e9")};
-  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 0s" : "background-color 0s")};
+  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color -1s" : "background-color -1s")};
 `;
 
 const HeaderNavList = ({ children }) => {
@@ -124,8 +91,6 @@ const HeaderNavList = ({ children }) => {
 const HeaderNavListItem = ({ children }) => {
   return <StyledNavListItem>{children}</StyledNavListItem>;
 };
-
-
 
 const HeaderWrapper = styled(Container)`
   display: flex;
@@ -183,3 +148,5 @@ const StyledNavListItem = styled.li`
     }
   }
 `;
+
+export default Header;
