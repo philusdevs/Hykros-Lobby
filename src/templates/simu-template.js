@@ -13,7 +13,7 @@ const PostTemplate = ({ data }) => {
         border-collapse: collapse;
     }
     table, th, td {
-       border: 1.5px solid black;
+       border: 1.5px solid white;
     }
     blockquote {
         border-left: solid blue;
