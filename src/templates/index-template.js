@@ -135,7 +135,7 @@ export const pageQuery = graphql`
           slug
         }
         excerpt
-        timeToReadf
+        timeToRead
         frontmatter {
           date(formatString: "MMMM DD, YYYY")
           description
