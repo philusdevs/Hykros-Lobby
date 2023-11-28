@@ -95,7 +95,7 @@ const Header = () => {
             );
           })}
           <HeaderNavListItem>
-            
+            <ThemeSwitchButton />
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
