@@ -5,10 +5,6 @@ tags: [SSR, Matrices, Crit, ED]
 social_image: '/media/matrice.png'
 description: Scylla Matrices
 ---
-#### Reverberating Drums
-
-![](https://telegra.ph/file/20facf9fd4be663ad2b55.png)
-
 
 > **2-piece:** Equipping this matrix on the current weapon increases crit damage by 13% / 16% / 19% / 23% and shatter by 13% / 16% / 19% / 23%.
 

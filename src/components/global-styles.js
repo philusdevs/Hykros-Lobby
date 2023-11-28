@@ -111,15 +111,15 @@ body {
 }
 
 body.light-mode {
-  color: #37292C;
-  background-color: #f5f5f5;
+  color: #e9e9e9;
+  background-color: #000000;
   
 
 }
 
 body.dark-mode {
   color: #e9e9e9;
-  background-color: #252526;
+  background-color: #000000;
 }
 
 body.dark-mode ::selection{

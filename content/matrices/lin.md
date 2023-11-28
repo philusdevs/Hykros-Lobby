@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Altered, FD, ATK]
 social_image: '/media/matrice.png'
 description: Lin Matrices
 ---
-#### Night City Never Sleeps
-
-![](https://i.postimg.cc/GpSnmRnz/Lin-m.png)
 
 > **2-piece:** Increase ATK by 1.9% / 2.3% / 2.7% / 3.1% on hit for 18 seconds, stacking up to 5 times. Only the effect of the highest level is applied when obtained repeatedly.
 

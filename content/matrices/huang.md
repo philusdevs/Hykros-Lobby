@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Volt, FD, ED]
 social_image: '/media/matrice.png'
 description:  Huang Matrices
 ---
-#### Resounding Chant
-
-![](https://telegra.ph/file/25cdb8ade6eecd8365ce6.png)
 
 > **2-piece:** Increase final damage by 7%/8%/ 9%/10%. After Azura's shockwave lands a hit, increase skill damage by 15% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.		
 

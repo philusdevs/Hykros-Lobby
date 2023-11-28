@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Frost, FD, ED]
 social_image: /media/matrice.png
 description: Ling Han Matrices
 ---
-#### Frost Shadow 
-
-![](https://telegra.ph/file/f5050323358ef1a1ea6c5.png)
 
 >  **2-piece:** Increase all elemental damage by 7%/ 8%/9%/10%. When firing Frost Blades, deal additional damage to 416% of ATK to nearby targets. This set effect works in the off-hand slot, and only the set with highest star rating will take effect.
 

@@ -5,9 +5,6 @@ tags: [SSR, Matrices, FD]
 social_image: '/media/matrice.png'
 description: Haboela Matrices
 ---
-#### Volcanic Ash Rain
-
-![](https://telegra.ph/file/740497fe2de3d735acce4.png)
 
 
 > **2-piece:** Equipping this matrix on the current weapon increases final damage by 8.5% / 10.5% / 12.5% / 14.5%.

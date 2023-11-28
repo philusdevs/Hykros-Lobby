@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Frost, FD, ED]
 social_image: '/media/matrice.png'
 description: Yu Lan Matrices
 ---
-#### Sincerity
-
-![](https://telegra.ph/file/3d3157040eaa52353db44.png)
 
 >  **2-piece:** When at least 1 frost weapon is equipped, nearby targets will take 65% ATK damage every second while in combat. Using any frost weapon's skill or discharge skill increases final damage 6%/7%/8%/9% for 30 seconds. This effect works in the background, and if multiple sets are used, the highest star set will take effect.
 

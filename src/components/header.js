@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import styled, { css } from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
-import ThemeSwitchButton from "./theme-switch";
 import { useStaticQuery, graphql } from "gatsby";
 import { useTheme } from '../ThemeContext/ThemeContext';
 
@@ -56,7 +55,7 @@ const Header = () => {
     if (localDarkMode !== null) {
       // If there's a dark mode preference in localStorage, use it on initial load
       setDarkMode(localDarkMode === "true");
-      setIsInitialLoad(false);
+      setIsInitialLoad(true);
     }
   }, [setDarkMode]);
 
@@ -95,7 +94,7 @@ const Header = () => {
             );
           })}
           <HeaderNavListItem>
-            <ThemeSwitchButton />
+            
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
@@ -108,9 +107,9 @@ export default Header;
 // StyledHeader and other styled components
 const StyledHeader = styled.header`
   padding-top: var(--size-300);
-  background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")};
-  color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#000000")};
-  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 0s" : "background-color 0.01s")};
+  background-color: ${({ darkMode }) => (darkMode ? "#000000" : "#000000")};
+  color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#e9e9e9")};
+  transition: ${({ isInitialLoad }) => (isInitialLoad ? "background-color 0s" : "background-color 0s")};
 `;
 
 const HeaderNavList = ({ children }) => {

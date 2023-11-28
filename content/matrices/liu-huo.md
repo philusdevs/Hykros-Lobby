@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Flame, FD, ED]
 social_image: /media/matrice.png
 description: Liu Huo Matrices
 ---
-#### Spring & Autumn Brush
-
-![](https://telegra.ph/file/3dd8e9490147f7e273c62.png)
 
 > **2-piece:** Increase final damage by 9% / 10% / 11% / 12%. The number of Sparrow Feathers obtained from dodging after using Pine Comet increases to 20. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 

@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Physical, Normal]
 social_image: '/media/matrice.png'
 description: Lyra Matrices
 ---
-#### The Confession of Memory
-
-![](https://i.postimg.cc/tCt0VWHs/Lyra-m.png)
 
 > **2-piece:** Use this weapon to increase all attack types by 13% / 17% / 21% / 25%. The lower the HP, the higher the healing received, which can be increased by up to 100%.
 

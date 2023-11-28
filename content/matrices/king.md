@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Flame, Normal]
 social_image: '/media/matrice.png'
 description: King Matrices
 ---
-#### Advocate of Violence 
-
-![](https://i.postimg.cc/3xYTL9Zj/King-m.png)
 
 > **2-piece:** When a target is shattered, grant 8% / 10% / 12% / 14% damage boost for 25 seconds. Only the highest level's effect is applied when obtained repeatedly.
 

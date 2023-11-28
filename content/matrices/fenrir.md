@@ -6,9 +6,6 @@ social_image: '/media/matrice.png'
 description: Fenrir Matrices
 ---
 
-#### Symphony of Life
-
-![](https://telegra.ph/file/1c9f4f607ae78e4bf6b31.png)
 
 > **2-piece:** Increases crit damage by 14% / 15% / 16% / 18%. This effect does not stack. This Matrix's effect is also active in the off-hand slot, but only the set with the highest star rating will take effect.
 

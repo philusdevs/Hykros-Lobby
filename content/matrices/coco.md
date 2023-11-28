@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Support, ATK]
 social_image: '/media/matrice.png'
 description: Coco Matrices
 ---
-#### Proof of Trust
-
-![](https://i.postimg.cc/fRfwZ1bg/Coco-m.png)
 
 > **2-piece:** Increase healing capability and healing received by 10% / 12% / 14% / 16%.
 

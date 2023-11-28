@@ -6,9 +6,6 @@ social_image: '/media/matrice.png'
 description: Anna Matrices
 ---
 
-#### Bloody Anecdote
-
-![](https://telegra.ph/file/279e90d03308af567f70a.png)
 
 > **2-piece:** After hitting a target with a flame weapon, increase final damage by 2.7% / 3.2% / 3.7% / 4.2% and final crit rate by 2% / 2% / 2.4% / 2.4% for 25 seconds, stacking up to 2 times. Only the effect with the highest star rating is applied when obtained repeatedly.
 

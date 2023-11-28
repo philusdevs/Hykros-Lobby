@@ -5,11 +5,10 @@ import Footer from "./footer";
 import Container from "./container";
 import GlobalStyle from "./global-styles";
 import styled from "styled-components";
-import { ThemeProvider } from "../ThemeContext/ThemeContext";
 
 const Layout = ({ children, title, description, socialImage }) => {
   return (
-    <ThemeProvider>
+    
       <Fragment>
         <GlobalStyle />
         <Seo title={title} description={description} socialImage={socialImage} />
@@ -21,7 +20,7 @@ const Layout = ({ children, title, description, socialImage }) => {
           <Footer />
         </LayoutWrapper>
       </Fragment>
-    </ThemeProvider>
+  
   );
 };
 

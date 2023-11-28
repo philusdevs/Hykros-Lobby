@@ -5,9 +5,7 @@ tags: [SSR, Matrices, Normal]
 social_image: '/media/matrice.png'
 description: Claduia Matrices
 ---
-#### Multi-directional Strike 
 
-![](https://i.postimg.cc/MKR63nJw/Claudia-m.png)
 
 > **2-piece:** Increase damage by 13% / 17% / 20% / 23% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.
 

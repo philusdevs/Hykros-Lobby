@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Flame, Normal]
 social_image: '/media/matrice.png'
 description: Huma Matrices
 ---
-#### Slightly Awakened 
-
-![](https://i.postimg.cc/QM6hK51Q/Huma-m.png)
 
 > **2-piece:** Hitting targets with dodge skills inflicts bleed, dealing damage equal to / 15% / 19% / 22.5% / 26% of ATK every second for 5 seconds.
 

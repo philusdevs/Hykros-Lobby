@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Flame, Normal]
 social_image: '/media/matrice.png'
 description: Cobalt-B Matrices
 ---
-#### Intuitive Tactic
-
-![](https://i.postimg.cc/C532fMcH/Cobalt-B-m.png)
 
 > **2-piece:** Increase damage against debuffed targets by 14% / 16% / 18% / 20%.
 

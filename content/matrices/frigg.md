@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Frost, Normal]
 social_image: '/media/matrice.png'
 description: Frigg Matrices
 ---
-#### Iron Mind and Body 
-
-![](https://i.postimg.cc/cHrZRHBV/Frigg-m.png)
 
 > **2-piece:** Increase frost ATK by 8% / 10% / 12% / 15% for 10 seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.
 

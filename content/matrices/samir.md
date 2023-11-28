@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Normal]
 social_image: '/media/matrice.png'
 description: Samir Matrices
 ---
-#### Rational Liberation 
-
-![](https://i.postimg.cc/kg1pxyYg/Samir-m.png)
 
 > **2-piece:** Increase damage progressively by 1% upon hitting a target. Stack up to 10 / 13 / 16 / 20 times. Last for 1.5 seconds.
 

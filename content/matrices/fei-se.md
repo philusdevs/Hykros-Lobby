@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Flame, FD, ED]
 social_image: '/media/matrice.png'
 description: Fei Se Matrices
 ---
-#### Lissom
-
-![](https://telegra.ph/file/629b6e880789b70d754b8.png)
 
 > **2-piece:** After using any flame weapon skill or discharge skill, increase all ATK by 14% / 16% / 18% / 20% for 30 seconds. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 

@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Normal, Support]
 social_image: '/media/matrice.png'
 description: Ming Jing Matrices
 ---
-#### Pure White Guardian
-
-![](https://i.postimg.cc/k463VHnC/Meryl-m.png)
 
 > **2-piece:** If HP is less than 30% after being attacked, gain a shield equal to 20% / 26% / 32% / 40% of Max HP for 10 seconds. Cooldown: 90 seconds.
 

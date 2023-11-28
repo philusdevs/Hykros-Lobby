@@ -5,8 +5,5 @@ tags: [SR, Matrices, Support]
 social_image: '/media/matrice.png'
 description: Pepper Matrices
 ---
-#### Nonstop 
-
-![](https://i.postimg.cc/7YdTdKBb/Pepper-m.png)
 
 > **3-piece:** Increase speed of obtaining weapon charge by 10% / 12.5% / 15%.

@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Crit, Normal]
 social_image: '/media/matrice.png'
 description: Crow Matrices
 ---
-#### Fanatical Pursuit 
-
-![](https://i.postimg.cc/h4N409wM/Crow-m.png)
 
 > **2-piece:** Increase crit damage to targets with less than 60% HP by 24% / 30% / 36% / 42%.
 

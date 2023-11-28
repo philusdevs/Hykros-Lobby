@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Physical, ED]
 social_image: '/media/matrice.png'
 description: Gnonno Matrices
 ---
-#### Adventure Asteroid
-
-![](https://telegra.ph/file/b74a86a716225aedef72c.png)
 
 > **2-piece:** Increase all elemental damage by 8% / 9% / 10% / 11% when at least 1 physical weapon is equipped. This set effect works in the off-hand slot, only the set with the highest star rating will take effect.
 

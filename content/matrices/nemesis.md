@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Volt, Normal, ATK]
 social_image: '/media/matrice.png'
 description: Nemesis Matrices
 ---
-#### Life Bridging
-
-![](https://i.postimg.cc/6qrPnJgk/Nemesis-m.png)
 
 > **2-piece:** When a target is being healed, their volt ATK is increased by / 8% / 10% / 12% / 15% for 20 seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.
 

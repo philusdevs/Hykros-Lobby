@@ -5,9 +5,6 @@ tags: [SSR, Matrices, Altered, FD, ATK]
 social_image: '/media/matrice.png'
 description: Fiona Matrices
 ---
-#### Stimulus
-
-![](https://telegra.ph/file/87b9e85fe89829ae1bb74.png)
 
 > **2-piece:** After dealing damage, increase ATK by 16% / 18% / 20% / 22% for 30 seconds. This effect does not stack. Only the effect with the highest star rating is applied when obtained repeatedly.
 </br>
