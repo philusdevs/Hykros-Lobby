@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import styled, { css } from "styled-components";
 import { Link } from "gatsby";
 import Container from "./container";
+import ThemeSwitchButton from "./theme-switch";
 import { useStaticQuery, graphql } from "gatsby";
 import { useTheme } from '../ThemeContext/ThemeContext';
 
