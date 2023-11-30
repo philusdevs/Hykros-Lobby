@@ -43,22 +43,22 @@ const Tag = styled.span`
   }
 
   & a:hover {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(92, 173, 255, 0.9);
   }
 
   body.light-mode & a {
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.5);
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(92, 173, 255, 0.9);
   }
 
   body.light-mode & a:hover {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 111, 255);
   }
 
   body.dark-mode & a {
-    background-color: #212122;
+    background-color: #5CADFF;
     border: 1px solid #1a1a1b;
-    opacity: 0.8;
+    opacity: 0.9;
   }
 `;
