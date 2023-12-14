@@ -63,7 +63,7 @@ If there is 1 volt/Frost weapon of any kind equipped, Papa damage is multiplied 
 </br>
 
 6★ Mirror (target): now reflects 15% damage into the target itself as well.
-Mirror (wanderer]: now also gives improved reflection and block.
+Mirror [wanderer]: now also gives improved reflection and block.
 Reflection: now reflects 30% of damage received back up to a maximum of 800% of the wanderer's Max HP].
 Block: the damage taken is reduced by 10% of the wanderer's Max HP.
 
