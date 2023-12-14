@@ -65,7 +65,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 | Skill | Description |
 | --- | --- |
-| **Empyrean Rotation** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Wanderer deals damage equal to 4,099% of ATK and gains a hyper-body for 20 seconds. At the end of Empyrean Rotation creates 3 Flaming Daggers for 20 seconds the maximum number of Flaming Daggers can only be given once every 20 seconds]. Cooldown: 20 seconds.Flaming Daggers: When hitting the target with a dodge attack of anv flame or physical weapon. Faming Dagger wi be used to inflict armour melt on the target and deal additional damage equal to 6.500% oF ATK of the corresponding active weapon element type. Hitting the target with a Flaming Dagger restores 1 dodge attempt and increases Final damage by 20% for 20 seconds. Flaming Dagger can be triggered once every 2.8 seconds, and its damage counts as normal attack damage. |
+| **Sword Art: Shadowy Ice** ![](https://i.postimg.cc/Gpd8HxdD/Weapon-Alabaster-Tiger-Sword-Art-Shadowy-Ice.png)  |Deal damage equal to 370.2% of ATK plus 19 to nearby targets an draw them in. Then, form a Sword Array to summon a heavy rain of swords and strongly freeze targets [unavailable in Apex League and against bosses] for 4 seconds. Cooldown: 30 seconds. After successfully using Sword Art: Shadowy Ice, the Wanderer emits Cold Air, dealing damage equal to 68% of ATK to nearby targets every second and reducing the targets' speed by 30% [unavailable in Apex League and against bosses]. At the same time, increase the Wanderer's frost damage by 8% for 35 seconds.After completely executing Sword Art: Shadowy Ice, the Wanderer creates a large amount of Frost Blades, firing 1 blade every 7.5 seconds at the currently locked-on target, dealing damage equal to 360% of ATK and inflicting Temperature Reduction on the target. There can be up to 3 Frost Blades created initially, and all blades will be removed while in the non-combat state.Temperature Reduction: Deal damage equal to 240% of ATK every 3 seconds to nearby targets for 12 seconds.|
 
 </br>
 
@@ -74,13 +74,13 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 | --- | --- |
 | **Dodge** ![](https://i.postimg.cc/DywWV0QP/Weapon-Common-Dodge.png) | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area.|
 | **Sword Art: Cloud Shower** ![](https://i.postimg.cc/bJYtFH5P/Weapon-Alabaster-Tiger-Sword-Art-Cloud-Shower.png)| Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Sword Art: Cloud Shower, dealing damage up to 305% of ATK plus 16 to targets hit. |
-| ![](https://i.postimg.cc/bwQSyBc8/Weapon-Alabaster-Tiger-Sword-Art-Mortal-Soul.png) **Sword Art: Mortal Soul** | Use normal attack during the short period after dodging to trigger Sword Art: Mortal Soul. Release a White Tiger illusion to deal damage equal to 167.8% of ATK plus 9 to targets ahead. |
+|  **Sword Art: Mortal Soul** ![](https://i.postimg.cc/bwQSyBc8/Weapon-Alabaster-Tiger-Sword-Art-Mortal-Soul.png) | Use normal attack during the short period after dodging to trigger Sword Art: Mortal Soul. Release a White Tiger illusion to deal damage equal to 167.8% of ATK plus 9 to targets ahead. |
 
 </br>
 
 | Discharge | Description |
 | --- | --- |
-|**Cloud-Bursting Meteorite**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds [unavailable in Apex League]. </br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.
+|**Sword Art: Icy Beckon**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds [unavailable in Apex League]. </br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1145372556782751844/1170620568748433408/Ling_Han_Hykros_Lobby.png';">
       Download Simulacrum 
