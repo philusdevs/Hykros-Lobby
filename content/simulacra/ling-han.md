@@ -80,7 +80,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 | Discharge | Description |
 | --- | --- |
-|**Cloud-Bursting Meteorite**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and causes Equilibrium to spin at high speed, sending the wanderer forward and dealing damage equal to 3,990% oF ATK to enemies in its path. During this period, gain damage immunity For 2.6 seconds [unavailable in Apex League].
+|**Cloud-Bursting Meteorite**  ![](https://i.postimg.cc/vHx6jm04/Weapon-Alabaster-Tiger-Sword-Art-Icy-Beckon.png)  |When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and summon a Sword Array around the Wanderer, engulfing the area in cold and dealing damage up to 844.5% of ATK plus 44 to nearby targets. Soon after, summon a White Tiger to deal damage equal to 1,971% of ATK plus 104, during which damage immunity lasts for 1.5 seconds [unavailable in Apex League]. </br> Passive: After Sword Art: Icy Beckon lands a hit, increase final damage by 8% for 30 seconds.
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1145372556782751844/1170620568748433408/Ling_Han_Hykros_Lobby.png';">
       Download Simulacrum 
