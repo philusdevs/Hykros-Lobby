@@ -2,6 +2,8 @@
 title: "Matrices"
 template: "matrice-template"
 matrice:
+  - name: Plotti
+    icon: '/media/Plotti_m.png'
   - name: Brevey
     icon: '/media/Brevey_m.png'
   - name: Yan Miao

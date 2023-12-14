@@ -2,6 +2,13 @@
 title: "Simulacra"
 template: "simulacra-template"
 simulacra:
+  - name: Plotti
+    icon: /media/Plotti.png
+    gradientColor: Flame
+    bottomLeftOverlay: /media/SSR.png
+    bottomRightOverlay: /media/Element_FlamePhysical.png
+    bottomRightOverlay2: /media/DPS.png
+    bottomRightOverlay3: /media/CN.png
   - name: Brevey
     icon: /media/Brevey.png
     gradientColor: Volt
