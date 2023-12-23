@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import styled from 'styled-components';
@@ -8,17 +8,41 @@ const SimulacraTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
   const simulacraList = frontmatter.simulacra || [];
 
+  // State to track the selected gradient color
+  const [selectedGradientColor, setSelectedGradientColor] = useState(null);
+
+  // Function to handle gradient color selection
+  const handleGradientColorChange = (color) => {
+    setSelectedGradientColor(color);
+  };
+
+  // Filter simulacra based on the selected gradient color
+  const filteredSimulacraList = selectedGradientColor
+    ? simulacraList.filter((simulacrum) => simulacrum.gradientColor === selectedGradientColor)
+    : simulacraList;
+
   return (
     <Layout title={frontmatter.title}>
       <SimulacraTitle>{frontmatter.title}</SimulacraTitle>
+
+      {/* Filter buttons */}
+      <FilterButtons>
+        <FilterButton onClick={() => handleGradientColorChange('Frost')}>Frost</FilterButton>
+        <FilterButton onClick={() => handleGradientColorChange('Volt')}>Volt</FilterButton>
+        <FilterButton onClick={() => handleGradientColorChange('Flame')}>Flame</FilterButton>
+        <FilterButton onClick={() => handleGradientColorChange('Physical')}>Physical</FilterButton>
+        <FilterButton onClick={() => handleGradientColorChange('Altered')}>Altered</FilterButton>
+        <FilterButton onClick={() => handleGradientColorChange(null)}>Show All</FilterButton>
+      </FilterButtons>
+
       <SimulacraWrapper>
         <SimulacraTabView>
-          {simulacraList.map((simulacrum) => {
+          {filteredSimulacraList.map((simulacrum) => {
             const simulacrumImage = getImage(simulacrum.icon);
             const bottomLeftOverlayImage = getImage(simulacrum.bottomLeftOverlay);
             const bottomRightOverlayImage = getImage(simulacrum.bottomRightOverlay);
             const bottomRightOverlayImage2 = getImage(simulacrum.bottomRightOverlay2);
-            const bottomRightOverlayImage3 = getImage(simulacrum.bottomRightOverlay3); // New optional field
+            const bottomRightOverlayImage3 = getImage(simulacrum.bottomRightOverlay3);
 
             let gradientColors;
             switch (simulacrum.gradientColor) {
@@ -33,9 +57,6 @@ const SimulacraTemplate = ({ data }) => {
                 break;
               case 'Physical':
                 gradientColors = 'linear-gradient(#7A6449, #D3B88F)';
-                break;
-              case 'Physical&Flame':
-                gradientColors = 'linear-gradient(#B59C78, #AD9A6E)';
                 break;
               case 'Altered':
                 gradientColors = 'linear-gradient(#426A6F, #94B9BB)';
@@ -66,7 +87,7 @@ const SimulacraTemplate = ({ data }) => {
                           <BottomRightOverlay2 image={bottomRightOverlayImage2} alt="Bottom Right Overlay 2" />
                         </BottomRightOverlayContainer2>
                       )}
-                      {simulacrum.bottomRightOverlay3 && (
+                      {bottomRightOverlayImage3 && (
                         <BottomRightOverlayContainer3>
                           <BottomRightOverlay2 image={bottomRightOverlayImage3} alt="Bottom Right Overlay 3" />
                         </BottomRightOverlayContainer3>
@@ -144,6 +165,53 @@ const SimulacraTab = styled.div`
   width: 180px;
 `;
 
+const FilterButtons = styled.div`
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; /* Allow buttons to wrap to the next line on smaller screens */
+  margin-bottom: 1rem;
+
+  @media screen and (max-width: 480px) {
+    /* For smaller screens, reduce margin and font size */
+    margin-bottom: 0.5rem;
+  }
+
+  @media screen and (min-width: 769px) {
+    /* For larger screens, increase margin and font size */
+    margin-bottom: 1rem;
+  }
+`;
+
+const FilterButton = styled.button`
+  margin-right: 0.6rem;
+  margin-bottom: 0.6rem;
+  text-transform: uppercase;
+  font-size: var(--size-300);
+  background-color: ${({ isActive }) => (isActive ? 'rgba(255, 255, 255, 0.9)' : 'transparent')};
+  color: ${({ isActive }) => (isActive ? '#212122' : 'inherit')};
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0.2rem 0.6rem;
+
+  &:hover {
+    background-color: ${({ isActive }) => (isActive ? 'rgba(255, 255, 255, 1)' : 'rgba(92,173,255, 0.9)')};
+  }
+
+  @media screen and (max-width: 480px) {
+    /* For smaller screens, adjust button size */
+    font-size: var(--size-200);
+    padding: 0.1rem 0.4rem;
+  }
+
+  @media screen and (min-width: 769px) {
+    /* For larger screens, adjust button size */
+    font-size: var(--size-300);
+    padding: 0.2rem 0.6rem;
+  }
+`;
+
 const SimulacraBlock = styled.div`
   display: flex;
   flex-direction: column;
@@ -162,7 +230,7 @@ const SimulacraIcon = styled(GatsbyImage)`
   width: 150px;
   border-radius: 8px;
   overflow: hidden;
-  background-image: ${({ gradientColors }) => gradientColors};
+  ${({ gradientColors }) => gradientColors && `background-image: ${gradientColors};`}
 `;
 
 const SimulacraName = styled.span`

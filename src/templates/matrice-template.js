@@ -23,6 +23,11 @@ const MatriceTemplate = ({ data }) => {
                     <MatriceIconWrapper>
                       <MatriceIcon image={matriceImage} alt={matrice.name} />
                       <MatriceName>{matrice.name}</MatriceName>
+                      {matrice.cntag && (
+                        <CntagOverlayContainer>
+                          <CntagOverlay image={getImage(matrice.cntag)} alt="Cntag Overlay" />
+                        </CntagOverlayContainer>
+                      )}
                     </MatriceIconWrapper>
                   </Link>
                 </MatriceBlock>
@@ -64,30 +69,24 @@ const MatriceTabView = styled.div`
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   grid-gap: 0.5rem;
 
+  /* Media queries for responsive design */
   @media screen and (max-width: 480px) {
-    /* For smaller smartphones */
     grid-template-columns: repeat(2, 1fr);
-    /* You can also adjust the font-size here if needed */
   }
 
   @media screen and (min-width: 481px) and (max-width: 768px) {
-    /* For larger smartphones and small tablets */
     grid-template-columns: repeat(3, 1fr);
-    /* You can adjust the font-size here if needed */
   }
 
   @media screen and (min-width: 769px) and (max-width: 1200px) {
-    /* For medium-sized tablets and laptops */
     grid-template-columns: repeat(4, 1fr);
-    /* You can adjust the font-size here if needed */
   }
 
   @media screen and (min-width: 1201px) {
-    /* For larger laptops and desktops */
     grid-template-columns: repeat(8, 1fr);
-    /* You can adjust the font-size here if needed */
   }
 `;
+
 const MatriceTab = styled.div`
   display: flex;
   flex-direction: column;
@@ -145,6 +144,19 @@ const MatriceCopy = styled.div`
   }
 `;
 
+const CntagOverlayContainer = styled.div`
+  position: absolute;
+  bottom: 120px;
+  right: 0;
+  z-index: 1;
+  padding: 1px;
+`;
+
+const CntagOverlay = styled(GatsbyImage)`
+  width: 20px;
+  height: 20px;
+`;
+
 export const pageQuery = graphql`
   query($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -161,6 +173,11 @@ export const pageQuery = graphql`
                 height: 220
                 transformOptions: { fit: COVER, cropFocus: CENTER }
               )
+            }
+          }
+          cntag {
+            childImageSharp {
+              gatsbyImageData(placeholder: BLURRED, formats: PNG)
             }
           }
         }

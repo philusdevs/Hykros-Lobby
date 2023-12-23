@@ -18,7 +18,7 @@ simulacra:
     bottomRightOverlay3: /media/CN.png
   - name: Yan Miao
     icon: /media/Yan_Miao.png
-    gradientColor: Physical&Flame
+    gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_PhysicalFlame.png
     bottomRightOverlay2: /media/DPS.png
@@ -53,7 +53,7 @@ simulacra:
     bottomRightOverlay3: null
   - name: Ming Jing 
     icon: /media/ming_jing.png
-    gradientColor: Physical&Flame
+    gradientColor: Physical
     bottomLeftOverlay: /media/SSR.png
     bottomRightOverlay: /media/Element_PhysicalFlame.png
     bottomRightOverlay2: /media/DPS.png

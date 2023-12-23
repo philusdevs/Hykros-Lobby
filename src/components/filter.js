@@ -1,14 +1,18 @@
 import React from 'react';
-import styled from 'styled-components';
+import PropTypes from 'prop-types';
+import styled, { css } from 'styled-components';
 
 const FilterWrapper = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 1rem;
   padding: 15px;
-  position: sticky; 
-  top: 0; 
-  z-index: 999; 
+  position: fixed; /* Change to fixed */
+  top: 0;
+  left: 0; /* Add left: 0 to ensure it starts from the left edge */
+  right: 0; /* Add right: 0 to ensure it spans the full width */
+  z-index: 999;
+  background-color: white; /* Set a background color if needed */
 `;
 
 const FilterButton = styled.button`
@@ -29,47 +33,52 @@ const FilterButton = styled.button`
   }
 
   body.light-mode & {
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    background-color: rgba(255, 255, 255, 0.7);
-    color: #212122;
-  }
-
-  body.light-mode &:hover {
-    background-color: rgba(255, 255, 255, 1);
+    ${lightModeStyles};
   }
 
   body.dark-mode & {
-    background-color: #212122;
-    border: 1px solid #1a1a1b;
-    opacity: 0.8;
+    ${darkModeStyles};
   }
 `;
 
-const filter = ({ activeFilter, setActiveFilter }) => {
-  const filterOptions = [
-    'All',
-    'Frost',
-    'Flame',
-    'Physical',
-    'Volt',
-    'Altered',
-    'Physical&Flame',
-  ];
+const lightModeStyles = css`
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.7);
+  color: #212122;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 1);
+  }
+`;
+
+const darkModeStyles = css`
+  background-color: #212122;
+  border: 1px solid #1a1a1b;
+  opacity: 0.8;
+`;
+
+const Filter = ({ activeFilter, setActiveFilter }) => {
+  const filterOptions = ['All', 'Frost', 'Flame', 'Physical', 'Volt', 'Altered', 'Physical&Flame'];
 
   return (
     <FilterWrapper>
-      {filterOptions.map((filter) => (
+      {filterOptions.map((filterOption) => (
         <FilterButton
-          key={filter}
-          isActive={activeFilter === filter}
-          onClick={() => setActiveFilter(filter)}
+          key={filterOption}
+          isActive={activeFilter === filterOption}
+          onClick={() => setActiveFilter(filterOption)}
         >
-          {filter}
+          {filterOption}
         </FilterButton>
       ))}
     </FilterWrapper>
   );
 };
 
-export default filter;
+Filter.propTypes = {
+  activeFilter: PropTypes.string.isRequired,
+  setActiveFilter: PropTypes.func.isRequired,
+};
+
+export default Filter;
