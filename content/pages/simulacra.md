@@ -263,35 +263,35 @@ simulacra:
     bottomRightOverlay3: null
   - name: Bai Ling
     icon: /media/Bai_Ling.png
-    gradientColor: none
+    gradientColor: Physical
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Physical.png
     bottomRightOverlay2: /media/DPS.png 
     bottomRightOverlay3: null                              
   - name: Ene 
     icon: /media/Ene.png
-    gradientColor: none
+    gradientColor: Frost
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/fortitude.png
     bottomRightOverlay3: null
   - name: Echo 
     icon: /media/Echo.png
-    gradientColor: none
+    gradientColor: Volt
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/DPS.png 
     bottomRightOverlay3: null   
   - name: Hilda
     icon: /media/Hilda.png
-    gradientColor: none
+    gradientColor: Frost
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Frost.png
     bottomRightOverlay2: /media/DPS.png
     bottomRightOverlay3: null
   - name: Pepper
     icon: /media/Pepper.png
-    gradientColor: none
+    gradientColor: Volt
     bottomLeftOverlay: /media/SR.png
     bottomRightOverlay: /media/Element_Volt.png
     bottomRightOverlay2: /media/Bene.png 

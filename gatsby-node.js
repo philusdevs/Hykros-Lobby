@@ -111,7 +111,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   if (simuMarkdownNodes.length > 0) {
     simuMarkdownNodes.forEach((node) => {
       // Get the base name of the file without extension
-      const fileName = path.basename(node.fields.slug, '.md');
+      const fileName = path.basename(node.fields.slug, '.js');
 
       createPage({
         path: `/simulacra/${fileName}/`,
