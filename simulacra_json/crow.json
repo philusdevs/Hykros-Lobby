@@ -1,122 +1,121 @@
 {
-    "title": "Crow",
-    "date": "2022-08-11",
-    "tags": ["SSR", "Volt"],
-    "social_image": "https://hykroslobby.com/opt/build/repo/static/media/tab_crow.png",
-    "description": "Crow, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Thunderblades.",
-    "image_url": "https://i.postimg.cc/fbLGFhZ2/Simulacrum-Crow-Awaken.webp",
-    "awaken": [
-      {
-        "name": "Silent Night",
-        "description": "When Crow is not in team play, increase damage dealt by 10% and reduce damage received by 6%. When Crow enters combat, increase damage dealt by 12% for 12 seconds."
-      }
-    ],
-    "weapon_info": {
-      "name": "Thunderblades",
-      "image_url": "https://i.postimg.cc/g0JXrrqY/Icon-Weapon-Thunderblades.webp",
-      "attack": 18,
-      "hp": 1165,
-      "crit_rate": 14,
-      "shatter": 8.00,
-      "charge": 6.00
+  "title": "Crow",
+  "date": "2022-08-11",
+  "tags": ["SSR", "Volt"],
+  "social_image": "https://hykroslobby.com/opt/build/repo/static/media/tab_crow.png",
+  "description": "Crow, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Thunderblades.",
+  "image_url": "https://i.postimg.cc/fbLGFhZ2/Simulacrum-Crow-Awaken.webp",
+  "awaken": [
+    {
+      "name": "Silent Night",
+      "description": "When Crow is not in team play, increase damage dealt by 10% and reduce damage received by 6%. When Crow enters combat, increase damage dealt by 12% for 12 seconds."
+    }
+  ],
+  "weapon_info": {
+    "name": "Thunderblades",
+    "image_url": "https://i.postimg.cc/g0JXrrqY/Icon-Weapon-Thunderblades.webp",
+    "attack": 18,
+    "hp": 1165,
+    "crit_rate": 14,
+    "shatter": 8.0,
+    "charge": 6.0
+  },
+  "trait": "Volt",
+  "trait_description": "When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.",
+  "advancements": {
+    "1star": {
+      "description": "Attacking targets from behind increases crit rate of all dual blades attacks by 40%. Backstabbing an electrified target increases crit rate by 100% and crit damage by 30%."
     },
-    "trait": "Volt",
-    "trait_description": "When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.",
-    "advancements": {
-      "1star": {
-        "description": "Attacking targets from behind increases crit rate of all dual blades attacks by 40%. Backstabbing an electrified target increases crit rate by 100% and crit damage by 30%."
-      },
-      "3star": {
-        "description": "Increase damage by 30% to targets with less than 60% HP."
-      },
-      "5star": {
-        "description": "Triggering a Back Attack grants a 100% crit chance for the next 4 seconds and increases crit damage by 50%. Cooldown: 10 seconds."
-      },
-      "6star": {
-        "description": "After using a skill, increase volt damage dealt to the target by 20% for 20 seconds."
-      }
+    "3star": {
+      "description": "Increase damage by 30% to targets with less than 60% HP."
     },
-    "matrices": {
-      "image_url": "https://i.postimg.cc/h4N409wM/Crow-m.png",
-      "set_effects": {
-        "2-piece": "Increase crit damage to targets with less than 60% HP by 24% / 30% / 36% / 42%.",
-        "4-piece": "Crits deal additional damage over time every second equal to 18% / 22% / 26% / 30% of ATK for 5 seconds. This effect does not stack."
-      }
+    "5star": {
+      "description": "Triggering a Back Attack grants a 100% crit chance for the next 4 seconds and increases crit damage by 50%. Cooldown: 10 seconds."
     },
-    "attacks": {
-      "Twin Blades": {
-        "description": "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.",
-        "attacks": [
-          {
-            "name": "First Attack",
-            "damage": "Deal damage equal to 66.1% of ATK + 3 and knock the target back a short distance."
-          },
-          {
-            "name": "Second Attack",
-            "damage": "Deal damage equal to 80.3% of ATK + 4 and knock the target back a short distance."
-          },
-          {
-            "name": "Third Attack",
-            "damage": "Deal damage equal to 120.6% of ATK + 5 and knock the target back a short distance."
-          },
-          {
-            "name": "Fourth Attack",
-            "damage": "Deal damage equal to 106.5% of ATK + 5 and knock the target back a short distance."
-          },
-          {
-            "name": "Fifth Attack",
-            "damage": "Deal damage equal to 222.4% of ATK + 11 and knock the target back a short distance."
-          }
-        ]
-      },
-      "Sky Flurry": {
-        "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.",
-        "attacks": [
-          {
-            "name": "First Attack",
-            "damage": "Deal damage equal to 72.2% of ATK + 3."
-          },
-          {
-            "name": "Second Attack",
-            "damage": "Deal damage equal to 42.2% of ATK + 2."
-          },
-          {
-            "name": "Third Attack",
-            "damage": "Deal damage equal to 101.2% of ATK + 5."
-          },
-          {
-            "name": "Fourth Attack",
-            "damage": "Deal damage equal to 151.8% of ATK + 7."
-          }
-        ]
-      },
-      "Rapid Lunge": {
-        "description": "After the third normal attack, hold the normal attack button to trigger Rapid Lunge. Upon hit, strongly suspend the target, dealing total damage equal to 127.2% of ATK plus 6."
-      },
-      "Spiral Drive": {
-        "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive. While falling, deal damage equal to 44% of ATK plus 2 each hit. The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage."
-      },
-      "Sneak Attack": {
-        "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to 627% of ATK plus 30."
-      }
+    "6star": {
+      "description": "After using a skill, increase volt damage dealt to the target by 20% for 20 seconds."
+    }
+  },
+  "matrices": {
+    "image_url": "https://i.postimg.cc/h4N409wM/Crow-m.png",
+    "set_effects": {
+      "2-piece": "Increase crit damage to targets with less than 60% HP by 24% / 30% / 36% / 42%.",
+      "4-piece": "Crits deal additional damage over time every second equal to 18% / 22% / 26% / 30% of ATK for 5 seconds. This effect does not stack."
+    }
+  },
+  "attacks": {
+    "Twin Blades": {
+      "description": "While on the ground, brandish the pair of dual blades to launch up to 5 consecutive attacks.",
+      "attacks": [
+        {
+          "name": "First Attack",
+          "damage": "Deal damage equal to 66.1% of ATK + 3 and knock the target back a short distance."
+        },
+        {
+          "name": "Second Attack",
+          "damage": "Deal damage equal to 80.3% of ATK + 4 and knock the target back a short distance."
+        },
+        {
+          "name": "Third Attack",
+          "damage": "Deal damage equal to 120.6% of ATK + 5 and knock the target back a short distance."
+        },
+        {
+          "name": "Fourth Attack",
+          "damage": "Deal damage equal to 106.5% of ATK + 5 and knock the target back a short distance."
+        },
+        {
+          "name": "Fifth Attack",
+          "damage": "Deal damage equal to 222.4% of ATK + 11 and knock the target back a short distance."
+        }
+      ]
     },
-    "dodge": {
-      "Flying Blades": {
-        "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Blades. Slash a target five times, each dealing damage equal to 29% of ATK plus 1. Grant immunity to control effects while phasing."
-      },
-      "Dodge": {
-        "description": "Dodge right before getting hit to trigger a Phantasia, reducing the speed of enemies within an area. Become immune to hitstun for 0.5 seconds while dodging."
-      }
+    "Sky Flurry": {
+      "description": "While airborne or after jumping once, use normal attack to attack 4 times in a row.",
+      "attacks": [
+        {
+          "name": "First Attack",
+          "damage": "Deal damage equal to 72.2% of ATK + 3."
+        },
+        {
+          "name": "Second Attack",
+          "damage": "Deal damage equal to 42.2% of ATK + 2."
+        },
+        {
+          "name": "Third Attack",
+          "damage": "Deal damage equal to 101.2% of ATK + 5."
+        },
+        {
+          "name": "Fourth Attack",
+          "damage": "Deal damage equal to 151.8% of ATK + 7."
+        }
+      ]
     },
-    "skill": {
-      "Returning Blades": {
-        "description": "Fire six returning blades, each dealing damage equal to 52.8% of ATK plus 3. Gains hyperbody for up to 8 seconds, and the effect is removed when the blades return. Cooldown: 45 seconds."
-      }
+    "Rapid Lunge": {
+      "description": "After the third normal attack, hold the normal attack button to trigger Rapid Lunge. Upon hit, strongly suspend the target, dealing total damage equal to 127.2% of ATK plus 6."
     },
-    "discharge": {
-      "Orbiting Blades": {
-        "description": "When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder and blink to the target location upon switching to this weapon and attack, dealing damage equal to 86.9% of ATK plus 5 and electrocuting the target (after 5 seconds, deals volt damage equal to 15% of damage dealt, up to 350% of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to 65.2% of ATK plus 3 to those that touch them."
-      }
+    "Spiral Drive": {
+      "description": "Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Spiral Drive. While falling, deal damage equal to 44% of ATK plus 2 each hit. The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage."
+    },
+    "Sneak Attack": {
+      "description": "Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to 627% of ATK plus 30."
+    }
+  },
+  "dodge": {
+    "Flying Blades": {
+      "description": "Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Flying Blades. Slash a target five times, each dealing damage equal to 29% of ATK plus 1. Grant immunity to control effects while phasing."
+    },
+    "Dodge": {
+      "description": "Dodge right before getting hit to trigger a Phantasia, reducing the speed of enemies within an area. Become immune to hitstun for 0.5 seconds while dodging."
+    }
+  },
+  "skill": {
+    "Returning Blades": {
+      "description": "Fire six returning blades, each dealing damage equal to 52.8% of ATK plus 3. Gains hyperbody for up to 8 seconds, and the effect is removed when the blades return. Cooldown: 45 seconds."
+    }
+  },
+  "discharge": {
+    "Orbiting Blades": {
+      "description": "When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder and blink to the target location upon switching to this weapon and attack, dealing damage equal to 86.9% of ATK plus 5 and electrocuting the target (after 5 seconds, deals volt damage equal to 15% of damage dealt, up to 350% of the Wanderer's ATK. This is an abnormal status that can be dispelled). Also spawn 3 blades that orbit around the Wanderer, dealing damage equal to 65.2% of ATK plus 3 to those that touch them."
     }
   }
-  
+}

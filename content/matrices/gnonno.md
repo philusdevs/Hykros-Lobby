@@ -2,7 +2,7 @@
 title: "Gnonno"
 date: 2023-06-02
 tags: [SSR, Matrices, Physical, ED]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Gnonno Matrices
 ---
 
@@ -13,8 +13,6 @@ description: Gnonno Matrices
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164191261117399050/1164191261314535465/Gnonno_Matrix.png';">
       Download Matrix
     </button>
-
-
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164191261117399050/1164191331430699038/Gnonno_Matrix_CN.png';">
       Download Matrix [CN]

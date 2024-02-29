@@ -1,8 +1,8 @@
 ---
 title: "Lyra"
-date: 2022-12-22 
+date: 2022-12-22
 tags: [SSR, Matrices, Physical, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Lyra Matrices
 ---
 

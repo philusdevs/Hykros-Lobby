@@ -1,6 +1,9 @@
 # Hykros Lobby
+
 [View Live](https://hykroslobby.com)
+
 ## Description
+
 Hykros Lobby is a comprehensive guide hub specifically designed for the upcoming game Tower Of Fantasy on PlayStation. Our website aims to provide players with valuable resources, tips, and information to enhance their gaming experience. From character builds to in-depth walkthroughs.
 
 ## Features
@@ -37,7 +40,7 @@ To contribute to the Hykros Lobby website, follow these steps:
 4. Test your changes locally to ensure everything works as intended.
 5. Submit a pull request, clearly describing the changes you have made.
 
- Will review your contributions and merge them if they align with the website's objectives and quality standards.
+Will review your contributions and merge them if they align with the website's objectives and quality standards.
 
 ## Support
 

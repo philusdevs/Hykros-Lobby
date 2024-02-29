@@ -2,7 +2,7 @@
 title: "Frigg"
 date: 2022-08-11
 tags: [SSR, Matrices, Frost, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Frigg Matrices
 ---
 

@@ -2,7 +2,7 @@
 title: "Echo"
 date: 2022-08-11
 tags: [SR, Matrices, Support]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Echo Matrices
 ---
 

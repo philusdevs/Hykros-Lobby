@@ -6,12 +6,15 @@ import Tags from "../components/tags";
 
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
-  
+
   useEffect(() => {
     let content = document.querySelector("main article > section");
-    content.innerHTML = content.innerHTML.replace(/(\d+(\,\d+)?(\.\d+)?%?)(-piece:)?(?![^<]*>)(?!(2-))/g, '<span style="color:#0685CF">$&</span>');
+    content.innerHTML = content.innerHTML.replace(
+      /(\d+(\,\d+)?(\.\d+)?%?)(-piece:)?(?![^<]*>)(?!(2-))/g,
+      '<span style="color:#0685CF">$&</span>'
+    );
   }, []);
-  
+
   return (
     <Layout
       title={frontmatter.title}
@@ -28,15 +31,11 @@ const PostTemplate = ({ data }) => {
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />
         </article>
 
-      
         <Tags tags={frontmatter.tags} />
       </PostWrapper>
     </Layout>
   );
 };
-
-
-
 
 export default PostTemplate;
 

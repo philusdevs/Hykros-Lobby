@@ -2,7 +2,7 @@
 title: "Nanyin"
 date: 2023-11-21
 tags: [SSR, Matrices, Altered, FD, CD]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Nanyin Matrices
 ---
 
@@ -13,5 +13,3 @@ description: Nanyin Matrices
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164138842731843625/1164138843029647380/Nanyin_Matrix_CN.png';">
       Download Matrix [CN]
     </button>
-
-

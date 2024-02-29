@@ -2,7 +2,7 @@
 title: "Fei Se"
 date: 2023-09-26
 tags: [SSR, Matrices, Flame, FD, ED]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Fei Se Matrices
 ---
 
@@ -13,8 +13,6 @@ description: Fei Se Matrices
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1164132403007201371/Fei_Se_Matrix.png';">
       Download Matrix
     </button>
-
-
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1155789750578466877/1164132402768121886/Fei_Se_Matrix_CN.png';">
       Download Matrix [CN]

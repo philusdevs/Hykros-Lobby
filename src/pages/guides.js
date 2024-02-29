@@ -1,17 +1,15 @@
-import React from 'react';
-import { graphql, Link } from 'gatsby';
-import Layout from '../components/layout';
-import PostList from '../components/post-list';
-import styled from 'styled-components';
+import React from "react";
+import { graphql, Link } from "gatsby";
+import Layout from "../components/layout";
+import PostList from "../components/post-list";
+import styled from "styled-components";
 
 const Guides = ({ data }) => {
   const posts = data.allMarkdownRemark.nodes;
 
   return (
     <Layout title="Guide">
-      <HeaderWrapper>
-        
-      </HeaderWrapper>
+      <HeaderWrapper></HeaderWrapper>
 
       <PostList posts={posts} />
     </Layout>

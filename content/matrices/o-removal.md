@@ -2,7 +2,7 @@
 title: "Obstacle Removal"
 date: 2022-08-11
 tags: [R, Matrices, Frost]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: O.Removal Matrices
 ---
 

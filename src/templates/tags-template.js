@@ -1,16 +1,15 @@
-import React from 'react';
-import { Link, graphql } from 'gatsby';
-import Layout from '../components/layout';
-import PostList from '../components/post-list';
-import StyledLink from '../components/styled-link';
-import styled from 'styled-components';
+import React from "react";
+import { Link, graphql } from "gatsby";
+import Layout from "../components/layout";
+import PostList from "../components/post-list";
+import StyledLink from "../components/styled-link";
+import styled from "styled-components";
 
 const TagsTemplate = ({ pageContext, data }) => {
   const { tag } = pageContext;
   const { totalCount } = data.allMarkdownRemark;
   const posts = data.allMarkdownRemark.nodes;
   const title = `Posts tagged ${tag}`;
-  
 
   return (
     <Layout title={title}>
@@ -56,15 +55,13 @@ const Title = styled.h1`
 `;
 
 export const pageQuery = graphql`
-  query($tag: String) {
+  query ($tag: String) {
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
         frontmatter: { tags: { in: [$tag] } }
-        fields: {
-          contentType: { in: [ "posts", "simulacra", "matrices" ] }
-        }
+        fields: { contentType: { in: ["posts", "simulacra", "matrices"] } }
       }
     ) {
       totalCount

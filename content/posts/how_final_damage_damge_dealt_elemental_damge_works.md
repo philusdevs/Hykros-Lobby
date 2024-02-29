@@ -2,14 +2,13 @@
 title: How Final Damage, Damge Dealt, Element Damge Works
 date: 2023-04-20
 tags: [Maygii, Guide, Maths]
-social_image: '/media/logo.png'
+social_image: "/media/logo.png"
 description: How Final Damage, Damge Dealt, Elemental Damge Works
 ---
+
 Researcher: [Maygii](https://maygi.carrd.co/)
 
-
-Video Version
-=============
+# Video Version
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xuASkhwWTLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -17,8 +16,7 @@ Hi! Welcome to the sequel of [Attack% Vs Damage%, Explained](http://hykroslobby
 
 There are multiple categories for multipliers. Wording across several forms of content have ZERO correlation (e.g. "final damage" from trait is separate from "final damage" in advancements which is separate from "final damage" in matrix, etc). See the table later in the post for more details.
 
-Details
-=======
+# Details
 
 Different sources of damage buffs, that is, traits vs advancements vs matrices, may have the same wording, but act separately. For example, the 6% "final damage" on Icarus is a separate multiplier than the "final damage" from matrices, which is also separate from the "final damage" from Couant - and Couant, as we know, is additive with several matrices, so yeah, feels weird. This is getting a bit confusing. Let's step back a bit...
 
@@ -30,18 +28,16 @@ Let's start with the Relics Couant and Omnium A5 Shield. Despite their different
 
 </br>
 
-
-
-| Buff Source | Notes |
-| --- | --- |
-| Shiro 2pc | Increased Damage above 50% enemy HP |
-| Tsubasa 2pc | Increased Damage when no enemies within 4m |
-| Lin 4pc | Increased Damage after moving a certain distance within the Moonlight Realm |
-| Claudia 4pc | Increased discharge Damage after using a skill |
-| Cobalt 2pc | Increased Damage to enemies with a debuff |
-| Coco A3 | Increases Damage of you and teammates when standing in Coco's skill or discharge |
-| Couant | Increases "final damage" when shield expires |
-| Omnium Shield A5 | Increases damage when passing through the shield |
+| Buff Source      | Notes                                                                            |
+| ---------------- | -------------------------------------------------------------------------------- |
+| Shiro 2pc        | Increased Damage above 50% enemy HP                                              |
+| Tsubasa 2pc      | Increased Damage when no enemies within 4m                                       |
+| Lin 4pc          | Increased Damage after moving a certain distance within the Moonlight Realm      |
+| Claudia 4pc      | Increased discharge Damage after using a skill                                   |
+| Cobalt 2pc       | Increased Damage to enemies with a debuff                                        |
+| Coco A3          | Increases Damage of you and teammates when standing in Coco's skill or discharge |
+| Couant           | Increases "final damage" when shield expires                                     |
+| Omnium Shield A5 | Increases damage when passing through the shield                                 |
 
 **Final Damage Multiplier**
 
@@ -55,13 +51,10 @@ After that, there's "all elemental damage". This is a separate multiplier, and i
 
 Finally, we have specific "elemental damage". Funnily enough, this is a separate multiplier from the previous. This includes matrices such as Lan, Tian Lang, and Lyra 4pc.
 
-Summary
-=======
+# Summary
 
 So, what's the point of knowing all of this? When there are separate categories for multipliers, the best way to optimize is to, ideally, have one set from each category. Below is a table for a quick overview for each element, and their matrix options for the various categories. Because Habo matrix grants Final Damage, it may be a stronger pick-up for F2P players who do not have any other Final Damage matrices. For people who do, though, it's a more appealing option to pick up Scylla's matrix as "all elemental damage" is a separate modifier.
 
-
 [![how-final-dmg-dmg-dealt-ele-dmg-etc-work-v0-rdydaqd1d1va1.webp](https://i.postimg.cc/yxrmn7MQ/how-final-dmg-dmg-dealt-ele-dmg-etc-work-v0-rdydaqd1d1va1.webp)](https://postimg.cc/MfVfpJKV)
-
 
 There are some anomalies, such as Saki's matrix, which applies a debuff that is counted as a separate multiplier, as well as Zero's, whose multiplier does not fall under any of these categories and is essentially a "true" final multiplier.

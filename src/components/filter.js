@@ -1,6 +1,6 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import styled, { css } from 'styled-components';
+import React from "react";
+import PropTypes from "prop-types";
+import styled, { css } from "styled-components";
 
 const FilterWrapper = styled.div`
   flex-wrap: wrap;
@@ -20,8 +20,9 @@ const FilterButton = styled.button`
   margin-bottom: 0.6rem;
   text-transform: uppercase;
   font-size: var(--size-300);
-  background-color: ${({ isActive }) => (isActive ? 'rgba(255, 255, 255, 0.9)' : 'transparent')};
-  color: ${({ isActive }) => (isActive ? '#212122' : 'inherit')};
+  background-color: ${({ isActive }) =>
+    isActive ? "rgba(255, 255, 255, 0.9)" : "transparent"};
+  color: ${({ isActive }) => (isActive ? "#212122" : "inherit")};
   border: 1px solid rgba(255, 255, 255, 1);
   border-radius: 4px;
   cursor: pointer;
@@ -29,7 +30,8 @@ const FilterButton = styled.button`
   padding: 0.2rem 0.6rem;
 
   &:hover {
-    background-color: ${({ isActive }) => (isActive ? 'rgba(255, 255, 255, 1)' : 'rgba(255, 255, 255, 0.9)')};
+    background-color: ${({ isActive }) =>
+      isActive ? "rgba(255, 255, 255, 1)" : "rgba(255, 255, 255, 0.9)"};
   }
 
   body.light-mode & {
@@ -59,7 +61,15 @@ const darkModeStyles = css`
 `;
 
 const Filter = ({ activeFilter, setActiveFilter }) => {
-  const filterOptions = ['All', 'Frost', 'Flame', 'Physical', 'Volt', 'Altered', 'Physical&Flame'];
+  const filterOptions = [
+    "All",
+    "Frost",
+    "Flame",
+    "Physical",
+    "Volt",
+    "Altered",
+    "Physical&Flame",
+  ];
 
   return (
     <FilterWrapper>

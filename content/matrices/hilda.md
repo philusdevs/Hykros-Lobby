@@ -2,7 +2,7 @@
 title: "Hilda"
 date: 2022-08-11
 tags: [SR, Matrices, ATK]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Hilda Matrices
 ---
 

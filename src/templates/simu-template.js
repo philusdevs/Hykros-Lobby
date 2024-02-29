@@ -22,17 +22,18 @@ const PostTemplate = ({ data }) => {
   </style>
 `;
 
-useEffect(() => {
-  let content = document.querySelector("main article > section");
-  content.innerHTML = content.innerHTML.replace(/(?<!1★|3★|5★|6★)(\d+(\,\d+)?(\.\d+)?%?)(-piece:)?(?![^<]*>)/g, '<span style="color:#0685CF">$&</span>');
-}, []);
-
+  useEffect(() => {
+    let content = document.querySelector("main article > section");
+    content.innerHTML = content.innerHTML.replace(
+      /(?<!1★|3★|5★|6★)(\d+(\,\d+)?(\.\d+)?%?)(-piece:)?(?![^<]*>)/g,
+      '<span style="color:#0685CF">$&</span>'
+    );
+  }, []);
 
   useEffect(() => {
     let content = document.querySelector("main article > section");
     content.innerHTML = customStyles + content.innerHTML;
-}, []);
-
+  }, []);
 
   return (
     <Layout
@@ -50,15 +51,11 @@ useEffect(() => {
           <PostContent dangerouslySetInnerHTML={{ __html: html }} />
         </article>
 
-      
         <Tags tags={frontmatter.tags} />
       </PostWrapper>
     </Layout>
   );
 };
-
-
-
 
 export default PostTemplate;
 

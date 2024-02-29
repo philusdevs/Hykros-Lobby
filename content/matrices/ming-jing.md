@@ -2,7 +2,7 @@
 title: "Ming Jing"
 date: 2023-08-08
 tags: [SSR, Matrices, Physical, Flame, FD, ATK]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Ming Jing Matrices
 ---
 
@@ -13,8 +13,6 @@ description: Ming Jing Matrices
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402847933349988/1164134878862921768/Ming_Jing_Matrix.png';">
       Download Matrix
     </button>
-
-
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1154402847933349988/1164132541264052315/Ming_Jing_Matrix_CN.png';">
       Download Matrix [CN]

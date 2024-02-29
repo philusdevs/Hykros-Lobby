@@ -2,7 +2,7 @@
 title: Simulacrum System Log#578
 date: 2702-02-12
 tags: [new executor brief, lore]
-social_image: '/media/logo.png'
+social_image: "/media/logo.png"
 description: Consider the Simulacrum system. It's a meticulous blueprint of personalities and behaviors, stored in our database. Used with the AI within aslo side combat and medicine, and potentially unlocking immortality, it raises deep questions about our very existence and the nature of identity.
 ---
 

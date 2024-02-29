@@ -2,7 +2,7 @@
 title: "Cocoritter"
 date: 2022-08-11
 tags: [SSR, Matrices, Support, ATK]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Coco Matrices
 ---
 

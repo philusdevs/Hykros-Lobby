@@ -2,7 +2,7 @@
 title: "Self Explosive"
 date: 2022-08-11
 tags: [R, Matrices, Flame, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: S.explosive Matrices
 ---
 

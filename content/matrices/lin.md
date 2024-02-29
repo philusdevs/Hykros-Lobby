@@ -2,7 +2,7 @@
 title: "Lin"
 date: 2022-11-22
 tags: [SSR, Matrices, Altered, FD, ATK]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Lin Matrices
 ---
 

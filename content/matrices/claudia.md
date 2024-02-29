@@ -2,10 +2,9 @@
 title: "Claduia"
 date: 2022-09-14
 tags: [SSR, Matrices, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Claduia Matrices
 ---
-
 
 > **2-piece:** Increase damage by 13% / 17% / 20% / 23% when hitting a target in mid-air or initiating an aerial attack. Reset double-jump upon hitting the target in mid-air.
 

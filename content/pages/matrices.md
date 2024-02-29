@@ -3,78 +3,78 @@ title: "Matrices"
 template: "matrice-template"
 matrice:
   - name: Plotti
-    icon: '/media/Plotti_m.png'
-    cntag: '/media/CN.png'
+    icon: "/media/Plotti_m.png"
+    cntag: "/media/CN.png"
   - name: Brevey
-    icon: '/media/Brevey_m.png'
-    cntag: '/media/CN.png'
+    icon: "/media/Brevey_m.png"
+    cntag: "/media/CN.png"
   - name: Yan Miao
-    icon: '/media/Yan_Miao_m.png'
-    cntag: '/media/CN.png'
+    icon: "/media/Yan_Miao_m.png"
+    cntag: "/media/CN.png"
   - name: Nanyin
-    icon: '/media/Nanyin_m.png'
-    cntag: '/media/CN.png'
+    icon: "/media/Nanyin_m.png"
+    cntag: "/media/CN.png"
   - name: Ling Han
-    icon: '/media/Ling_Han_m.png'
+    icon: "/media/Ling_Han_m.png"
     cntag: null
   - name: Fei Se
-    icon: '/media/Fei_Se_m.png'
+    icon: "/media/Fei_Se_m.png"
     cntag: null
   - name: Huang
-    icon: '/media/Mimi_m.png'
+    icon: "/media/Mimi_m.png"
     cntag: null
   - name: Ming Jing
-    icon: '/media/ming_jing_m.png'
+    icon: "/media/ming_jing_m.png"
     cntag: null
   - name: Yu Lan
-    icon: '/media/yu_lan_m.png'
+    icon: "/media/yu_lan_m.png"
     cntag: null
   - name: Liu Huo
-    icon: '/media/liu_huo_m.png'
+    icon: "/media/liu_huo_m.png"
     cntag: null
   - name: Rubilia
-    icon: '/media/rubilia_m.png'
+    icon: "/media/rubilia_m.png"
     cntag: null
   - name: Gnonno
-    icon: '/media/gnonno_m.png'
+    icon: "/media/gnonno_m.png"
     cntag: null
   - name: Scylla
-    icon: '/media/scylla_m.png'
+    icon: "/media/scylla_m.png"
     cntag: null
   - name: Haboela
-    icon: '/media/haboela_m.png'
+    icon: "/media/haboela_m.png"
     cntag: null
-  - name: Fiona 
+  - name: Fiona
     icon: /media/Fiona_m.png
     cntag: null
-  - name: Icarus 
+  - name: Icarus
     icon: /media/Icarus_m.png
     cntag: null
-  - name: Lan 
+  - name: Lan
     icon: /media/Lan_m.png
     cntag: null
-  - name: Fenrir 
-    icon: /media/Fenrir_m.png      
+  - name: Fenrir
+    icon: /media/Fenrir_m.png
     cntag: null
-  - name: Umi 
+  - name: Umi
     icon: /media/Umi_m.png
     cntag: null
-  - name: Alyss 
+  - name: Alyss
     icon: /media/Alyss_m.png
     cntag: null
-  - name: Anna 
+  - name: Anna
     icon: /media/Anna_m.png
     cntag: null
   - name: Tian
     icon: /media/Tian_Lang_m.png
     cntag: null
-  - name: Lyra 
+  - name: Lyra
     icon: /media/Lyra_m.png
     cntag: null
-  - name: Lin 
+  - name: Lin
     icon: /media/Lin_m.png
     cntag: null
-  - name: Saki 
+  - name: Saki
     icon: /media/Saki_m.png
     cntag: null
   - name: Ruby
@@ -83,29 +83,29 @@ matrice:
   - name: Claudia
     icon: /media/Claudia_m.png
     cntag: null
-  - name: Cobalt-B 
-    icon: /media/Cobalt-B_m.png 
+  - name: Cobalt-B
+    icon: /media/Cobalt-B_m.png
     cntag: null
-  - name: Frigg 
+  - name: Frigg
     icon: /media/Frigg_m.png
     cntag: null
-  - name: Nemesis 
+  - name: Nemesis
     icon: /media/Nemesis_m.png
     cntag: null
-  - name: Shiro 
+  - name: Shiro
     icon: /media/Shiro_m.png
     cntag: null
   - name: King
     icon: /media/King_m.png
     cntag: null
-  - name: Meryl 
+  - name: Meryl
     icon: /media/Meryl_m.png
     cntag: null
   - name: Crow
     icon: /media/Crow_m.png
     cntag: null
   - name: Huma
-    icon: /media/Huma_m.png      
+    icon: /media/Huma_m.png
     cntag: null
   - name: Coco
     icon: /media/Coco_m.png
@@ -119,16 +119,16 @@ matrice:
   - name: Tsubasa
     icon: /media/Tsubasa_m.png
     cntag: null
-  - name: Apophis 
+  - name: Apophis
     icon: /media/Apophis_m.png
     cntag: null
   - name: Bai Ling
-    icon: /media/Bai_Ling_m.png 
+    icon: /media/Bai_Ling_m.png
     cntag: null
   - name: Barbarossa
     icon: /media/Barbarossa_m.png
     cntag: null
-  - name: Echo 
+  - name: Echo
     icon: /media/Echo_m.png
     cntag: null
   - name: Ene
@@ -144,13 +144,13 @@ matrice:
     icon: /media/Pepper_m.png
     cntag: null
   - name: Robarg
-    icon: /media/Robarg_m.png      
+    icon: /media/Robarg_m.png
     cntag: null
   - name: Sobek
     icon: /media/Sobek_m.png
     cntag: null
   - name: F-Dash
-    icon: /media/Functional_Dash_m.png  
+    icon: /media/Functional_Dash_m.png
     cntag: null
   - name: o-Removal
     icon: /media/Obstacle_Removal_m.png
@@ -162,7 +162,7 @@ matrice:
     icon: /media/Self_explosive_m.png
     cntag: null
   - name: S-Operation
-    icon: /media/Standard_Operation_m.png     
+    icon: /media/Standard_Operation_m.png
     cntag: null
   - name: Wind Blade
     icon: /media/Wind_Blade_m.png
@@ -171,6 +171,6 @@ matrice:
     icon: /media/Savage_Bloodline_m.png
     cntag: null
   - name: Swipe
-    icon: /media/Swipe_m.png 
+    icon: /media/Swipe_m.png
     cntag: null
 ---

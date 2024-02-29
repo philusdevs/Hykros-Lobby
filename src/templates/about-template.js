@@ -7,7 +7,6 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image";
 const AboutTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
   const profileImage = getImage(frontmatter.profile_image);
-  
 
   return (
     <Layout title={frontmatter.title}>
@@ -45,7 +44,7 @@ const AboutImageWrapper = styled(GatsbyImage)`
   display: block;
   border-radius: 20%;
   height: 170px;
-  width:170px;
+  width: 170px;
   bottom: 10px;
 `;
 
@@ -58,7 +57,7 @@ const AboutCopy = styled.div`
 `;
 
 export const pageQuery = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {

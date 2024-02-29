@@ -26,14 +26,7 @@ const PostList = ({ posts }) => {
 
 export default PostList;
 
-const PostListItem = ({
-  title,
-  date,
-  timeToRead,
-  tags,
-  excerpt,
-  slug,
-}) => {
+const PostListItem = ({ title, date, timeToRead, tags, excerpt, slug }) => {
   return (
     <StyledPostListItem>
       <Tags tags={tags} />

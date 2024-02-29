@@ -2,13 +2,14 @@
 title: "Hilda"
 date: 2022-08-11
 tags: [SR, Frost]
-social_image: '/media/tab_hilda.png'
+social_image: "/media/tab_hilda.png"
 description: Hilda, featured as an obtainable SR Simulacrum within the simulacrum system, associated with the weapon The Terminator.
 ---
 
 ![](https://i.postimg.cc/bwMgyXkF/Simulacrum-Hilda-Prototype.webp)
 
-### Awaken:  Full-speed Drifting
+### Awaken: Full-speed Drifting
+
 > When Hilda uses a vehicle, increase speed by 10%.
 
 </br>
@@ -30,8 +31,6 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 <h4 style="text-align: center;"> Advancements </h4>
 
-
-
 1★ Every successful normal attack increases damage by 1% for 2 seconds. Stack up to 15 times. Increase ammo count to 60.
 
 3★ Within 10 seconds of switching to the weapon, increase damage of normal attacks and shatter by 30%. Cooldown:25 seconds. Increase ammo to80.
@@ -42,29 +41,24 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 </br>
 
-
-| Normal Attack | Description |
-| --- | --- |
+| Normal Attack     | Description                                                                                                                                                                                                                                                                                        |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Normal Attack** | Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to 40 rounds. Each shot deals damage equal to 11.4% of ATK + 1. Deal double damage when scoring a headshot or hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers). |
 
 </br>
 
-| Dodge | Description |
-| --- | --- |
+| Dodge     | Description                                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge** | Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for 0.5 seconds. |
 
 </br>
 
-| Skill | Description |
-| --- | --- |
+| Skill      | Description                                                                                                                                                                                                                            |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Turret** | Enable turret mode and fire large energy orbs, each dealing damage equal to 213.3% of ATK + 11 and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. Cooldown: 3.5 seconds. |
-
 
 </br>
 
-| Discharge | Description |
-| --- | --- |
-| **Arctic Beam** | When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder and fire an arctic beam upon switching to this weapon, dealing damage equal to 329.2% of ATK + 17 and inflict a 3-second freeze effect. Also reduce the target's frost resistance by 50% for 10 seconds.
-
-
-
+| Discharge       | Description                                                                                                                                                                                                                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Arctic Beam** | When weapon charge is full or Phantasia is triggered, remove all debuffs from the wielder and fire an arctic beam upon switching to this weapon, dealing damage equal to 329.2% of ATK + 17 and inflict a 3-second freeze effect. Also reduce the target's frost resistance by 50% for 10 seconds. |

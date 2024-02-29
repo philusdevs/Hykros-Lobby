@@ -4,12 +4,10 @@ import Layout from "../components/layout";
 import styled from "styled-components";
 import Tags from "../components/tags";
 
-
 const PostTemplate = ({ data }) => {
   const { frontmatter, excerpt, html } = data.markdownRemark;
   const prev = data.prev;
   const next = data.next;
-  
 
   return (
     <Layout
@@ -99,7 +97,6 @@ const PostContent = styled.section`
     font-size: var(--size-500);
   }
 
-
   b,
   strong {
     font-weight: 600;
@@ -178,7 +175,6 @@ const PostPagination = styled.nav`
     bottom: 0;
   }
 `;
-
 
 export const pageQuery = graphql`
   query PostBySlug($slug: String!, $prevSlug: String, $nextSlug: String) {

@@ -57,7 +57,7 @@ const Tag = styled.span`
   }
 
   body.dark-mode & a {
-    background-color: #5CADFF;
+    background-color: #5cadff;
     border: 1px solid #1a1a1b;
     opacity: 0.9;
   }

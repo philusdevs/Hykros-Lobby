@@ -12,7 +12,11 @@ const Layout = ({ children, title, description, socialImage }) => {
     <ThemeProvider>
       <Fragment>
         <GlobalStyle />
-        <Seo title={title} description={description} socialImage={socialImage} />
+        <Seo
+          title={title}
+          description={description}
+          socialImage={socialImage}
+        />
         <LayoutWrapper>
           <Header />
           <main>

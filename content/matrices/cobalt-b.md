@@ -2,7 +2,7 @@
 title: "Cobalt-B"
 date: 2023-08-08
 tags: [SSR, Matrices, Flame, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Cobalt-B Matrices
 ---
 

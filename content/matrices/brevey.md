@@ -2,8 +2,8 @@
 title: "Brevey"
 date: 2024-01-21
 tags: [SSR, Matrices, Volt, ED, ATK]
-social_image: '/media/matrice.png'
-description:  Brevey Matrices
+social_image: "/media/matrice.png"
+description: Brevey Matrices
 ---
 
 > **2-piece:** Increases all elemental damage by 13%/16%/19%/22%. After using any discharge skill, increase healing received by 30% for 30 seconds. This set effect works in the off-hand slot. Only the set with the highest star rating will take effect.

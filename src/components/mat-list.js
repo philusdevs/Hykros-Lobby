@@ -32,14 +32,7 @@ const MatriceList = ({ posts }) => {
 
 export default MatriceList;
 
-const MatriceListItem = ({
-  title,
-  date,
-  timeToRead,
-  tags,
-  excerpt,
-  slug,
-}) => {
+const MatriceListItem = ({ title, date, timeToRead, tags, excerpt, slug }) => {
   return (
     <StyledMatriceListItem>
       <Tags tags={tags} />

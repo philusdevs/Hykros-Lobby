@@ -1,16 +1,15 @@
-import React, { useState, useEffect } from 'react';
-import { Helmet } from 'react-helmet'; 
-import { TextField, InputAdornment, IconButton } from '@material-ui/core';
-import { Search as SearchIcon } from '@material-ui/icons';
-import { Link, graphql } from 'gatsby';
-import Layout from '../components/layout';
-import PostList from '../components/post-list';
-import StyledLink from '../components/styled-link';
-import styled from 'styled-components';
-
+import React, { useState, useEffect } from "react";
+import { Helmet } from "react-helmet";
+import { TextField, InputAdornment, IconButton } from "@material-ui/core";
+import { Search as SearchIcon } from "@material-ui/icons";
+import { Link, graphql } from "gatsby";
+import Layout from "../components/layout";
+import PostList from "../components/post-list";
+import StyledLink from "../components/styled-link";
+import styled from "styled-components";
 
 const HomePage = ({ data }) => {
-  const [searchQuery, setSearchQuery] = useState('');
+  const [searchQuery, setSearchQuery] = useState("");
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [stylesLoaded, setStylesLoaded] = useState(false);
 
@@ -32,7 +31,7 @@ const HomePage = ({ data }) => {
 
     return (
       title.toLowerCase().includes(lowerCaseQuery) ||
-      tags.join(' ').toLowerCase().includes(lowerCaseQuery)
+      tags.join(" ").toLowerCase().includes(lowerCaseQuery)
     );
   });
 
@@ -41,7 +40,6 @@ const HomePage = ({ data }) => {
       {stylesLoaded && (
         <>
           <Helmet>
-            
             <meta property="og:image" content="/static/media/logo.png" />
           </Helmet>
 
@@ -61,7 +59,7 @@ const HomePage = ({ data }) => {
               InputProps={{
                 startAdornment: (
                   <InputAdornment position="start">
-                    <IconButton onClick={() => console.log('Search clicked')}>
+                    <IconButton onClick={() => console.log("Search clicked")}>
                       <SearchIcon />
                     </IconButton>
                   </InputAdornment>
@@ -78,7 +76,6 @@ const HomePage = ({ data }) => {
 };
 
 export default HomePage;
-
 
 const Intro = styled.div`
   display: flex;
@@ -113,20 +110,26 @@ const SearchContainer = styled.div`
 const StyledTextField = styled(TextField)`
   .MuiInputBase-root {
     height: 32px;
-    background-color: ${({ darkMode }) => (darkMode ? "#252526" : "#f5f5f5")}; // Adjust background color based on dark mode
-    color: ${({ darkMode }) => (darkMode ? "#e9e9e9" : "#37292C")}; // Adjust text color based on dark mode
+    background-color: ${({ darkMode }) =>
+      darkMode
+        ? "#252526"
+        : "#f5f5f5"}; // Adjust background color based on dark mode
+    color: ${({ darkMode }) =>
+      darkMode ? "#e9e9e9" : "#37292C"}; // Adjust text color based on dark mode
   }
 `;
 
 export const pageQuery = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     site {
       siteMetadata {
         title
       }
     }
     allMarkdownRemark(
-      filter: { fields: { contentType:{ in: ["posts", "simulacra" "matrices"] } } }
+      filter: {
+        fields: { contentType: { in: ["posts", "simulacra", "matrices"] } }
+      }
       sort: { order: DESC, fields: frontmatter___date }
       limit: 500
     ) {

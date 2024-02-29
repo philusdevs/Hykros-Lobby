@@ -1,8 +1,8 @@
-import React from 'react';
-import { Link, graphql } from 'gatsby';
-import Layout from '../components/layout';
-import styled from 'styled-components';
-import { GatsbyImage, getImage } from 'gatsby-plugin-image';
+import React from "react";
+import { Link, graphql } from "gatsby";
+import Layout from "../components/layout";
+import styled from "styled-components";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 const MatriceTemplate = ({ data }) => {
   const { html, frontmatter } = data.markdownRemark;
@@ -19,13 +19,20 @@ const MatriceTemplate = ({ data }) => {
             return (
               <MatriceTab key={matrice.name}>
                 <MatriceBlock>
-                  <Link to={`/matrices/${matrice.name.toLowerCase().replace(/\s+/g, '-')}`}>
+                  <Link
+                    to={`/matrices/${matrice.name
+                      .toLowerCase()
+                      .replace(/\s+/g, "-")}`}
+                  >
                     <MatriceIconWrapper>
                       <MatriceIcon image={matriceImage} alt={matrice.name} />
                       <MatriceName>{matrice.name}</MatriceName>
                       {matrice.cntag && (
                         <CntagOverlayContainer>
-                          <CntagOverlay image={getImage(matrice.cntag)} alt="Cntag Overlay" />
+                          <CntagOverlay
+                            image={getImage(matrice.cntag)}
+                            alt="Cntag Overlay"
+                          />
                         </CntagOverlayContainer>
                       )}
                     </MatriceIconWrapper>
@@ -113,7 +120,7 @@ const MatriceIcon = styled(GatsbyImage)`
   width: 120px;
   border-radius: 8px;
   overflow: hidden;
-  background-image: linear-gradient(45deg, #017CB9, #001E3C);
+  background-image: linear-gradient(45deg, #017cb9, #001e3c);
 `;
 
 const MatriceName = styled.span`
@@ -158,7 +165,7 @@ const CntagOverlay = styled(GatsbyImage)`
 `;
 
 export const pageQuery = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {

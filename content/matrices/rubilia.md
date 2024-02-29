@@ -1,8 +1,8 @@
 ---
 title: "Rubilia"
 date: 2023-06-02
-tags: [SSR,Matrices, Volt, ED]
-social_image: '/media/matrice.png'
+tags: [SSR, Matrices, Volt, ED]
+social_image: "/media/matrice.png"
 description: Rubilia Matrices
 ---
 
@@ -13,8 +13,6 @@ description: Rubilia Matrices
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164184133958914170/1164184134667739196/Rubilia_Matrix.png';">
       Download Matrix
     </button>
-
-
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1164184133958914170/1164184538621161492/Rubilia_Matrix_CN.png';">
       Download Matrix [CN]

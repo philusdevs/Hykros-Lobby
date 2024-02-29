@@ -5,7 +5,7 @@ const toKebabCase = (str) => {
   return str
     .match(/[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+/g)
     .map((x) => x.toLowerCase())
-    .join('-');
+    .join("-");
 };
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
@@ -29,7 +29,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         }
         tagsGroup: allMarkdownRemark(
           limit: 2000
-          filter: { fields: { contentType: { in: ["posts", "simulacra", "matrices"] } } }
+          filter: {
+            fields: { contentType: { in: ["posts", "simulacra", "matrices"] } }
+          }
         ) {
           group(field: frontmatter___tags) {
             fieldValue
@@ -111,7 +113,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   if (simuMarkdownNodes.length > 0) {
     simuMarkdownNodes.forEach((node) => {
       // Get the base name of the file without extension
-      const fileName = path.basename(node.fields.slug, '.js');
+      const fileName = path.basename(node.fields.slug, ".js");
 
       createPage({
         path: `/simulacra/${fileName}/`,
@@ -126,7 +128,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   if (matMarkdownNodes.length > 0) {
     matMarkdownNodes.forEach((node) => {
       // Get the base name of the file without extension
-      const fileName = path.basename(node.fields.slug, '.md');
+      const fileName = path.basename(node.fields.slug, ".md");
 
       createPage({
         path: `/matrices/${fileName}/`,
@@ -166,7 +168,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       value: fileNode.sourceInstanceName,
     });
 
-    if (fileNode.sourceInstanceName === 'posts') {
+    if (fileNode.sourceInstanceName === "posts") {
       createNodeField({
         name: `slug`,
         node,
@@ -174,10 +176,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
-    if (fileNode.sourceInstanceName === 'simulacra') {
+    if (fileNode.sourceInstanceName === "simulacra") {
       // Get the base name of the file without extension
-      const fileName = path.basename(relativeFilePath, path.extname(relativeFilePath));
-      
+      const fileName = path.basename(
+        relativeFilePath,
+        path.extname(relativeFilePath)
+      );
+
       createNodeField({
         name: `slug`,
         node,
@@ -185,10 +190,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
-    if (fileNode.sourceInstanceName === 'matrices') {
+    if (fileNode.sourceInstanceName === "matrices") {
       // Get the base name of the file without extension
-      const fileName = path.basename(relativeFilePath, path.extname(relativeFilePath));
-      
+      const fileName = path.basename(
+        relativeFilePath,
+        path.extname(relativeFilePath)
+      );
+
       createNodeField({
         name: `slug`,
         node,
@@ -196,7 +204,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
-    if (fileNode.sourceInstanceName === 'pages') {
+    if (fileNode.sourceInstanceName === "pages") {
       createNodeField({
         name: `slug`,
         node,

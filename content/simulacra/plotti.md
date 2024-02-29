@@ -1,13 +1,16 @@
 ---
 title: "Plotti"
 date: 2024-02-11
-tags: [SSR, Flame, Physical ]
-social_image: '/media/tab_plotti.png'
+tags: [SSR, Flame, Physical]
+social_image: "/media/tab_plotti.png"
 description: Plotti, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon EP-7000 Skyfire
 ---
+
 ![](https://telegra.ph/file/49d1d72b26fafbb2700cd.png)
 
+# TODO: Add new info here
 
+<!--
 ### Awaken: Reality and Dream
 
 > Final damage is increased by 18%. </br> EP-7000 Skyfire's flame damage is increased by 50%.
@@ -107,6 +110,4 @@ Block: the damage taken is reduced by 10% of the wanderer's Max HP.
 
 |   Discharge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Destruction Protocol**|When weapon charge is full or Phantasia is triggered, upon switching to this weapon. remove all debuts from the Wanderer and deal damage equal to 2,951% OF ATK. During this period, gain damage immunity for 2.6 seconds [unavailable in Apex League]. Applies armor dissolve and 1 mirror to the current target. Also applies 1 mirror the wanderer. The mirror lasts 45 seconds, and only 1 mirror can be attached to the target. </br> Mirror [target]: the target with the mirror reflects 15% of the damage received rom the wanderer into Its closest enemies. </br> Mirror wanderer: gives the wanderer a reflection effect and the ability to ignore 30% of target's physical and flame resistances total elemental resistance iénored cannot exceed 50% </br> Cooldown: 3 seconds. </br> Reflection: reflects 20% of damage received back [up to a maximum of 500% of the wanderer's Max HP]. After Papa appears. the wanderer looks into the mirror and triggers Papa's approval, reducing the mirror's cooldown time by 1 second.|
-
-
+| **Destruction Protocol**|When weapon charge is full or Phantasia is triggered, upon switching to this weapon. remove all debuts from the Wanderer and deal damage equal to 2,951% OF ATK. During this period, gain damage immunity for 2.6 seconds [unavailable in Apex League]. Applies armor dissolve and 1 mirror to the current target. Also applies 1 mirror the wanderer. The mirror lasts 45 seconds, and only 1 mirror can be attached to the target. </br> Mirror [target]: the target with the mirror reflects 15% of the damage received rom the wanderer into Its closest enemies. </br> Mirror wanderer: gives the wanderer a reflection effect and the ability to ignore 30% of target's physical and flame resistances total elemental resistance iénored cannot exceed 50% </br> Cooldown: 3 seconds. </br> Reflection: reflects 20% of damage received back [up to a maximum of 500% of the wanderer's Max HP]. After Papa appears. the wanderer looks into the mirror and triggers Papa's approval, reducing the mirror's cooldown time by 1 second.| -->

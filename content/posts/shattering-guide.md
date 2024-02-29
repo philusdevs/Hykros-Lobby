@@ -8,6 +8,7 @@ social_image: /media/logo.png
 description: A guide on how to make the best use of being a tank when your main
   job is to shatter, including the best weapon lineup, matrices, and relics.
 ---
+
 Researcher: SmolAlli
 
 If you are a tank in some content, and your only priority is to shatter a shield, here's a how-to guide to set yourself up for success. Note: This is mainly meant as comps for the raids such as the 3.1 and 3.2 limited-time raids, but the advice in this guide is generic, and can be used in other content.
@@ -22,17 +23,17 @@ The main shatterer is Shiro. Her skill has the highest shatter within all of the
 
 ![Lineup 1: Shiro, Ene, Saki Fuwa](https://media.discordapp.net/attachments/1143886813593882664/1143888090897862686/image.png)
 
-*Minimum stars: 1\* Saki, Any Ene, Any Shiro (3\* recommended)*
+_Minimum stars: 1\* Saki, Any Ene, Any Shiro (3\* recommended)_
 
 #### Lineup 2:
 
 ![Lineup 2: Shiro, Ene, Huma](https://media.discordapp.net/attachments/1143886813593882664/1143888404069757038/image.png)
 
-Both of these lineups are possible to obtain within the current Standard weapons pool, as Saki Fuwa was just recently added in 3.1. 
+Both of these lineups are possible to obtain within the current Standard weapons pool, as Saki Fuwa was just recently added in 3.1.
 
 The reason for using Saki Fuwa is for her 1\* skill resets, which will be explained shortly. The use of Ene is to trigger both Frost and Fortitude resonance. Use Huma instead of Saki Fuwa if you do not possess her 1\*.
 
-*Minimum stars: Any Huma, Any Ene, Any Shiro (3* recommended)*
+_Minimum stars: Any Huma, Any Ene, Any Shiro (3_ recommended)\*
 
 #### Additional option - Gnonno:
 
@@ -40,7 +41,7 @@ The reason for using Saki Fuwa is for her 1\* skill resets, which will be explai
 
 Although not completely recommended, you are able to use Gnonno for shattering as her tentacles do a lot of shatter damage. You would want to do your discharge into her right on shield, trigger hologram projector, tap skill to trigger the quick tentacles, then do attack hold until in "Boiling Octopus Balls", where the combination of tentacles and her hold attack will give a lot of shatter.
 
-*Minimum stars: 1\* Gnonno, 1\* Lan, Any Tank Weapon*
+_Minimum stars: 1\* Gnonno, 1\* Lan, Any Tank Weapon_
 
 ### Recommended Matrices Lineup:
 
@@ -56,17 +57,17 @@ Matrices are also something to consider, and the reason for this is that there e
 
 Lineup 1 is achievable using the Mirroria Gachapon machines, Adventurer's Log, Suppressor upgrades, Joint Operation rewards, and world boss chests. If you have not grabbed these, however, using Wind Blade 3pc will do just fine, which you can get as a random weekly Dream Machine rewards. Read up on the matrices here:
 
-* [Shiro](https://hykroslobby.com/matrices/shiro)
-* [Scylla](https://hykroslobby.com/matrices/scylla) [](https://hykroslobby.com/matrices/wind-blade)
-* [Wind Blade](https://hykroslobby.com/matrices/wind-blade) 
+- [Shiro](https://hykroslobby.com/matrices/shiro)
+- [Scylla](https://hykroslobby.com/matrices/scylla) [](https://hykroslobby.com/matrices/wind-blade)
+- [Wind Blade](https://hykroslobby.com/matrices/wind-blade)
 
 ### Relics:
 
-The main focus is using Hologram Projector, so that you can majorly increase your shatter by having a clone also use Shiro's skill. However, unless you use Zero's trait and use skills in between shields to lower the cooldown of the relic, you will most likely only have it be usable every second shield (assuming ~2 minutes between shield, like Zhuyan's in the limited raid). That can also vary even more if you don't have the 2* advancement of the relic, where the cooldown is lowered to 120s.
+The main focus is using Hologram Projector, so that you can majorly increase your shatter by having a clone also use Shiro's skill. However, unless you use Zero's trait and use skills in between shields to lower the cooldown of the relic, you will most likely only have it be usable every second shield (assuming ~2 minutes between shield, like Zhuyan's in the limited raid). That can also vary even more if you don't have the 2\* advancement of the relic, where the cooldown is lowered to 120s.
 
 ### Saki Resets:
 
-The way to effectively make use of Saki's resets is to set it up so that you have 4 stacks on the buff bar of her reset counter, and then after using Hologram projector you use Shiro's skill twice in a row. 
+The way to effectively make use of Saki's resets is to set it up so that you have 4 stacks on the buff bar of her reset counter, and then after using Hologram projector you use Shiro's skill twice in a row.
 
 Another option is to have 3 stacks on the buff bar, then use grapple and do a Saki skill when the shield has just come up, then use Holo + Shiro skills.
 

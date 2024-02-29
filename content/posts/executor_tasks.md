@@ -2,7 +2,7 @@
 title: Executor Tasks
 date: 2023-08-08
 tags: [new executor brief]
-social_image: '/media/logo.png'
+social_image: "/media/logo.png"
 description: Comprehensive daily, weekly, and monthly checklist for Executors
 ---
 
@@ -14,53 +14,53 @@ description: Comprehensive daily, weekly, and monthly checklist for Executors
 As an Executor, overseeing various responsibilities can be demanding. This checklist aims to provide you with a streamlined approach to managing tasks effectively on a daily, weekly, and monthly basis.
 
 .checklist {
-  list-style-type: none;
-  padding: 0;
-  font-size: 16px;
+list-style-type: none;
+padding: 0;
+font-size: 16px;
 }
 
-/* Style for the checkbox */
+/_ Style for the checkbox _/
 .checklist input[type="checkbox"] {
-  display: none;
+display: none;
 }
 
-/* Style for the label (checkbox appearance) */
+/_ Style for the label (checkbox appearance) _/
 .checklist label {
-  display: block;
-  position: relative;
-  padding-left: 30px;
-  margin-bottom: 8px;
-  cursor: pointer;
+display: block;
+position: relative;
+padding-left: 30px;
+margin-bottom: 8px;
+cursor: pointer;
 }
 
-/* Custom checkbox design */
+/_ Custom checkbox design _/
 .checklist label::before {
-  content: "";
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 20px;
-  height: 20px;
-  border: 2px solid #ccc;
-  background-color: white;
+content: "";
+display: block;
+position: absolute;
+left: 0;
+top: 0;
+width: 20px;
+height: 20px;
+border: 2px solid #ccc;
+background-color: white;
 }
 
-/* Checkbox checked style */
+/_ Checkbox checked style _/
 .checklist input[type="checkbox"]:checked + label::before {
-  background-color: #007bff;
-  border-color: #007bff;
+background-color: #007bff;
+border-color: #007bff;
 }
 
-/* Checkbox checked mark */
+/_ Checkbox checked mark _/
 .checklist input[type="checkbox"]:checked + label::after {
-  content: "\2713";
-  display: block;
-  position: absolute;
-  left: 5px;
-  top: 1px;
-  color: white;
-  font-size: 16px;
+content: "\2713";
+display: block;
+position: absolute;
+left: 5px;
+top: 1px;
+color: white;
+font-size: 16px;
 }
 
 </style>

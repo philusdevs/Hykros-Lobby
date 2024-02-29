@@ -2,7 +2,7 @@
 title: "Crow"
 date: 2022-08-11
 tags: [SSR, Matrices, Crit, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Crow Matrices
 ---
 

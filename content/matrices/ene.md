@@ -2,7 +2,7 @@
 title: "Ene"
 date: 2022-08-11
 tags: [SR, Matrices, Normal]
-social_image: '/media/matrice.png'
+social_image: "/media/matrice.png"
 description: Ene Matrices
 ---
 

@@ -2,13 +2,16 @@
 title: Using the Simulacrum System Log#579
 date: 2702-02-11
 tags: [new executor brief]
-social_image: '/media/logo.png'
+social_image: "/media/logo.png"
 description: The Simulacrum system allows you to equip three weapons at a time and provides buffs based on their role. You can use matrices and traits to further improve your roles depending on the situation, and your use of the Simulacrum system.
 ---
-Within the Simulacrum system we have designed it so that you can equip three Simularcums at a time, this will rather be easier to refer to as weapons 
+
+Within the Simulacrum system we have designed it so that you can equip three Simularcums at a time, this will rather be easier to refer to as weapons
 ![wr](/media/wr.png)
+
 ## Weapon Resonance Types
-In the simulacrum system, we have a feature called Weapon Resonance which will provides you specific buffs based on your weapon loadout. 
+
+In the simulacrum system, we have a feature called Weapon Resonance which will provides you specific buffs based on your weapon loadout.
 
 ![wre](/media/wre.png)
 Weapons are categorized into Balance, Attack, Fortitude, and Benediction roles:
@@ -25,12 +28,10 @@ When roaming the world solo, we recommended remain on DPS to deal as much damage
 
 Within these roles you also benefit from elemental resonance when you are equipped with two of the same elemental weapon.
 
-
-
-| Elemental Symbol                                 | Element     |
-|----------------------------------------|----------|
-| ![Element_Altered](/media/Element_Altered.png) | Altered  |
-| ![Element_Volt](/media/Element_Volt.png)       | Volt     |
+| Elemental Symbol                                 | Element  |
+| ------------------------------------------------ | -------- |
+| ![Element_Altered](/media/Element_Altered.png)   | Altered  |
+| ![Element_Volt](/media/Element_Volt.png)         | Volt     |
 | ![Element_Physical](/media/Element_Physical.png) | Physical |
 | ![Element_Flame](/media/Element_Flame.png)       | Flame    |
 | ![Element_Frost](/media/Element_Frost.png)       | Frost    |
@@ -41,26 +42,25 @@ You'll receive elemental resonance of that element.
 
 Some weapons can have dual elements where the foreground element applies elemental damage, but the background element when paired with the same element will provide the same elemental resonance.
 
-| Elemental Symbol                                 | Element     |
-|----------------------------------------|----------|
-| ![Element_Physical_Flame](/media/Element_PhysicalFlame.png)       | Physical Flame    |
+| Elemental Symbol                                            | Element        |
+| ----------------------------------------------------------- | -------------- |
+| ![Element_Physical_Flame](/media/Element_PhysicalFlame.png) | Physical Flame |
 | ![Element_Flame_Physical](/media/Element_FlamePhysical.png) | Flame Physical |
-| ![Element_Volt_Frost](/media/Element_VoltFrost.png)       | Volt Frost   |
-| ![Element_Frost_Volt](/media/Element_FrostVolt.png)       | Frost Volt   |
+| ![Element_Volt_Frost](/media/Element_VoltFrost.png)         | Volt Frost     |
+| ![Element_Frost_Volt](/media/Element_FrostVolt.png)         | Frost Volt     |
 
-| Elemental Symbol                                 | Element Description    |
-|----------------------------------------|----------|
-| ![Element_Physical_Flame](/media/Element_PhysicalFlame.png)       | Paring a Physical Flame weapon with a Flame weapon will trigger Flame resonance. While pairing a Physical Flame weapon with a Physical  weapon will trigger Physical resonance  </br> Paring a Phyiscal Flame weapon with with both Phyiscal and Flame weapon will trigger both Physical and Flame resonances  |
-| ![Element_Flame_Physical](/media/Element_FlamePhysical.png)       | Paring a  Flame Physical weapon with a Physical weapon will trigger Physical resonance. While pairing a Flame Physical weapon with a Flame  weapon will trigger Flame resonance  </br> Paring a Phyiscal Flame weapon with with both Phyiscal and Flame weapon will trigger both pPhysical and Flame resonances|
-| ![Element_Volt_Frost](/media/Element_VoltFrost.png)       | Paring a Volt Frost weapon with a Volt weapon will trigger Volt resonance. While pairing a Volt Frost weapon with a Frost weapon will trigger Frost resonance  </br> Paring a Volt Frost weapon with with both Volt and Frost weapon will trigger both Volt and Frost resonances  |
-| ![Element_Frost_Volt](/media/Element_FrostVolt.png)       | Paring a Frost Volt weapon with a Frost weapon will trigger Frost resonance. While pairing a Frost Volt weapon with a Frost  weapon will trigger Frost resonance  </br> Paring a Frost Volt weapon with with both Frost and Volt weapon will trigger both Volt and Frost resonances   |
+| Elemental Symbol                                            | Element Description                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Element_Physical_Flame](/media/Element_PhysicalFlame.png) | Paring a Physical Flame weapon with a Flame weapon will trigger Flame resonance. While pairing a Physical Flame weapon with a Physical weapon will trigger Physical resonance </br> Paring a Phyiscal Flame weapon with with both Phyiscal and Flame weapon will trigger both Physical and Flame resonances  |
+| ![Element_Flame_Physical](/media/Element_FlamePhysical.png) | Paring a Flame Physical weapon with a Physical weapon will trigger Physical resonance. While pairing a Flame Physical weapon with a Flame weapon will trigger Flame resonance </br> Paring a Phyiscal Flame weapon with with both Phyiscal and Flame weapon will trigger both pPhysical and Flame resonances |
+| ![Element_Volt_Frost](/media/Element_VoltFrost.png)         | Paring a Volt Frost weapon with a Volt weapon will trigger Volt resonance. While pairing a Volt Frost weapon with a Frost weapon will trigger Frost resonance </br> Paring a Volt Frost weapon with with both Volt and Frost weapon will trigger both Volt and Frost resonances                              |
+| ![Element_Frost_Volt](/media/Element_FrostVolt.png)         | Paring a Frost Volt weapon with a Frost weapon will trigger Frost resonance. While pairing a Frost Volt weapon with a Frost weapon will trigger Frost resonance </br> Paring a Frost Volt weapon with with both Frost and Volt weapon will trigger both Volt and Frost resonances                            |
 
 </br> 
 These resonances can be found within the different weapon descriptions.
-</br> 
+</br>
 
 ![el](/media/el.png)
-
 
 ## Gear
 
@@ -70,8 +70,7 @@ Gear is a critical part of your build, affecting your Combat Strength (CS) ratin
 
 You can manage your inventory through the Backpack menu, which allows you to view your equipped items, carried items, and switch between different themed tabs such as materials, equipment, cooking, missions, currency, and gifts.
 
-## Matrices 
-
+## Matrices
 
 ![](https://telegra.ph/file/d188583ef4e4fc96c8e0e.png)
 
