@@ -8,7 +8,7 @@ description: Pepper, featured as an obtainable SR Simulacrum within the simulacr
 
 ![](https://i.postimg.cc/rmC3nt2m/Simulacrum-Pepper-Prototype.png)
 
-</br>
+<br />
 
 <center>
 Staff of Scars
@@ -20,7 +20,7 @@ Staff of Scars
 Attack: 10 | HP: 753 | Resistance: 5 | S: 4.00 | C: 13.20
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
 
@@ -36,16 +36,16 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ Grant all teammates within range 60% damage reduction whenever a skill dispels control effects from the target.
 
-</br>
+<br />
 
 | Normal Attack       | Description                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Normal Attack**   | While on the ground, swing the staff to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 25.1% of ATK + 1. </br> **Second Attack:** Deal damage equal to 18.8% of ATK + 1. </br> **Third Attack:** Deal damage equal to 30.4% of ATK + 2. </br> **Fourth Attack:** Deal damage equal to 41.4% of ATK + 2. </br> **Fifth Attack:** Deal damage equal to 73.2% of ATK + 4.                                  |
-| **Soaring Barrage** | While airborne or after jumping once, tap normal attack to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 32.5% of ATK + 2. </br> **Second Attack:** Deal damage equal to 23.5% of ATK + 1. </br> **Third Attack:** Deal damage equal to 25.5% of ATK + 1. </br> **Fourth Attack:** Deal damage equal to 45.6% of ATK + 2. </br> **Fifth Attack:** Deal damage equal to 47.7% of ATK + 3.               |
+| **Normal Attack**   | While on the ground, swing the staff to attack 5 times in a row. <br /> **First Attack:** Deal damage equal to 25.1% of ATK + 1. <br /> **Second Attack:** Deal damage equal to 18.8% of ATK + 1. <br /> **Third Attack:** Deal damage equal to 30.4% of ATK + 2. <br /> **Fourth Attack:** Deal damage equal to 41.4% of ATK + 2. <br /> **Fifth Attack:** Deal damage equal to 73.2% of ATK + 4.                                  |
+| **Soaring Barrage** | While airborne or after jumping once, tap normal attack to attack 5 times in a row. <br /> **First Attack:** Deal damage equal to 32.5% of ATK + 2. <br /> **Second Attack:** Deal damage equal to 23.5% of ATK + 1. <br /> **Third Attack:** Deal damage equal to 25.5% of ATK + 1. <br /> **Fourth Attack:** Deal damage equal to 45.6% of ATK + 2. <br /> **Fifth Attack:** Deal damage equal to 47.7% of ATK + 3.               |
 | **Moonfall**        | Tap and hold normal attack while airborne to trigger Moonfall. Upon landing, deal damage once every 0.2 seconds, for a total of 57.2% of ATK + 3 damage.                                                                                                                                                                                                                                                                       |
-| **Focused Assault** | After the third normal attack, hold the normal attack button to trigger branch attacks, consuming 300 points of endurance.</br> **First Attack:** Pull in enemies in front of the user, strongly suspending them and dealing damage equal to 16.1% of ATK + 1 every 0.3 seconds (up to 4 times).</br> **Second Attack:** Deal damage equal to 18.6% of ATK + 1 at the target location and to nearby enemies every 0.3 seconds. |
+| **Focused Assault** | After the third normal attack, hold the normal attack button to trigger branch attacks, consuming 300 points of endurance.<br /> **First Attack:** Pull in enemies in front of the user, strongly suspending them and dealing damage equal to 16.1% of ATK + 1 every 0.3 seconds (up to 4 times).<br /> **Second Attack:** Deal damage equal to 18.6% of ATK + 1 at the target location and to nearby enemies every 0.3 seconds. |
 
-</br>
+<br />
 
 | Dodge         | Description                                                                                                                                                                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,13 +53,13 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 | **Surge**     | Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Surge. Each wave of energy deals damage equal to 22.6% of ATK + 1 to targets. Grant 75 weapon charge points upon use.                 |
 | **Tesseract** | Tap normal attack during the short period after dodging to trigger Evasive Blast. Fire an energy orb forward, dealing damage equal to 32.1% of ATK + 2 in its path every 0.3 seconds (up to 5 times). Grant 75 weapon charge points upon use. |
 
-</br>
+<br />
 
 | Skill         | Description                                                                                                                                                          |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sanctuary** | Create an energy shield at the Wanderer's location. Heal allies within the shield for 81.7% of ATK +4 every second and reduce their damage taken by3% for10 seconds. |
 
-</br>
+<br />
 
 | Discharge             | Description                                                                                                                                                                                                                                                                                 |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

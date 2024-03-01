@@ -1,113 +1,92 @@
 ---
-title: "Plotti"
-date: 2024-02-11
+title: 'Plotti'
+date: 2024-01-30
 tags: [SSR, Flame, Physical]
-social_image: "/media/tab_plotti.png"
+social_image: '/media/tab_plotti.png'
 description: Plotti, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon EP-7000 Skyfire
 ---
 
 ![](https://telegra.ph/file/49d1d72b26fafbb2700cd.png)
 
-# TODO: Add new info here
+### Awaken: Dreams vs. Reality
 
-<!--
-### Awaken: Reality and Dream
+> Increase final damage by 18%. <br /> Increase EP-7000 Skyfire's flame damage by 20%.
 
-> Final damage is increased by 18%. </br> EP-7000 Skyfire's flame damage is increased by 50%.
-
-</br>
+<br />
+<br />
 
 <center> EP-7000 Skyfire </center>
 
 <p align="center">
-    <img src="https://telegra.ph/file/dc5ffd21e7cf949631497.png" alt="Centered Image">
+    <img src="https://static.wikia.nocookie.net/toweroffantasy/images/e/e0/Icon_Weapon_EP-7000_Skyfire.png" alt="Centered Image">
 </p>
 
- <center>Attack: 19 | HP: 1165 | Crit: 13 | S: 14.00 | C: 12.00 </center>
+<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 14 | C: 12 </center>
 
-</br>
-
+<br />
 
 <h4 style="text-align: center;"> Trait: Armor Dissolve </h4>
 
- When the weapon is fully charged, the next attack inflicts armor dissolve effect on the target for 45 seconds, increasing their flame and physical damage taken by 10% [and an additional 15% in team play]. This effect will replace the grievous status on the target, and targets with this effect cannot become grievous.
- Physical attacks will stun targets under the dissolve effect for 2 seconds, and flame attacks will decrease the targets' speed by 50% for 5 seconds. This effect can only trigger 1 time every 15 seconds on the same target.
+When the weapon is fully charged, the next attack inflicts armor dissolve effect on the target for 45 seconds, increasing their flame and physical damage taken by 10% (and an additional 15% in team play). This effect will replace the grievous status on the target, and targets with this effect cannot become grievous. Physical attacks will stun targets under the dissolve effect for 2 seconds, and flame attacks will decrease the targets' speed by 50% for 5 seconds. This effect can only trigger 1 time every 15 seconds on the same target.
+
+<br />
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
-**Fusion of Physical and Flame:**  When the weapon deals damage, damage is calculated using the highest equipped physical/flame base ATK, the highest equipped physical/flame ATK percentage, and the highest equipped physical/flame damage boost, and the weapon is considered both a physical and Flame weapon.
+**Fusion of Flame and Mass:** When the weapon deals damage, damage is calculated using the currently equipped weapon's highest flame/physical base ATK, the highest equipped flame/physical ATK percentage, and the highest equipped flame/physical damage boost, and the weapon is considered both a flame and physical weapon. <br /> **Flame Resonance:** Increase Flame ATK by 15% and Flame Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance effects, with Flame Resonance taking precedence. <br /> **Physical Resonance:** Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance effects, with Physical Resonance taking precedence. <br /> **Poppa: Detachment:** After using Mirror Image, deal damage equal to 87.5% of flame ATK plus 12.5% of Max HP plus 45% the sum of all the Wanderer's resistance types plus 168.8% of crit every second for 30 seconds. Multiple Detachment damages will not stack. Poppa damage counts as skill damage. If there is 1 volt or frost weapon equipped, then Poppa's damage is multiplied by 1.3 times. In addition, Poppa's damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
-**Flame Resonance:** Increase flame ATK by 20% and flame resistance by 40%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot.
-
-**Physical Resonance:** Increase physical ATK by 20% and physical resistance by 40%. Activate by equipping 2 or more physical weapons. This set effect works in the off-hand slot.
-
-
-
-**Papa: Unload:**   After using Reflection of You and Me, every second, deal damage equal to 1,000% of flame ATK plus 16% of the Wanderer's Max HP plus 600% of the sum of all the Wanderer's resistance types plus 2,000% of crit to targets hit for 30 seconds. Multiple Unload damage will not stack and Papa damage will be counted as skill damage.
-
-
-</br>
-If there is 1 volt/Frost weapon of any kind equipped, Papa damage is multiplied by 2.5 times. In addition, Papa damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
-</br>
-
+<br />
 
 <h4 style="text-align: center;"> Advancements </h4>
 
-</br>
+1★ While Poppa is Here is active, Poppa will launch a Heavy Energy Round II for every 7 explosive shot fired, dealing damage equal to 590% of ATK to nearby targets and then splits into several high explosives, dealing damage equal to 660% of ATK to nearby targets.
 
-1★ In the Papa's Appearance state, every 7 burst bullets fired releases a type II energy bomb, dealing AoE damage equal to 1,800% of ATK. Once hit, the bomb splits into multiple high-explosive projectiles, dealing additional damage equal to 2,000% of ATK.
-</br>
+3★ After Poppa appears 5 times, increase final damage by 12% and physical damage by 6% for 25 seconds. <br /> After Poppa appears 5 times, the next use of Mirror Image will refresh Phantasia Cooldown and immediately trigger Phantasia.
 
-3★ Papa's Appearance increases Final damage by 25% and physical damage by 18% for 25 seconds.
-</br>
+5★ Reduce Heavy Energy Round I's trigger interval to 6 seconds. When firing Heavy Energy Round I or Heavy Energy Round II, also fire a Healing Round that recovers 10% of the Wanderer's Max HP.
 
-5★ Passive [Synergy) effect now summons Papa's Shadow every 6 seconds. When firing energy bombs, healing bullets will be released simultaneously, restoring 10% of Max HP to the wanderer.
-
-</br>
-
-6★ Mirror (target): now reflects 15% damage into the target itself as well.
-Mirror [wanderer]: now also gives improved reflection and block.
-Reflection: now reflects 30% of damage received back up to a maximum of 800% of the wanderer's Max HP].
-Block: the damage taken is reduced by 10% of the wanderer's Max HP.
+6★ Mirror (Target)'s damage reflection effect can now also affect the target. Mirror (Self)'s damage reflection ratio is increased to 30% and the maximum reflected damage is increased to 800% of the Wanderer's Max HP. <br /> Additionally, while Mirror (Self) is in effect, every time the Wanderer takes damage, additionally block damage equal to 10% of Max HP (excess damage will be taken normally, unavailable in Apex League). This effect can be triggered up to 1 time every 3 seconds. During cooldown, when Poppa appears and admires herself in the mirror, reduce the effect's cooldown by 1 second.
 
 
-</br>
+
+<br />
 
 
 |   Attacks        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Standard Protocol**| While on the ground, use normal attack to launch 5 consecutive attacks. Each attack deals a different amount of damage: </br> **First Attack:** Deal damage equal to 424% of ATK. </br> **Second Attack:** Deal damage equal to 800% of ATK. </br> **Third Attack:** Deal damage equal to 564% of ATK. </br> **Fourth Attack:** Deal damage equal to 527% of ATK. </br> **Fifth Attack:** Deal damage equal to 1519% of ATK.|
-| **Burst Protocol** | While airborne, use a regular attack to perform 5 consecutive attacks in mid-air, consuming endurance. Each attack deals a different amount of damage: </br> **First Attack:** Deal damage equal to 424% of ATK. </br> **Second Attack:** Deal damage equal to 800% of ATK. </br> **Third Attack:** Deal damage equal to 564% of ATK. </br> **Fourth Attack:** Deal damage equal to 527% of ATK. </br> **Fifth Attack:** Deal damage equal to 1519% of ATK.</br> Consumes stamina. |
-| **Rapid-Fire Protocol**| While on the ground, press and hold attack button after the second-fourth normal attack to deal damage equal to 273% of АТК. |
-| **Aerial-Fire Protocol**|While in the air, press and hold attack button after the second-fourth normal attack to deal damage equal to 273% of ATK. </br> Consumes stamina. |
-| **Charge Protocol**|While on the ground, press and hold attack button to deal damage equal to 273% of ATK.|
+| **Standard Protocol** | While on the ground, use normal attack to attack 5 times in a row. <br /> First Attack: Deal damage equal to 140% of ATK plus 7. <br /> Second Attack: Deal damage equal to 264% of ATK plus 14. <br /> Third Attack: Deal damage equal to 186% of ATK plus 10. <br /> Fourth Attack: Deal damage equal to 174% of ATK plus 9. <br /> Fifth Attack: Deal damage equal to 501% of ATK plus 26.|
+| **Burst Fire Protocol** | While airborne, use normal attack to launch 5 attacks in a row mid-air, consuming endurance. <br /> First Attack: Deal damage equal to 140% of ATK plus 7. <br /> Second Attack: Deal damage equal to 264% of ATK plus 14. <br /> Third Attack: Deal damage equal to 186% of ATK plus 10. <br /> Fourth Attack: Deal damage equal to 174% of ATK plus 9. <br /> Fifth Attack: Deal damage equal to 501% of ATK plus 26.|
+| **Rapid Fire Protocol** | While airborne, tap and hold normal attack when using the second to fourth normal attacks to trigger Rapid Fire Protocol and consume endurance. <br /> Launch an attack ahead, dealing damage equal to 90% of ATK plus 5 to nearby targets and suspending them.|
+| **Energizing Protocol** | While on the ground, tap and hold normal attack to trigger a charged attack. <br /> Fire a charged shot at the target, dealing damage equal to 90% of ATK plus 5 to nearby targets hit.|
+| **Air Raid Protocol** | While airborne, tap and hold normal attack when using the second to fourth normal attacks to trigger an aerial branch attack and consume endurance. <br /> Launch an attack ahead, dealing damage equal to 90% of ATK plus 5 to nearby targets and suspending them.|
+| **Diving Protocol** | Hold dodge while in mid-air to trigger Diving Protocol, dealing damage equal to 289% of ATK plus 15 upon landing.|
+| **Brilliant Colors** | When in the overworld, on the ground, or in the non-combat state, hold dodge to place fireworks of a random style that explode after a short delay.|
 
 
 
-</br>
+<br />
 
 
 |   Dodge        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Dive Protocol**|Dodge right before getting hit to trigger Phantasia, reducing the speed or targets within the area. become immune to hitstun while dodging. </br> Passive: dodge restores 150 stamina and removes the increased stamina consumption status gained from the passive Soaring Fortress) effect.|
-| **Dive Protocol**|While in the air, press and hold attack button after the dodge to deal damage equal to 877% of ATK upon landing. |
-|**Assault Protocol**| Press attack button after the dodge [with directional button], to deal damage equal to 616% of ATK. In the Papa's Appearance state, press and hold normal attack after Assault Protocol to begin Firing burst bullets continuously.|
-|**Progression Protocol** | Press attack button after the dodge, to deal damage equal to 468% oF ATK. In the Papa's Appearance state, press and hold normal attack after Assault Protocol to begin Firing burst bullets continuously. |
-| **Aerial Protocol**|Dodge attacks can be triggered in the air as well. After 1 triggered EP-7000 Skifire dodge attack, Papa appears and deals 50-100% proportional damage to the wanderer, depending on Papa's mood. After that, the cooldown of Reflection of You and Me will be reduced by 10 seconds [can be reduced only once].|
-| **Five-Color Paints**|While on the ground and not in combat, press and hold the dodge button to create Firework after a short delay. The style of the Firework will be randomized. </br> Works in the open world.|
+| **Assault Protocol** | Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Assault Protocol. <br /> Summon a missile from space and deal damage equal to 203% of ATK plus 11 to nearby targets. <br /> While Poppa is Here is active, after triggering Assault Protocol, tap and hold normal attack to continuously fire explosive shots.|
+| **Propulsion Protocol** | Use normal attack during the short period after dodging to trigger Propulsion Protocol. <br /> Fire a laser beam and deal damage equal to 154% of ATK plus 8 to nearby targets. <br /> While Poppa is Here is active, after triggering Assault Protocol, tap and hold normal attack to continuously fire explosive shots.|
+| **Airborne Protocol** | Dodge attacks can be used while the Wanderer is airborne. For every 2 dodge attacks using EP-7000 Skyfire, Poppa appears and uses a dodge attack as well, dealing damage equal to 50% to 100% of the Wanderer's damage dealt based on Poppa's mood. <br /> After every 2 dodge attacks from EP-7000 Skyfire or 1 dodge attack using EP-7000 Skyfire while Poppa is Here is in effect, reduce Mirror Image's cooldown by 10 seconds. Can only be triggered 1 time for each skill's cooldown duration.|
 
 
 
-</br>
+<br />
 
 
 |   Skill        | Description                                                  |
 |-----------------|---------------------------------------------------------------|
-| **Reflection of You and Me**| Flits between inner personalities and creates 8 soul reflections around it considered as summons, dealing damage equal to 2,444% of ATK and entering a Papa's Appearance state that activates Fring mode for 15 seconds. Cooldown: 30 seconds </br> Firing Mode: Gains flight ability, increases movement speed and jump height, and the normal attack is replaced by shooting burst bullets that deal damage equal to 564% of ATK. </br> Passive Soaring Fortress: The greater the height difference between the wanderer and the target, the greater the damage dealt in the hiring mode, up to a maximum 3% final damage Increase. Aiso gains increased stamina consumption status: burst bullets shots will consume more stamina </br>Passive (Synergy]: If the wanderer is not in the Papa's </br> Appearance State while in combat, every & seconds the Papa's Shadow will appear and hre a type I energy bomb at the target, dealing AoE damage equal to 1,800% fo ATK.</br> Passive (Satisfaction]: when the Papa's Appearance state ends naturally, Papa's satisfaction will be triggered and the wanderer instantly gains sUd weapon charge|
+| **Mirror Image** | Roam between the mind and reality, creating 8 Heart Mirror Walls around the Wanderer (these count as summons) and deal damage equal to 807% of ATK plus 43 to nearby targets. After using the skill, activate Poppa is Here for 15 seconds, gaining the ability to fly as well as improved movement speed and jumping capabilities. Normal attack now fires explosive shots that deal damage equal to 180% of ATK plus 10 to nearby targets upon hit and consumes endurance. After an explosive shot hits the ground, it will be transmitted to a Heart Mirror Wall and fired toward the locked-on target. Cooldown: 30 seconds. After Poppa is Here naturally ends, immediately gain 300 weapon charge. <br /> During Poppa is Here, increase final damage according to the distance in height between the Wanderer and the target hit, by up to 1%. <br /> While in the combat state and Poppa is Here not active, Poppa will appear every 8 seconds and fire a Heavy Energy Round I dealing damage equal to 590% of ATK to nearby targets.|
 
 
-</br>
 
-|   Discharge        | Description                                                  |
+<br />
+
+
+| Discharge | Description |
 |-----------------|---------------------------------------------------------------|
-| **Destruction Protocol**|When weapon charge is full or Phantasia is triggered, upon switching to this weapon. remove all debuts from the Wanderer and deal damage equal to 2,951% OF ATK. During this period, gain damage immunity for 2.6 seconds [unavailable in Apex League]. Applies armor dissolve and 1 mirror to the current target. Also applies 1 mirror the wanderer. The mirror lasts 45 seconds, and only 1 mirror can be attached to the target. </br> Mirror [target]: the target with the mirror reflects 15% of the damage received rom the wanderer into Its closest enemies. </br> Mirror wanderer: gives the wanderer a reflection effect and the ability to ignore 30% of target's physical and flame resistances total elemental resistance iénored cannot exceed 50% </br> Cooldown: 3 seconds. </br> Reflection: reflects 20% of damage received back [up to a maximum of 500% of the wanderer's Max HP]. After Papa appears. the wanderer looks into the mirror and triggers Papa's approval, reducing the mirror's cooldown time by 1 second.| -->
+| **Extermination Protocol** | When weapon charge is full or Phantasia is triggered, remove all debuffs from the Wanderer and activate the Satellite Ionic Beam upon switching to this weapon, summoning an ionic beam from the space station and dealing damage equal to 974% of ATK plus 51 to nearby targets. At the same time, inflict Armor Dissolve on targets hit and gain damage immunity for 1.5 seconds (unavailable in Apex League). <br /> After Extermination Protocol lands a hit, place 1 Mirror on both the locked-on target and the Wanderer for 45 seconds. <br /> **Mirror (Target):** The damage dealt by the Wanderer will be reflected by Mirrors to other targets for an additional 15% damage. <br /> **Mirror (Self):** Ignore 15% of the target's Flame Resistance (each element's total resistance ignored cannot exceed 50%). Whenever damage is taken, bounce back 20% of the damage received (no more than 500% of the Wanderer's Max HP). This effect can be triggered up to 1 time every 3 seconds. During cooldown, after Poppa appears, she will admire her reflection in the mirror, reducing this effect's cooldown by 1 second.|

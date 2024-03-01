@@ -26,7 +26,7 @@ Flat Attack rolls may be worth more than Attack%, depending on your base attack 
 
 **Normal Multiplier**
 
-</br>
+<br />
 
 | Flat Attack Value               | Threshold for how much Attack you need before Attack% is better |
 | ------------------------------- | --------------------------------------------------------------- |

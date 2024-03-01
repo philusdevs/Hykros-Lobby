@@ -12,7 +12,7 @@ description: Shiro, featured as an obtainable SSR Simulacrum within the simulacr
 
 > When Shiro uses a weapon skill/discharge skill, increase all kinds of ATK by 16% and physical ATK by an additional 10% for 8 seconds. Cooldown: 16 seconds.
 
-</br>
+<br />
 
 <center>
 Chakram of the Seas
@@ -26,7 +26,7 @@ Chakram of the Seas
 Attack: 19 | HP: 1165 | Crit: 13 | S: 10.00 | C: B 6.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Grievous </h4>
 
@@ -42,7 +42,7 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 6★ After using Full Bloom, grants a 100% crit chance for the next 8 seconds.
 
-</br>
+<br />
 
 | Normal Attack        | Description                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,20 +52,20 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 | **Air Spin**         | Tap and hold normal attack while airborne to trigger Air Spin. Unleash a powerful strike, dealing damage equal to 220.2% of ATK + 10 to the target and nearby enemies, and suspend them.                                                                                                                                                                                                                           |
 | **Sneak Attack**     | Approach the enemy from Behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to 491.6% of ATK + 23.                                                                                                                                                                                                                                                                            |
 
-</br>
+<br />
 
 | Dodge           | Description                                                                                                                                                                                                                                                                                                                                                                                   |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge**       | Dodge right before being hit to trigger Phantasia, reducing the speed of enemies within the area. Become immune to hitstun for 0.5 seconds while dodging.                                                                                                                                                                                                                                     |
 | **Waning Moon** | Tap normal attack during the short period after dodging to trigger Waning Moon. Toss a spinning chakram forward, dealing damage equal to 132.9% of ATK + 7 to the target and inflicting a stun effect for 0.5 seconds. The chakram then splits into 3 and keeps traveling, dealing damage equal to 27.8% of ATK + 1 to targets along their path. Split chakram will bounce during Full Bloom. |
 
-</br>
+<br />
 
 | Skill          | Description                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Full Bloom** | Create a Chakram Domain with the Wanderer at the center for 8 seconds. At the same time, enemies are pulled in, and their speed is reduced by 30% for 8 seconds. Fire 5 chakrams that bounce between enemies, dealing damage equal to 27.8% of ATK + 1 to targets along their paths, bouncing up to 5 times. The split chakrams triggered by Waning Moon will also bounce up to 5 times. Cooldown: 45 seconds. |
 
-</br>
+<br />
 
 | Discharge             | Description                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -12,7 +12,7 @@ description: Bai Ling, featured as an obtainable SR Simulacrum within the simula
 
 > When Bai Ling puts the Glider or the Wayboard away, increase speed by 15% for 12 seconds. Cooldown: 60 seconds.
 
-</br>
+<br />
 
 <center>
 Nightingale's Feather
@@ -24,7 +24,7 @@ Nightingale's Feather
 Attack: 19 | HP: 1130 | Crit: 14 | S: 6.00 | C: 10.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Grievous </h4>
 
@@ -40,29 +40,29 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 6★ Increase crit rate to grievous targets by 30% and crit damage by 50%.
 
-</br>
+<br />
 
 | Normal Attack     | Description                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Quickdraw**     | While on the ground, draw the bow repeatedly to attack 5 times. </br> **First Attack:** Deal damage equal to 33.7% of ATK + 2. </br> **Second Attack:** Deal damage equal to 30.2% of ATK + 2. </br> **Third Attack:** Deal damage equal to 54.3% of ATK + 3. </br> **Fourth Attack:** Deal damage equal to 83.5% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance. |
+| **Quickdraw**     | While on the ground, draw the bow repeatedly to attack 5 times. <br /> **First Attack:** Deal damage equal to 33.7% of ATK + 2. <br /> **Second Attack:** Deal damage equal to 30.2% of ATK + 2. <br /> **Third Attack:** Deal damage equal to 54.3% of ATK + 3. <br /> **Fourth Attack:** Deal damage equal to 83.5% of ATK + 4. <br /> **Fifth Attack:** Deal damage equal to 77.7% of ATK + 4 and knock the target back a short distance. |
 | **Charged Arrow** | Tap and hold normal attack to charge. Deal basic damage equal to 60.5% of ATK + 3, and 50% more for each 1 second spent charging, up to 3 seconds. Deal double damage when scoring a headshot or when hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers).                                                                                                                                  |
 | **Arrow Rain**    | After any normal attack, hold the normal attack button to unleash Arrow Rain, dealing up to198.7% of ATK +10 area damage to targets.                                                                                                                                                                                                                                                                                                    |
-| **Air Volley**    | While airborne, tap normal attack to attack4 times in a row in the air.</br> **First Attack:** Deal damage equal to38.8% of ATK +2.</br> **Second Attack:** Deal damage equal to51% of ATK +3.</br> **Third Attack:** Deal damage equal to77.7% of ATK +4.</br> **Fourth Attack:** Deal damage equal to117% of ATK +6.                                                                                                                  |
+| **Air Volley**    | While airborne, tap normal attack to attack4 times in a row in the air.<br /> **First Attack:** Deal damage equal to38.8% of ATK +2.<br /> **Second Attack:** Deal damage equal to51% of ATK +3.<br /> **Third Attack:** Deal damage equal to77.7% of ATK +4.<br /> **Fourth Attack:** Deal damage equal to117% of ATK +6.                                                                                                                  |
 
-</br>
+<br />
 
 | Dodge            | Description                                                                                                                                                 |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge**        | Dodge right before getting hit to trigger a Phantasia, reducing the speed of enemies within an area. Become immune to hitstun for0.5 seconds while dodging. |
 | **Loaded Arrow** | Tap attack after dodging to trigger a Loaded Arrow, which knocking the target back and dealing damage equal to85.5% of ATK +5.                              |
 
-</br>
+<br />
 
 | Skill             | Description                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------------------- |
 | **Piercing Shot** | Backflips and fires1 piercing shot forward, damage equal to154.8% of ATK +8 and knocking the target back. |
 
-</br>
+<br />
 
 | Discharge             | Description                                                                                                                                                                                                     |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

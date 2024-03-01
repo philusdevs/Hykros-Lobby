@@ -12,7 +12,7 @@ description: Hilda, featured as an obtainable SR Simulacrum within the simulacru
 
 > When Hilda uses a vehicle, increase speed by 10%.
 
-</br>
+<br />
 <center>
 The Terminator
 </center>
@@ -23,7 +23,7 @@ The Terminator
 Attack: 11 | HP: 753 | Resistance: 2 | S: 16.00 | C: 10.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Ice Shell </h4>
 
@@ -39,25 +39,25 @@ When the weapon is fully charged, the next attack will freeze targets for 2 seco
 
 6★ Within10seconds of switching to the weapon, increase damage of normal attacks and shatter by60%. Cooldown:25seconds. This effect replaces Advancement effect3. Amount of ammo remains at80.
 
-</br>
+<br />
 
 | Normal Attack     | Description                                                                                                                                                                                                                                                                                        |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Normal Attack** | Tap normal attack to enter aiming mode. Hold normal attack to fire continuously, up to 40 rounds. Each shot deals damage equal to 11.4% of ATK + 1. Deal double damage when scoring a headshot or hitting an enemy's weak point, knocking them down (headshots are ineffective against Wanderers). |
 
-</br>
+<br />
 
 | Dodge     | Description                                                                                                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge** | Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for 0.5 seconds. |
 
-</br>
+<br />
 
 | Skill      | Description                                                                                                                                                                                                                            |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Turret** | Enable turret mode and fire large energy orbs, each dealing damage equal to 213.3% of ATK + 11 and launching the target into the air. Become immune to hitstun and control effects while setting up the turret. Cooldown: 3.5 seconds. |
 
-</br>
+<br />
 
 | Discharge       | Description                                                                                                                                                                                                                                                                                        |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

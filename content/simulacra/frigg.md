@@ -12,7 +12,7 @@ description: Frigg, featured as an obtainable SSR Simulacrum within the simulacr
 
 > Upon entering battle, gain 2.4% frost ATK boost for 5 seconds every 3 seconds, with up to 10 stacks. Also, gain hyperbody and immunity to control effects while in the Frost Domain.
 
-</br>
+<br />
 
 <center>
 Balmung
@@ -24,7 +24,7 @@ Balmung
 Attack: 18 | HP: 1165 | Crit: 14 | S: 8.00 | C: 8.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Ice Shell </h4>
 
@@ -44,7 +44,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 6★ When frostiness reaches15 points and you are in the Frost Domain, you will get an additional "Domain of Frost II" that increases frost ATK by 25% when frost weapons are used.
 
-</br>
+<br />
 
 | Attacks                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

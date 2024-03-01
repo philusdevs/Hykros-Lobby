@@ -12,7 +12,7 @@ description: Nemesis, featured as an obtainable SSR Simulacrum within the simula
 
 > After summoning an Electrode, deal volt damage equal to 100% of ATK to all enemies within 30 meters of the Electrode and heal all allies (including the user) within its range by 200% of ATK.
 
-</br>
+<br />
 
 <center>Venus</center>
 <p align="center">
@@ -22,7 +22,7 @@ description: Nemesis, featured as an obtainable SSR Simulacrum within the simula
 Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 8.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
 When the weapon is fully charged, the next attack will strongly paralyze targets for 1 second and electrify them for 6 seconds, removing all their buffs and dealing damage equal to 144% of ATK. Electrified targets can't receive any buffs for the next 6 seconds.
@@ -42,16 +42,16 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ Up to 2 Electrodes can be active at the same time. Summoning more Electrodes will replace the ones furthest from the user.
 
-</br>
+<br />
 
 | Normal Attack        | Description                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Normal Attack**    | While on the ground, use Venus to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 50.8% of ATK + 3. </br> **Second Attack:** Deal damage equal to 36.3% of ATK + 2. </br> **Third Attack:** Deal damage equal to 98.3% of ATK + 5. </br> **Fourth Attack:** Deal damage equal to 67.3% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 148.3% of ATK + 8. |
-| **Aerial Discharge** | While airborne, tap normal attack to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 62.5% of ATK + 3. </br> **Second Attack:** Deal damage equal to 62.5% of ATK + 3. </br> **Third Attack:** Deal damage equal to 120% of ATK + 6. </br> **Fourth Attack:** Deal damage equal to 71.2% of ATK + 4. </br> **Fifth Attack:** Deal damage equal to 126% of ATK + 7. |
+| **Normal Attack**    | While on the ground, use Venus to attack 5 times in a row. <br /> **First Attack:** Deal damage equal to 50.8% of ATK + 3. <br /> **Second Attack:** Deal damage equal to 36.3% of ATK + 2. <br /> **Third Attack:** Deal damage equal to 98.3% of ATK + 5. <br /> **Fourth Attack:** Deal damage equal to 67.3% of ATK + 4. <br /> **Fifth Attack:** Deal damage equal to 148.3% of ATK + 8. |
+| **Aerial Discharge** | While airborne, tap normal attack to attack 5 times in a row. <br /> **First Attack:** Deal damage equal to 62.5% of ATK + 3. <br /> **Second Attack:** Deal damage equal to 62.5% of ATK + 3. <br /> **Third Attack:** Deal damage equal to 120% of ATK + 6. <br /> **Fourth Attack:** Deal damage equal to 71.2% of ATK + 4. <br /> **Fifth Attack:** Deal damage equal to 126% of ATK + 7. |
 | **Quick Pursuit**    | After the second normal attack, hold normal attack to trigger Quick Pursuit. Shoot a laser-guided missile at the target, dealing damage up to 107.5% of ATK + 6.                                                                                                                                                                                                                         |
 | **Dual Focus**       | Tap and hold normal attack to charge an attack and release an electrified ball that explodes on hit, dealing damage equal to 118.4% of ATK + 6 to nearby enemies.                                                                                                                                                                                                                        |
 
-</br>
+<br />
 
 | Dodge                   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,13 +59,13 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 | **Twin Spinning Focus** | Tap normal attack during the short perfect dodge window to trigger a slowing magnetic field. Venus fires a charged orb that travels forward a set distance and explodes in contact with targets. Deal damage equal to 171.6% of ATK + 9, and generate a slowing magnetic field for 3 seconds, which reduces the movement speed and attack speed of all enemies caught within by 35%. Dodging will trigger a Healing chain that heals nearby allies by 67.7% of the Wanderer's ATK; for the next 10 seconds, a small Healing Chain will trigger every 2 seconds, which heals nearby allies by 22.5% of the Wanderer's ATK. Dodging grants one stack of Healing Chain enhance, which increases the effects of Healing Chains by 25%. Stacks up to five times and lasts for 30 seconds. Switching weapons doesn't cancel this effect. |
 | **Parallel Beams**      | Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Parallel Beams.Venus fires a pair of parallel energy beams, dealing piercing damage equal to 171.6% of ATK +9. Dodging will trigger a Healing chain that heals nearby allies by 67.7% of the Wanderer's ATK; for the next 10 seconds, a small Healing Chain will trigger every 2 seconds, which heals nearby allies by twenty-two point five percent of the Wanderer's ATK. Dodging grants one stack of Healing Chain enhance, which increases the effects of Healing Chains by twenty-five percent. Stacks up to five times and lasts for 30 seconds. Switching weapons doesn't cancel this effect.                                                                                                                       |
 
-</br>
+<br />
 
 | Skill          | Description                                                                                                                                                                                                      |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Pulse Lock** | Venus fires a guided missile that explodes on contact with enemy targets, dealing damage equal to two hundred thirty-three point two percent of ATK plus twelve and knocking down targets. Cooldown: 25 seconds. |
 
-</br>
+<br />
 
 | Discharge               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

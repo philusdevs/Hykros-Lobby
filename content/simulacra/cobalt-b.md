@@ -12,7 +12,7 @@ description: Cobalt-B, featured as an obtainable SSR Simulacrum within the simul
 
 > After Cobalt-B uses her discharge skill, restore a random amount of weapon charge between 90 to 180 points.
 
-</br>
+<br />
 
 <center>Flaming Revolver</center>
 <p align="center">
@@ -22,7 +22,7 @@ description: Cobalt-B, featured as an obtainable SSR Simulacrum within the simul
 Attack: 16 | HP: 1010 | Crit: 11 | S: 12.50 | C: 10.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Ignite </h4>
 
@@ -41,7 +41,7 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 
 6★ Barrage has a 15-second burning effect. Successful attacks with any weapon's dodge skills reduce the cooldown of Barrage by 4 seconds. This cooldown of the effect: 1.5 seconds. The DoT burn from the dodge skill also triggers a cooldown reduction effect.
 
-</br>
+<br />
 
 | Normal Attack         | Description                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,20 +51,20 @@ When the weapon is fully charged, the next attack will ignite the target for 8 s
 | **Aerial Discharge**  | After double-jumping, use a jump attack in the air. Fire an Omnium beam downward. The beam then sweeps forward, dealing damage equal to 33.8% of ATK + 2.                                                                                                                                                                                                              |
 | **Heavy Bombardment** | Hold attack button during a normal attack to unleash Suppressing Fire in front, dealing enemies 102% of ATK + 5 AoE damage.                                                                                                                                                                                                                                            |
 
-</br>
+<br />
 
 | Dodge Attacks      | Description                                                                                                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge**          | Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for 0.5 seconds. |
 | **Close Quarters** | Use normal attack right after dodging to trigger Close Quarters. Deal damage equal to 156.1% of ATK + 8 to targets in a frontal cone area.                                                  |
 
-</br>
+<br />
 
 | Skill Attacks | Description                                                                                   |
 | ------------- | --------------------------------------------------------------------------------------------- |
 | **Barrage**   | Constant fire in a frontal cone area to deal 705.1% of ATK + 35 damage. Cooldown: 60 seconds. |
 
-</br>
+<br />
 
 | Discharge Attacks  | Description                                                                                                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

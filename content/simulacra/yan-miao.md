@@ -1,18 +1,18 @@
 ---
-title: "Yan Miao"
-date: 2023-12-19
+title: 'Yan Miao'
+date: 2023-12-21
 tags: [SSR, Physical, Flame]
-social_image: "/media/tab_yanmiao.png"
+social_image: '/media/tab_yanmiao.png'
 description: Yan Miao, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Equilibrium
 ---
 
 ![](https://telegra.ph/file/d1d595e7ca90822dba0ff.png)
 
-### Awaken: Laws And Scales
+### Awaken: Order
 
-> Final damage is increased by 18% </br> When equipped with Equilibrium, physical damage dealt is increased by 16% against targets below 80% HP. Each equipped physical weapon increases Equilibrium's normal attacks damage by 30%, up to 60%.
+> Increase final damage by 18%. When Equilibrium is equipped, increase physical damage dealt to targets with less than 80% of HP by 10%. For every 1 physical weapon equipped, increase normal attack damage of Equilibrium by 20%, up to 40%.
 
-</br>
+<br />
 
 <center> Equilibrium </center>
 
@@ -20,76 +20,74 @@ description: Yan Miao, featured as an obtainable SSR Simulacrum within the simul
     <img src="https://telegra.ph/file/e54308ba85772a6b8f346.png" alt="Centered Image">
 </p>
 
- <center>Attack: 19 | HP: 1165 | Crit: 13 | S: 16.00 | C: 12.00 </center>
+<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 16 | C: 12 </center>
 
-</br>
+<br />
 
-<h4 style="text-align: center;"> Trait: Armor Melt </h4>
+<h4 style="text-align: center;"> Trait: Armor Dissolve </h4>
 
-When the weapon is fully charged, the next attack will apply an armor melt effect to enemies for 45 seconds, increasing the physical and flame damage they take by 10%, and in team play this value is additionaly increased by 15% [armor melt replaces the grievous effect on the target and does not allow grievous to get applied again for the duration of armor melt]. Every 15 seconds, a target affected by armor melt will be stunned for 2 seconds when taking physical damage and slowed by 50% for 5 seconds when taking flame damage.
+When the weapon is fully charged, the next attack inflicts armor dissolve effect on the target for 45 seconds, increasing their flame and physical damage taken by (and an additional 15% in team play). This effect will replace the grievous status on the target, and targets with this effect cannot become grievous. Physical attacks will stun targets under the dissolve effect for 2 seconds, and flame attacks will decrease the targets' speed by 50% for 5 seconds. This effect can only trigger 1 time every 15 seconds on the same target.
+
+<br />
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
-**Physical-Flame Fusion:** This weapon counts as a physical and flame weapon at the same time. When calculating damage, this weapon takes the highest physical/flame base attack in the equipment, the highest percentage increase in physical/flame attack in the equipment, and the highest physical/flame damage increase.
+**Fusion of Mass and Flame:** When the weapon deals damage, damage is calculated using the currently equipped weapon's highest physical/flame base ATK, the highest equipped physical/flame ATK percentage, and the highest equipped physical/flame damage boost, and the weapon is considered both a physical and flame weapon. <br/> **Physical Resonance:** Increase Physical ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Physical weapons. This set effect works in the off-hand slot. Cannot stack with other Physical Resonance or Physical Reaction effects, with Physical Resonance taking precedence. <br/> **Flame Resonance:** Increase Flame ATK by 15% and Physical Resistance by 25%. Activate by equipping 2 or more Flame weapons. This set effect works in the off-hand slot. Cannot stack with other Flame Resonance or Flame Reaction effects, with Flame Resonance taking precedence. <br/> **Flying Blades: On-Field:** When hitting any target with Equilibrium, deal damage equal to 164% of physical ATK plus 2.3% of the Wanderer's Max HP plus 85% of the sum of all the Wanderer's resistance types plus 312% of crit to nearby targets. Can be triggered up to 1 time every 1.5 seconds. Flying Blades damage counts as normal attack damage. If any 1 frost or volt weapon is equipped, Flying Blades damage is multiplied by 1.3. In addition, Flying Blade damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
 
-**Physical Resonance:** Increase physical ATK by 20% and physical resistance by 40%. Activate by equipping 2 or more physical weapons. This set effect works in the off-hand slot.
-
-**Flame Resonance:** Increase flame ATK by 20% and flame resistance by 40%. Activate by equipping 2 or more flame weapons. This set effect works in the off-hand slot.
-
-**Flying Blade: On-Field:** When landing any hit with Equilibrium, it deals damage to nearby targets equal to 2,250% of physical ATK plus 38% of the Wanderer's Max HP plus 1,350% of the sum of all the Wanderer's resistance types plus 4,500% of crit. This effect can be triggered up to 1 time every 1.5 seconds. The Flying Blade damage is counted as normal attack damage.
-
-</br>
-If there is 1 frost/volt weapon of any kind equipped, Flying Blade damage is multiplied by 2.5 times. In addition, Flying Blade damage is not affected by any damage boost effects except from titan equipment's rare stats, and won't trigger additional attack effects.
-
-</br>
+<br />
 
 <h4 style="text-align: center;"> Advancements </h4>
 
-</br>
+1★ Increase number of Searing Blades obtained when using Enduring Rotation to 4. Decrease cooldown of Searing Blade to be triggered 1 time every 1.8 second(s).
 
-1★ The number of Flaming Daggers received from Empyrean Rotation is increased to 4, and the maximum frequency of Flaming Dagger use is reduced to once every 1.8 seconds.
+3★ Ignore 15% of target's physical resistance and 15% of target's flame resistance. (Each element's total resistance ignored cannot exceed 50%).
 
-</br>
+5★ When consuming a Searing Blade, obtain a shield equal to 30% of Max HP for 20 seconds. Shield cannot exceed 30% of Max HP, and 50% of the exceeding amount will be converted to healing. 
 
-3★ Wanderer ignores 30% of the target's physical and flame resistances [the total value of ignoring resistance to a particular element cannot exceed 50%]
+6★ Increase damage of Searing Blade to 2,600%. After consuming a Searing Blade, increase final damage by an additional 8%.
 
-</br>
 
-5★ When Flaming Dagger is triggered, wanderer gains a shield equal to 30% of Max HP for 20 seconds. The shields gained cannot exceed 30% of Max HP [shields that exceed this value will be converted into healing at the rate of 50% of the shield].
 
-</br>
+<br />
 
-6★ Flaming Daggers damage is increased to 8,800% and the final damage buff after a Flaming Dagger is triggered is further increased by 16%.
 
-</br>
+|   Attacks        | Description                                                  |
+|-----------------|---------------------------------------------------------------|
+| **Streaming Light and Ink** | While on the ground, use normal attack to launch 6 consecutive attacks. <br/> First Attack: Deal damage equal to 72% of ATK plus 3.9. <br/> Second Attack: Deal damage equal to 228.5% of ATK plus 12. <br/> Third Attack: Deal damage equal to 143.9% of ATK plus 7.6. <br/> Fourth Attack: Deal damage equal to 476.3% of ATK plus 25.2. <br/> Fifth Attack: Deal damage equal to 259.8% of ATK plus 13.7. <br/> Sixth Attack: Deal damage equal to 434% of ATK plus 23.|
+| **Purecloud Skies** | While airborne, use normal attack to launch 6 consecutive attacks in mid-air, consuming endurance. <br/> First Attack: Deal damage equal to 36.1% of ATK plus 2. <br/> Second Attack: Deal damage equal to 137.2% of ATK plus 7.3. <br/> Third Attack: Deal damage equal to 115.4% of ATK plus 6.2. <br/> Fourth Attack: Deal damage equal to 432% of ATK plus 22.7. <br/> Fifth Attack: Deal damage equal to 261% of ATK plus 13.7. <br/> Sixth Attack: Deal damage equal to 434% of ATK plus 23.|
+| **Realm of the Profound** | While on the ground, hold normal attack when using the third normal attack to trigger Realm of the Profound. Throw Equilibrium toward the ground, forming a whirling blade that spins outward, dealing damage equal to 276.4% of ATK plus 14.6 and suspending targets in the air.|
+| **Falling Moonleaf** | While airborne, hold normal attack to trigger Falling Moonleaf. <br/> Fall from the air and land on the ground, unleashing Equilibrium and dealing damage equal to 43.7% of ATK plus 2.2 to nearby targets and launching them. As Equilibrium expands and retracts, it slightly pulls in nearby targets and deals damage equal to 43.7% of ATK plus 2.2.|
 
-| Attacks                                                                                                                              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Ink Stain Glitter** ![](https://i.postimg.cc/PqTJKj1C/Weapon-Law-and-Order-Illuminated-Ink-Streaks.png)                            | While on the ground, use normal attack to launch 6 consecutive attacks. Each attack deals a different amount of damage: </br> **First Attack:** Deal damage equal to 340% of ATK </br> **Second Attack:** Deal damage equal to 733% of ATK. </br> **Third Attack:** Deal damage equal to 514% of ATK. </br> **Fourth Attack:** Deal damage equal to 1,701% of ATK. </br> **Fifth Attack:** Deal damage equal to 928% of ATK. </br> **Sixth Attack:** Deal damage equal to 1,550% of ATK.                                 |
-| **Clouds Coloring The Sky** ![](https://i.postimg.cc/prhLyXM6/Weapon-Law-and-Order-Painting-Skies-with-Clear-Clouds.png)             | While airborne, use a regular attack to perform 6 consecutive attacks in mid-air, consuming endurance. Each attack deals a different amount of damage: </br> **First Attack:** Deal damage equal to 340% of ATK. </br> **Second Attack:** Deal damage equal to 733% of ATK. </br> **Third Attack:** Deal damage equal to 514% of ATK. </br> **Fourth Attack:** Deal damage equal to 1,701% of ATK. </br> **Fifth Attack:** Deal damage equal to 884% of ATK. </br> **Sixth Attack:** Deal damage equal to 1,590% of ATK. |
-| **Peace Within The Universe** ![](https://i.postimg.cc/7YzLk6VC/Weapon-Law-and-Order-The-World-Within.png)                           | While on the ground, press and hold normal attack after using a second normal attack to trigger Peace Within The Universe. Throws Equilibrium into the ground, creating a double-sided spinning blade that spirals outward and deals damage equal to 1,976% of ATK to the target.                                                                                                                                                                                                                                        |
-| **Falling Leaves In The Moonlight** ![](https://i.postimg.cc/dVMLkd1m/Weapon-Law-and-Order-Falling-Leaves-Under-the-Bright-Moon.png) | While in the air, press and hold normal attack to trigger Falling Leaves In The Moonlight. Upon landing, deals damage equal to 943% of ATK to targets near the released Equilibrium. When the released Equilibrium reassembles, it slightly pull nearby enemies and deals damage equal to 940% of ATK.                                                                                                                                                                                                                   |
 
-</br>
 
-| Dodge                                                                                                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Wind Plays With Shadows** ![](https://i.postimg.cc/br7NnczN/Weapon-Law-and-Order-The-Dance-of-Wind-and-a-Thousand-Shadows.png) | Use normal attack during the short perfect dodge window [use a directional button before dodging] to trigger Wind Plays With Shadows. Throws Equilibrium forward and deals damage equal to 690% of ATK.                                                                                                                                                                                                                                           |
-| **Dance With Daggers** ![](https://i.postimg.cc/Gmk9k2T0/Weapon-Law-and-Order-Shadowy-Blades-Formed-from-Chopped-Clouds.png)     | Use normal attack during the short perfect dodge window to trigger Dance With Daggers.Creates 8 flying daggers that randomly chase the target in front and strike them, dealing area damage equal to 1,032% of ATK.                                                                                                                                                                                                                               |
-| **Bright Radiance** ![](https://i.postimg.cc/QxKFdSXd/Weapon-Law-and-Order-Cold-Shimmering-Radiance.png)                         | Press and hold normal attack during the short perfect dodge window to trigger Bright Radiance. Hold Continuously throws flying daggers that chase the target in front and strike them, dealing a total damage equal to 666% of ATK. Wanderer then jumps up and throws Equilibrium forward, dealing damage equal to 889% of ATK to nearby targets. Bright Radiance can be held for up to 3 seconds, after which it automatically ends.             |
-| **Through The Clouds** ![](https://i.postimg.cc/zBfBZFt5/Weapon-Law-and-Order-Flying-Through-the-Clouds.png)                     | While on the ground or in the air, press and hold dodge button to trigger Through The Clouds. After a short period of skill charge, the wanderer turns into a beam of light and flies in the chosen direction, at the end of its path dealing damage equal to 1,080% of ATK to nearby targets. The distance of flight increases depending on the time of skill charge. The maximum charge is reached by holding the dodge button for 1.5 seconds. |
+<br />
 
-</br>
 
-| Skill                                                                                                          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Empyrean Rotation** ![](https://i.postimg.cc/pT1d254j/Weapon-Law-and-Order-Rotation-of-the-Nine-Heavens.png) | Wanderer deals damage equal to 4,099% of ATK and gains a hyperbody for 20 seconds. At the end of Empyrean Rotation creates 3 Flaming Daggers for 20 seconds [the maximum number of Flaming Daggers can only be given once every 20seconds]. Cooldown: 20 seconds. Flaming Daggers: When hitting the target with a dodge attack of any flame or physical weapon, 1 Flaming Dagger will be used to inflict armor melt on the target and deal additional damage equal to 6,500% of ATK of the corresponding active weapon element type. Hitting the target with a Flaming Dagger restores 1 dodge attempt and increases final damage by 20% for 20 seconds. Flaming Dagger can be triggered once every 2.8 seconds, and its damage counts as normal attack damage. |
+|   Dodge        | Description                                                  |
+|-----------------|---------------------------------------------------------------|
+| **Dancing Shadows** | Use normal attack during the short perfect dodge window (use a directional button before dodging) to trigger Dancing Shadows and fling out Equilibrium, dealing damage equal to 193.2% of ATK plus 10.1 to targets ahead.|
+| **Cloud Carver** | Use normal attack during the short period after dodging backward to trigger Cloud Carver, randomly throwing 8 pairs of homing blades that go after random targets ahead, dealing total area damage equal to 201.6% of ATK plus 10.6 upon hit.|
+| **Frigid Brilliance** | Hold normal attack during the short period after dodging to trigger Frigid Brilliance, continuously throwing homing hades that go after targets ahead, exploding upon hit and dealing total damage equal to 186.5% of ATK plus 9.8. Upon release, leap and fling out Equilibrium ahead, dealing damage equal to 248.9% of ATK plus 13.2. Can hold for up to 3 seconds, after which time Equilibrium will automatically be thrown.|
+| **Cloud-Piercing Whirl** | While on the ground or airborne, dodge backward and hold dodge to trigger Cloud-Piercing Whirl. After briefly charging, release to transform into a beam of light and fly forward, dealing damage equal to 224% of ATK plus 11.8. Charging for longer increases the flight distance. Can hold for up to 1.5 seconds.|
 
-</br>
 
-| Discharge                                                                                                                 | Description                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud-Bursting Meteorite** ![](https://i.postimg.cc/g0sJTTKN/Weapon-Law-and-Order-Falling-Stars-Through-the-Clouds.png) | </br> When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and causes Equilibrium to spin at high speed, sending the wanderer forward and dealing damage equal to 3,990% of ATK to enemies in its path. During this period, gain damage immunity for 2.6 seconds [unavailable in Apex League]. |
+
+<br />
+
+
+|   Skill        | Description                                                  |
+|-----------------|---------------------------------------------------------------|
+| **Enduring Rotation** | Deal damage equal to 1,639.6% of ATK plus 86.4 to nearby targets and obtain hyperbody for 20 seconds. When Enduring Rotation ends, obtain 3 Searing Blades for 20 seconds (Searing Blades can be obtained once every 20 seconds). Cooldown: 20 seconds. <br/> Searing Blades: When dealing physical or flame dodge attack damage to a target, consume 1 Searing Blade and deal additional damage of the weapon's corresponding element equal to 2,350% of ATK to the target and inflict them with armor dissolve. After dealing damage, restore 1 dodge attempt and increase final damage by 10% for 20 seconds. This damage counts as normal attack damage and can only be triggered 1 time every 2.8 seconds.|
+
+
+
+<br />
+
+
+| Discharge | Description |
+|-----------------|---------------------------------------------------------------|
+| **Sky-Piercing Meteor** | When weapon charge is full or Phantasia is triggered, upon switching to this weapon, remove all debuffs from the Wanderer and quickly spin Equilibrium to create a razor-like wind and charge forward like a storm, dealing damage equal to 1,197% of ATK plus 63. During this period, gain damage immunity for 1.5 seconds (unavailable in Apex League).|
+
 
 <button onclick="window.location.href='https://cdn.discordapp.com/attachments/1170415119289823302/1170622740554846238/Yan_Miao_Hykros_Lobby.png';">
       Download Simulacrum CN [Unofficial Translation]

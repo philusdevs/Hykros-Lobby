@@ -14,7 +14,7 @@ description: Alyss, featured as an obtainable SSR Simulacrum within the simulacr
 
 > After Unyielding Wing is advanced to 1 star, receive Alyss' Support when using a Physical/Flame/Volt weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward.
 
-</br>
+<br />
 
 <center> Unyielding Wing </center>
 
@@ -22,39 +22,39 @@ description: Alyss, featured as an obtainable SSR Simulacrum within the simulacr
     <img src="https://i.postimg.cc/Gt0HMK02/Icon-Weapon-Unyielding-Wing.webp" alt="Centered Image">
 </p>
 
-<center>Attack: 15 | HP: 1010 | Resistance: 3 | S: 8.00 | C: 12.00 </center>
+<center> Attack: 15 | HP: 1010 | Resistance: 3 | S: 8.00 | C: 12.00 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Ice Shell </h4>
 
 When the weapon is fully charged, the next attack will strongly freeze targets for 2 seconds and leave them frostbitten for 6 seconds. Breaking the ice shell causes additional damage equal to 144% of ATK. While frostbitten, the target's weapon charge rate is reduced by 50%.
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Frost Resonance:** Increase Frost ATK by15% and Frost Resistance by 25%. Activate by equipping2 or more Frost weapons. This set effect works in the off-hand slot. Cannot stack with effects of the same type.
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Advancements </h4>
 
 1★Receive Alyss's Support when using any frost weapon skill in the Chilling Field, summoning Alyss to cast a discharge skill on the field. The skill that triggers the discharge skill will then be used again afterward. Alyss's supporting discharge skill damage is equal to 70% of her skill's original damage.
 
-</br>
+<br />
 
 3★Receive Alyss's Support every time Starry Night is triggered and increase Starry Night and Hoarfrost Damage by 10% for 12 seconds. Stack up to 3 times.
 
-</br>
+<br />
 
 5★Increase the damage of Unyielding Wing's normal attack and Spatial Slice by 35%. The Wanderer receives Alyss's Protection upon taking fatal damage, protecting the Wanderer from death 1 time and making the Wanderer immune to damage for a short time. Cooldown: 60 seconds.
 
-</br>
+<br />
 
 6★Increase frost damage by 12% when Alyss's Support reaches 3 stacks.
 
-</br>
+<br />
 
 | Attacks           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 | **Sweeping Dive** | Tap and hold normal attack while airborne (or tap when a target is selected), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Pummel. While falling, deal damage equal to 95% of ATK + 5 each hit and continuously consume endurance.                                                                                                                                                                                                                                                                                                  |
 | **Waltz**         | Hold the normal attack button. Each hit deals damage equal to 167.2% of ATK + 9 to the target. The last hit deals damage equal to 190% of ATK + 10. Gain hyperbody during this time and continuously consume endurance.                                                                                                                                                                                                                                                                                                                                                       |
 
-</br>
+<br />
 
 | Dodge            | Description                                                                                                                                                                                                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -72,13 +72,13 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 | **Dance Form**   | After dodging backwards, tap normal attack 3 times consecutively to deal damage equal to 572.8% of ATK + 30 to the target, and strongly suspend the target with the first hit.                                                                                                                                      |
 | **Latent State** | Dodge before holding to enter the Latent State, during which endurance is constantly consumed and speed is increased by 50%. Increase speed by an additional 50% in the Chilling Field. When exiting the Latent State, deal damage equal to 305.1% of ATK + 16 to all nearby targets and freeze them for 2 seconds. |
 
-</br>
+<br />
 
 | Skill              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Chilling Field** | Pull nearby targets together, then deal damage equal to 857.7% of ATK + 45 to them and strongly suspend them. The Wanderer enters the Chilling Field for 30 seconds. Cooldown: 25 seconds. Gain hyperbody while the skill is active.<br>Passive: When using any frost weapon discharge skill in the Chilling Field, deal frost damage equal to 125.8% of ATK + 7 1 time and slow the target for 2 seconds (the slow effect is ineffective against bosses). While in the field, for every 12 times the Unyielding Wing's hit effect is triggered, further triggers Spatial Slice 1 time, dealing damage equal to 165% of ATK + 9 1 time to targets in the space every 2 seconds for 25 seconds (this also stops when the space disappears). |
 
-</br>
+<br />
 
 | Discharge        | Description                                                                                                                                                                                                                                                                                                                |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

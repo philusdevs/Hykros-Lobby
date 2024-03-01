@@ -12,7 +12,7 @@ description: Samir, featured as an obtainable SSR Simulacrum within the simulacr
 
 > Grant 1 stack of Concentration every 4 seconds when Samir receives no damage. Each stack increases damage dealt by 4%, and can stack up to 5 times. After being hit, Samir loses 1 stack of Concentration, up to 1 stack per 2 seconds.
 
-</br>
+<br />
 
 <center>Dual EM Stars</center>
 
@@ -24,7 +24,7 @@ description: Samir, featured as an obtainable SSR Simulacrum within the simulacr
 Attack: 18 | HP: 1165 | Crit: 14 | S: 6.00 | C: 10.70
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Volt</h4>
 
@@ -40,29 +40,29 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ Triggering an electrical explosion reduces skill cooldowns by 1 second.
 
-</br>
+<br />
 
 | Normal Attack    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Dual Fire**    | Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols. </br> **First Attack:** Deal total damage equal to 56.5% of ATK + 2. </br> **Second Attack:** Deal total damage equal to 43% of ATK + 2. </br> **Third Attack:** Deal total damage equal to 143.6% of ATK + 6. </br> **Fourth Attack:** Deal total damage equal to 135.7% of ATK + 6. </br> **Fifth Attack:** Deal total damage equal to 184.8% of ATK + 8 and launch the target. |
+| **Dual Fire**    | Tap normal attack while on the ground to launch up to 5 consecutive attacks with the dual pistols. <br /> **First Attack:** Deal total damage equal to 56.5% of ATK + 2. <br /> **Second Attack:** Deal total damage equal to 43% of ATK + 2. <br /> **Third Attack:** Deal total damage equal to 143.6% of ATK + 6. <br /> **Fourth Attack:** Deal total damage equal to 135.7% of ATK + 6. <br /> **Fifth Attack:** Deal total damage equal to 184.8% of ATK + 8 and launch the target. |
 | **Bullet Rain**  | While airborne, use normal attack to fire continuously at the ground, dealing damage equal to fifty-four point three percent of ATK plus three, each hit consumes one hundred fifty endurance.                                                                                                                                                                                                                                                                                       |
 | **Energy Burst** | Hold attack button to maintain constant fire, each hit dealing twenty-seven point six percent of ATK plus one base damage.                                                                                                                                                                                                                                                                                                                                                           |
 | **Phantom Kick** | While airborne, tap and hold normal attack to trigger Phantom Kick. Knock the target down and deal damage equal to eighty-four point six percent of ATK plus four. Upon landing, deal damage equal to one hundred eighteen point four percent of ATK plus five to nearby targets and strongly launch them.                                                                                                                                                                           |
 
-</br>
+<br />
 
 | Dodge                     | Description                                                                                                                                                           |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge**                 | Dodge right before getting hit to trigger a Phantasia, reducing the speed of enemies within an area. Become immune to hitstun for zero point 5 seconds while dodging. |
 | **Rising Lightning Kick** | Tap normal attack after dodging to strongly suspend targets and deal damage equal to one hundred forty-seven point one percent of ATK plus six.                       |
 
-</br>
+<br />
 
 | Skill             | Description                                                                                                                                                                                                                                    |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Electro Field** | Fire an energy shield at the target location, reflecting beams within the barrier. Deal damage equal to three hundred twenty-three point eight percent of ATK plus fourteen, and the last hit strongly suspends targets. Cooldown: 45 seconds. |
 
-</br>
+<br />
 
 | Discharge             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

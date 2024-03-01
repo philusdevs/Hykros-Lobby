@@ -38,7 +38,7 @@ We'll talk about her skill next. Various actions will generate Calligraphy Chara
 
 So, Liu Huo is a great buffer and has a lot of passive damage. That's all, right? No. Her basic attacks hit like a literal truck, and offer the highest raw DPS in the game by far, while also offering an insane amount of charge. Out of all of her combos, only one is really relevant - and that is the basic attack hold into dodge attack combo. The basic attack hold has a lot of frontloaded damage - cancel the animation of the big swipe with a dodge attack, before repeating the chain. Her dodge attack leaves a puddle that deals a DOT to enemies, and holding her dodge attack makes this puddle larger, but note that the dodge hold attack is a DPS loss in single target situations.
 
-</br>
+<br />
 
 | Combo                   | MV%/s | Notes                       |
 | ----------------------- | ----- | --------------------------- |

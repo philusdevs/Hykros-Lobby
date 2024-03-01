@@ -12,7 +12,7 @@ description: Fiona, featured as an obtainable SSR Simulacrum within the simulacr
 
 > Increase final damage by 18%.
 
-> Scatter Technique Enhancement: </br> Hydro Focus Enhancement: Increase all elemental damage by 12%.
+> Scatter Technique Enhancement: <br /> Hydro Focus Enhancement: Increase all elemental damage by 12%.
 
 > Vortex Enhancement: If Moonstar Bracelet is in the main slot, damage caused by Vortex is increased by 30%.
 
@@ -24,8 +24,8 @@ description: Fiona, featured as an obtainable SSR Simulacrum within the simulacr
 
 > Wellspring Enhancement: Resistance is increased by (Max HP/100,000)% while Fortitude Resonance is active, for a maximum of 10%.
 
-</br> 
-</br>
+<br /> 
+<br />
 
 <center>Moonstar Bracelet</center>
 
@@ -34,23 +34,23 @@ description: Fiona, featured as an obtainable SSR Simulacrum within the simulacr
 </p>
 
 <center> Attack: 18 | HP: 1165 | Resitance: 4 | S: 11.50 | C: 11.50</center>
-</br>
+<br />
 
 > Moonstar Bracelet will not be included in the permanent weapon banner
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Altered Damage </h4>
 
 When the weapon is fully charged, the next attack will mark the target, causing an explosion after 5 seconds. Additionally inflict 25% of all damage received by the target while the mark exists, up to a total of 560% of your ATK. Only 1 mark can be added on a target at a time.
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Elemental Resonance </h4>
 
 **Altered Resonance:** Increase ATK by 20% and altered resistance by 30%. Activate by equipping 2 or more altered weapons. This set effect works in the off-hand slot. Cannot stack with other Altered Resonance or Altered Reaction effects, with Altered Resonance taking precedence.
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Advancements </h4>
 
@@ -65,18 +65,18 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 
 6★ Increase final damage by 7% of ((crystal count plus 3)/2).
 
-</br>
+<br />
 
 | Attacks                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frost Lash**             | While on the ground, tap normal attack to launch 7 consecutive attacks.</br> **First Attack:** Deal damage equal to 69.9% of ATK plus 4.<br>**Second Attack:** Deal damage equal to 73.4% of ATK plus 4.<br>**Third Attack** Deal damage equal to 115.4% of ATK plus 6.<br>**Fourth Attack:** Deal damage equal to 174.2% of ATK plus 9.<br>**Fifth Attack:** Deal damage equal to 195.7% of ATK plus 10.<br>**Sixth Attack:** Deal damage equal to 131.1% of ATK plus 7.<br>**Seventh Attack:** Deal damage equal to 505.9% of ATK plus 27.                                              |
+| **Frost Lash**             | While on the ground, tap normal attack to launch 7 consecutive attacks.<br /> **First Attack:** Deal damage equal to 69.9% of ATK plus 4.<br>**Second Attack:** Deal damage equal to 73.4% of ATK plus 4.<br>**Third Attack** Deal damage equal to 115.4% of ATK plus 6.<br>**Fourth Attack:** Deal damage equal to 174.2% of ATK plus 9.<br>**Fifth Attack:** Deal damage equal to 195.7% of ATK plus 10.<br>**Sixth Attack:** Deal damage equal to 131.1% of ATK plus 7.<br>**Seventh Attack:** Deal damage equal to 505.9% of ATK plus 27.                                              |
 | **Dancing Drop**           | While airborne or after jumping once, use normal attack to attack 7 times in a row in mid-air and consume endurance.<br>**First Attack:** Deal damage equal to 93.8% of ATK plus 5.<br>**Second Attack:** Deal damage equal to 98.4% of ATK plus 5.<br>**Third Attack:** Deal damage equal to 141.8% of ATK plus 7.<br>**Fourth Attack:** Deal damage equal to 202.2% of ATK plus 11.<br>**Fifth Attack:** Deal damage equal to 196.9% of ATK plus 10.<br>**Sixth Attack:** Deal damage equal to 146.5% of ATK plus 8.<br>**Seventh Attack:** Deal damage equal to 548.5% of ATK plus 29. |
 | **Converging Ripples**     | While on the ground, tap and hold normal attack when executing the second to sixth normal attacks to trigger Converging Ripples.<br>Suspend and fire several large water bombs in front of the Wanderer, each hit dealing damage equal to 88.5% plus 5 to nearby targets (counts as a charged attack). Knock the targets back while continuously consuming endurance during this time.                                                                                                                                                                                                    |
 | **Moonrain**               | Tap and hold normal attack while airborne (tap when a target is available), or use normal attack while climbing, jumping backward, or using the Jetpack to trigger Moonrain.<br>Fall from above, dealing damage equal to 175% of ATK plus 9 to targets upon reaching the ground, and suspend them.                                                                                                                                                                                                                                                                                        |
 | **Torrential Convergence** | While in mid-air, tap and hold normal attack when executing the second to sixth normal attacks to trigger Torrential Convergence.<br>Fire several large water bombs in front of the Wanderer, each hit dealing damage equal to 88.5% plus 5 to nearby targets (counts as a charged attack). Knock the targets back while continuously consuming endurance during this time.                                                                                                                                                                                                               |
 | **Division**               | While Benediction Resonance is active:<br>Tap and hold normal attack while on the ground to select a teammate, then release to link the Wanderer to that teammate. The linked ally's healing received from the link starter's Moonstar Bracelet is increased by 50%. Transmit additional resistance and attack benefits from linked ally's resonance skills.                                                                                                                                                                                                                              |
 
- </br>
+ <br />
 
 | Dodge             | Description                                                                                                                                                                                                                                                                                                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,7 +84,7 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 | **Reversal Wave** | Roam ahead several times, dealing damage up to 144% of ATK plus 8 to targets in the area.                                                                                                                                                                                                                                                         |
 | **Dashing Wave**  | Unleash a water jet, dealing damage up to 81% of ATK plus 4 to targets in the area and suspending them.                                                                                                                                                                                                                                           |
 
- </br>
+ <br />
 
 | Skill                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -96,7 +96,7 @@ When receiving fatal damage, consume 3 elemental crystals to prevent death 1 tim
 | **Aqua Shackles**    | Execute Aqua Prison on the target for 3 seconds. The target is unable to move or use skills for the duration of Aqua Prison, and their resistance is reduced by 8% for 15 seconds (doesn't work against Wanderers). The resistance-reducing effect of Aqua Shackles is doubled when in water. Cooldown: 15 seconds.                                                                                                                                                                                                                                                            |
 | **Wellspring**       | Arcane Vitality: Gain a (Max HP/100,000)% all elemental damage boost, up to 9%. Gain another 7% increase to all elemental damage for 20 seconds when your Max HP is over 1,600,000. Cooldown: 15 seconds.                                                                                                                                                                                                                                                                                                                                                                      |
 
- </br>
+ <br />
 
 | Discharge               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

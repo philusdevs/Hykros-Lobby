@@ -26,7 +26,7 @@ Let's start with the Relics Couant and Omnium A5 Shield. Despite their different
 
 **Normal Multiplier**
 
-</br>
+<br />
 
 | Buff Source      | Notes                                                                            |
 | ---------------- | -------------------------------------------------------------------------------- |

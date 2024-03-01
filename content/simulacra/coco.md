@@ -12,7 +12,7 @@ description: Cocoritter, featured as an obtainable SSR Simulacrum within the sim
 
 > When Cocoritter uses a support weapon, increase healing and healing received by 20%. And when Cocoritter uses a support-type weapon's discharge skill or weapon skill, increase nearby allies' ATK by 15% for 5 seconds.
 
-</br>
+<br />
 
 <center>Absolute Zero</center>
 <p align="center">
@@ -22,7 +22,7 @@ description: Cocoritter, featured as an obtainable SSR Simulacrum within the sim
 Attack: 15 | HP: 1165 | Resistance: 7 | S: 4.00 | C: 12.50
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Ice Shell </h4>
 
@@ -44,7 +44,7 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 6★ Whenever a healing bee is summoned or disappears from battle, heal all allies for 100% of the user's ATK. All allies within 10 meters of the healing bee also gain 15% all damage and healing boost (cannot stack).
 
-</br>
+<br />
 
 | Attacks                    | Description                                                                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

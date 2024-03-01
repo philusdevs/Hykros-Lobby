@@ -12,7 +12,7 @@ description: Claudia, featured as an obtainable SSR Simulacrum within the simula
 
 > Go invisible for 1.5 seconds upon dodging.
 
-</br>
+<br />
 
 <center>
 Guren Blade
@@ -26,7 +26,7 @@ Guren Blade
 Attack: 14 | HP: 1010 | Resistance: 5 | S: 7.50 | C: 12.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Grievous</h4>
 
@@ -46,30 +46,30 @@ When the weapon is fully charged, the next attack will inflict damage equal to 1
 
 6★ Skills hitting the same target no longer have reduced damage. After using Guren Blade's skills or discharge skill, all targets with War Wounds within 8 meters gain another 1 stack of War Wounds.
 
-</br>
+<br />
 
 | Normal Attack      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Quick Slash**    | While on the ground, swing the blade to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 62.2% of ATK + 2 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 87% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 78.8% of ATK + 3 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 138.3% of ATK + 7 and knock the target back a short distance. </br> **Fifth Attack:** Deal damage equal to 236.3% of ATK + 11 and launch the target. |
-| **Jumping Strike** | While airborne, tap normal attack to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 37.1% of ATK + 1. </br> **Second Attack:** Deal damage equal to 64.4% of ATK + 3. </br> **Third Attack:** Deal damage equal to 152.3% of ATK + 8. </br> **Fourth Attack:** Deal damage equal to 184.7% of ATK + 9 and deliver a knockdown.                                                                                                                                                                                                                                            |
+| **Quick Slash**    | While on the ground, swing the blade to attack 5 times in a row. <br /> **First Attack:** Deal damage equal to 62.2% of ATK + 2 and knock the target back a short distance. <br /> **Second Attack:** Deal damage equal to 87% of ATK + 3 and knock the target back a short distance. <br /> **Third Attack:** Deal damage equal to 78.8% of ATK + 3 and knock the target back a short distance. <br /> **Fourth Attack:** Deal damage equal to 138.3% of ATK + 7 and knock the target back a short distance. <br /> **Fifth Attack:** Deal damage equal to 236.3% of ATK + 11 and launch the target. |
+| **Jumping Strike** | While airborne, tap normal attack to attack 4 times in a row. <br /> **First Attack:** Deal damage equal to 37.1% of ATK + 1. <br /> **Second Attack:** Deal damage equal to 64.4% of ATK + 3. <br /> **Third Attack:** Deal damage equal to 152.3% of ATK + 8. <br /> **Fourth Attack:** Deal damage equal to 184.7% of ATK + 9 and deliver a knockdown.                                                                                                                                                                                                                                            |
 | **Cyclone**        | Hold the normal attack button after normal attacks to trigger Cyclone.<br>Upon hit, suspend the target and deal 50.2% of ATK + 3 to a single target.                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Diving Edge**    | Tap and hold normal attack while airborne, or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Diving Edge.<br>While falling, deal damage equal to 10.5% of ATK + 1 each hit. Upon landing, deal damage equal to 80.2% of ATK + 4 and knock the target back.<br>The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.                                                                                                                                                                                          |
 | **Sneak Attack**   | Approach the enemy from behind while crouching, then tap normal attack to use Sneak Attack, dealing damage equal to 570% of ATK + 30.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-</br>
+<br />
 
 | Dodge           | Description                                                                                                                                                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Dodge**       | Dodge right before getting hit to activate a Phantasia, which reduces the speed of enemies within the area. Cooldown: 15 seconds. While dodging, you gain hitstun immunity for 0.5 seconds.                                                                                            |
 | **Leap Attack** | Tap normal attack during the short period after dodging to trigger Leap Attack.<br>The Wanderer swings their blade and deals damage equal to 39.8% of ATK + 2 to the target, strongly suspending them and becoming airborne, then dealing additional damage equal to 59.6% of ATK + 3. |
 
-</br>
+<br />
 
 | Skill    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Roam** | Dance through targets while swinging the blade, dealing damage equal to 418% of ATK + 22 in total to up to 5 targets (consecutive hits on the same target deal 20% reduced damage). After Roam has concluded, slash the space in front, dealing area damage equal to 264% of ATK + 14 to surrounding targets, and suspend them. Immune to control effects while skill is in use, and all damage taken is reduced by 50%. Cooldown: 15 seconds. |
 
-</br>
+<br />
 
 | Discharge            | Description                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

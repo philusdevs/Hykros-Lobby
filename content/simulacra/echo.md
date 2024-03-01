@@ -12,7 +12,7 @@ description: Echo, featured as an obtainable SR Simulacrum within the simulacrum
 
 > When teamed up with Echo, allies within 10 meters around Echo gain a damage boost of 6% (excluding Echo).
 
-</br>
+<br />
 
 <center>
 Thunderous Halberd
@@ -24,7 +24,7 @@ Thunderous Halberd
 Attack: 11 | HP: 753 | Resistance: 3 | S: 12.60 | C: 7.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Volt </h4>
 
@@ -40,17 +40,17 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 
 6★ Discharge skill deals more damage the further it travels, up to 100% more damage.
 
-</br>
+<br />
 
 | Normal Attack      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Thrust**         | While on the ground, swing the long spear to attack 5 times in a row. </br> **First Attack:** Deal damage equal to 24.7% of ATK + 1 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 22.6% of ATK + 1 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 47.2% of ATK + 2 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 65.2% of ATK + 3 and knock the target back a short distance. </br> **Fifth Attack:** Deal damage equal to 114.95% of ATK + 6 and knock the target back a significant distance. |
-| **Jumping Strike** | While airborne, tap normal attack to attack 4 times in a row in the air. </br> **First Attack:** Deal damage equal to 27.4% of ATK + 1. </br> **Second Attack:** Deal damage equal to 23.2% of ATK + 1. </br> **Third Attack:** Deal damage equal to 45.8% of ATK + 2. </br> **Fourth Attack:** Deal damage equal to 110% of ATK + 6.                                                                                                                                                                                                                                                                                             |
+| **Thrust**         | While on the ground, swing the long spear to attack 5 times in a row. <br /> **First Attack:** Deal damage equal to 24.7% of ATK + 1 and knock the target back a short distance. <br /> **Second Attack:** Deal damage equal to 22.6% of ATK + 1 and knock the target back a short distance. <br /> **Third Attack:** Deal damage equal to 47.2% of ATK + 2 and knock the target back a short distance. <br /> **Fourth Attack:** Deal damage equal to 65.2% of ATK + 3 and knock the target back a short distance. <br /> **Fifth Attack:** Deal damage equal to 114.95% of ATK + 6 and knock the target back a significant distance. |
+| **Jumping Strike** | While airborne, tap normal attack to attack 4 times in a row in the air. <br /> **First Attack:** Deal damage equal to 27.4% of ATK + 1. <br /> **Second Attack:** Deal damage equal to 23.2% of ATK + 1. <br /> **Third Attack:** Deal damage equal to 45.8% of ATK + 2. <br /> **Fourth Attack:** Deal damage equal to 110% of ATK + 6.                                                                                                                                                                                                                                                                                             |
 | **Crashing Drive** | Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Crashing Drive. While falling, deal damage equal to 8% of ATK + 1 each hit. Upon landing, deal damage equal to 48.5% of ATK + 3 and knock the target down. The higher the altitude when triggering the attack, the greater the damage dealt, up to 600% damage.                                                                                                                                                                                              |
 | **Spear Flurry**   | After the third normal attack, hold the normal attack button to trigger Spear Flurry. Upon hit, strongly suspend the target, dealing damage equal to 49.2% of ATK + 3. Tap again to continue attacking the suspended target, dealing up to 98% of ATK +5 damage to a single target.                                                                                                                                                                                                                                                                                                                                               |
 | **Sneak Attack**   | Thrust the long spear forward, dealing damage equal to570% of ATK +30.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
-</br>
+<br />
 
 | Dodge             | Description                                                                                                                                                                                                                                                                 |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,13 +58,13 @@ When the weapon is fully charged, the next attack will strongly paralyze targets
 | **Lunging Smash** | Tap normal attack during the short period after dodging to trigger Lunging Smash. Slam the long spear into the ground, dealing damage equal to52.8% of ATK +3 and strongly suspending targets.                                                                              |
 | **Dodge**         | Dodge right before getting hit to trigger a Phantasia, reducing the speed of enemies within an area. Become immune to hitstun for0.5 seconds while dodging.                                                                                                                 |
 
-</br>
+<br />
 
 | Skill          | Description                                                                        |
 | -------------- | ---------------------------------------------------------------------------------- |
 | **Moonchaser** | Strongly suspend targets and go airborne, dealing damage equal to127.5% of ATK +7. |
 
-</br>
+<br />
 
 | Discharge       | Description                                                                                                                                                                                                                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

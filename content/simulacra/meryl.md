@@ -12,7 +12,7 @@ description: Meryl, featured as an obtainable SSR Simulacrum within the simulacr
 
 > Reduce frost damage received by Meryl by 25%, gain immunity to the frostbite effect, and reduce the duration of being frozen by 50%. The air around Meryl becomes cold, freezing the water around her.
 
-</br>
+<br />
 
 <center>
 Rosy Edge
@@ -24,7 +24,7 @@ Rosy Edge
 Attack: 15 | HP: 1165 | Resistance: 7 | S: 13.80 | C: B 4.00
 </center>
 
-</br>
+<br />
 
 <h4 style="text-align: center;"> Trait: Ice Shell </h4>
 
@@ -44,18 +44,18 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 
 6★ Upon switching to the weapon (Rosy Edge), gain an Ice Shield equal to 20% of Max HP and immunity to being controlled when shield is active. Cooldown: 20 seconds. The Ice Shield lasts up to 10 seconds. This effect will replace Advancement 3 effect.
 
-</br>
+<br />
 
 | Normal Attack     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Heavy Cleave**  | While on the ground, swing a greatsword to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 72.9% of ATK + 4 and knock the target back a short distance. </br> **Second Attack:** Deal damage equal to 60.1% of ATK + 3 and knock the target back a short distance. </br> **Third Attack:** Deal damage equal to 105.4% of ATK + 6 and knock the target back a short distance. </br> **Fourth Attack:** Deal damage equal to 156.3% of ATK + 8, strongly launch the target, then launch them upon landing. |
-| **Aerial Strike** | While airborne or after jumping once, tap normal attack to attack 4 times in a row. </br> **First Attack:** Deal damage equal to 106.5% of ATK + 6. </br> **Second Attack:** Deal damage equal to 87.5% of ATK + 5. </br> **Third Attack:** Deal damage equal to 156% of ATK + 8. </br> **Fourth Attack:** Deal damage equal to 140.5% of ATK + 7 and deliver a knockdown, launch the target upon landing.                                                                                                                      |
+| **Heavy Cleave**  | While on the ground, swing a greatsword to attack 4 times in a row. <br /> **First Attack:** Deal damage equal to 72.9% of ATK + 4 and knock the target back a short distance. <br /> **Second Attack:** Deal damage equal to 60.1% of ATK + 3 and knock the target back a short distance. <br /> **Third Attack:** Deal damage equal to 105.4% of ATK + 6 and knock the target back a short distance. <br /> **Fourth Attack:** Deal damage equal to 156.3% of ATK + 8, strongly launch the target, then launch them upon landing. |
+| **Aerial Strike** | While airborne or after jumping once, tap normal attack to attack 4 times in a row. <br /> **First Attack:** Deal damage equal to 106.5% of ATK + 6. <br /> **Second Attack:** Deal damage equal to 87.5% of ATK + 5. <br /> **Third Attack:** Deal damage equal to 156% of ATK + 8. <br /> **Fourth Attack:** Deal damage equal to 140.5% of ATK + 7 and deliver a knockdown, launch the target upon landing.                                                                                                                      |
 | **Rising Slash**  | After the third normal attack, hold normal attack to trigger Rising Slash. Upon hit, strongly suspend the target and go airborne, dealing damage equal to sixty-four point three percent of ATK plus three.                                                                                                                                                                                                                                                                                                                     |
 | **Moonset Slash** | Tap and hold normal attack while airborne (or tap when a target is selected), or tap normal attack while climbing, jumping backward, or using the Jetpack to trigger Moonset Slash. While falling, each hit deals damage equal to twelve point five percent of ATK plus one. Upon landing, deal damage equal to one hundred forty point five percent of ATK plus seven and launch targets. The higher the altitude when triggering the attack, the greater the damage dealt, up to six hundred percent damage.                  |
 | **Sneak Attack**  | Approach the enemy from behind while crouching, then use normal attack to use Sneak Attack, dealing damage equal to five hundred seventy percent of ATK plus thirty.                                                                                                                                                                                                                                                                                                                                                            |
 | **Whirlwind**     | While standing still or moving, tap and hold normal attack to trigger Whirlwind, dealing damage equal to one hundred thirty-two point eight percent of ATK plus seven every zero point five seconds to the target. Grant hitstun immunity while in use.                                                                                                                                                                                                                                                                         |
 
-</br>
+<br />
 
 | Dodge              | Description                                                                                                                                                                                                          |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,13 +63,13 @@ When the weapon is fully charged, the next attack will strongly freeze targets
 | **Devastate**      | Tap normal attack during the short perfect dodge window (tap an arrow button before dodging) to trigger Devastate. Deal damage equal to sixty-five point nine percent of ATK plus three each hit and launch targets. |
 | **Crescent Slash** | Tap normal attack during the short period after dodging to trigger Crescent Slash. Swing the greatsword to unleash sword auras forward, each dealing damage equal to forty-nine point six percent of ATK plus three. |
 
-</br>
+<br />
 
 | Skill        | Description                                                                                                                                                                                                                                                           |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Blizzard** | Swing the greatsword to launch sword auras forward, each dealing damage equal to one hundred forty-one point seven percent of ATK plus seven and increasing damage dealt by five percent with each hit. Immune to control effects while active. Cooldown: 30 seconds. |
 
-</br>
+<br />
 
 | Discharge         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
