@@ -66,14 +66,14 @@ simulacra:
       bottomRightOverlay2: /media/Fort.png
       bottomRightOverlay3: null
     - name: Ming Jing
-      icon: /media/ming_jing.png
+      icon: /media/Ming_Jing.png
       gradientColor: Physical
       bottomLeftOverlay: /media/SSR.png
       bottomRightOverlay: /media/Element_PhysicalFlame.png
       bottomRightOverlay2: /media/DPS.png
       bottomRightOverlay3: null
-    - name: Yu lan
-      icon: /media/Yu_lan.png
+    - name: Yu Lan
+      icon: /media/Yu_Lan.png
       gradientColor: Frost
       bottomLeftOverlay: /media/SSR.png
       bottomRightOverlay: /media/Element_Frost.png

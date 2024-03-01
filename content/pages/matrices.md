@@ -30,10 +30,10 @@ matrice:
       icon: /media/Mimi_m.png
       cntag: null
     - name: Ming Jing
-      icon: /media/ming_jing_m.png
+      icon: /media/Ming_Jing_m.png
       cntag: null
     - name: Yu Lan
-      icon: /media/yu_lan_m.png
+      icon: /media/Yu_Lan_m.png
       cntag: null
     - name: Liu Huo
       icon: /media/Liu_Huo_m.png
