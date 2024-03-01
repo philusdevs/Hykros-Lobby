@@ -20,7 +20,7 @@ description: Liu Huo, featured as an obtainable SSR Simulacrum within the simula
     <img src="https://telegra.ph/file/1b86730c66f5415bba330.png" alt="Centered Image">
 </p>
 
-<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 15.00</center>
+<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 12.50 | C: 15.00 </center>
 
 <br />
 

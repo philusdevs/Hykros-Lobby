@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import styled from "styled-components";
 import Tags from "../components/tags";
@@ -138,54 +138,54 @@ const PostContent = styled.section`
   }
 `;
 
-const PostPagination = styled.nav`
-  display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin-top: var(--size-900);
+// const PostPagination = styled.nav`
+//   display: flex;
+//   gap: 1rem;
+//   flex-wrap: wrap;
+//   margin-top: var(--size-900);
 
-  & > * {
-    position: relative;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    padding: 1rem;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.5);
-    background-color: rgba(255, 255, 255, 0.3);
-    backdrop-filter: blur(10px);
-    margin-bottom: 1rem;
-  }
+//   & > * {
+//     position: relative;
+//     flex: 1;
+//     display: flex;
+//     flex-direction: column;
+//     padding: 1rem;
+//     padding-top: 0.5rem;
+//     padding-bottom: 0.5rem;
+//     border-radius: 8px;
+//     border: 1px solid rgba(255, 255, 255, 0.5);
+//     background-color: rgba(255, 255, 255, 0.3);
+//     backdrop-filter: blur(10px);
+//     margin-bottom: 1rem;
+//   }
 
-  & > *:hover {
-    background-color: rgba(255, 255, 255, 0.5);
-  }
+//   & > *:hover {
+//     background-color: rgba(255, 255, 255, 0.5);
+//   }
 
-  & span {
-    text-transform: uppercase;
-    opacity: 0.6;
-    font-size: var(--size-400);
-    padding-bottom: var(--size-500);
-  }
+//   & span {
+//     text-transform: uppercase;
+//     opacity: 0.6;
+//     font-size: var(--size-400);
+//     padding-bottom: var(--size-500);
+//   }
 
-  & a {
-    color: inherit;
-    text-decoration: none;
-    font-size: var(--size-400);
-    text-transform: capitalize;
-  }
+//   & a {
+//     color: inherit;
+//     text-decoration: none;
+//     font-size: var(--size-400);
+//     text-transform: capitalize;
+//   }
 
-  & a::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-  }
-`;
+//   & a::after {
+//     content: "";
+//     position: absolute;
+//     left: 0;
+//     right: 0;
+//     top: 0;
+//     bottom: 0;
+//   }
+// `;
 
 export const pageQuery = graphql`
   query PostBySlug($slug: String!, $prevSlug: String, $nextSlug: String) {

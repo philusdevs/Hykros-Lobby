@@ -128,7 +128,7 @@ const SimulacraTemplate = ({ data }) => {
                       )}
                       {bottomRightOverlayImage3 && (
                         <BottomRightOverlayContainer3>
-                          <BottomRightOverlay2
+                          <BottomRightOverlay3
                             image={bottomRightOverlayImage3}
                             alt="Bottom Right Overlay 3"
                           />

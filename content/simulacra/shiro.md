@@ -23,7 +23,7 @@ Chakram of the Seas
 </p>
 
 <center>
-Attack: 19 | HP: 1165 | Crit: 13 | S: 10.00 | C: B 6.00
+Attack: 19 | HP: 1165 | Crit: 13 | S: 10.00 | C: 6.00
 </center>
 
 <br />

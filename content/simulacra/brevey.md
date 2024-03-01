@@ -1,6 +1,6 @@
 ---
 title: 'Brevey'
-date: 2024-01-21
+date: 2024-01-09
 tags: [SSR, Volt, Frost]
 social_image: '/media/tab_brevey.png'
 description: Brevey, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Pactcrest ☆ Metz.
@@ -21,7 +21,7 @@ description: Brevey, featured as an obtainable SSR Simulacrum within the simulac
     <img src="https://telegra.ph/file/e24ada65aded1e15fead6.png" alt="Centered Image">
 </p>
 
-<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 12 | C: 10 </center>
+<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 12.00 | C: 10.00 </center>
 
 <br />
 

@@ -22,7 +22,7 @@ description: Rubilia, featured as an obtainable SSR Simulacrum within the simula
     <img src="https://telegra.ph/file/dc10128262fa1cafb115d.png" alt="Centered Image">
 </p>
 
-<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 10.00 | C: 12.00</center>
+<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 10.00 | C: 12.00 </center>
 
 <br />
 

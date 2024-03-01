@@ -21,7 +21,7 @@ description: Plotti, featured as an obtainable SSR Simulacrum within the simulac
     <img src="https://static.wikia.nocookie.net/toweroffantasy/images/e/e0/Icon_Weapon_EP-7000_Skyfire.png" alt="Centered Image">
 </p>
 
-<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 14 | C: 12 </center>
+<center> Attack: 18 | HP: 1165 | Crit: 14 | S: 14.00 | C: 12.00 </center>
 
 <br />
 

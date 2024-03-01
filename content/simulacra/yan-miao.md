@@ -20,7 +20,7 @@ description: Yan Miao, featured as an obtainable SSR Simulacrum within the simul
     <img src="https://telegra.ph/file/e54308ba85772a6b8f346.png" alt="Centered Image">
 </p>
 
-<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 16 | C: 12 </center>
+<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 16.00 | C: 12.00 </center>
 
 <br />
 

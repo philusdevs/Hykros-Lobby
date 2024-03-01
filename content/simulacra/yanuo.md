@@ -2,8 +2,7 @@
 title: 'Yanuo'
 date: 2024-02-20
 tags: [SSR, Frost, Volt]
-# social_image: '/media/tab_yanuo.png'
-social_image: '/media/tab_plotti.png'
+social_image: '/media/tab_yanuo.png'
 description: Yanui, featured as an obtainable SSR Simulacrum within the simulacrum system, associated with the weapon Wicked
 ---
 
@@ -22,7 +21,7 @@ description: Yanui, featured as an obtainable SSR Simulacrum within the simulacr
     <img src="https://static.wikia.nocookie.net/toweroffantasy/images/1/17/Icon_Weapon_Wicked.png" alt="Centered Image">
 </p>
 
-<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 16 | C: 12 </center>
+<center> Attack: 19 | HP: 1165 | Crit: 13 | S: 16.00 | C: 12.00 </center>
 
 <br />
 

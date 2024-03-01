@@ -2,15 +2,15 @@ import React, { useState, useEffect } from "react";
 import { Helmet } from "react-helmet";
 import { TextField, InputAdornment, IconButton } from "@material-ui/core";
 import { Search as SearchIcon } from "@material-ui/icons";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import PostList from "../components/post-list";
-import StyledLink from "../components/styled-link";
+// import StyledLink from "../components/styled-link";
 import styled from "styled-components";
 
 const HomePage = ({ data }) => {
   const [searchQuery, setSearchQuery] = useState("");
-  const [isDarkMode, setIsDarkMode] = useState(false);
+  const isDarkMode = false;
   const [stylesLoaded, setStylesLoaded] = useState(false);
 
   useEffect(() => {
