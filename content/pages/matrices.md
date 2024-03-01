@@ -3,12 +3,10 @@ title: Matrices
 template: matrice-template
 matrice:
     - name: Asuka
-      # icon: /media/Yanuo_m.png
-      icon: /media/Plotti_m.png
+      icon: /media/Asuka_m.png
       cntag: /media/CN.png
     - name: Yanuo
-      # icon: /media/Yanuo_m.png
-      icon: /media/Plotti_m.png
+      icon: /media/Yanuo_m.png
       cntag: null
     - name: Plotti
       icon: /media/Plotti_m.png
@@ -38,10 +36,10 @@ matrice:
       icon: /media/yu_lan_m.png
       cntag: null
     - name: Liu Huo
-      icon: /media/liu_huo_m.png
+      icon: /media/Liu_Huo_m.png
       cntag: null
     - name: Rubilia
-      icon: /media/rubilia_m.png
+      icon: /media/Rubilia_m.png
       cntag: null
     - name: Gnonno
       icon: /media/Gnonno_m.png

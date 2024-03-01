@@ -3,16 +3,14 @@ title: 'Simulacra'
 template: 'simulacra-template'
 simulacra:
     - name: Asuka
-      # icon: /media/Asuka.png
-      icon: /media/Plotti.png
+      icon: /media/Asuka.png
       gradientColor: Physical
       bottomLeftOverlay: /media/SSR.png
       bottomRightOverlay: /media/Element_PhysicalFlame.png
       bottomRightOverlay2: /media/Fort.png
       bottomRightOverlay3: /media/CN.png
     - name: Yanuo
-      # icon: /media/Yanuo.png
-      icon: /media/Plotti.png
+      icon: /media/Yanuo.png
       gradientColor: Frost
       bottomLeftOverlay: /media/SSR.png
       bottomRightOverlay: /media/Element_FrostVolt.png
